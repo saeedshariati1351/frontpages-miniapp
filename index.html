@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>صفحهٔ اول روزنامه‌های جهان</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: var(--tg-theme-bg-color, #f6f3ee);
+    --card: var(--tg-theme-secondary-bg-color, #ffffff);
+    --text: var(--tg-theme-text-color, #1d1b18);
+    --muted: var(--tg-theme-hint-color, #7a746b);
+    --accent: var(--tg-theme-button-color, #a3261f);
+    --accent-text: var(--tg-theme-button-text-color, #ffffff);
+    --link: var(--tg-theme-link-color, #a3261f);
+    --line: color-mix(in srgb, var(--text) 12%, transparent);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: var(--tg-theme-bg-color, #17161a); --card: var(--tg-theme-secondary-bg-color, #222126);
+      --text: var(--tg-theme-text-color, #ece8e1); --muted: var(--tg-theme-hint-color, #9a948b);
+      --accent: var(--tg-theme-button-color, #e0574d); --link: var(--tg-theme-link-color, #ef7b72);
+    }
+  }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { margin: 0; background: var(--bg); color: var(--text); }
+  body { font-family: "Vazirmatn", Tahoma, sans-serif; font-size: 15px; line-height: 1.7; padding-bottom: env(safe-area-inset-bottom); }
+  a { color: inherit; text-decoration: none; }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 0 16px 32px; }
+
+  /* masthead */
+  header.mast { text-align: center; padding: 22px 0 14px; border-bottom: 3px double var(--line); }
+  .mast .kicker { font-size: 12px; letter-spacing: .5px; color: var(--accent); font-weight: 700; }
+  .mast h1 { margin: 2px 0 4px; font-size: 26px; font-weight: 800; line-height: 1.35; }
+  .mast .date { color: var(--muted); font-size: 13px; display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap; }
+  .mast select { font: inherit; font-size: 13px; color: var(--text); background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 2px 8px; }
+
+  /* country filter */
+  nav.chips { display: flex; gap: 8px; overflow-x: auto; padding: 12px 0; scrollbar-width: none; position: sticky; top: 0; background: var(--bg); z-index: 5; }
+  nav.chips::-webkit-scrollbar { display: none; }
+  .chip { flex: none; border: 1px solid var(--line); background: var(--card); color: var(--text); border-radius: 999px; padding: 4px 12px; font: inherit; font-size: 13px; cursor: pointer; white-space: nowrap; }
+  .chip.on { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+
+  /* grid */
+  section.country h2 { font-size: 15px; font-weight: 800; margin: 18px 0 10px; display: flex; align-items: center; gap: 8px; }
+  section.country h2::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+  .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  @media (min-width: 560px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+  @media (min-width: 820px) { .grid { grid-template-columns: repeat(4, 1fr); } }
+  .card { background: var(--card); border-radius: 10px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); display: flex; flex-direction: column; transition: transform .15s; }
+  .card:active { transform: scale(.98); }
+  .card .cover { aspect-ratio: 3 / 4; background: color-mix(in srgb, var(--text) 6%, transparent); overflow: hidden; }
+  .card img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
+  .card .cap { padding: 7px 10px 9px; }
+  .card .name { font-weight: 700; font-size: 14px; line-height: 1.4; }
+  .card .count { font-size: 12px; color: var(--muted); }
+
+  /* paper page */
+  .paper-head { display: flex; align-items: center; gap: 10px; padding: 16px 0 8px; }
+  .back { border: 0; background: var(--card); color: var(--text); width: 36px; height: 36px; border-radius: 50%; font-size: 18px; cursor: pointer; flex: none; }
+  .paper-head h1 { margin: 0; font-size: 21px; font-weight: 800; line-height: 1.4; }
+  .paper-head .sub { color: var(--muted); font-size: 12.5px; }
+  .paper-cover { display: block; border-radius: 10px; overflow: hidden; margin: 8px 0 4px; box-shadow: 0 1px 4px rgba(0,0,0,.1); }
+  .paper-cover img { width: 100%; display: block; max-height: 320px; object-fit: cover; object-position: top; }
+  @media (min-width: 720px) { .paper-cover img { max-height: none; } }
+  .cover-note { font-size: 12px; color: var(--muted); text-align: center; margin-bottom: 8px; }
+  .cover-note a { color: var(--link); }
+  @media (min-width: 720px) {
+    .paper-body { display: grid; grid-template-columns: 300px 1fr; gap: 24px; align-items: start; }
+    .paper-side { position: sticky; top: 12px; }
+  }
+  h3.hl-title { font-size: 14px; color: var(--accent); margin: 12px 0 4px; font-weight: 800; }
+  ol.hl { list-style: none; margin: 0; padding: 0; counter-reset: h; }
+  ol.hl li { counter-increment: h; border-bottom: 1px solid var(--line); }
+  ol.hl a { display: grid; grid-template-columns: 28px 1fr 16px; gap: 6px; padding: 12px 0; align-items: start; }
+  ol.hl a::before { content: counter(h, persian); font-weight: 800; color: var(--accent); font-size: 17px; line-height: 1.5; }
+  .hl .fa { font-weight: 700; font-size: 16px; line-height: 1.65; }
+  .hl .o { font-size: 12.5px; color: var(--muted); unicode-bidi: plaintext; text-align: start; margin-top: 2px; line-height: 1.5; }
+  .hl .go { color: var(--muted); font-size: 14px; padding-top: 4px; }
+  .empty { color: var(--muted); padding: 24px 0; text-align: center; }
+  footer { margin-top: 28px; color: var(--muted); font-size: 12px; text-align: center; line-height: 1.8; }
+  .loading { text-align: center; color: var(--muted); padding: 60px 0; }
+</style>
+</head>
+<body>
+<div class="wrap" id="app"><div class="loading">در حال بارگذاری…</div></div>
+
+<script>
+const tg = window.Telegram && window.Telegram.WebApp;
+if (tg && tg.initData !== undefined) { try { tg.ready(); tg.expand(); } catch (e) {} }
+const app = document.getElementById('app');
+const cache = {};
+let index = [], current = null, filter = 'همه';
+const fa = n => String(n).replace(/\d/g, d => '۰۱۲۳۴۵۶۷۸۹'[d]);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+function openExternal(url) {
+  if (tg && tg.openLink && tg.initData) tg.openLink(url); else window.open(url, '_blank', 'noopener');
+}
+
+async function load(date) {
+  const file = date ? `data/${date}.json` : 'data/latest.json';
+  if (!cache[file]) {
+    const r = await fetch(file + '?v=' + Date.now().toString().slice(0, -5));
+    if (!r.ok) throw new Error('no data');
+    cache[file] = await r.json();
+  }
+  return cache[file];
+}
+
+function renderHome(d) {
+  const countries = ['همه', ...d.countries.map(c => c.name)];
+  const opts = index.length > 1
+    ? `<select id="day">${index.map(e => `<option value="${e.date}" ${e.date === d.date ? 'selected' : ''}>${esc(e.date_fa)}</option>`).join('')}</select>`
+    : `<span>${esc(d.date_fa)}</span>`;
+  app.innerHTML = `
+    <header class="mast">
+      <div class="kicker">مرور مطبوعات</div>
+      <h1>صفحهٔ اول روزنامه‌های جهان</h1>
+      <div class="date">${opts}</div>
+    </header>
+    <nav class="chips">${countries.map(c => `<button class="chip ${c === filter ? 'on' : ''}" data-c="${esc(c)}">${esc(c)}</button>`).join('')}</nav>
+    ${d.countries.filter(c => filter === 'همه' || c.name === filter).map(c => `
+      <section class="country">
+        <h2>${c.flag} ${esc(c.name)}</h2>
+        <div class="grid">${c.papers.map(p => `
+          <a class="card" href="#/p/${p.slug}${d === cache['data/latest.json'] ? '' : '@' + d.date}">
+            <div class="cover"><img loading="lazy" src="${p.img}" alt="صفحهٔ اول ${esc(p.fa)}"></div>
+            <div class="cap"><div class="name">${esc(p.fa)}</div><div class="count">${fa(p.headlines.length)} تیتر</div></div>
+          </a>`).join('')}
+        </div>
+      </section>`).join('')}
+    <footer>تصویر صفحه‌های اول از frontpages.com · ترجمهٔ تیترها به فارسی<br>با لمس هر روزنامه، تیترهای آن را ببینید.</footer>`;
+  app.querySelectorAll('.chip').forEach(b => b.onclick = () => { filter = b.dataset.c; renderHome(d); });
+  const sel = document.getElementById('day');
+  if (sel) sel.onchange = () => { location.hash = sel.value === index[0].date ? '#/' : '#/d/' + sel.value; };
+  if (tg && tg.BackButton) tg.BackButton.hide();
+}
+
+function renderPaper(d, slug) {
+  let paper, country;
+  for (const c of d.countries) for (const p of c.papers) if (p.slug === slug) { paper = p; country = c; }
+  if (!paper) { location.hash = '#/'; return; }
+  const host = new URL(paper.site).host.replace('www.', '');
+  app.innerHTML = `
+    <div class="paper-head">
+      <button class="back" aria-label="بازگشت">→</button>
+      <div><h1>${esc(paper.fa)}</h1><div class="sub">${country.flag} <bdi>${esc(paper.name)}</bdi> · ${esc(d.date_fa)}</div></div>
+    </div>
+    <div class="paper-body">
+      <div class="paper-side">
+        <a class="paper-cover" href="${paper.source || paper.site}" data-ext><img src="${paper.img}" alt="صفحهٔ اول ${esc(paper.fa)}"></a>
+        <div class="cover-note">بخش بالای صفحهٔ اول · <a href="${paper.source || paper.site}" data-ext>دیدن کامل صفحه</a></div>
+      </div>
+      <div>
+        <h3 class="hl-title">تیترهای صفحهٔ اول</h3>
+        ${paper.headlines.length ? `<ol class="hl">${paper.headlines.map(h => `
+          <li><a href="${esc(h.url)}" data-ext>
+            <div><div class="fa">${esc(h.fa)}</div><div class="o" dir="auto">${esc(h.o)}</div></div>
+            <span class="go">↖</span></a></li>`).join('')}</ol>` : '<div class="empty">تیترهای این روزنامه هنوز آماده نشده است.</div>'}
+        <footer>با لمس هر تیتر، مطلب اصلی در سایت ${esc(host)} باز می‌شود.</footer>
+      </div>
+    </div>`;
+  window.scrollTo(0, 0);
+  const goBack = () => { if (history.length > 1) history.back(); else location.hash = '#/'; };
+  app.querySelector('.back').onclick = goBack;
+  if (tg && tg.BackButton && tg.initData) { tg.BackButton.show(); tg.BackButton.offClick(goBack); tg.BackButton.onClick(goBack); }
+  app.querySelectorAll('[data-ext]').forEach(a => a.onclick = e => { e.preventDefault(); openExternal(a.href); });
+}
+
+async function route() {
+  const h = location.hash;
+  try {
+    if (!index.length) { try { index = await (await fetch('data/index.json?v=' + Date.now())).json(); } catch (e) {} }
+    let m;
+    if ((m = h.match(/^#\/p\/([\w-]+)(?:@(\d{4}-\d{2}-\d{2}))?/))) renderPaper(await load(m[2]), m[1]);
+    else if ((m = h.match(/^#\/d\/(\d{4}-\d{2}-\d{2})/))) renderHome(await load(m[1]));
+    else { const d = await load(); cache['data/latest.json'] = d; renderHome(d); }
+  } catch (e) {
+    app.innerHTML = '<div class="loading">داده‌های امروز هنوز آماده نیست. کمی بعد دوباره سر بزنید.</div>';
+  }
+}
+window.addEventListener('hashchange', route);
+route();
+</script>
+</body>
+</html>

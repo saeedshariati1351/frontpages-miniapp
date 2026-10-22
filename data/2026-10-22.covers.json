@@ -1,0 +1,142 @@
+{
+ "the-new-york-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-new-york-times/"
+ },
+ "the-washington-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-washington-post/"
+ },
+ "usa-today": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/usa-today/"
+ },
+ "los-angeles-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/los-angeles-times/"
+ },
+ "financial-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/financial-times/"
+ },
+ "city-am": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/city-am/"
+ },
+ "the-herald-scotland": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-herald-scotland/"
+ },
+ "the-national-scotland": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-national-scotland/"
+ },
+ "le-figaro": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/le-figaro/"
+ },
+ "liberation": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/liberation/"
+ },
+ "le-parisien": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/le-parisien/"
+ },
+ "les-echos": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/les-echos/"
+ },
+ "frankfurter-allgemeine-zeitung": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/frankfurter-allgemeine-zeitung/"
+ },
+ "suddeutsche-zeitung": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/suddeutsche-zeitung/"
+ },
+ "die-welt": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/die-welt/"
+ },
+ "bild": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/bild/"
+ },
+ "handelsblatt": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/handelsblatt/"
+ },
+ "china-daily": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/china-daily/"
+ },
+ "global-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/global-times/"
+ },
+ "people-s-daily": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/people-s-daily/"
+ },
+ "south-china-morning-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/south-china-morning-post/"
+ },
+ "the-japan-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-japan-times/"
+ },
+ "yomiuri-shinbun": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/yomiuri-shinbun/"
+ },
+ "mainichi-shinbun": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/mainichi-shinbun/"
+ },
+ "gulf-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/gulf-news/"
+ },
+ "khaleej-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/khaleej-times/"
+ },
+ "the-national-abu-dhabi": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-national-abu-dhabi/"
+ },
+ "hurriyet": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/hurriyet/"
+ }
+}

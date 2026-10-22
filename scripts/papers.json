@@ -1,0 +1,52 @@
+[
+  {"country": "آمریکا", "flag": "🇺🇸", "papers": [
+    {"slug": "the-new-york-times", "name": "The New York Times", "fa": "نیویورک تایمز", "site": "https://www.nytimes.com"},
+    {"slug": "the-washington-post", "name": "The Washington Post", "fa": "واشنگتن پست", "site": "https://www.washingtonpost.com"},
+    {"slug": "the-wall-street-journal", "name": "The Wall Street Journal", "fa": "وال‌استریت ژورنال", "site": "https://www.wsj.com"},
+    {"slug": "usa-today", "name": "USA Today", "fa": "یو‌اس‌ای تودی", "site": "https://www.usatoday.com"},
+    {"slug": "los-angeles-times", "name": "Los Angeles Times", "fa": "لس‌آنجلس تایمز", "site": "https://www.latimes.com"}
+  ]},
+  {"country": "بریتانیا", "flag": "🇬🇧", "papers": [
+    {"slug": "financial-times", "name": "Financial Times", "fa": "فایننشال تایمز", "site": "https://www.ft.com"},
+    {"slug": "city-am", "name": "City A.M.", "fa": "سیتی اِی‌اِم", "site": "https://www.cityam.com"},
+    {"slug": "morning-star", "name": "Morning Star", "fa": "مورنینگ استار", "site": "https://morningstaronline.co.uk"},
+    {"slug": "the-herald-scotland", "name": "The Herald", "fa": "هرالد (اسکاتلند)", "site": "https://www.heraldscotland.com"},
+    {"slug": "the-national-scotland", "name": "The National", "fa": "نشنال (اسکاتلند)", "site": "https://www.thenational.scot"}
+  ]},
+  {"country": "فرانسه", "flag": "🇫🇷", "papers": [
+    {"slug": "le-monde", "name": "Le Monde", "fa": "لوموند", "site": "https://www.lemonde.fr"},
+    {"slug": "le-figaro", "name": "Le Figaro", "fa": "لوفیگارو", "site": "https://www.lefigaro.fr"},
+    {"slug": "liberation", "name": "Libération", "fa": "لیبراسیون", "site": "https://www.liberation.fr"},
+    {"slug": "le-parisien", "name": "Le Parisien", "fa": "لوپاریزین", "site": "https://www.leparisien.fr"},
+    {"slug": "les-echos", "name": "Les Échos", "fa": "لزاکو", "site": "https://www.lesechos.fr"}
+  ]},
+  {"country": "آلمان", "flag": "🇩🇪", "papers": [
+    {"slug": "frankfurter-allgemeine-zeitung", "name": "Frankfurter Allgemeine", "fa": "فرانکفورتر آلگماینه", "site": "https://www.faz.net"},
+    {"slug": "suddeutsche-zeitung", "name": "Süddeutsche Zeitung", "fa": "زوددویچه تسایتونگ", "site": "https://www.sueddeutsche.de"},
+    {"slug": "die-welt", "name": "Die Welt", "fa": "دی ولت", "site": "https://www.welt.de"},
+    {"slug": "bild", "name": "Bild", "fa": "بیلد", "site": "https://www.bild.de"},
+    {"slug": "handelsblatt", "name": "Handelsblatt", "fa": "هندلسبلات", "site": "https://www.handelsblatt.com"}
+  ]},
+  {"country": "چین", "flag": "🇨🇳", "papers": [
+    {"slug": "china-daily", "name": "China Daily", "fa": "چاینا دیلی", "site": "https://www.chinadaily.com.cn"},
+    {"slug": "global-times", "name": "Global Times", "fa": "گلوبال تایمز", "site": "https://www.globaltimes.cn"},
+    {"slug": "people-s-daily", "name": "People's Daily", "fa": "روزنامهٔ خلق", "site": "http://paper.people.com.cn"},
+    {"slug": "south-china-morning-post", "name": "South China Morning Post", "fa": "ساوت چاینا مورنینگ پست", "site": "https://www.scmp.com"}
+  ]},
+  {"country": "ژاپن", "flag": "🇯🇵", "papers": [
+    {"slug": "the-japan-times", "name": "The Japan Times", "fa": "جاپان تایمز", "site": "https://www.japantimes.co.jp"},
+    {"slug": "yomiuri-shinbun", "name": "Yomiuri Shimbun", "fa": "یومیوری شیمبون", "site": "https://www.yomiuri.co.jp"},
+    {"slug": "mainichi-shinbun", "name": "Mainichi Shimbun", "fa": "ماینیچی شیمبون", "site": "https://mainichi.jp"}
+  ]},
+  {"country": "عربستان سعودی", "flag": "🇸🇦", "papers": [
+    {"slug": "arab-news", "name": "Arab News", "fa": "عرب نیوز", "site": "https://www.arabnews.com"}
+  ]},
+  {"country": "امارات", "flag": "🇦🇪", "papers": [
+    {"slug": "gulf-news", "name": "Gulf News", "fa": "گلف نیوز", "site": "https://gulfnews.com"},
+    {"slug": "khaleej-times", "name": "Khaleej Times", "fa": "خلیج تایمز", "site": "https://www.khaleejtimes.com"},
+    {"slug": "the-national-abu-dhabi", "name": "The National", "fa": "نشنال (ابوظبی)", "site": "https://www.thenationalnews.com"}
+  ]},
+  {"country": "ترکیه", "flag": "🇹🇷", "papers": [
+    {"slug": "hurriyet", "name": "Hürriyet", "fa": "حریت", "site": "https://www.hurriyet.com.tr"}
+  ]}
+]
