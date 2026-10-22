@@ -1,6 +1,17 @@
 [
  {
   "date": "2026-10-22",
-  "date_fa": "پنجشنبه ۳۰ مهر ۱۴۰۵"
+  "date_fa": "پنجشنبه ۳۰ مهر ۱۴۰۵",
+  "month_fa": "مهر ۱۴۰۵",
+  "jm": "1405-07",
+  "day_fa": "۳۰",
+  "weekday_fa": "پنجشنبه",
+  "papers": 28,
+  "headlines": 153,
+  "thumbs": [
+   "covers/2026-10-22/the-new-york-times.jpg",
+   "covers/2026-10-22/the-washington-post.jpg",
+   "covers/2026-10-22/usa-today.jpg"
+  ]
  }
 ]

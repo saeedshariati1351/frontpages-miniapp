@@ -16,6 +16,7 @@
 python3 scripts/fetch_covers.py 2026-10-22
 # نوشتن headlines/2026-10-22.json
 python3 scripts/build_data.py 2026-10-22
+python3 scripts/archive_shrink.py 2026-10-22   # روزهای قدیمی‌تر از ۳۰ روز سبک می‌شوند؛ هیچ روزی حذف نمی‌شود
 git add -A && git commit -m "2026-10-22" && git push
 ```
 

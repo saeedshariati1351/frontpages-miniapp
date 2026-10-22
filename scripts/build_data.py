@@ -73,7 +73,15 @@ def main():
     # archive index
     ipath = os.path.join(ROOT, "data", "index.json")
     idx = json.load(open(ipath, encoding="utf-8")) if os.path.exists(ipath) else []
-    idx = [e for e in idx if e["date"] != date] + [{"date": date, "date_fa": out["date_fa"]}]
+    d = datetime.date.fromisoformat(date)
+    jy, jm, jd = to_jalali(d.year, d.month, d.day)
+    allp = [p for c in out["countries"] for p in c["papers"]]
+    entry = {"date": date, "date_fa": out["date_fa"],
+             "month_fa": f"{MONTHS[jm - 1]} {jy}".translate(FA_DIGITS), "jm": f"{jy}-{jm:02d}",
+             "day_fa": str(jd).translate(FA_DIGITS), "weekday_fa": WEEKDAYS[d.weekday()],
+             "papers": len(allp), "headlines": sum(len(p["headlines"]) for p in allp),
+             "thumbs": [p["img"] for p in allp[:3]]}
+    idx = [e for e in idx if e["date"] != date] + [entry]
     idx.sort(key=lambda e: e["date"], reverse=True)
     json.dump(idx, open(ipath, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     n = sum(len(c["papers"]) for c in out["countries"])

@@ -83,6 +83,30 @@
   .empty { color: var(--muted); padding: 24px 0; text-align: center; }
   footer { margin-top: 28px; color: var(--muted); font-size: 12px; text-align: center; line-height: 1.8; }
   .loading { text-align: center; color: var(--muted); padding: 60px 0; }
+  /* day navigation + archive */
+  .daynav { display: flex; align-items: center; justify-content: center; gap: 10px; color: var(--muted); font-size: 13.5px; }
+  .daynav .step { width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; background: var(--card); border: 1px solid var(--line); color: var(--text); font-size: 15px; }
+  .daynav .step.off { opacity: .3; pointer-events: none; }
+  .archive-btn { display: inline-block; margin-top: 10px; font-size: 13px; font-weight: 700; color: var(--accent); border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent); border-radius: 999px; padding: 3px 14px; }
+  .past { margin-top: 12px; background: color-mix(in srgb, var(--accent) 12%, var(--card)); border-radius: 10px; padding: 8px 12px; font-size: 13px; text-align: center; }
+  .past a { color: var(--link); font-weight: 700; }
+  a.back { display: grid; place-items: center; text-decoration: none; }
+  section.month h2 { font-size: 15px; font-weight: 800; margin: 18px 0 10px; display: flex; align-items: center; gap: 8px; }
+  section.month h2::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+  .days { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  @media (min-width: 560px) { .days { grid-template-columns: repeat(3, 1fr); } }
+  @media (min-width: 820px) { .days { grid-template-columns: repeat(4, 1fr); } }
+  .day { background: var(--card); border-radius: 10px; padding: 10px 12px 12px; box-shadow: 0 1px 3px rgba(0,0,0,.08); display: flex; flex-direction: column; }
+  .day.is-today { outline: 2px solid var(--accent); outline-offset: -2px; }
+  .day .stack { position: relative; height: 92px; margin-bottom: 8px; }
+  .day .stack img { position: absolute; top: 0; width: 56%; height: 88px; object-fit: cover; object-position: top; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,.18); background: #fff; }
+  .day .stack img:nth-child(1) { right: 0; z-index: 3; }
+  .day .stack img:nth-child(2) { right: 22%; transform: rotate(-4deg); z-index: 2; }
+  .day .stack img:nth-child(3) { right: 44%; transform: rotate(-8deg); z-index: 1; }
+  .day .dnum { font-size: 26px; font-weight: 800; line-height: 1.2; }
+  .day .dname { font-size: 13px; font-weight: 700; }
+  .day .dmeta { font-size: 11.5px; color: var(--muted); }
+  .loading a { color: var(--link); }
 </style>
 </head>
 <body>
@@ -90,15 +114,27 @@
 
 <script>
 const tg = window.Telegram && window.Telegram.WebApp;
-if (tg && tg.initData !== undefined) { try { tg.ready(); tg.expand(); } catch (e) {} }
+const inTg = !!(tg && tg.initData);
+if (tg) { try { tg.ready(); tg.expand(); } catch (e) {} }
 const app = document.getElementById('app');
 const cache = {};
-let index = [], current = null, filter = 'همه';
+let index = [], filter = 'همه';
 const fa = n => String(n).replace(/\d/g, d => '۰۱۲۳۴۵۶۷۸۹'[d]);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const latestDate = () => index.length ? index[0].date : null;
+const dayHash = date => (!date || date === latestDate()) ? '#/' : '#/d/' + date;
 
 function openExternal(url) {
-  if (tg && tg.openLink && tg.initData) tg.openLink(url); else window.open(url, '_blank', 'noopener');
+  if (inTg && tg.openLink) tg.openLink(url); else window.open(url, '_blank', 'noopener');
+}
+
+let backHandler = null;
+function setBack(target) {
+  if (!inTg || !tg.BackButton) return;
+  if (backHandler) tg.BackButton.offClick(backHandler);
+  if (!target) { backHandler = null; tg.BackButton.hide(); return; }
+  backHandler = () => { location.hash = target; };
+  tg.BackButton.onClick(backHandler); tg.BackButton.show();
 }
 
 async function load(date) {
@@ -112,22 +148,29 @@ async function load(date) {
 }
 
 function renderHome(d) {
+  const isToday = !latestDate() || d.date === latestDate();
+  const i = index.findIndex(e => e.date === d.date);
+  const older = i >= 0 ? index[i + 1] : null, newer = i > 0 ? index[i - 1] : null;
   const countries = ['همه', ...d.countries.map(c => c.name)];
-  const opts = index.length > 1
-    ? `<select id="day">${index.map(e => `<option value="${e.date}" ${e.date === d.date ? 'selected' : ''}>${esc(e.date_fa)}</option>`).join('')}</select>`
-    : `<span>${esc(d.date_fa)}</span>`;
+  if (!countries.includes(filter)) filter = 'همه';
   app.innerHTML = `
     <header class="mast">
       <div class="kicker">مرور مطبوعات</div>
       <h1>صفحهٔ اول روزنامه‌های جهان</h1>
-      <div class="date">${opts}</div>
+      <div class="daynav">
+        <a class="step ${older ? '' : 'off'}" ${older ? `href="${dayHash(older.date)}"` : ''} aria-label="روز قبل">→</a>
+        <span class="today">${esc(d.date_fa)}</span>
+        <a class="step ${newer ? '' : 'off'}" ${newer ? `href="${dayHash(newer.date)}"` : ''} aria-label="روز بعد">←</a>
+      </div>
+      <a class="archive-btn" href="#/archive">آرشیو روزهای گذشته${index.length > 1 ? ` · ${fa(index.length)} روز` : ''}</a>
     </header>
+    ${isToday ? '' : `<div class="past">نسخهٔ آرشیوی ${esc(d.date_fa)} · <a href="#/">برگشت به امروز</a></div>`}
     <nav class="chips">${countries.map(c => `<button class="chip ${c === filter ? 'on' : ''}" data-c="${esc(c)}">${esc(c)}</button>`).join('')}</nav>
     ${d.countries.filter(c => filter === 'همه' || c.name === filter).map(c => `
       <section class="country">
         <h2>${c.flag} ${esc(c.name)}</h2>
         <div class="grid">${c.papers.map(p => `
-          <a class="card" href="#/p/${p.slug}${d === cache['data/latest.json'] ? '' : '@' + d.date}">
+          <a class="card" href="#/p/${p.slug}${isToday ? '' : '@' + d.date}">
             <div class="cover"><img loading="lazy" src="${p.img}" alt="صفحهٔ اول ${esc(p.fa)}"></div>
             <div class="cap"><div class="name">${esc(p.fa)}</div><div class="count">${fa(p.headlines.length)} تیتر</div></div>
           </a>`).join('')}
@@ -135,19 +178,47 @@ function renderHome(d) {
       </section>`).join('')}
     <footer>تصویر صفحه‌های اول از frontpages.com · ترجمهٔ تیترها به فارسی<br>با لمس هر روزنامه، تیترهای آن را ببینید.</footer>`;
   app.querySelectorAll('.chip').forEach(b => b.onclick = () => { filter = b.dataset.c; renderHome(d); });
-  const sel = document.getElementById('day');
-  if (sel) sel.onchange = () => { location.hash = sel.value === index[0].date ? '#/' : '#/d/' + sel.value; };
-  if (tg && tg.BackButton) tg.BackButton.hide();
+  setBack(isToday ? null : '#/archive');
+}
+
+function renderArchive() {
+  const months = [];
+  for (const e of index) {
+    let m = months[months.length - 1];
+    if (!m || m.key !== (e.jm || e.date.slice(0, 7))) months.push(m = { key: e.jm || e.date.slice(0, 7), name: e.month_fa || '', days: [] });
+    m.days.push(e);
+  }
+  app.innerHTML = `
+    <div class="paper-head">
+      <a class="back" href="#/" aria-label="بازگشت">→</a>
+      <div><h1>آرشیو</h1><div class="sub">${fa(index.length)} روز · صفحه‌های اول همهٔ روزهای گذشته</div></div>
+    </div>
+    ${index.length ? months.map(m => `
+      <section class="month">
+        <h2>${esc(m.name)}</h2>
+        <div class="days">${m.days.map(e => `
+          <a class="day ${e.date === latestDate() ? 'is-today' : ''}" href="${dayHash(e.date)}">
+            <div class="stack">${(e.thumbs || []).map(t => `<img loading="lazy" src="${t}" alt="">`).join('')}</div>
+            <div class="dnum">${esc(e.day_fa || '')}</div>
+            <div class="dname">${esc(e.weekday_fa || e.date_fa)}${e.date === latestDate() ? ' · امروز' : ''}</div>
+            <div class="dmeta">${e.papers ? `${fa(e.papers)} روزنامه · ${fa(e.headlines)} تیتر` : ''}</div>
+          </a>`).join('')}
+        </div>
+      </section>`).join('') : '<div class="empty">هنوز روزی در آرشیو نیست.</div>'}
+    <footer>هر روز صبح نسخهٔ تازه اضافه می‌شود و روزهای گذشته در آرشیو می‌مانند.</footer>`;
+  window.scrollTo(0, 0);
+  setBack('#/');
 }
 
 function renderPaper(d, slug) {
   let paper, country;
   for (const c of d.countries) for (const p of c.papers) if (p.slug === slug) { paper = p; country = c; }
-  if (!paper) { location.hash = '#/'; return; }
+  if (!paper) { location.hash = dayHash(d.date); return; }
   const host = new URL(paper.site).host.replace('www.', '');
+  const back = dayHash(d.date);
   app.innerHTML = `
     <div class="paper-head">
-      <button class="back" aria-label="بازگشت">→</button>
+      <a class="back" href="${back}" aria-label="بازگشت">→</a>
       <div><h1>${esc(paper.fa)}</h1><div class="sub">${country.flag} <bdi>${esc(paper.name)}</bdi> · ${esc(d.date_fa)}</div></div>
     </div>
     <div class="paper-body">
@@ -165,9 +236,7 @@ function renderPaper(d, slug) {
       </div>
     </div>`;
   window.scrollTo(0, 0);
-  const goBack = () => { if (history.length > 1) history.back(); else location.hash = '#/'; };
-  app.querySelector('.back').onclick = goBack;
-  if (tg && tg.BackButton && tg.initData) { tg.BackButton.show(); tg.BackButton.offClick(goBack); tg.BackButton.onClick(goBack); }
+  setBack(back);
   app.querySelectorAll('[data-ext]').forEach(a => a.onclick = e => { e.preventDefault(); openExternal(a.href); });
 }
 
@@ -176,11 +245,12 @@ async function route() {
   try {
     if (!index.length) { try { index = await (await fetch('data/index.json?v=' + Date.now())).json(); } catch (e) {} }
     let m;
-    if ((m = h.match(/^#\/p\/([\w-]+)(?:@(\d{4}-\d{2}-\d{2}))?/))) renderPaper(await load(m[2]), m[1]);
-    else if ((m = h.match(/^#\/d\/(\d{4}-\d{2}-\d{2})/))) renderHome(await load(m[1]));
-    else { const d = await load(); cache['data/latest.json'] = d; renderHome(d); }
+    if (h.startsWith('#/archive')) renderArchive();
+    else if ((m = h.match(/^#\/p\/([\w-]+)(?:@(\d{4}-\d{2}-\d{2}))?/))) renderPaper(await load(m[2]), m[1]);
+    else if ((m = h.match(/^#\/d\/(\d{4}-\d{2}-\d{2})/))) { renderHome(await load(m[1])); window.scrollTo(0, 0); }
+    else renderHome(await load());
   } catch (e) {
-    app.innerHTML = '<div class="loading">داده‌های امروز هنوز آماده نیست. کمی بعد دوباره سر بزنید.</div>';
+    app.innerHTML = '<div class="loading">این روز در آرشیو پیدا نشد. <a href="#/">برگشت به امروز</a></div>';
   }
 }
 window.addEventListener('hashchange', route);
