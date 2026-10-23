@@ -247,6 +247,108 @@
      ]
     },
     {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-10-23/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "State cracks down on nursing home operators",
+       "fa": "ایالت بر گردانندگان خانه‌های سالمندان سخت می‌گیرد",
+       "url": "https://duckduckgo.com/?q=%5CState%20cracks%20down%20on%20nursing%20home%20operators%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "In Taunton, arrival of inspectors triggers urgent messages to staff to make checks",
+       "fa": "در تانتون، ورود بازرسان پیام‌های فوری به کارکنان برای انجام بازرسی‌ها را به دنبال داشت",
+       "url": "https://duckduckgo.com/?q=%5CIn%20Taunton%2C%20arrival%20of%20inspectors%20triggers%20urgent%20messages%20to%20staff%20to%20make%20checks%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Another round of layoffs at MGB",
+       "fa": "دور تازه‌ای از اخراج‌ها در مس جنرال بریگام",
+       "url": "https://duckduckgo.com/?q=%5CAnother%20round%20of%20layoffs%20at%20MGB%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Second in under 2 years; ‘difficult but necessary’",
+       "fa": "دومین بار در کمتر از دو سال؛ «دشوار اما ضروری»",
+       "url": "https://duckduckgo.com/?q=%5CSecond%20in%20under%202%20years%3B%20%E2%80%98difficult%20but%20necessary%E2%80%99%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Scrambling for a place when life’s at stake",
+       "fa": "تقلا برای یافتن جا وقتی جان در خطر است",
+       "url": "https://duckduckgo.com/?q=%5CScrambling%20for%20a%20place%20when%20life%E2%80%99s%20at%20stake%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Help’s available for patients who need housing during treatment, but not enough",
+       "fa": "برای بیمارانی که در دوران درمان به سرپناه نیاز دارند کمک هست، اما کافی نیست",
+       "url": "https://duckduckgo.com/?q=%5CHelp%E2%80%99s%20available%20for%20patients%20who%20need%20housing%20during%20treatment%2C%20but%20not%20enough%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Cruise ships’ crew targeted on child sex exploitation",
+       "fa": "خدمهٔ کشتی‌های تفریحی هدف پیگرد بهره‌کشی جنسی از کودکان",
+       "url": "https://duckduckgo.com/?q=%5CCruise%20ships%E2%80%99%20crew%20targeted%20on%20child%20sex%20exploitation%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Some concerns raised about lack of due process",
+       "fa": "نگرانی‌هایی دربارهٔ نبود دادرسی منصفانه مطرح شده است",
+       "url": "https://duckduckgo.com/?q=%5CSome%20concerns%20raised%20about%20lack%20of%20due%20process%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-10-23/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "‘It’s been quite the year’",
+       "fa": "«سال پرماجرایی بود»",
+       "url": "https://duckduckgo.com/?q=%5C%E2%80%98It%E2%80%99s%20been%20quite%20the%20year%E2%80%99%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "12 months after ‘Broadview Six’ indictment, failed case still reverberates in federal court",
+       "fa": "۱۲ ماه پس از کیفرخواست «شش نفرِ برادویو»، پروندهٔ شکست‌خورده همچنان در دادگاه فدرال طنین‌انداز است",
+       "url": "https://duckduckgo.com/?q=%5C12%20months%20after%20%E2%80%98Broadview%20Six%E2%80%99%20indictment%2C%20failed%20case%20still%20reverberates%20in%20federal%20court%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Cook Co. proposes renewal with Tyler",
+       "fa": "شهرستان کوک تمدید قرارداد با تایلر را پیشنهاد می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CCook%20Co.%20proposes%20renewal%20with%20Tyler%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Vendor helmed troubled overhaul of property tax tech",
+       "fa": "این پیمانکار هدایت نوسازی پرمشکل فناوری مالیات بر املاک را بر عهده داشت",
+       "url": "https://duckduckgo.com/?q=%5CVendor%20helmed%20troubled%20overhaul%20of%20property%20tax%20tech%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "100-YARD ’STACHE",
+       "fa": "سبیلِ صدیاردی",
+       "url": "https://duckduckgo.com/?q=%5C100-YARD%20%E2%80%99STACHE%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-philadelphia-inquirer",
      "name": "The Philadelphia Inquirer",
      "fa": "فیلادلفیا اینکوایرر",
