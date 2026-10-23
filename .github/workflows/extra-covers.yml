@@ -9,6 +9,10 @@ on:
         description: "Dates YYYY-MM-DD separated by spaces (default: today in Tehran)"
         required: false
         default: ""
+      probe:
+        description: "Debug: URLs to inspect (nothing is fetched or committed)"
+        required: false
+        default: ""
       debug:
         description: "Print SVG debug info"
         required: false
@@ -28,6 +32,7 @@ jobs:
         run: |
           DATES="${{ github.event.inputs.dates }}"
           [ -z "$DATES" ] && DATES=$(TZ=Asia/Tehran date +%F)
+          if [ -n "${{ github.event.inputs.probe }}" ]; then python3 scripts/fetch_extra.py --probe ${{ github.event.inputs.probe }}; exit 0; fi
           python3 scripts/fetch_extra.py $DATES
         env:
           DEBUG_SVG: ${{ github.event.inputs.debug }}

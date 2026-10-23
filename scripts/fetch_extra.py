@@ -169,7 +169,27 @@ def aawsat(d):
 SOURCES = {"aawsat": aawsat}
 
 
+def probe(urls):
+    """Debug helper: print links/images that look like print editions on the given pages."""
+    for u in urls:
+        try:
+            html = get(u).decode("utf-8", "ignore")
+        except Exception as e:
+            print("PROBE", u, "->", e); continue
+        print("PROBE", u, len(html), "bytes; title:", re.findall(r"<title>(.*?)</title>", html, re.S)[:1])
+        refs = re.findall(r'(?:href|src|data-src|content)="([^"]+)"', html)
+        hits = [r for r in refs if re.search(r"pdf|issue|edition|newspaper|archive|cover|front|\.jpe?g|page", r, re.I)]
+        seen = []
+        for r in hits:
+            if r not in seen:
+                seen.append(r)
+        for r in seen[:80]:
+            print("   ", r[:200])
+
+
 def main():
+    if sys.argv[1] == "--probe":
+        return probe(sys.argv[2:])
     papers = [p for g in json.load(open(os.path.join(ROOT, "scripts", "papers.json"), encoding="utf-8"))
               for p in g["papers"] if p.get("via")]
     for date in sys.argv[1:]:
