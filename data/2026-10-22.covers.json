@@ -163,5 +163,10 @@
   "w": 900,
   "h": 1200,
   "source": "https://media.al-akhbar.com/store/archive/file/2026/10/21/037a0043-fc78-4365-80cd-4af7ef3b230d.pdf"
+ },
+ "der-spiegel": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/der-spiegel/"
  }
 }
