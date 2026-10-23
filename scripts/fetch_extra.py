@@ -8,7 +8,7 @@ Usage: python3 scripts/fetch_extra.py YYYY-MM-DD [YYYY-MM-DD ...]
 Adds covers/<date>/<slug>.jpg and merges the entry into data/<date>.covers.json.
 Existing covers are never replaced or removed.
 """
-import datetime, io, json, os, re, sys, urllib.request
+import datetime, io, json, os, re, shutil, subprocess, sys, tempfile, urllib.request
 from PIL import Image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -33,6 +33,26 @@ def pdf_first_page(data):
     doc = fitz.open(stream=data, filetype="pdf")
     pix = doc[0].get_pixmap(dpi=110)
     return Image.open(io.BytesIO(pix.tobytes("png"))).copy()
+
+
+def chrome_render(sub_url, svg_url, w, h):
+    """Draw the page background with its SVG text layer in headless Chrome (web fonts included)."""
+    exe = next((shutil.which(x) for x in ("google-chrome", "google-chrome-stable", "chromium", "chromium-browser") if shutil.which(x)), None)
+    if not exe:
+        raise RuntimeError("no chrome")
+    with tempfile.TemporaryDirectory() as d:
+        page = os.path.join(d, "p.html")
+        open(page, "w").write(f'''<!doctype html><html><body style="margin:0">
+<div style="position:relative;width:{w}px;height:{h}px">
+<img src="{sub_url}" style="position:absolute;left:0;top:0;width:{w}px;height:{h}px">
+<object data="{svg_url}" type="image/svg+xml" style="position:absolute;left:0;top:0;width:{w}px;height:{h}px"></object>
+</div></body></html>''')
+        out = os.path.join(d, "o.png")
+        subprocess.run([exe, "--headless=new", "--no-sandbox", "--disable-gpu", "--hide-scrollbars",
+                        "--allow-file-access-from-files", "--virtual-time-budget=20000",
+                        f"--window-size={w},{h}", f"--screenshot={out}", "file://" + page],
+                       check=True, timeout=120, capture_output=True)
+        return Image.open(out).convert("RGB").copy()
 
 
 # ---------- Asharq Al-Awsat (aawsat.com FlippingBook issues) ----------
@@ -77,18 +97,18 @@ def aawsat(d):
         except Exception as e:
             print("  miss substrate", k, str(e)[:60])
     if sub is not None:
-        for u in (f"{base}/common/page-vectorlayers/0001.svg", f"{base}/common/page-vectorlayers/page0001.svg",
-                  f"{base}/common/page-textlayers/page0001.svg"):
+        sub_url = f"{base}/common/page-html5-substrates/page0001_{k}.jpg"
+        for u in (f"{base}/common/page-vectorlayers/0001.svg", f"{base}/common/page-vectorlayers/page0001.svg"):
             try:
-                import cairosvg
-                svg = get(u)
-                png = cairosvg.svg2png(bytestring=svg, url=u, output_width=sub.width, output_height=sub.height)
-                layer = Image.open(io.BytesIO(png)).convert("RGBA")
-                out = sub.copy(); out.paste(layer, (0, 0), layer)
-                print("  ok vector layer", u)
+                get(u)
+            except Exception as e:
+                print("  miss", u, str(e)[:60]); continue
+            try:
+                out = chrome_render(sub_url, u, sub.width, sub.height)
+                print("  ok chrome render", u, out.size)
                 return out, src
             except Exception as e:
-                print("  miss", u, str(e)[:80])
+                print("  chrome failed", str(e)[:200])
     # 3) cover image on the home page (rendered page, only for the latest issue)
     try:
         html = get("https://aawsat.com/").decode("utf-8", "ignore")
