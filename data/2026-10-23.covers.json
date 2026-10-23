@@ -278,5 +278,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/arab-news/"
+ },
+ "asharq-al-awsat": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://aawsat.com/files/pdf/issue17496/index.html"
  }
 }
