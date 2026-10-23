@@ -56,43 +56,64 @@ def aawsat(d):
     issue = next((n for n in (n0, n0 - 1, n0 + 1, n0 - 2, n0 + 2) if aawsat_issue_ok(n, d)), None)
     if issue is None:
         return None
-    base = f"https://aawsat.com/files/pdf/issue{issue}/files/assets"
-    cands = [f"{base}/common/page-html5-substrates/page0001_{k}.jpg" for k in (5, 4, 3, 2, 1)]
-    cands += [f"{base}/common/page-html5-substrates/page0001_{k}.webp" for k in (5, 4, 3, 2, 1)]
-    cands += [f"{base}/common/page-substrates/page0001.jpg", f"{base}/flash/pages/page0001_l.jpg",
-              f"{base}/flash/pages/page0001.jpg", f"{base}/mobile/pages/page0001_l.jpg"]
-    for u in cands:
+    root = f"https://aawsat.com/files/pdf/issue{issue}"
+    src = f"{root}/index.html"
+    base = f"{root}/files/assets"
+    # 1) the full PDF of the issue (page 1 with its text)
+    for u in (f"{base}/common/downloads/publication.pdf", f"{base}/common/downloads/Asharq.pdf",
+              f"{root}/files/assets/common/downloads/publication.pdf?uni=1"):
         try:
-            im = Image.open(io.BytesIO(get(u)))
-            print("  ok", u, im.size)
-            if im.width >= 500:
-                return im, f"https://aawsat.com/files/pdf/issue{issue}/index.html"
-        except Exception as e:
-            print("  miss", u, str(e)[:60])
-    for u in (f"{base}/common/downloads/publication.pdf", f"{base}/common/downloads/Asharq.pdf"):
-        try:
-            im = pdf_first_page(get(u, 90))
+            im = pdf_first_page(get(u, 120))
             print("  ok pdf", u, im.size)
-            return im, f"https://aawsat.com/files/pdf/issue{issue}/index.html"
+            return im, src
         except Exception as e:
-            print("  miss", u, str(e)[:60])
-    # last resort: cover thumbnail on the home page (only valid for the latest issue)
+            print("  miss", u, str(e)[:80])
+    # 2) FlippingBook page = background image + vector text layer (SVG)
+    sub = None
+    for k in (5, 4, 3):
+        try:
+            sub = Image.open(io.BytesIO(get(f"{base}/common/page-html5-substrates/page0001_{k}.jpg"))).convert("RGB")
+            print("  substrate", k, sub.size); break
+        except Exception as e:
+            print("  miss substrate", k, str(e)[:60])
+    if sub is not None:
+        for u in (f"{base}/common/page-vectorlayers/0001.svg", f"{base}/common/page-vectorlayers/page0001.svg",
+                  f"{base}/common/page-textlayers/page0001.svg"):
+            try:
+                import cairosvg
+                svg = get(u)
+                png = cairosvg.svg2png(bytestring=svg, url=u, output_width=sub.width, output_height=sub.height)
+                layer = Image.open(io.BytesIO(png)).convert("RGBA")
+                out = sub.copy(); out.paste(layer, (0, 0), layer)
+                print("  ok vector layer", u)
+                return out, src
+            except Exception as e:
+                print("  miss", u, str(e)[:80])
+    # 3) cover image on the home page (rendered page, only for the latest issue)
     try:
         html = get("https://aawsat.com/").decode("utf-8", "ignore")
-        m = re.search(r'<img[^>]+src="([^"]+)"[^>]*alt="صورة الغلاف"', html) or \
-            re.search(r'<img[^>]+alt="صورة الغلاف"[^>]*src="([^"]+)"', html)
-        if m and f"issue{issue}" in html:
-            u = m.group(1)
-            u = u if u.startswith("http") else "https://aawsat.com" + u
-            for v in (re.sub(r"/styles/[^/]+/public/", "/", u).replace(".webp", ""), u):
-                try:
-                    im = Image.open(io.BytesIO(get(v)))
-                    print("  ok home cover", v, im.size)
-                    return im, f"https://aawsat.com/files/pdf/issue{issue}/index.html"
-                except Exception as e:
-                    print("  miss", v, str(e)[:60])
+        m = re.search(r'<img[^>]+alt="صورة الغلاف"[^>]*>', html)
+        if m and f"issue{issue}/" in html:
+            tag = m.group(0)
+            print("  home tag", tag[:300])
+            urls = re.findall(r'(?:src|data-src|srcset)="([^" ]+)', tag)
+            for u in urls:
+                u = u if u.startswith("http") else "https://aawsat.com" + u
+                for v in (re.sub(r"/styles/[^/]+/public/", "/", u).replace(".webp", ""), u):
+                    try:
+                        im = Image.open(io.BytesIO(get(v)))
+                        print("  home cover", v, im.size)
+                        if im.width >= 300:
+                            return im, src
+                    except Exception as e:
+                        print("  miss", v, str(e)[:60])
     except Exception as e:
         print("  home:", e)
+    try:  # debug: what the issue page references
+        html = get(src).decode("utf-8", "ignore")
+        print("  refs:", sorted(set(re.findall(r'files/assets/[A-Za-z0-9_./-]+', html)))[:40])
+    except Exception:
+        pass
     return None
 
 

@@ -45,8 +45,12 @@ def main():
                 if not m:
                     print("no image:", slug); continue
                 imgdate, name = m.group(1), m.group(2)
-                if imgdate != ymd:
-                    print(f"stale ({imgdate}):", slug); continue
+                # the edition date shown on the page; evening uploads (e.g. Le Monde,
+                # Arab News) carry the next day's date while the image path keeps the upload day
+                ed = re.search(r'class="span-date[^"]*" datetime="(\d{4}-\d{2}-\d{2})"', html)
+                edition = ed.group(1) if ed else imgdate.replace("/", "-")
+                if edition != date:
+                    print(f"stale ({edition}):", slug); continue
                 # the public preview image (top of the front page), as used on frontpages.com listings
                 url = f"https://www.frontpages.com/t/{imgdate}/{name}@2x.webp"
                 im = Image.open(io.BytesIO(get(url))).convert("RGB")
