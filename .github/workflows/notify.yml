@@ -1,0 +1,33 @@
+name: notify
+# Sends (or updates) the bot's daily message with a button that opens the
+# Mini App, so the chat preview shows today's edition. Runs after each daily
+# update pushes new data, and can be run by hand.
+on:
+  push:
+    branches: [main]
+    paths: [data/index.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: notify
+  cancel-in-progress: false
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send
+        run: python3 scripts/notify.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - name: Save state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/notify-state.json 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "notify: today's message id"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 5; done
+          exit 1
