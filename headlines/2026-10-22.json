@@ -1,211 +1,748 @@
 {
-  "the-new-york-times": [
-    ["As Putin Frees American, U.S. Sees 'Humanitarian'", "پوتین یک آمریکایی را آزاد کرد و فرستادهٔ آمریکا او را «انسان‌دوست» خواند"],
-    ["Trump Views Insults as One-Way Street", "ترامپ توهین را خیابانی یک‌طرفه می‌بیند"],
-    ["Envoy Praises Head of Russia, as Kyiv Faces Pushback", "فرستادهٔ آمریکا رئیس روسیه را ستود و کی‌یف با فشار روبه‌رو شد"],
-    ["Trump's Rating Hits a New Low", "محبوبیت ترامپ به پایین‌ترین حد تازه رسید"],
-    ["Billionaire's Pardon Hope and a $50 Million Deal", "امید میلیاردر به عفو و معامله‌ای ۵۰ میلیون دلاری"],
-    ["Venezuelan Man Gains Clemency After Job Offer to Trump Ally", "مرد ونزوئلایی پس از پیشنهاد شغل به یکی از متحدان ترامپ مشمول عفو شد"],
-    ["Kyiv Says Drones Fell From Sky As U.S.-Backed Service Cut Out", "کی‌یف: با قطع سرویس مورد حمایت آمریکا، پهپادها از آسمان سقوط کردند"]
+ "the-new-york-times": [
+  [
+   "As Putin Frees American, U.S. Sees 'Humanitarian'",
+   "پوتین یک آمریکایی را آزاد کرد و فرستادهٔ آمریکا او را «انسان‌دوست» خواند"
   ],
-  "the-washington-post": [
-    ["Putin frees U.S. citizen in goodwill maneuver", "پوتین با حرکتی حسن‌نیت‌جویانه یک شهروند آمریکایی را آزاد کرد"],
-    ["U.S. aims to beef up spying", "آمریکا در پی تقویت جاسوسی؛ شاخه‌ای مخفی برای مقابله با چین"],
-    ["Families no longer off-limits in political attacks", "خانواده‌ها دیگر در حمله‌های سیاسی خط قرمز نیستند"],
-    ["N.M. judge hits Meta with $25B judgment", "قاضی نیومکزیکو متا را به ۲۵ میلیارد دلار محکوم کرد"],
-    ["Some cops who left force kept on tracking people", "برخی پلیس‌هایی که از کار کنار رفتند همچنان افراد را ردیابی می‌کردند"],
-    ["U.S. gets first new national park in six years", "آمریکا پس از شش سال صاحب نخستین پارک ملی تازه شد"]
+  [
+   "Trump Views Insults as One-Way Street",
+   "ترامپ توهین را خیابانی یک‌طرفه می‌بیند"
   ],
-  "usa-today": [
-    ["Putin ready to resume meeting on ending war", "پوتین آمادهٔ ازسرگیری نشست دربارهٔ پایان جنگ است"],
-    ["Voters, Trump split on economy", "رأی‌دهندگان و ترامپ دربارهٔ اقتصاد هم‌نظر نیستند"],
-    ["Swatters used police to 'terrorize'", "مزاحمان با تماس‌های دروغین پلیس را ابزار «ارعاب» کردند"],
-    ["Taxing treats is tricky", "مالیات بر خوراکی‌های هالووین کار پیچیده‌ای است"],
-    ["Fall Classic sends big message on small markets", "سری جهانی بیسبال پیامی بزرگ دربارهٔ بازارهای کوچک دارد"],
-    ["'Shark Tank' is still selling the American Dream", "«شارک تنک» همچنان رؤیای آمریکایی را می‌فروشد"]
+  [
+   "Envoy Praises Head of Russia, as Kyiv Faces Pushback",
+   "فرستادهٔ آمریکا رئیس روسیه را ستود و کی‌یف با فشار روبه‌رو شد"
   ],
-  "los-angeles-times": [
-    ["Bipartisan furor grows as Trump pressures Ukraine", "با فشار ترامپ بر اوکراین، خشم هر دو حزب بالا می‌گیرد"],
-    ["Homes still far pricier in L.A. than in suburbs", "خانه در لس‌آنجلس همچنان بسیار گران‌تر از حومه است"],
-    ["Meta gets big penalty over privacy", "جریمهٔ سنگین متا به سبب نقض حریم خصوصی"],
-    ["SpaceX, Tesla might merge", "اسپیس‌ایکس و تسلا شاید ادغام شوند"],
-    ["Lawsuit alleges threat to election", "دادخواستی از تهدید علیه انتخابات خبر می‌دهد"],
-    ["American jailed in Russia is released", "آمریکایی زندانی در روسیه آزاد شد"]
+  [
+   "Trump's Rating Hits a New Low",
+   "محبوبیت ترامپ به پایین‌ترین حد تازه رسید"
   ],
-  "financial-times": [
-    ["Musk's vision for SpaceX and Tesla combination welcomed by investors", "سرمایه‌گذاران از طرح ماسک برای ادغام اسپیس‌ایکس و تسلا استقبال کردند"],
-    ["US envoy and Putin meet", "دیدار فرستادهٔ آمریکا و پوتین"],
-    ["Inflation jumps and borrowing surges in setback for Healey ahead of Budget", "جهش تورم و اوج‌گیری استقراض؛ ضربه‌ای به هیلی، وزیر دارایی، پیش از بودجه"],
-    ["Ministers give Jackdaw gasfield the green light", "وزیران به میدان گازی جک‌داو چراغ سبز دادند"],
-    ["The election that will shape Israel's identity", "انتخاباتی که هویت اسرائیل را شکل خواهد داد"],
-    ["Adults in the room can't restrain a bad leader", "بزرگ‌ترهای جمع نمی‌توانند جلوی رهبر بد را بگیرند"]
+  [
+   "Billionaire's Pardon Hope and a $50 Million Deal",
+   "امید میلیاردر به عفو و معامله‌ای ۵۰ میلیون دلاری"
   ],
-  "city-am": [
-    ["£3 trillion: UK national debt hits grim milestone", "۳ تریلیون پوند: بدهی ملی بریتانیا از مرزی تلخ گذشت"],
-    ["Landsec shelves £1.5bn development in row with Green council", "لندسک در پی اختلاف با شورای سبزها پروژهٔ ۱٫۵ میلیارد پوندی را کنار گذاشت"],
-    ["Burnham raises bar with pub charm offensive", "برنهام با دلبری در میخانه‌ها سطح را بالا برد"],
-    ["Hard truths at CBI bash", "حقیقت‌های تلخ در گردهمایی کنفدراسیون صنایع بریتانیا"],
-    ["Flying cars? All is forgiven, Elon", "خودروی پرنده؟ ایلان، همه‌چیز بخشیده شد"]
+  [
+   "Venezuelan Man Gains Clemency After Job Offer to Trump Ally",
+   "مرد ونزوئلایی پس از پیشنهاد شغل به یکی از متحدان ترامپ مشمول عفو شد"
   ],
-  "the-herald-scotland": [
-    ["In a volatile world, the UK needs homegrown gas", "«در جهانی پرنوسان، بریتانیا به گاز داخلی نیاز دارد»"],
-    ["Sir Tom Hunter's rates warning", "هشدار سر تام هانتر دربارهٔ عوارض کسب‌وکار"],
-    ["Jardine defends BBC Scotland axe", "جاردین از تعطیلی برنامهٔ بی‌بی‌سی اسکاتلند دفاع کرد"],
-    ["Bell supports 'citizens' assembly'", "بِل از «مجمع شهروندان» حمایت می‌کند"],
-    ["Row over SNP plan to improve bus services exposes something rotten", "جنجال طرح حزب ملی اسکاتلند برای بهبود اتوبوس‌رانی چیزی پوسیده را آشکار کرد"]
-  ],
-  "the-national-scotland": [
-    ["Ringfence new wealth fund for Scotland", "«صندوق ثروت تازه را برای اسکاتلند کنار بگذارید»؛ سوینی: فرصتی برای میراثی ماندگار از دریای شمال"],
-    ["'Climate vandalism' as Labour give the go-ahead to drill Jackdaw gas field", "«خرابکاری اقلیمی»؛ حزب کارگر مجوز حفاری میدان گازی جک‌داو را داد"]
-  ],
-  "le-figaro": [
-    ["2027 : la dérive autoritaire du projet de Mélenchon", "۲۰۲۷: لغزش اقتدارگرایانهٔ برنامهٔ ملانشون"],
-    ["À Limoges, Guillaume Guérin, un maire combatif dans l'épreuve", "در لیموژ، گیوم گِرَن؛ شهرداری جنگنده در دل آزمون"],
-    ["La France emprunte à 5 %, un taux inédit depuis vingt-cinq ans", "فرانسه با نرخ ۵ درصد وام می‌گیرد؛ نرخی بی‌سابقه در ۲۵ سال گذشته"],
-    ["L'apocalypse selon Mélenchon", "سرمقاله: آخرالزمان به روایت ملانشون"],
-    ["Macron obtient des livraisons de diesel de l'Arabie saoudite", "ماکرون از عربستان سعودی محمولهٔ گازوئیل گرفت"],
-    ["Le plan de l'AfD pour démanteler l'Union européenne", "نقشهٔ حزب آلترناتیو برای آلمان برای برچیدن اتحادیهٔ اروپا"]
-  ],
-  "liberation": [
-    ["Lula, le Brésil sur un fil", "لولا؛ برزیل روی لبهٔ تیغ"],
-    ["Manuel Bompard : «Un pouvoir dans le déni, le mépris et l'infantilisation»", "مانوئل بومپار: «قدرتی غرق در انکار، تحقیر و کودک‌انگاری مردم»"],
-    ["Eisenstein, les tournages extrêmes d'un cinéaste suprême", "آیزنشتاین؛ فیلم‌برداری‌های افراطی یک فیلم‌ساز بی‌همتا"]
-  ],
-  "le-parisien": [
-    ["Se chauffer, mais à quel prix ?", "افت دما؛ گرم ماندن، اما به چه قیمتی؟"],
-    ["Journée noire pour Orange et l'Internet mondial", "روز سیاه برای اورنج و اینترنت جهانی"],
-    ["PSG : Kvaratskhelia, la grosse tuile", "پاری سن ژرمن: مصدومیت کواراتسخلیا، بدشانسی بزرگ"],
-    ["Après les pillages, la ruée dans les armureries", "پاریس: پس از غارت‌ها، هجوم به اسلحه‌فروشی‌ها"],
-    ["Bientôt livrée, la tour Triangle a atteint son point culminant", "برج تریانگل که به‌زودی تحویل می‌شود به بلندترین نقطه‌اش رسید"],
-    ["Emily in Paris : la « patronne » tourne la page", "«امیلی در پاریس»: «خانم رئیس» ورق را برمی‌گرداند"]
-  ],
-  "les-echos": [
-    ["Taux français à 5 % : le seuil d'alerte", "نرخ بهرهٔ اوراق فرانسه ۵ درصد: آستانهٔ هشدار"],
-    ["Dette : le roman noir des années Macron", "بدهی: رمان سیاه سال‌های ماکرون"],
-    ["IA : la mise en garde du gourou du management", "هوش مصنوعی: هشدار استاد مدیریت"],
-    ["Le réchauffement pourrait atteindre +2,8 °C au cours du siècle", "گرمایش زمین ممکن است در این قرن به ۲٫۸ درجه برسد"],
-    ["Londres autorise l'exploitation d'un champ gazier en mer du Nord", "لندن مجوز بهره‌برداری از یک میدان گازی در دریای شمال را داد"],
-    ["Le patron de Nvidia, Jensen Huang, en opération séduction en Europe", "جنسن هوانگ، رئیس انویدیا، در پی دلربایی از اروپا"],
-    ["Boeing obtient enfin le feu vert pour son stratégique 737 MAX 10", "بوئینگ سرانجام برای هواپیمای راهبردی ۷۳۷ مکس ۱۰ مجوز گرفت"]
-  ],
-  "frankfurter-allgemeine-zeitung": [
-    ["Trump begrüßt Freilassung eines Amerikaners in Russland", "ترامپ از آزادی یک آمریکایی در روسیه استقبال کرد"],
-    ["UN sehen keine Fortschritte im Klimaschutz", "سازمان ملل پیشرفتی در حفاظت از اقلیم نمی‌بیند"],
-    ["Die Stimmen der Frommen", "صدای مؤمنان (انتخابات برزیل)"],
-    ["Trumps fatale Botschaft", "یادداشت: پیام مرگبار ترامپ"],
-    ["Im Zangengriff von Meta und Co.", "در منگنهٔ متا و شرکا"],
-    ["Hubig will verpflichtende Versicherung", "هوبیگ خواهان بیمهٔ اجباری است"],
-    ["EU leitet Verfahren gegen Booking ein", "اتحادیهٔ اروپا علیه بوکینگ پرونده گشود"]
-  ],
-  "suddeutsche-zeitung": [
-    ["Merz: Russland will Europa zersetzen", "مرتس: روسیه می‌خواهد اروپا را از درون متلاشی کند"],
-    ["Im Inneren der AfD", "درون حزب آلترناتیو: هکرها بیش از ۴۲۰ هزار ایمیل حزب را منتشر کردند"],
-    ["Alice Schwarzer stellt die Zeitschrift „Emma“ ein", "«اکنون خسته‌ایم»؛ آلیس شوارتسر مجلهٔ «اِما» را تعطیل می‌کند"],
-    ["Mehr Transparenz bei der Schufa", "شفافیت بیشتر در شوفا، مؤسسهٔ اعتبارسنجی آلمان"],
-    ["Macron sieht keine Einmischung von außen", "ماکرون دخالت خارجی نمی‌بیند"],
-    ["Zusammen ist man weniger allein", "با هم بودن، تنهایی را کم می‌کند"]
-  ],
-  "die-welt": [
-    ["Söder schafft es, die AfD auf Distanz zu halten", "زودر موفق می‌شود حزب آلترناتیو را دور نگه دارد"],
-    ["Witkoff sieht Momentum für ein Ende des Kriegs", "ویتکاف برای پایان جنگ فرصتی مناسب می‌بیند"],
-    ["Danke, Alice Schwarzer!", "یادداشت: سپاس، آلیس شوارتسر!"],
-    ["Ein deutscher Roboter fliegt Richtung Mars", "یک ربات آلمانی راهی مریخ می‌شود"],
-    ["Ein Programm, das Satire im Netz entlarvt", "برنامه‌ای که طنز را در اینترنت شناسایی می‌کند"]
-  ],
-  "bild": [
-    ["Kimmich trauert um seinen Vater", "کیمیش در سوگ پدرش؛ مرگ ناگهانی قلبی در ۵۷ سالگی"],
-    ["Bundeswehr durch Russen-Sabotage bedroht", "ارتش آلمان در معرض خرابکاری روس‌ها"],
-    ["Erderwärmung höher als bisher geschätzt", "گرمایش زمین بیش از برآوردهای پیشین است"],
-    ["Studie: Mehr Autounfälle durch Display-Ablenkung", "پژوهش: تصادف بیشتر به سبب حواس‌پرتی با نمایشگرهای خودرو"],
-    ["Tabak-Chaos immer schlimmer: Diese Rauchwaren sind plötzlich steuerfrei", "آشفتگی بازار دخانیات بدتر شد: این محصولات ناگهان معاف از مالیات شدند"],
-    ["Kate strahlt sie alle weg", "کیت همه را تحت‌الشعاع قرار داد"],
-    ["Kennedy-Fluch: Schon wieder ein früher Tod", "نفرین خاندان کندی: باز هم مرگی زودهنگام"]
-  ],
-  "handelsblatt": [
-    ["Sicherheitslücke gefährdet Webseiten weltweit", "یک حفرهٔ امنیتی وب‌سایت‌ها را در سراسر جهان تهدید می‌کند"],
-    ["Fusion von SpaceX und Tesla rückt näher", "ادغام اسپیس‌ایکس و تسلا نزدیک‌تر می‌شود"],
-    ["Siemens-Umbau geht weiter", "بازسازی زیمنس ادامه دارد"],
-    ["Aroundtown wird LEG-Großaktionär", "اراوندتاون سهام‌دار عمدهٔ ال‌ئی‌جی می‌شود"],
-    ["Der KI-Boom macht sich bemerkbar und treibt die britische Wirtschaft an", "رونق هوش مصنوعی اقتصاد بریتانیا را به حرکت درآورده است"],
-    ["Der Quanten-Wettbewerb von Dorothee Bär sorgt für Unmut", "مسابقهٔ کوانتومی دوروته بِر نارضایتی برانگیخت"],
-    ["Die griechischen Reeder streben an die Athener Börse", "کشتی‌داران یونانی راهی بورس آتن می‌شوند"]
-  ],
-  "china-daily": [
-    ["Long March legacy remains strong", "میراث راهپیمایی طولانی همچنان پابرجاست"],
-    ["The Met acquires 38 Chinese ink masterworks", "موزهٔ متروپولیتن ۳۸ شاهکار نقاشی مرکب چینی به دست آورد"],
-    ["China and Russia eye frontier tech ties", "چین و روسیه به همکاری در فناوری‌های پیشرو چشم دوخته‌اند"],
-    ["Shanghai studio brings Chinese icons to the world", "استودیویی در شانگهای نمادهای چینی را به جهان می‌برد"],
-    ["Five-year plan to fast-track smart vehicles", "برنامهٔ پنج‌ساله برای شتاب‌دادن به خودروهای هوشمند"],
-    ["Macao exhibition traces 3,000 years of glassmaking heritage", "نمایشگاهی در ماکائو؛ سه هزار سال میراث شیشه‌گری"]
-  ],
-  "global-times": [
-    ["Long March spirit sails on in China's modern navy", "روح راهپیمایی طولانی در نیروی دریایی مدرن چین جاری است"],
-    ["China, Russia vow to deepen high-quality cooperation and mutual trust", "چین و روسیه برای تعمیق همکاری و اعتماد متقابل پیمان بستند"],
-    ["China shows progress in climate action", "پیشرفت چین در اقدام اقلیمی"],
-    ["Rare-earth curbs on Japan target 'remilitarization'", "محدودیت صادرات عناصر کمیاب به ژاپن «نظامی‌گری دوباره» را هدف گرفته است"],
-    ["Photos offer German visitors a new lens on China", "عکس‌ها دریچه‌ای تازه به چین پیش روی بازدیدکنندگان آلمانی می‌گشایند"]
-  ],
-  "people-s-daily": [
-    ["中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见", "رهنمود دفتر کمیتهٔ مرکزی حزب و دفتر شورای دولتی دربارهٔ پیوند عمیق نوآوری علمی و نوآوری صنعتی"],
-    ["齐心协力走好新的长征路", "سرمقاله: همدل راه پیمایی طولانی تازه را بپیماییم؛ به مناسبت نودمین سالگرد پیروزی راهپیمایی طولانی"],
-    ["李强会见俄罗斯总统普京", "لی چیانگ با ولادیمیر پوتین، رئیس‌جمهور روسیه، دیدار کرد"],
-    ["丁薛祥会见2026年国际科学理事会中期会员大会暨北京科学对话部分外宾", "دینگ شوئه‌شیانگ با مهمانان خارجی مجمع شورای بین‌المللی علم دیدار کرد"],
-    ["在新长征路上阔步前行", "گام‌های بلند در راه پیمایی طولانی تازه"]
-  ],
-  "south-china-morning-post": [
-    ["Apec finance chiefs agree on AI, digital financing", "وزیران دارایی اپک بر سر هوش مصنوعی و تأمین مالی دیجیتال توافق کردند"],
-    ["Hong Kong reaps meeting benefits as attitudes shift in city's favour", "هنگ‌کنگ از میزبانی نشست بهره می‌برد و نگرش‌ها به سود شهر تغییر می‌کند"],
-    ["Star Ferry fares to rise next year", "کرایهٔ کشتی‌های استار فری سال آینده افزایش می‌یابد"],
-    ["Rubio confirms first Quad summit for two years will be held in Manila", "روبیو: نخستین نشست سران «کواد» پس از دو سال در مانیل برگزار می‌شود"],
-    ["China is moving past a 'GDP-first' mindset. Can local officials adapt?", "چین از ذهنیت «اول رشد تولید ناخالص» عبور می‌کند؛ آیا مقامات محلی همراه می‌شوند؟"]
-  ],
-  "the-japan-times": [
-    ["'Quad' hopes to find new life with summit", "«کواد» امیدوار است با نشست سران جان تازه بگیرد"],
-    ["Unrest in Europe fuels far right", "ناآرامی در اروپا به راست افراطی دامن می‌زند"],
-    ["One year on, the LDP-JIP coalition still has holes to fill", "یک سال پس از تشکیل، ائتلاف حزب لیبرال دموکرات و حزب نوآوری ژاپن هنوز خلأهایی دارد"],
-    ["Musk pushes for merger of SpaceX and Tesla", "ماسک برای ادغام اسپیس‌ایکس و تسلا پافشاری می‌کند"],
-    ["University scrutinized", "دانشگاه زیر ذره‌بین: وزارت از دانشگاه توکیو خواست روند انتخاب رئیس را بازبینی کند"]
-  ],
-  "yomiuri-shinbun": [
-    ["中国語AI悪用「可能」", "سوءاستفاده از هوش مصنوعی چینی‌زبان «ممکن است»"],
-    ["サイト情報15秒で抜き取り", "سرقت اطلاعات وب‌سایت در ۱۵ ثانیه؛ نمایش یک شرکت امنیتی"],
-    ["「PHP」重大な脆弱性 サイト7割利用", "آسیب‌پذیری جدی در «پی‌اچ‌پی»، زبانی که ۷۰ درصد سایت‌ها از آن استفاده می‌کنند"],
-    ["社会人、1年で教員免許", "دورهٔ تازه در تحصیلات تکمیلی: شاغلان در یک سال مجوز معلمی می‌گیرند"],
-    ["AI規制改革 加速へ", "شتاب در اصلاح مقررات هوش مصنوعی در همهٔ وزارتخانه‌ها"]
-  ],
-  "mainichi-shinbun": [
-    ["プログラム言語PHP欠陥 企業・団体 サイト予防停止", "نقص زبان برنامه‌نویسی پی‌اچ‌پی؛ شرکت‌ها و نهادها سایت‌هایشان را پیشگیرانه متوقف کردند"],
-    ["システム攻撃 AI使用か", "احتمال استفاده از هوش مصنوعی در حمله به سامانه‌ها؛ «با بسامد و تنوعی بی‌سابقه»"],
-    ["モバイル電池発火 遅延36件", "آتش‌گرفتن باتری‌های همراه؛ ۳۶ مورد تأخیر قطار در ده سال"],
-    ["林氏、望まぬ「閣外放出」", "هایاشی ناخواسته از کابینه بیرون ماند؛ نخست‌وزیر از او نخواست بماند"]
-  ],
-  "gulf-news": [
-    ["Dubai now tracks drones, aerial activity", "دبی اکنون پهپادها و فعالیت‌های هوایی را رصد می‌کند"],
-    ["UAE, Singapore aim to strengthen bilateral ties", "امارات و سنگاپور در پی تقویت روابط دوجانبه"],
-    ["Dubai to change speed limits on 5 roads", "دبی سقف سرعت را در ۵ جاده تغییر می‌دهد"],
-    ["Meet Emirati artists shaping UAE's lively creative scene", "با هنرمندان اماراتی سازندهٔ فضای پرشور خلاقیت امارات آشنا شوید"]
-  ],
-  "khaleej-times": [
-    ["'Healthy UAE': Govt to set up unified control system within 2 years", "«امارات سالم»: دولت ظرف دو سال سامانهٔ کنترل یکپارچه راه‌اندازی می‌کند"],
-    ["UAE President receives Singapore PM", "رئیس امارات نخست‌وزیر سنگاپور را پذیرفت"],
-    ["E-911 highway from Dubai-Sharjah border to RAK will have 12-16 lanes", "بزرگراه ای-۹۱۱ از مرز دبی و شارجه تا راس‌الخیمه ۱۲ تا ۱۶ خط خواهد داشت"],
-    ["GTHE showcases JCB hydrogen engine at Wetex", "نمایش موتور هیدروژنی جی‌سی‌بی در نمایشگاه وتکس"],
-    ["Harper tells Middle East cagers what they can learn from Jordan, Kobe", "هارپر به بسکتبالیست‌های خاورمیانه می‌گوید از جردن و کوبی چه بیاموزند"]
-  ],
-  "the-national-abu-dhabi": [
-    ["Abu Dhabi to analyse benefits of tech during pregnancy", "ابوظبی سودمندی فناوری در دوران بارداری را بررسی می‌کند"],
-    ["Agreements signed as President holds talks with Singapore PM in Emirates", "امضای توافق‌نامه‌ها در گفت‌وگوی رئیس امارات با نخست‌وزیر سنگاپور"],
-    ["Macron 'solidarity visit' to Riyadh ends tour", "سفر «همبستگی» ماکرون به ریاض پایان‌بخش تور منطقه‌ای او شد"],
-    ["UK should do more to help allies, former minister says", "وزیر پیشین: بریتانیا باید برای کمک به متحدانش بیشتر بکوشد"],
-    ["Female UAE scientists earn global grants", "دانشمندان زن اماراتی کمک‌هزینه‌های پژوهشی جهانی گرفتند"]
-  ],
-  "hurriyet": [
-    ["Holdinge fon operasyonu", "عملیات «صندوق» علیه هلدینگ؛ رئیس هلدینگ آلتین‌باش بازداشت شد"],
-    ["Her kesimden ortak tepki", "واکنش مشترک همهٔ طیف‌ها به سخنان رئیس کمیسیون اروپا"],
-    ["Kardeş görüşmesi", "دیدار برادرانه اردوغان و علی‌اف"],
-    ["Hayırdır beyler kiminle savaşıyorsunuz", "اردوغان: «خیر است آقایان، با چه کسی می‌جنگید؟»"],
-    ["Yeni Parti'nin adı değişmiyor", "نام «حزب نو» تغییر نمی‌کند"],
-    ["Galatasaray Lille'i yendi", "باشکوه! گالاتاسرای در لیگ قهرمانان لیل را در خانه‌اش شکست داد"],
-    ["Kızıldeniz'de buluştular", "در کنار دریای سرخ به هم رسیدند؛ ستارگان ترک در جشنوارهٔ الجونه"]
+  [
+   "Kyiv Says Drones Fell From Sky As U.S.-Backed Service Cut Out",
+   "کی‌یف: با قطع سرویس مورد حمایت آمریکا، پهپادها از آسمان سقوط کردند"
   ]
+ ],
+ "the-washington-post": [
+  [
+   "Putin frees U.S. citizen in goodwill maneuver",
+   "پوتین با حرکتی حسن‌نیت‌جویانه یک شهروند آمریکایی را آزاد کرد"
+  ],
+  [
+   "U.S. aims to beef up spying",
+   "آمریکا در پی تقویت جاسوسی؛ شاخه‌ای مخفی برای مقابله با چین"
+  ],
+  [
+   "Families no longer off-limits in political attacks",
+   "خانواده‌ها دیگر در حمله‌های سیاسی خط قرمز نیستند"
+  ],
+  [
+   "N.M. judge hits Meta with $25B judgment",
+   "قاضی نیومکزیکو متا را به ۲۵ میلیارد دلار محکوم کرد"
+  ],
+  [
+   "Some cops who left force kept on tracking people",
+   "برخی پلیس‌هایی که از کار کنار رفتند همچنان افراد را ردیابی می‌کردند"
+  ],
+  [
+   "U.S. gets first new national park in six years",
+   "آمریکا پس از شش سال صاحب نخستین پارک ملی تازه شد"
+  ]
+ ],
+ "usa-today": [
+  [
+   "Putin ready to resume meeting on ending war",
+   "پوتین آمادهٔ ازسرگیری نشست دربارهٔ پایان جنگ است"
+  ],
+  [
+   "Voters, Trump split on economy",
+   "رأی‌دهندگان و ترامپ دربارهٔ اقتصاد هم‌نظر نیستند"
+  ],
+  [
+   "Swatters used police to 'terrorize'",
+   "مزاحمان با تماس‌های دروغین پلیس را ابزار «ارعاب» کردند"
+  ],
+  [
+   "Taxing treats is tricky",
+   "مالیات بر خوراکی‌های هالووین کار پیچیده‌ای است"
+  ],
+  [
+   "Fall Classic sends big message on small markets",
+   "سری جهانی بیسبال پیامی بزرگ دربارهٔ بازارهای کوچک دارد"
+  ],
+  [
+   "'Shark Tank' is still selling the American Dream",
+   "«شارک تنک» همچنان رؤیای آمریکایی را می‌فروشد"
+  ]
+ ],
+ "los-angeles-times": [
+  [
+   "Bipartisan furor grows as Trump pressures Ukraine",
+   "با فشار ترامپ بر اوکراین، خشم هر دو حزب بالا می‌گیرد"
+  ],
+  [
+   "Homes still far pricier in L.A. than in suburbs",
+   "خانه در لس‌آنجلس همچنان بسیار گران‌تر از حومه است"
+  ],
+  [
+   "Meta gets big penalty over privacy",
+   "جریمهٔ سنگین متا به سبب نقض حریم خصوصی"
+  ],
+  [
+   "SpaceX, Tesla might merge",
+   "اسپیس‌ایکس و تسلا شاید ادغام شوند"
+  ],
+  [
+   "Lawsuit alleges threat to election",
+   "دادخواستی از تهدید علیه انتخابات خبر می‌دهد"
+  ],
+  [
+   "American jailed in Russia is released",
+   "آمریکایی زندانی در روسیه آزاد شد"
+  ]
+ ],
+ "financial-times": [
+  [
+   "Musk's vision for SpaceX and Tesla combination welcomed by investors",
+   "سرمایه‌گذاران از طرح ماسک برای ادغام اسپیس‌ایکس و تسلا استقبال کردند"
+  ],
+  [
+   "US envoy and Putin meet",
+   "دیدار فرستادهٔ آمریکا و پوتین"
+  ],
+  [
+   "Inflation jumps and borrowing surges in setback for Healey ahead of Budget",
+   "جهش تورم و اوج‌گیری استقراض؛ ضربه‌ای به هیلی، وزیر دارایی، پیش از بودجه"
+  ],
+  [
+   "Ministers give Jackdaw gasfield the green light",
+   "وزیران به میدان گازی جک‌داو چراغ سبز دادند"
+  ],
+  [
+   "The election that will shape Israel's identity",
+   "انتخاباتی که هویت اسرائیل را شکل خواهد داد"
+  ],
+  [
+   "Adults in the room can't restrain a bad leader",
+   "بزرگ‌ترهای جمع نمی‌توانند جلوی رهبر بد را بگیرند"
+  ]
+ ],
+ "city-am": [
+  [
+   "£3 trillion: UK national debt hits grim milestone",
+   "۳ تریلیون پوند: بدهی ملی بریتانیا از مرزی تلخ گذشت"
+  ],
+  [
+   "Landsec shelves £1.5bn development in row with Green council",
+   "لندسک در پی اختلاف با شورای سبزها پروژهٔ ۱٫۵ میلیارد پوندی را کنار گذاشت"
+  ],
+  [
+   "Burnham raises bar with pub charm offensive",
+   "برنهام با دلبری در میخانه‌ها سطح را بالا برد"
+  ],
+  [
+   "Hard truths at CBI bash",
+   "حقیقت‌های تلخ در گردهمایی کنفدراسیون صنایع بریتانیا"
+  ],
+  [
+   "Flying cars? All is forgiven, Elon",
+   "خودروی پرنده؟ ایلان، همه‌چیز بخشیده شد"
+  ]
+ ],
+ "the-herald-scotland": [
+  [
+   "In a volatile world, the UK needs homegrown gas",
+   "«در جهانی پرنوسان، بریتانیا به گاز داخلی نیاز دارد»"
+  ],
+  [
+   "Sir Tom Hunter's rates warning",
+   "هشدار سر تام هانتر دربارهٔ عوارض کسب‌وکار"
+  ],
+  [
+   "Jardine defends BBC Scotland axe",
+   "جاردین از تعطیلی برنامهٔ بی‌بی‌سی اسکاتلند دفاع کرد"
+  ],
+  [
+   "Bell supports 'citizens' assembly'",
+   "بِل از «مجمع شهروندان» حمایت می‌کند"
+  ],
+  [
+   "Row over SNP plan to improve bus services exposes something rotten",
+   "جنجال طرح حزب ملی اسکاتلند برای بهبود اتوبوس‌رانی چیزی پوسیده را آشکار کرد"
+  ]
+ ],
+ "the-national-scotland": [
+  [
+   "Ringfence new wealth fund for Scotland",
+   "«صندوق ثروت تازه را برای اسکاتلند کنار بگذارید»؛ سوینی: فرصتی برای میراثی ماندگار از دریای شمال"
+  ],
+  [
+   "'Climate vandalism' as Labour give the go-ahead to drill Jackdaw gas field",
+   "«خرابکاری اقلیمی»؛ حزب کارگر مجوز حفاری میدان گازی جک‌داو را داد"
+  ]
+ ],
+ "le-figaro": [
+  [
+   "2027 : la dérive autoritaire du projet de Mélenchon",
+   "۲۰۲۷: لغزش اقتدارگرایانهٔ برنامهٔ ملانشون"
+  ],
+  [
+   "À Limoges, Guillaume Guérin, un maire combatif dans l'épreuve",
+   "در لیموژ، گیوم گِرَن؛ شهرداری جنگنده در دل آزمون"
+  ],
+  [
+   "La France emprunte à 5 %, un taux inédit depuis vingt-cinq ans",
+   "فرانسه با نرخ ۵ درصد وام می‌گیرد؛ نرخی بی‌سابقه در ۲۵ سال گذشته"
+  ],
+  [
+   "L'apocalypse selon Mélenchon",
+   "سرمقاله: آخرالزمان به روایت ملانشون"
+  ],
+  [
+   "Macron obtient des livraisons de diesel de l'Arabie saoudite",
+   "ماکرون از عربستان سعودی محمولهٔ گازوئیل گرفت"
+  ],
+  [
+   "Le plan de l'AfD pour démanteler l'Union européenne",
+   "نقشهٔ حزب آلترناتیو برای آلمان برای برچیدن اتحادیهٔ اروپا"
+  ]
+ ],
+ "liberation": [
+  [
+   "Lula, le Brésil sur un fil",
+   "لولا؛ برزیل روی لبهٔ تیغ"
+  ],
+  [
+   "Manuel Bompard : «Un pouvoir dans le déni, le mépris et l'infantilisation»",
+   "مانوئل بومپار: «قدرتی غرق در انکار، تحقیر و کودک‌انگاری مردم»"
+  ],
+  [
+   "Eisenstein, les tournages extrêmes d'un cinéaste suprême",
+   "آیزنشتاین؛ فیلم‌برداری‌های افراطی یک فیلم‌ساز بی‌همتا"
+  ]
+ ],
+ "le-parisien": [
+  [
+   "Se chauffer, mais à quel prix ?",
+   "افت دما؛ گرم ماندن، اما به چه قیمتی؟"
+  ],
+  [
+   "Journée noire pour Orange et l'Internet mondial",
+   "روز سیاه برای اورنج و اینترنت جهانی"
+  ],
+  [
+   "PSG : Kvaratskhelia, la grosse tuile",
+   "پاری سن ژرمن: مصدومیت کواراتسخلیا، بدشانسی بزرگ"
+  ],
+  [
+   "Après les pillages, la ruée dans les armureries",
+   "پاریس: پس از غارت‌ها، هجوم به اسلحه‌فروشی‌ها"
+  ],
+  [
+   "Bientôt livrée, la tour Triangle a atteint son point culminant",
+   "برج تریانگل که به‌زودی تحویل می‌شود به بلندترین نقطه‌اش رسید"
+  ],
+  [
+   "Emily in Paris : la « patronne » tourne la page",
+   "«امیلی در پاریس»: «خانم رئیس» ورق را برمی‌گرداند"
+  ]
+ ],
+ "les-echos": [
+  [
+   "Taux français à 5 % : le seuil d'alerte",
+   "نرخ بهرهٔ اوراق فرانسه ۵ درصد: آستانهٔ هشدار"
+  ],
+  [
+   "Dette : le roman noir des années Macron",
+   "بدهی: رمان سیاه سال‌های ماکرون"
+  ],
+  [
+   "IA : la mise en garde du gourou du management",
+   "هوش مصنوعی: هشدار استاد مدیریت"
+  ],
+  [
+   "Le réchauffement pourrait atteindre +2,8 °C au cours du siècle",
+   "گرمایش زمین ممکن است در این قرن به ۲٫۸ درجه برسد"
+  ],
+  [
+   "Londres autorise l'exploitation d'un champ gazier en mer du Nord",
+   "لندن مجوز بهره‌برداری از یک میدان گازی در دریای شمال را داد"
+  ],
+  [
+   "Le patron de Nvidia, Jensen Huang, en opération séduction en Europe",
+   "جنسن هوانگ، رئیس انویدیا، در پی دلربایی از اروپا"
+  ],
+  [
+   "Boeing obtient enfin le feu vert pour son stratégique 737 MAX 10",
+   "بوئینگ سرانجام برای هواپیمای راهبردی ۷۳۷ مکس ۱۰ مجوز گرفت"
+  ]
+ ],
+ "frankfurter-allgemeine-zeitung": [
+  [
+   "Trump begrüßt Freilassung eines Amerikaners in Russland",
+   "ترامپ از آزادی یک آمریکایی در روسیه استقبال کرد"
+  ],
+  [
+   "UN sehen keine Fortschritte im Klimaschutz",
+   "سازمان ملل پیشرفتی در حفاظت از اقلیم نمی‌بیند"
+  ],
+  [
+   "Die Stimmen der Frommen",
+   "صدای مؤمنان (انتخابات برزیل)"
+  ],
+  [
+   "Trumps fatale Botschaft",
+   "یادداشت: پیام مرگبار ترامپ"
+  ],
+  [
+   "Im Zangengriff von Meta und Co.",
+   "در منگنهٔ متا و شرکا"
+  ],
+  [
+   "Hubig will verpflichtende Versicherung",
+   "هوبیگ خواهان بیمهٔ اجباری است"
+  ],
+  [
+   "EU leitet Verfahren gegen Booking ein",
+   "اتحادیهٔ اروپا علیه بوکینگ پرونده گشود"
+  ]
+ ],
+ "suddeutsche-zeitung": [
+  [
+   "Merz: Russland will Europa zersetzen",
+   "مرتس: روسیه می‌خواهد اروپا را از درون متلاشی کند"
+  ],
+  [
+   "Im Inneren der AfD",
+   "درون حزب آلترناتیو: هکرها بیش از ۴۲۰ هزار ایمیل حزب را منتشر کردند"
+  ],
+  [
+   "Alice Schwarzer stellt die Zeitschrift „Emma“ ein",
+   "«اکنون خسته‌ایم»؛ آلیس شوارتسر مجلهٔ «اِما» را تعطیل می‌کند"
+  ],
+  [
+   "Mehr Transparenz bei der Schufa",
+   "شفافیت بیشتر در شوفا، مؤسسهٔ اعتبارسنجی آلمان"
+  ],
+  [
+   "Macron sieht keine Einmischung von außen",
+   "ماکرون دخالت خارجی نمی‌بیند"
+  ],
+  [
+   "Zusammen ist man weniger allein",
+   "با هم بودن، تنهایی را کم می‌کند"
+  ]
+ ],
+ "die-welt": [
+  [
+   "Söder schafft es, die AfD auf Distanz zu halten",
+   "زودر موفق می‌شود حزب آلترناتیو را دور نگه دارد"
+  ],
+  [
+   "Witkoff sieht Momentum für ein Ende des Kriegs",
+   "ویتکاف برای پایان جنگ فرصتی مناسب می‌بیند"
+  ],
+  [
+   "Danke, Alice Schwarzer!",
+   "یادداشت: سپاس، آلیس شوارتسر!"
+  ],
+  [
+   "Ein deutscher Roboter fliegt Richtung Mars",
+   "یک ربات آلمانی راهی مریخ می‌شود"
+  ],
+  [
+   "Ein Programm, das Satire im Netz entlarvt",
+   "برنامه‌ای که طنز را در اینترنت شناسایی می‌کند"
+  ]
+ ],
+ "bild": [
+  [
+   "Kimmich trauert um seinen Vater",
+   "کیمیش در سوگ پدرش؛ مرگ ناگهانی قلبی در ۵۷ سالگی"
+  ],
+  [
+   "Bundeswehr durch Russen-Sabotage bedroht",
+   "ارتش آلمان در معرض خرابکاری روس‌ها"
+  ],
+  [
+   "Erderwärmung höher als bisher geschätzt",
+   "گرمایش زمین بیش از برآوردهای پیشین است"
+  ],
+  [
+   "Studie: Mehr Autounfälle durch Display-Ablenkung",
+   "پژوهش: تصادف بیشتر به سبب حواس‌پرتی با نمایشگرهای خودرو"
+  ],
+  [
+   "Tabak-Chaos immer schlimmer: Diese Rauchwaren sind plötzlich steuerfrei",
+   "آشفتگی بازار دخانیات بدتر شد: این محصولات ناگهان معاف از مالیات شدند"
+  ],
+  [
+   "Kate strahlt sie alle weg",
+   "کیت همه را تحت‌الشعاع قرار داد"
+  ],
+  [
+   "Kennedy-Fluch: Schon wieder ein früher Tod",
+   "نفرین خاندان کندی: باز هم مرگی زودهنگام"
+  ]
+ ],
+ "handelsblatt": [
+  [
+   "Sicherheitslücke gefährdet Webseiten weltweit",
+   "یک حفرهٔ امنیتی وب‌سایت‌ها را در سراسر جهان تهدید می‌کند"
+  ],
+  [
+   "Fusion von SpaceX und Tesla rückt näher",
+   "ادغام اسپیس‌ایکس و تسلا نزدیک‌تر می‌شود"
+  ],
+  [
+   "Siemens-Umbau geht weiter",
+   "بازسازی زیمنس ادامه دارد"
+  ],
+  [
+   "Aroundtown wird LEG-Großaktionär",
+   "اراوندتاون سهام‌دار عمدهٔ ال‌ئی‌جی می‌شود"
+  ],
+  [
+   "Der KI-Boom macht sich bemerkbar und treibt die britische Wirtschaft an",
+   "رونق هوش مصنوعی اقتصاد بریتانیا را به حرکت درآورده است"
+  ],
+  [
+   "Der Quanten-Wettbewerb von Dorothee Bär sorgt für Unmut",
+   "مسابقهٔ کوانتومی دوروته بِر نارضایتی برانگیخت"
+  ],
+  [
+   "Die griechischen Reeder streben an die Athener Börse",
+   "کشتی‌داران یونانی راهی بورس آتن می‌شوند"
+  ]
+ ],
+ "china-daily": [
+  [
+   "Long March legacy remains strong",
+   "میراث راهپیمایی طولانی همچنان پابرجاست"
+  ],
+  [
+   "The Met acquires 38 Chinese ink masterworks",
+   "موزهٔ متروپولیتن ۳۸ شاهکار نقاشی مرکب چینی به دست آورد"
+  ],
+  [
+   "China and Russia eye frontier tech ties",
+   "چین و روسیه به همکاری در فناوری‌های پیشرو چشم دوخته‌اند"
+  ],
+  [
+   "Shanghai studio brings Chinese icons to the world",
+   "استودیویی در شانگهای نمادهای چینی را به جهان می‌برد"
+  ],
+  [
+   "Five-year plan to fast-track smart vehicles",
+   "برنامهٔ پنج‌ساله برای شتاب‌دادن به خودروهای هوشمند"
+  ],
+  [
+   "Macao exhibition traces 3,000 years of glassmaking heritage",
+   "نمایشگاهی در ماکائو؛ سه هزار سال میراث شیشه‌گری"
+  ]
+ ],
+ "global-times": [
+  [
+   "Long March spirit sails on in China's modern navy",
+   "روح راهپیمایی طولانی در نیروی دریایی مدرن چین جاری است"
+  ],
+  [
+   "China, Russia vow to deepen high-quality cooperation and mutual trust",
+   "چین و روسیه برای تعمیق همکاری و اعتماد متقابل پیمان بستند"
+  ],
+  [
+   "China shows progress in climate action",
+   "پیشرفت چین در اقدام اقلیمی"
+  ],
+  [
+   "Rare-earth curbs on Japan target 'remilitarization'",
+   "محدودیت صادرات عناصر کمیاب به ژاپن «نظامی‌گری دوباره» را هدف گرفته است"
+  ],
+  [
+   "Photos offer German visitors a new lens on China",
+   "عکس‌ها دریچه‌ای تازه به چین پیش روی بازدیدکنندگان آلمانی می‌گشایند"
+  ]
+ ],
+ "people-s-daily": [
+  [
+   "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见",
+   "رهنمود دفتر کمیتهٔ مرکزی حزب و دفتر شورای دولتی دربارهٔ پیوند عمیق نوآوری علمی و نوآوری صنعتی"
+  ],
+  [
+   "齐心协力走好新的长征路",
+   "سرمقاله: همدل راه پیمایی طولانی تازه را بپیماییم؛ به مناسبت نودمین سالگرد پیروزی راهپیمایی طولانی"
+  ],
+  [
+   "李强会见俄罗斯总统普京",
+   "لی چیانگ با ولادیمیر پوتین، رئیس‌جمهور روسیه، دیدار کرد"
+  ],
+  [
+   "丁薛祥会见2026年国际科学理事会中期会员大会暨北京科学对话部分外宾",
+   "دینگ شوئه‌شیانگ با مهمانان خارجی مجمع شورای بین‌المللی علم دیدار کرد"
+  ],
+  [
+   "在新长征路上阔步前行",
+   "گام‌های بلند در راه پیمایی طولانی تازه"
+  ]
+ ],
+ "south-china-morning-post": [
+  [
+   "Apec finance chiefs agree on AI, digital financing",
+   "وزیران دارایی اپک بر سر هوش مصنوعی و تأمین مالی دیجیتال توافق کردند"
+  ],
+  [
+   "Hong Kong reaps meeting benefits as attitudes shift in city's favour",
+   "هنگ‌کنگ از میزبانی نشست بهره می‌برد و نگرش‌ها به سود شهر تغییر می‌کند"
+  ],
+  [
+   "Star Ferry fares to rise next year",
+   "کرایهٔ کشتی‌های استار فری سال آینده افزایش می‌یابد"
+  ],
+  [
+   "Rubio confirms first Quad summit for two years will be held in Manila",
+   "روبیو: نخستین نشست سران «کواد» پس از دو سال در مانیل برگزار می‌شود"
+  ],
+  [
+   "China is moving past a 'GDP-first' mindset. Can local officials adapt?",
+   "چین از ذهنیت «اول رشد تولید ناخالص» عبور می‌کند؛ آیا مقامات محلی همراه می‌شوند؟"
+  ]
+ ],
+ "the-japan-times": [
+  [
+   "'Quad' hopes to find new life with summit",
+   "«کواد» امیدوار است با نشست سران جان تازه بگیرد"
+  ],
+  [
+   "Unrest in Europe fuels far right",
+   "ناآرامی در اروپا به راست افراطی دامن می‌زند"
+  ],
+  [
+   "One year on, the LDP-JIP coalition still has holes to fill",
+   "یک سال پس از تشکیل، ائتلاف حزب لیبرال دموکرات و حزب نوآوری ژاپن هنوز خلأهایی دارد"
+  ],
+  [
+   "Musk pushes for merger of SpaceX and Tesla",
+   "ماسک برای ادغام اسپیس‌ایکس و تسلا پافشاری می‌کند"
+  ],
+  [
+   "University scrutinized",
+   "دانشگاه زیر ذره‌بین: وزارت از دانشگاه توکیو خواست روند انتخاب رئیس را بازبینی کند"
+  ]
+ ],
+ "yomiuri-shinbun": [
+  [
+   "中国語AI悪用「可能」",
+   "سوءاستفاده از هوش مصنوعی چینی‌زبان «ممکن است»"
+  ],
+  [
+   "サイト情報15秒で抜き取り",
+   "سرقت اطلاعات وب‌سایت در ۱۵ ثانیه؛ نمایش یک شرکت امنیتی"
+  ],
+  [
+   "「PHP」重大な脆弱性 サイト7割利用",
+   "آسیب‌پذیری جدی در «پی‌اچ‌پی»، زبانی که ۷۰ درصد سایت‌ها از آن استفاده می‌کنند"
+  ],
+  [
+   "社会人、1年で教員免許",
+   "دورهٔ تازه در تحصیلات تکمیلی: شاغلان در یک سال مجوز معلمی می‌گیرند"
+  ],
+  [
+   "AI規制改革 加速へ",
+   "شتاب در اصلاح مقررات هوش مصنوعی در همهٔ وزارتخانه‌ها"
+  ]
+ ],
+ "mainichi-shinbun": [
+  [
+   "プログラム言語PHP欠陥 企業・団体 サイト予防停止",
+   "نقص زبان برنامه‌نویسی پی‌اچ‌پی؛ شرکت‌ها و نهادها سایت‌هایشان را پیشگیرانه متوقف کردند"
+  ],
+  [
+   "システム攻撃 AI使用か",
+   "احتمال استفاده از هوش مصنوعی در حمله به سامانه‌ها؛ «با بسامد و تنوعی بی‌سابقه»"
+  ],
+  [
+   "モバイル電池発火 遅延36件",
+   "آتش‌گرفتن باتری‌های همراه؛ ۳۶ مورد تأخیر قطار در ده سال"
+  ],
+  [
+   "林氏、望まぬ「閣外放出」",
+   "هایاشی ناخواسته از کابینه بیرون ماند؛ نخست‌وزیر از او نخواست بماند"
+  ]
+ ],
+ "gulf-news": [
+  [
+   "Dubai now tracks drones, aerial activity",
+   "دبی اکنون پهپادها و فعالیت‌های هوایی را رصد می‌کند"
+  ],
+  [
+   "UAE, Singapore aim to strengthen bilateral ties",
+   "امارات و سنگاپور در پی تقویت روابط دوجانبه"
+  ],
+  [
+   "Dubai to change speed limits on 5 roads",
+   "دبی سقف سرعت را در ۵ جاده تغییر می‌دهد"
+  ],
+  [
+   "Meet Emirati artists shaping UAE's lively creative scene",
+   "با هنرمندان اماراتی سازندهٔ فضای پرشور خلاقیت امارات آشنا شوید"
+  ]
+ ],
+ "khaleej-times": [
+  [
+   "'Healthy UAE': Govt to set up unified control system within 2 years",
+   "«امارات سالم»: دولت ظرف دو سال سامانهٔ کنترل یکپارچه راه‌اندازی می‌کند"
+  ],
+  [
+   "UAE President receives Singapore PM",
+   "رئیس امارات نخست‌وزیر سنگاپور را پذیرفت"
+  ],
+  [
+   "E-911 highway from Dubai-Sharjah border to RAK will have 12-16 lanes",
+   "بزرگراه ای-۹۱۱ از مرز دبی و شارجه تا راس‌الخیمه ۱۲ تا ۱۶ خط خواهد داشت"
+  ],
+  [
+   "GTHE showcases JCB hydrogen engine at Wetex",
+   "نمایش موتور هیدروژنی جی‌سی‌بی در نمایشگاه وتکس"
+  ],
+  [
+   "Harper tells Middle East cagers what they can learn from Jordan, Kobe",
+   "هارپر به بسکتبالیست‌های خاورمیانه می‌گوید از جردن و کوبی چه بیاموزند"
+  ]
+ ],
+ "the-national-abu-dhabi": [
+  [
+   "Abu Dhabi to analyse benefits of tech during pregnancy",
+   "ابوظبی سودمندی فناوری در دوران بارداری را بررسی می‌کند"
+  ],
+  [
+   "Agreements signed as President holds talks with Singapore PM in Emirates",
+   "امضای توافق‌نامه‌ها در گفت‌وگوی رئیس امارات با نخست‌وزیر سنگاپور"
+  ],
+  [
+   "Macron 'solidarity visit' to Riyadh ends tour",
+   "سفر «همبستگی» ماکرون به ریاض پایان‌بخش تور منطقه‌ای او شد"
+  ],
+  [
+   "UK should do more to help allies, former minister says",
+   "وزیر پیشین: بریتانیا باید برای کمک به متحدانش بیشتر بکوشد"
+  ],
+  [
+   "Female UAE scientists earn global grants",
+   "دانشمندان زن اماراتی کمک‌هزینه‌های پژوهشی جهانی گرفتند"
+  ]
+ ],
+ "hurriyet": [
+  [
+   "Holdinge fon operasyonu",
+   "عملیات «صندوق» علیه هلدینگ؛ رئیس هلدینگ آلتین‌باش بازداشت شد"
+  ],
+  [
+   "Her kesimden ortak tepki",
+   "واکنش مشترک همهٔ طیف‌ها به سخنان رئیس کمیسیون اروپا"
+  ],
+  [
+   "Kardeş görüşmesi",
+   "دیدار برادرانه اردوغان و علی‌اف"
+  ],
+  [
+   "Hayırdır beyler kiminle savaşıyorsunuz",
+   "اردوغان: «خیر است آقایان، با چه کسی می‌جنگید؟»"
+  ],
+  [
+   "Yeni Parti'nin adı değişmiyor",
+   "نام «حزب نو» تغییر نمی‌کند"
+  ],
+  [
+   "Galatasaray Lille'i yendi",
+   "باشکوه! گالاتاسرای در لیگ قهرمانان لیل را در خانه‌اش شکست داد"
+  ],
+  [
+   "Kızıldeniz'de buluştular",
+   "در کنار دریای سرخ به هم رسیدند؛ ستارگان ترک در جشنوارهٔ الجونه"
+  ]
+ ],
+ "the-boston-globe": [
+  [
+   "Widely condemned ad stokes Ohio race",
+   "آگهی‌ای که با محکومیت گسترده روبه‌رو شد رقابت اوهایو را داغ کرد"
+  ],
+  [
+   "Backlash even from Republicans, but Vance defends it",
+   "واکنش منفی حتی از سوی جمهوری‌خواهان، اما ونس از آن دفاع می‌کند"
+  ],
+  [
+   "More heat issues at facility after death",
+   "مشکلات تازهٔ گرما در مرکز نگهداری پس از یک مرگ"
+  ],
+  [
+   "Suit accuses ex-R.I. bishop of sex abuse",
+   "شکایتی اسقف پیشین رود آیلند را به سوءاستفادهٔ جنسی متهم می‌کند"
+  ],
+  [
+   "Showing their colors",
+   "رنگ‌هایشان را به نمایش می‌گذارند"
+  ],
+  [
+   "Candidates use socials to engage the unengaged",
+   "نامزدها با شبکه‌های اجتماعی سراغ بی‌اعتناها می‌روند"
+  ],
+  [
+   "A chance for AI to come out and play",
+   "فرصتی برای هوش مصنوعی تا به میدان بیاید"
+  ]
+ ],
+ "chicago-tribune": [
+  [
+   "Johnson pitches 'fair share' plan",
+   "جانسون طرح «سهم منصفانه» را مطرح کرد"
+  ],
+  [
+   "Eyes on future: Mayor vows head tax would be investment in city's children",
+   "نگاه به آینده: شهردار وعده می‌دهد مالیات سرانه سرمایه‌گذاری برای کودکان شهر باشد"
+  ],
+  [
+   "'Out of whack': $17.6 billion target faces long road to approval in split council",
+   "«نامتوازن»: هدف ۱۷٫۶ میلیارد دلاری در شورای دودسته راهی دراز تا تصویب دارد"
+  ],
+  [
+   "Putin agrees to new talks",
+   "پوتین با مذاکرات تازه موافقت کرد"
+  ],
+  [
+   "Zelenskyy sought summit with US to break impasse",
+   "زلنسکی برای شکستن بن‌بست خواستار نشست با آمریکا شده بود"
+  ],
+  [
+   "Williams, Maye a budding rivalry?",
+   "ویلیامز و مِی؛ رقابتی در حال شکل‌گیری؟"
+  ]
+ ],
+ "le-point": [
+  [
+   "Mais qu'a-t-on fait de la France ?",
+   "با فرانسه چه کرده‌ایم؟"
+  ],
+  [
+   "Vingt ans d'effacement de l'État et de l'autorité. Une histoire de la violence politique",
+   "بیست سال کم‌رنگ شدن دولت و اقتدار؛ تاریخچه‌ای از خشونت سیاسی"
+  ],
+  [
+   "David Lisnard : enquête sur le candidat qui rebat les cartes à droite",
+   "داوید لیسنار: تحقیقی دربارهٔ نامزدی که معادلات راست را به هم می‌زند"
+  ],
+  [
+   "« Une présidentielle anticipée ? La question peut se poser »",
+   "«انتخابات زودهنگام ریاست‌جمهوری؟ این پرسش می‌تواند مطرح شود»"
+  ],
+  [
+   "Économie : comment rebondir ? Le livre stimulant de François Villeroy de Galhau",
+   "اقتصاد: چگونه دوباره برخیزیم؟ کتاب الهام‌بخش فرانسوا ویلروا دو گالو"
+  ]
+ ]
 }
