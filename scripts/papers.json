@@ -2,36 +2,58 @@
   {"country": "آمریکا", "flag": "🇺🇸", "papers": [
     {"slug": "the-new-york-times", "name": "The New York Times", "fa": "نیویورک تایمز", "site": "https://www.nytimes.com"},
     {"slug": "the-washington-post", "name": "The Washington Post", "fa": "واشنگتن پست", "site": "https://www.washingtonpost.com"},
-    {"slug": "the-wall-street-journal", "name": "The Wall Street Journal", "fa": "وال‌استریت ژورنال", "site": "https://www.wsj.com"},
     {"slug": "usa-today", "name": "USA Today", "fa": "یو‌اس‌ای تودی", "site": "https://www.usatoday.com"},
-    {"slug": "los-angeles-times", "name": "Los Angeles Times", "fa": "لس‌آنجلس تایمز", "site": "https://www.latimes.com"}
+    {"slug": "los-angeles-times", "name": "Los Angeles Times", "fa": "لس‌آنجلس تایمز", "site": "https://www.latimes.com"},
+    {"slug": "new-york-post", "name": "New York Post", "fa": "نیویورک پست", "site": "https://nypost.com"},
+    {"slug": "the-boston-globe", "name": "The Boston Globe", "fa": "بوستون گلوب", "site": "https://www.bostonglobe.com"},
+    {"slug": "chicago-tribune", "name": "Chicago Tribune", "fa": "شیکاگو تریبیون", "site": "https://www.chicagotribune.com"},
+    {"slug": "the-philadelphia-inquirer", "name": "The Philadelphia Inquirer", "fa": "فیلادلفیا اینکوایرر", "site": "https://www.inquirer.com"},
+    {"slug": "houston-chronicle", "name": "Houston Chronicle", "fa": "هیوستون کرونیکل", "site": "https://www.houstonchronicle.com"},
+    {"slug": "miami-herald", "name": "Miami Herald", "fa": "میامی هرالد", "site": "https://www.miamiherald.com"}
   ]},
   {"country": "بریتانیا", "flag": "🇬🇧", "papers": [
     {"slug": "financial-times", "name": "Financial Times", "fa": "فایننشال تایمز", "site": "https://www.ft.com"},
     {"slug": "city-am", "name": "City A.M.", "fa": "سیتی اِی‌اِم", "site": "https://www.cityam.com"},
     {"slug": "morning-star", "name": "Morning Star", "fa": "مورنینگ استار", "site": "https://morningstaronline.co.uk"},
     {"slug": "the-herald-scotland", "name": "The Herald", "fa": "هرالد (اسکاتلند)", "site": "https://www.heraldscotland.com"},
-    {"slug": "the-national-scotland", "name": "The National", "fa": "نشنال (اسکاتلند)", "site": "https://www.thenational.scot"}
+    {"slug": "the-national-scotland", "name": "The National", "fa": "نشنال (اسکاتلند)", "site": "https://www.thenational.scot"},
+    {"slug": "the-irish-news", "name": "The Irish News", "fa": "آیریش نیوز (ایرلند شمالی)", "site": "https://www.irishnews.com"},
+    {"slug": "western-mail-wales", "name": "Western Mail", "fa": "وسترن میل (ولز)", "site": "https://www.walesonline.co.uk"},
+    {"slug": "manchester-evening-news", "name": "Manchester Evening News", "fa": "منچستر ایونینگ نیوز", "site": "https://www.manchestereveningnews.co.uk"},
+    {"slug": "liverpool-echo", "name": "Liverpool Echo", "fa": "لیورپول اکو", "site": "https://www.liverpoolecho.co.uk"},
+    {"slug": "birmingham-mail", "name": "Birmingham Mail", "fa": "بیرمنگام میل", "site": "https://www.birminghammail.co.uk"}
   ]},
   {"country": "فرانسه", "flag": "🇫🇷", "papers": [
     {"slug": "le-monde", "name": "Le Monde", "fa": "لوموند", "site": "https://www.lemonde.fr"},
     {"slug": "le-figaro", "name": "Le Figaro", "fa": "لوفیگارو", "site": "https://www.lefigaro.fr"},
     {"slug": "liberation", "name": "Libération", "fa": "لیبراسیون", "site": "https://www.liberation.fr"},
     {"slug": "le-parisien", "name": "Le Parisien", "fa": "لوپاریزین", "site": "https://www.leparisien.fr"},
-    {"slug": "les-echos", "name": "Les Échos", "fa": "لزاکو", "site": "https://www.lesechos.fr"}
+    {"slug": "les-echos", "name": "Les Échos", "fa": "لزاکو", "site": "https://www.lesechos.fr"},
+    {"slug": "la-croix", "name": "La Croix", "fa": "لاکروا", "site": "https://www.la-croix.com"},
+    {"slug": "ouest-france", "name": "Ouest-France", "fa": "وست‌فرانس", "site": "https://www.ouest-france.fr"},
+    {"slug": "la-tribune", "name": "La Tribune", "fa": "لاتریبون", "site": "https://www.latribune.fr"},
+    {"slug": "l-equipe", "name": "L'Équipe", "fa": "لکیپ", "site": "https://www.lequipe.fr"},
+    {"slug": "le-point", "name": "Le Point", "fa": "لوپوئن (هفته‌نامه)", "site": "https://www.lepoint.fr"}
   ]},
   {"country": "آلمان", "flag": "🇩🇪", "papers": [
     {"slug": "frankfurter-allgemeine-zeitung", "name": "Frankfurter Allgemeine", "fa": "فرانکفورتر آلگماینه", "site": "https://www.faz.net"},
     {"slug": "suddeutsche-zeitung", "name": "Süddeutsche Zeitung", "fa": "زوددویچه تسایتونگ", "site": "https://www.sueddeutsche.de"},
     {"slug": "die-welt", "name": "Die Welt", "fa": "دی ولت", "site": "https://www.welt.de"},
     {"slug": "bild", "name": "Bild", "fa": "بیلد", "site": "https://www.bild.de"},
-    {"slug": "handelsblatt", "name": "Handelsblatt", "fa": "هندلسبلات", "site": "https://www.handelsblatt.com"}
+    {"slug": "handelsblatt", "name": "Handelsblatt", "fa": "هندلسبلات", "site": "https://www.handelsblatt.com"},
+    {"slug": "der-tagesspiegel", "name": "Der Tagesspiegel", "fa": "تاگس‌اشپیگل", "site": "https://www.tagesspiegel.de"},
+    {"slug": "rheinische-post", "name": "Rheinische Post", "fa": "راینیشه پست", "site": "https://rp-online.de"},
+    {"slug": "bz-berlin", "name": "B.Z. Berlin", "fa": "بی‌تسد برلین", "site": "https://www.bz-berlin.de"},
+    {"slug": "der-spiegel", "name": "Der Spiegel", "fa": "اشپیگل (هفته‌نامه)", "site": "https://www.spiegel.de"},
+    {"slug": "kicker", "name": "Kicker", "fa": "کیکر (ورزشی)", "site": "https://www.kicker.de"}
   ]},
   {"country": "چین", "flag": "🇨🇳", "papers": [
     {"slug": "china-daily", "name": "China Daily", "fa": "چاینا دیلی", "site": "https://www.chinadaily.com.cn"},
     {"slug": "global-times", "name": "Global Times", "fa": "گلوبال تایمز", "site": "https://www.globaltimes.cn"},
     {"slug": "people-s-daily", "name": "People's Daily", "fa": "روزنامهٔ خلق", "site": "http://paper.people.com.cn"},
-    {"slug": "south-china-morning-post", "name": "South China Morning Post", "fa": "ساوت چاینا مورنینگ پست", "site": "https://www.scmp.com"}
+    {"slug": "south-china-morning-post", "name": "South China Morning Post", "fa": "ساوت چاینا مورنینگ پست", "site": "https://www.scmp.com"},
+    {"slug": "hong-kong-economic-journal", "name": "Hong Kong Economic Journal", "fa": "هنگ‌کنگ اکونومیک ژورنال", "site": "https://www.hkej.com"},
+    {"slug": "oriental-daily-news", "name": "Oriental Daily News", "fa": "اورینتال دیلی نیوز (هنگ‌کنگ)", "site": "https://www.orientaldaily.on.cc"}
   ]},
   {"country": "ژاپن", "flag": "🇯🇵", "papers": [
     {"slug": "the-japan-times", "name": "The Japan Times", "fa": "جاپان تایمز", "site": "https://www.japantimes.co.jp"},
@@ -39,6 +61,7 @@
     {"slug": "mainichi-shinbun", "name": "Mainichi Shimbun", "fa": "ماینیچی شیمبون", "site": "https://mainichi.jp"}
   ]},
   {"country": "عربستان سعودی", "flag": "🇸🇦", "papers": [
+    {"slug": "asharq-al-awsat", "name": "Asharq Al-Awsat", "fa": "الشرق‌الاوسط", "site": "https://aawsat.com", "via": "aawsat"},
     {"slug": "arab-news", "name": "Arab News", "fa": "عرب نیوز", "site": "https://www.arabnews.com"}
   ]},
   {"country": "امارات", "flag": "🇦🇪", "papers": [
@@ -46,7 +69,24 @@
     {"slug": "khaleej-times", "name": "Khaleej Times", "fa": "خلیج تایمز", "site": "https://www.khaleejtimes.com"},
     {"slug": "the-national-abu-dhabi", "name": "The National", "fa": "نشنال (ابوظبی)", "site": "https://www.thenationalnews.com"}
   ]},
+  {"country": "قطر", "flag": "🇶🇦", "papers": [
+    {"slug": "gulf-times", "name": "Gulf Times", "fa": "گلف تایمز", "site": "https://www.gulf-times.com"}
+  ]},
+  {"country": "اردن", "flag": "🇯🇴", "papers": [
+    {"slug": "the-jordan-times", "name": "The Jordan Times", "fa": "جردن تایمز", "site": "https://jordantimes.com"}
+  ]},
+  {"country": "فلسطین", "flag": "🇵🇸", "papers": [
+    {"slug": "al-quds", "name": "Al-Quds", "fa": "القدس", "site": "https://www.alquds.com"}
+  ]},
   {"country": "ترکیه", "flag": "🇹🇷", "papers": [
     {"slug": "hurriyet", "name": "Hürriyet", "fa": "حریت", "site": "https://www.hurriyet.com.tr"}
+  ]},
+  {"country": "هند", "flag": "🇮🇳", "papers": [
+    {"slug": "the-times-of-india", "name": "The Times of India", "fa": "تایمز آو ایندیا", "site": "https://timesofindia.indiatimes.com"},
+    {"slug": "the-hindu", "name": "The Hindu", "fa": "هندو", "site": "https://www.thehindu.com"},
+    {"slug": "hindustan-times", "name": "Hindustan Times", "fa": "هندوستان تایمز", "site": "https://www.hindustantimes.com"},
+    {"slug": "the-economic-times", "name": "The Economic Times", "fa": "اکونومیک تایمز", "site": "https://economictimes.indiatimes.com"},
+    {"slug": "dainik-jagran", "name": "Dainik Jagran", "fa": "دینک جاگران", "site": "https://www.jagran.com"},
+    {"slug": "india-today", "name": "India Today", "fa": "ایندیا تودی (هفته‌نامه)", "site": "https://www.indiatoday.in"}
   ]}
 ]
