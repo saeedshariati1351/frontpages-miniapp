@@ -118,5 +118,150 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/hurriyet/"
+ },
+ "los-angeles-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/los-angeles-times/"
+ },
+ "new-york-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/new-york-post/"
+ },
+ "the-philadelphia-inquirer": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-philadelphia-inquirer/"
+ },
+ "houston-chronicle": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/houston-chronicle/"
+ },
+ "miami-herald": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/miami-herald/"
+ },
+ "the-irish-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-irish-news/"
+ },
+ "western-mail-wales": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/western-mail-wales/"
+ },
+ "manchester-evening-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/manchester-evening-news/"
+ },
+ "liverpool-echo": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/liverpool-echo/"
+ },
+ "birmingham-mail": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/birmingham-mail/"
+ },
+ "le-parisien": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/le-parisien/"
+ },
+ "la-croix": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/la-croix/"
+ },
+ "ouest-france": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/ouest-france/"
+ },
+ "la-tribune": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/la-tribune/"
+ },
+ "l-equipe": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/l-equipe/"
+ },
+ "frankfurter-allgemeine-zeitung": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/frankfurter-allgemeine-zeitung/"
+ },
+ "der-tagesspiegel": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/der-tagesspiegel/"
+ },
+ "rheinische-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/rheinische-post/"
+ },
+ "bz-berlin": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/bz-berlin/"
+ },
+ "der-spiegel": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/der-spiegel/"
+ },
+ "hong-kong-economic-journal": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/hong-kong-economic-journal/"
+ },
+ "oriental-daily-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/oriental-daily-news/"
+ },
+ "the-jordan-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-jordan-times/"
+ },
+ "al-quds": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/al-quds/"
+ },
+ "the-times-of-india": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-times-of-india/"
+ },
+ "the-hindu": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-hindu/"
+ },
+ "hindustan-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/hindustan-times/"
+ },
+ "the-economic-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-economic-times/"
+ },
+ "dainik-jagran": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/dainik-jagran/"
  }
 }
