@@ -1467,6 +1467,48 @@
    ]
   },
   {
+   "name": "لبنان",
+   "flag": "🇱🇧",
+   "papers": [
+    {
+     "slug": "al-akhbar",
+     "name": "Al-Akhbar",
+     "fa": "الاخبار",
+     "site": "https://www.al-akhbar.com",
+     "img": "covers/2026-10-22/al-akhbar.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://media.al-akhbar.com/store/archive/file/2026/10/21/037a0043-fc78-4365-80cd-4af7ef3b230d.pdf",
+     "headlines": [
+      {
+       "o": "هل قرّر عون وسلام الصدام مع المقاومة؟",
+       "fa": "آیا عون و سلام تصمیم به رویارویی با مقاومت گرفته‌اند؟",
+       "url": "https://duckduckgo.com/?q=%5C%D9%87%D9%84%20%D9%82%D8%B1%D9%91%D8%B1%20%D8%B9%D9%88%D9%86%20%D9%88%D8%B3%D9%84%D8%A7%D9%85%20%D8%A7%D9%84%D8%B5%D8%AF%D8%A7%D9%85%20%D9%85%D8%B9%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9%D8%9F%20site%3Aal-akhbar.com",
+       "direct": false
+      },
+      {
+       "o": "إحالة ملف ضهر البيدر إلى المجلس العدلي إعلان حرب",
+       "fa": "ارجاع پروندهٔ ضهرالبیدر به شورای عدلی اعلان جنگ است",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A5%D8%AD%D8%A7%D9%84%D8%A9%20%D9%85%D9%84%D9%81%20%D8%B6%D9%87%D8%B1%20%D8%A7%D9%84%D8%A8%D9%8A%D8%AF%D8%B1%20%D8%A5%D9%84%D9%89%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D8%B9%D8%AF%D9%84%D9%8A%20%D8%A5%D8%B9%D9%84%D8%A7%D9%86%20%D8%AD%D8%B1%D8%A8%20site%3Aal-akhbar.com",
+       "direct": false
+      },
+      {
+       "o": "غزة: عودة خطر المجاعة",
+       "fa": "غزه: بازگشت خطر قحطی",
+       "url": "https://duckduckgo.com/?q=%5C%D8%BA%D8%B2%D8%A9%3A%20%D8%B9%D9%88%D8%AF%D8%A9%20%D8%AE%D8%B7%D8%B1%20%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%B9%D8%A9%20site%3Aal-akhbar.com",
+       "direct": false
+      },
+      {
+       "o": "اتساع فجوة الدخل والضرائب: الفقراء يدفعون أكثر من الأثرياء",
+       "fa": "شکاف درآمد و مالیات گسترده‌تر شد: فقیران بیش از ثروتمندان می‌پردازند",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D8%AA%D8%B3%D8%A7%D8%B9%20%D9%81%D8%AC%D9%88%D8%A9%20%D8%A7%D9%84%D8%AF%D8%AE%D9%84%20%D9%88%D8%A7%D9%84%D8%B6%D8%B1%D8%A7%D8%A6%D8%A8%3A%20%D8%A7%D9%84%D9%81%D9%82%D8%B1%D8%A7%D8%A1%20%D9%8A%D8%AF%D9%81%D8%B9%D9%88%D9%86%20%D8%A3%D9%83%D8%AB%D8%B1%20%D9%85%D9%86%20%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A7%D8%A1%20site%3Aal-akhbar.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "ترکیه",
    "flag": "🇹🇷",
    "papers": [
