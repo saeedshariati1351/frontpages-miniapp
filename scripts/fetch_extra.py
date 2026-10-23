@@ -166,6 +166,22 @@ def aawsat(d):
     return None
 
 
+# ---------- direct file URLs found beforehand (e.g. Al-Akhbar's daily PDF on media.al-akhbar.com) ----------
+GIVEN = {}  # (slug, date) -> url, from --url slug=DATE=URL
+
+
+def given_url(slug):
+    def fetch(d):
+        u = GIVEN.get((slug, d.isoformat()))
+        if not u:
+            print("  no url given"); return None
+        data = get(u, 120)
+        im = pdf_first_page(data) if data[:4] == b"%PDF" else Image.open(io.BytesIO(data))
+        print("  ok", u, im.size)
+        return im, u
+    return fetch
+
+
 SOURCES = {"aawsat": aawsat}
 
 
@@ -190,9 +206,16 @@ def probe(urls):
 def main():
     if sys.argv[1] == "--probe":
         return probe(sys.argv[2:])
+    args = sys.argv[1:]
+    while "--url" in args:
+        i = args.index("--url")
+        slug, date, u = args[i + 1].split("=", 2)
+        GIVEN[(slug, date)] = u
+        del args[i:i + 2]
     papers = [p for g in json.load(open(os.path.join(ROOT, "scripts", "papers.json"), encoding="utf-8"))
               for p in g["papers"] if p.get("via")]
-    for date in sys.argv[1:]:
+    dates = args or sorted({d for _, d in GIVEN})
+    for date in dates:
         d = datetime.date.fromisoformat(date)
         cpath = os.path.join(ROOT, "data", f"{date}.covers.json")
         found = json.load(open(cpath)) if os.path.exists(cpath) else {}
@@ -202,9 +225,12 @@ def main():
             slug = p["slug"]
             if slug in found:
                 print(date, "have:", slug); continue
+            fetcher = given_url(slug) if p["via"] == "url" else SOURCES[p["via"]]
+            if p["via"] == "url" and (slug, date) not in GIVEN:
+                continue
             print(date, "trying:", slug)
             try:
-                r = SOURCES[p["via"]](d)
+                r = fetcher(d)
             except Exception as e:
                 print("  error:", e); r = None
             if not r:

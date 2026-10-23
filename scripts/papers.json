@@ -78,6 +78,9 @@
   {"country": "فلسطین", "flag": "🇵🇸", "papers": [
     {"slug": "al-quds", "name": "Al-Quds", "fa": "القدس", "site": "https://www.alquds.com"}
   ]},
+  {"country": "لبنان", "flag": "🇱🇧", "papers": [
+    {"slug": "al-akhbar", "name": "Al-Akhbar", "fa": "الاخبار", "site": "https://www.al-akhbar.com", "via": "url"}
+  ]},
   {"country": "ترکیه", "flag": "🇹🇷", "papers": [
     {"slug": "hurriyet", "name": "Hürriyet", "fa": "حریت", "site": "https://www.hurriyet.com.tr"}
   ]},
