@@ -35,23 +35,50 @@ def pdf_first_page(data):
     return Image.open(io.BytesIO(pix.tobytes("png"))).copy()
 
 
+def inline_svg(svg_url):
+    """SVG text with every url(...) (web fonts, images) embedded as data: URIs."""
+    import base64, urllib.parse
+    svg = get(svg_url).decode("utf-8", "ignore")
+    def emb(m):
+        ref = m.group(2)
+        if ref.startswith(("data:", "#")):
+            return m.group(0)
+        u = urllib.parse.urljoin(svg_url, ref)
+        try:
+            data = get(u)
+        except Exception as e:
+            print("   font/img miss", u, str(e)[:50]); return m.group(0)
+        ext = u.split("?")[0].rsplit(".", 1)[-1].lower()
+        mime = {"woff": "font/woff", "woff2": "font/woff2", "ttf": "font/ttf", "otf": "font/otf",
+                "png": "image/png", "jpg": "image/jpeg", "jpeg": "image/jpeg", "svg": "image/svg+xml"}.get(ext, "application/octet-stream")
+        return f"url({m.group(1)}data:{mime};base64,{base64.b64encode(data).decode()}{m.group(1)})"
+    svg = re.sub(r"url\((['\"]?)([^)'\"]+)\1\)", emb, svg)
+    svg = re.sub(r'(xlink:href|href)="(?!data:|#|https?:)([^"]+)"',
+                 lambda m: f'{m.group(1)}="{urllib.parse.urljoin(svg_url, m.group(2))}"', svg)
+    return re.sub(r"<\?xml[^>]*\?>", "", svg)
+
+
 def chrome_render(sub_url, svg_url, w, h):
     """Draw the page background with its SVG text layer in headless Chrome (web fonts included)."""
     exe = next((shutil.which(x) for x in ("google-chrome", "google-chrome-stable", "chromium", "chromium-browser") if shutil.which(x)), None)
     if not exe:
         raise RuntimeError("no chrome")
+    svg = inline_svg(svg_url)
+    svg = re.sub(r"<svg\b", f'<svg style="position:absolute;left:0;top:0;width:{w}px;height:{h}px"', svg, count=1)
+    print("   svg bytes", len(svg), "fonts", svg.count("font/"))
     with tempfile.TemporaryDirectory() as d:
         page = os.path.join(d, "p.html")
         open(page, "w").write(f'''<!doctype html><html><body style="margin:0">
-<div style="position:relative;width:{w}px;height:{h}px">
+<div style="position:relative;width:{w}px;height:{h}px;overflow:hidden">
 <img src="{sub_url}" style="position:absolute;left:0;top:0;width:{w}px;height:{h}px">
-<object data="{svg_url}" type="image/svg+xml" style="position:absolute;left:0;top:0;width:{w}px;height:{h}px"></object>
+{svg}
 </div></body></html>''')
         out = os.path.join(d, "o.png")
-        subprocess.run([exe, "--headless=new", "--no-sandbox", "--disable-gpu", "--hide-scrollbars",
-                        "--allow-file-access-from-files", "--virtual-time-budget=20000",
-                        f"--window-size={w},{h}", f"--screenshot={out}", "file://" + page],
-                       check=True, timeout=120, capture_output=True)
+        r = subprocess.run([exe, "--headless=new", "--no-sandbox", "--disable-gpu", "--hide-scrollbars",
+                            "--virtual-time-budget=20000", f"--window-size={w},{h}", f"--screenshot={out}",
+                            "file://" + page], timeout=180, capture_output=True, text=True)
+        if not os.path.exists(out):
+            raise RuntimeError("chrome: " + r.stderr[-300:])
         return Image.open(out).convert("RGB").copy()
 
 
