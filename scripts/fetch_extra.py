@@ -63,20 +63,17 @@ def chrome_render(sub_url, svg_url, w, h):
     exe = next((shutil.which(x) for x in ("google-chrome", "google-chrome-stable", "chromium", "chromium-browser") if shutil.which(x)), None)
     if not exe:
         raise RuntimeError("no chrome")
-    svg = inline_svg(svg_url)
-    svg = re.sub(r"<svg\b", f'<svg style="position:absolute;left:0;top:0;width:{w}px;height:{h}px"', svg, count=1)
+    svg = inline_svg(svg_url).lstrip("\ufeff")
     print("   svg bytes", len(svg), "fonts", svg.count("font/"))
     if os.environ.get("DEBUG_SVG"):
-        dbg = re.sub(r"base64,[A-Za-z0-9+/=]{200,}", "base64,...", svg)
-        print("   SVG HEAD:", dbg[:2500])
-        print("   SVG TEXT SAMPLE:", re.findall(r"<text[^>]*>.{0,200}", dbg)[:3])
-        print("   SVG TAIL:", dbg[-800:])
+        print("   SVG HEAD:", re.sub(r"base64,[A-Za-z0-9+/=]{200,}", "base64,...", svg)[:600])
     with tempfile.TemporaryDirectory() as d:
+        open(os.path.join(d, "layer.svg"), "w", encoding="utf-8").write(svg)
         page = os.path.join(d, "p.html")
         open(page, "w").write(f'''<!doctype html><html><body style="margin:0">
 <div style="position:relative;width:{w}px;height:{h}px;overflow:hidden">
 <img src="{sub_url}" style="position:absolute;left:0;top:0;width:{w}px;height:{h}px">
-{svg}
+<img src="layer.svg" style="position:absolute;left:0;top:0;width:{w}px;height:{h}px">
 </div></body></html>''')
         out = os.path.join(d, "o.png")
         r = subprocess.run([exe, "--headless=new", "--no-sandbox", "--disable-gpu", "--hide-scrollbars",
