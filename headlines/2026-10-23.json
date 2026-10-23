@@ -1,0 +1,629 @@
+{
+ "the-new-york-times": [
+  [
+   "U.S. and Israelis Drawing Up Plan for Iran Attacks After the Midterms",
+   "آمریکا و اسرائیل طرح حمله به ایران پس از انتخابات میان‌دورهٔای را تدوین می‌کنند"
+  ],
+  [
+   "Awaiting Trump's OK — U.S. Hopes Tehran Is Forced to Give In",
+   "در انتظار چراغ سبز ترامپ؛ آمریکا امیدوار است تهران به تسلیم واداشته شود"
+  ],
+  [
+   "Putin Nearing Revived Links With the U.S.",
+   "پوتین در آستانهٔ احیای پیوند با آمریکا"
+  ],
+  [
+   "El-Sayed Confronts Attacks on Faith and Family",
+   "السید با حمله به دین و خانواده‌اش مقابله می‌کند"
+  ],
+  [
+   "Spotlight on Identity as He Runs to Be First Muslim Senator",
+   "هویت او در کانون توجه؛ نامزدی برای نخستین سناتور مسلمان"
+  ],
+  [
+   "165 Years On, A Vote to Stop The Clip-Clop",
+   "پس از ۱۶۵ سال، رأی‌گیری برای پایان صدای سم اسب‌ها"
+  ],
+  [
+   "Overseas Israelis Could Swing Votes Away From Netanyahu",
+   "اسرائیلی‌های خارج از کشور ممکن است کفهٔ آرا را به زیان نتانیاهو بچرخانند"
+  ],
+  [
+   "Legal Backlash Is Forcing Big Changes on Internet Behemoths",
+   "موج حقوقی غول‌های اینترنتی را به تغییرات بزرگ وامی‌دارد"
+  ]
+ ],
+ "the-washington-post": [
+  [
+   "Inquiry is underway into former DHS aide",
+   "تحقیقات دربارهٔ دستیار پیشین وزارت امنیت داخلی آغاز شد"
+  ],
+  [
+   "Corey Lewandowski faces accusations of contracting misconduct",
+   "کوری لواندوفسکی با اتهام تخلف در قراردادها روبه‌روست"
+  ],
+  [
+   "DOJ indicts Louise Lucas",
+   "وزارت دادگستری لوئیز لوکاس را متهم کرد"
+  ],
+  [
+   "Ohio city takes a big hit as Haitians hide and flee",
+   "شهری در اوهایو با پنهان شدن و گریز هائیتیایی‌ها ضربهٔ سختی خورد"
+  ],
+  [
+   "More Democrats vote in person as mail targeted",
+   "با هدف گرفته شدن رأی پستی، دموکرات‌های بیشتری حضوری رأی می‌دهند"
+  ],
+  [
+   "Russia agrees to restart trilateral talks to end war",
+   "روسیه با از سرگیری مذاکرات سه‌جانبه برای پایان جنگ موافقت کرد"
+  ]
+ ],
+ "usa-today": [
+  [
+   "Bring on the Fall Classic",
+   "بفرمایید، فینال پاییزی بیسبال"
+  ],
+  [
+   "Milwaukee Brewers and Tampa Bay Rays each hope to cap off their epic seasons with their first-ever World Series title",
+   "میلواکی برورز و تامپا بی ریز هر دو امیدوارند فصل حماسی خود را با نخستین قهرمانی سری جهانی به پایان برسانند"
+  ],
+  [
+   "Jenna Ortega lightens up",
+   "جنا اورتگا سبک‌بال می‌شود"
+  ],
+  [
+   "We follow Selma's transplant journey",
+   "همراه با سفر پیوند عضو سلما"
+  ],
+  [
+   "Pharmacies face GLP-1 pressures",
+   "داروخانه‌ها زیر فشار داروهای جی‌ال‌پی-۱"
+  ],
+  [
+   "Poll: Customer service quality getting worse",
+   "نظرسنجی: کیفیت خدمات مشتریان بدتر می‌شود"
+  ],
+  [
+   "Trump takes a deep-dive gamble",
+   "ترامپ دست به قمار در اعماق دریا می‌زند"
+  ]
+ ],
+ "financial-times": [
+  [
+   "Houthi attacks: US orders staff to leave Saudi",
+   "حملات حوثی‌ها: آمریکا دستور خروج کارکنانش از عربستان را داد"
+  ],
+  [
+   "Barclays to axe 5,000 jobs this year in AI adoption and cost-cutting overhaul",
+   "بارکلیز امسال در پی به‌کارگیری هوش مصنوعی و بازسازی برای کاهش هزینه ۵ هزار شغل را حذف می‌کند"
+  ],
+  [
+   "Meta AI spending plans trigger steep US tech sell-off as investor fears grow",
+   "برنامه‌های هزینه‌کرد متا در هوش مصنوعی با بالا گرفتن نگرانی سرمایه‌گذاران فروش سنگین سهام فناوری آمریکا را رقم زد"
+  ],
+  [
+   "Mexico-China trade weathers Trump storm",
+   "تجارت مکزیک و چین از طوفان ترامپ جان سالم به در برد"
+  ],
+  [
+   "AI needs better oversight than banking",
+   "هوش مصنوعی به نظارتی بهتر از بانکداری نیاز دارد"
+  ],
+  [
+   "Netflix confronts internal dramas as big hits dry up",
+   "نتفلیکس با ته کشیدن آثار پربیننده با درام‌های درونی روبه‌روست"
+  ]
+ ],
+ "the-herald-scotland": [
+  [
+   "Homeless deaths data faces cut despite housing emergency",
+   "با وجود وضعیت اضطراری مسکن، آمار مرگ بی‌خانمان‌ها کاهش می‌یابد"
+  ],
+  [
+   "'Scandal' claim as Scots figures could be released just once every two years",
+   "ادعای «رسوایی»: آمار اسکاتلند شاید فقط هر دو سال یک بار منتشر شود"
+  ],
+  [
+   "Question mark over likelihood of sex offender appeals",
+   "ابهام دربارهٔ احتمال فرجام‌خواهی مجرمان جنسی"
+  ],
+  [
+   "Greens faced 'dire' finances before election",
+   "سبزها پیش از انتخابات با وضع مالی «وخیم» روبه‌رو بودند"
+  ],
+  [
+   "Cosgrove blasts BBC Scotland",
+   "کاسگرو بی‌بی‌سی اسکاتلند را به باد انتقاد گرفت"
+  ],
+  [
+   "John Lennon's 'twisted' whisky bottle goes on display in museum",
+   "بطری ویسکی «پیچ‌خوردهٔ» جان لنون در موزه به نمایش درآمد"
+  ],
+  [
+   "Art school urged to give up ownership of 'The Mack'",
+   "از مدرسهٔ هنر خواسته شد از مالکیت «مک» دست بکشد"
+  ]
+ ],
+ "the-national-scotland": [
+  [
+   "Chancellor on Scotland's lost £1 trillion oil & gas fund",
+   "وزیر دارایی و صندوق از دست رفتهٔ یک تریلیون پوندی نفت و گاز اسکاتلند"
+  ],
+  [
+   "Healey's admission shows Scots had 'the wool pulled over their eyes', say SNP",
+   "حزب ملی اسکاتلند: اعتراف هیلی نشان می‌دهد سر اسکاتلندی‌ها کلاه رفته است"
+  ],
+  [
+   "SNP MP: 'Scotland won't get fooled again ...'",
+   "نمایندهٔ حزب ملی اسکاتلند: «اسکاتلند دیگر فریب نمی‌خورد...»"
+  ],
+  [
+   "Scottish Greens may move to back new nuclear",
+   "سبزهای اسکاتلند ممکن است از نیروگاه هسته‌ای جدید حمایت کنند"
+  ],
+  [
+   "BBC: Row over energy debate with no Scots",
+   "بی‌بی‌سی: جنجال بر سر مناظرهٔ انرژی بدون حضور اسکاتلندی‌ها"
+  ],
+  [
+   "Train drivers' ultimatum for Flynn",
+   "اولتیماتوم رانندگان قطار به فلین"
+  ]
+ ],
+ "le-figaro": [
+  [
+   "Dette : les émeutes renforcent la défiance des marchés",
+   "بدهی: شورش‌ها بی‌اعتمادی بازارها را تشدید می‌کند"
+  ],
+  [
+   "Après le retour de Léon XIV au Vatican, la joie et le soulagement des catholiques",
+   "پس از بازگشت لئوی چهاردهم به واتیکان، شادی و آسودگی کاتولیک‌ها"
+  ],
+  [
+   "À Orléans, le congrès du RN sous la menace de l'ultragauche",
+   "کنگرهٔ اجتماع ملی در اورلئان زیر تهدید چپ افراطی"
+  ],
+  [
+   "La gauche processionnaire",
+   "چپِ صف‌بسته"
+  ],
+  [
+   "Tour de France : le parcours 2027 est-il taillé pour le Français Paul Seixas ?",
+   "تور دو فرانس: آیا مسیر ۲۰۲۷ به قامت پل سکساس فرانسوی دوخته شده است؟"
+  ],
+  [
+   "Espionnage : la Hongrie exhume les fantômes de son passé communiste",
+   "جاسوسی: مجارستان اشباح گذشتهٔ کمونیستی‌اش را از گور بیرون می‌کشد"
+  ]
+ ],
+ "liberation": [
+  [
+   "Couvre-feux, manifs interdites : le durcissement jusqu'où ?",
+   "حکومت نظامی شبانه، ممنوعیت تظاهرات: سخت‌گیری تا کجا؟"
+  ],
+  [
+   "Israël : les élections vues par un écrivain palestinien",
+   "اسرائیل: انتخابات از نگاه یک نویسندهٔ فلسطینی"
+  ],
+  [
+   "Musique : de La Fève à Philippe Katerine, le rap est dans nos pages",
+   "موسیقی: از لا فِو تا فیلیپ کاترین، رپ در صفحات ما"
+  ]
+ ],
+ "les-echos": [
+  [
+   "Un geste à l'étude sur le SMIC",
+   "بررسی امتیازی دربارهٔ حداقل دستمزد"
+  ],
+  [
+   "Coup de pouce pour le nucléaire d'EDF",
+   "تقویت برنامهٔ هسته‌ای ای‌دی‌اف"
+  ],
+  [
+   "Les jardineries confrontées à une interminable crise",
+   "فروشگاه‌های لوازم باغبانی گرفتار بحرانی بی‌پایان"
+  ],
+  [
+   "Assurance : le nouveau régime émeutes bientôt opérationnel",
+   "بیمه: نظام تازهٔ پوشش خسارت شورش به‌زودی عملیاتی می‌شود"
+  ],
+  [
+   "L'inflation nourrit la hausse des forfaits mobiles",
+   "تورم به افزایش بهای بسته‌های تلفن همراه دامن می‌زند"
+  ],
+  [
+   "Besoin d'un retour à l'ordre",
+   "نیاز به بازگشت نظم"
+  ],
+  [
+   "Patrimoine : dossier spécial : préparer son départ à la retraite",
+   "دارایی: پروندهٔ ویژه، آمادگی برای بازنشستگی"
+  ]
+ ],
+ "suddeutsche-zeitung": [
+  [
+   "Bürgergeld-Reform spart nichts ein",
+   "اصلاح مستمری شهروندی صرفه‌جویی به بار نمی‌آورد"
+  ],
+  [
+   "Vor der Wahl am Dienstag: Netanjahu wirbt für neuen Iran-Krieg",
+   "پیش از انتخابات سه‌شنبه: نتانیاهو برای جنگی تازه با ایران تبلیغ می‌کند"
+  ],
+  [
+   "Stolz und Hilflosigkeit",
+   "غرور و درماندگی"
+  ],
+  [
+   "Wenn die KI in die Babypause geht",
+   "وقتی هوش مصنوعی به مرخصی زایمان می‌رود"
+  ],
+  [
+   "Viessmann steigt bei FC Bayern ein",
+   "ویسمان سهامدار بایرن مونیخ می‌شود"
+  ],
+  [
+   "Sacharow-Preis für Strafgerichtshof",
+   "جایزهٔ ساخاروف به دیوان کیفری بین‌المللی رسید"
+  ]
+ ],
+ "die-welt": [
+  [
+   "„Während Witkoff verhandelt, haben wir es richtig abgekriegt“",
+   "«در حالی که ویتکاف مذاکره می‌کند، ما حسابی ضربه خوردیم»"
+  ],
+  [
+   "Linken-Chefin nennt Frankreich als Vorbild",
+   "رهبر حزب چپ فرانسه را الگو می‌خواند"
+  ],
+  [
+   "Unerträgliche Steuerbigotterie",
+   "ریاکاری مالیاتی تحمل‌ناپذیر"
+  ],
+  [
+   "Deutschlands Kampfjet-Projekt bekommt eine klare Richtung",
+   "پروژهٔ جنگندهٔ آلمان مسیری روشن پیدا می‌کند"
+  ],
+  [
+   "Wie Europa beim autonomen Fahren aufholen will",
+   "اروپا چگونه می‌خواهد در رانندگی خودران عقب‌ماندگی را جبران کند"
+  ]
+ ],
+ "bild": [
+  [
+   "Räuber ermordet Rentnerin Elke (84)",
+   "سارق الکهٔ بازنشسته (۸۴ ساله) را به قتل رساند"
+  ],
+  [
+   "„61 Jahre war sie meine Liebe“, weint ihr Mann",
+   "همسرش گریان: «۶۱ سال عشق من بود»"
+  ],
+  [
+   "250-Mio.-Deal für die Bayern",
+   "قرارداد ۲۵۰ میلیونی برای بایرن"
+  ],
+  [
+   "Frühere Rente soll viel teurer werden",
+   "بازنشستگی زودهنگام بسیار گران‌تر می‌شود"
+  ],
+  [
+   "Angst ums Internet",
+   "نگرانی برای اینترنت"
+  ],
+  [
+   "Neues Bürgergeld bringt offenbar kaum Entlastung",
+   "مستمری شهروندی جدید ظاهراً گره چندانی نمی‌گشاید"
+  ],
+  [
+   "Massiver Batteriespeicher-Boom in Deutschland",
+   "رونق گستردهٔ ذخیره‌سازهای باتری در آلمان"
+  ],
+  [
+   "Tankrabatt wirkt bei Benzin – bei Diesel nur teilweise",
+   "تخفیف سوخت در بنزین اثر کرد، در گازوئیل فقط تا حدی"
+  ]
+ ],
+ "handelsblatt": [
+  [
+   "Källenius' Rettungsplan",
+   "طرح نجات کلنیوس"
+  ],
+  [
+   "Schnellere Produktion, autonomes Fahren, verschärftes Sparprogramm: So will der Mercedes-Chef die Krise beenden",
+   "تولید سریع‌تر، رانندگی خودران، برنامهٔ ریاضتی سخت‌تر: مدیرعامل مرسدس این‌گونه می‌خواهد به بحران پایان دهد"
+  ]
+ ],
+ "china-daily": [
+  [
+   "Xi urges drawing on Long March spirit",
+   "شی خواستار الهام گرفتن از روح راه‌پیمایی طولانی شد"
+  ],
+  [
+   "He says inspiration of 'stirring heroic epic' provides wisdom and strength to forge ahead",
+   "او می‌گوید الهام از «حماسهٔ قهرمانانهٔ شورانگیز» خرد و توان پیشروی می‌بخشد"
+  ],
+  [
+   "Innovation key driver of growth in APEC trade",
+   "نوآوری، پیشران اصلی رشد تجارت در اپک"
+  ],
+  [
+   "Skyward bound: Hainan seeks to establish a full commercial space chain",
+   "رو به آسمان: هاینان در پی ایجاد زنجیرهٔ کامل فضایی تجاری"
+  ],
+  [
+   "Beijing, Brussels pledge climate cooperation",
+   "پکن و بروکسل به همکاری اقلیمی متعهد شدند"
+  ],
+  [
+   "Golden triumph: China wins first women's team world gymnastics title in 20 years",
+   "پیروزی طلایی: چین پس از ۲۰ سال قهرمان تیمی ژیمناستیک زنان جهان شد"
+  ],
+  [
+   "From pond to pot: Hubei's lotus",
+   "از برکه تا دیگ: نیلوفر آبی هوبی"
+  ]
+ ],
+ "global-times": [
+  [
+   "Xi calls for new achievements on new Long March",
+   "شی خواستار دستاوردهای تازه در راه‌پیمایی طولانی نوین شد"
+  ],
+  [
+   "'Only by remembering history can we create a brighter future'",
+   "«تنها با به یاد سپردن تاریخ می‌توانیم آینده‌ای روشن‌تر بسازیم»"
+  ],
+  [
+   "EC chief slammed for China trade-curb threat despite hard-won talks",
+   "رئیس کمیسیون اروپا به سبب تهدید به محدودیت تجاری علیه چین، به‌رغم گفت‌وگوهای دشوار، آماج انتقاد شد"
+  ],
+  [
+   "China, Djibouti issue joint communique",
+   "چین و جیبوتی بیانیهٔ مشترک صادر کردند"
+  ],
+  [
+   "China, Indonesia explore new paths for cooperation",
+   "چین و اندونزی راه‌های تازهٔ همکاری را می‌کاوند"
+  ],
+  [
+   "Mechanized, intelligent farming drives Xinjiang's fall harvest",
+   "کشاورزی ماشینی و هوشمند برداشت پاییزی سین‌کیانگ را پیش می‌برد"
+  ]
+ ],
+ "people-s-daily": [
+  [
+   "纪念中国工农红军长征胜利90周年大会在京隆重举行",
+   "مراسم بزرگداشت نودمین سالگرد پیروزی راه‌پیمایی طولانی ارتش سرخ کارگران و دهقانان چین با شکوه در پکن برگزار شد"
+  ],
+  [
+   "习近平发表重要讲话",
+   "شی جین‌پینگ سخنرانی مهمی ایراد کرد"
+  ],
+  [
+   "李强王沪宁蔡奇丁薛祥李希韩正出席 赵乐际主持",
+   "لی چیانگ، وانگ هونینگ، تسای چی، دینگ شوئه‌شیانگ، لی شی و هان جنگ حضور داشتند؛ جائو له‌جی ریاست مراسم را بر عهده داشت"
+  ],
+  [
+   "在新的长征路上奋力创造新的辉煌",
+   "در راه طولانی نوین برای آفرینش شکوهی تازه بکوشیم"
+  ],
+  [
+   "李强结束出访回到北京",
+   "لی چیانگ سفر خارجی خود را به پایان برد و به پکن بازگشت"
+  ],
+  [
+   "赵乐际主持召开十四届全国人大常委会第七十四次委员长会议",
+   "جائو له‌جی هفتاد و چهارمین نشست رؤسای کمیتهٔ دائمی چهاردهمین کنگرهٔ ملی خلق را برگزار کرد"
+  ],
+  [
+   "决定十四届全国人大常委会第二十五次会议11月2日至6日在京举行",
+   "بیست و پنجمین اجلاس کمیتهٔ دائمی کنگرهٔ ملی خلق از ۲ تا ۶ نوامبر در پکن برگزار می‌شود"
+  ]
+ ],
+ "south-china-morning-post": [
+  [
+   "'Incisive' blaze report singles out four bodies",
+   "گزارش «موشکافانهٔ» آتش‌سوزی چهار نهاد را مقصر می‌داند"
+  ],
+  [
+   "Tai Po fire document does not name bureau secretaries, insider says, as John Lee vows to study the panel's findings before revealing reform plans and pursuing accountability",
+   "به گفتهٔ یک منبع آگاه، گزارش آتش‌سوزی تای‌پو نامی از وزیران نمی‌برد؛ جان لی وعده داد پیش از اعلام برنامهٔ اصلاحات و پیگیری مسئولیت‌ها یافته‌های کمیته را بررسی کند"
+  ],
+  [
+   "Philippine envoy signals 'Squad' talks before Asean meets",
+   "سفیر فیلیپین از گفت‌وگوهای گروه «اسکواد» پیش از نشست آسه‌آن خبر داد"
+  ],
+  [
+   "Ambassador to US also wants regional bloc to be more Nato-like in handling its own security",
+   "سفیر این کشور در آمریکا همچنین خواهان آن است که این بلوک منطقه‌ای در تأمین امنیت خود بیشتر شبیه ناتو باشد"
+  ],
+  [
+   "China, Djibouti back 'constructive efforts' to keep shipping lanes open",
+   "چین و جیبوتی از «تلاش‌های سازنده» برای باز نگه داشتن مسیرهای کشتیرانی حمایت کردند"
+  ],
+  [
+   "Are delayed payments holding back entrepreneurs on the mainland?",
+   "آیا تأخیر در پرداخت‌ها کارآفرینان سرزمین اصلی چین را عقب نگه داشته است؟"
+  ]
+ ],
+ "the-japan-times": [
+  [
+   "PM now has to prove she's no big spender",
+   "نخست‌وزیر اکنون باید ثابت کند اهل ولخرجی نیست"
+  ],
+  [
+   "Takaichi must balance policies with fiscal realities",
+   "تاکائیچی باید میان سیاست‌ها و واقعیت‌های مالی توازن برقرار کند"
+  ],
+  [
+   "Trump envoy praises Putin over release of hostage to U.S.",
+   "فرستادهٔ ترامپ پوتین را به خاطر آزادی گروگان آمریکایی ستود"
+  ],
+  [
+   "Wide range of websites halted after vulnerabilities revealed",
+   "پس از افشای آسیب‌پذیری‌ها، شمار زیادی از وب‌سایت‌ها از کار افتادند"
+  ],
+  [
+   "Japan and U.S. to conduct drills during typhoon",
+   "ژاپن و آمریکا در جریان توفان رزمایش برگزار می‌کنند"
+  ],
+  [
+   "National: Danger as part of the appeal",
+   "داخلی: خطر به‌عنوان بخشی از جذابیت"
+  ],
+  [
+   "Spotlight: Thinking about death",
+   "در کانون توجه: اندیشیدن به مرگ"
+  ]
+ ],
+ "yomiuri-shinbun": [
+  [
+   "「PHP」サーバー攻撃複数",
+   "حملات متعدد به سرورهای «پی‌اچ‌پی»"
+  ],
+  [
+   "省庁、企業 脆弱性修正急ぐ",
+   "وزارتخانه‌ها و شرکت‌ها برای رفع آسیب‌پذیری شتاب می‌کنند"
+  ],
+  [
+   "中国系ハッカー集団特定 MS調査 AI使い大規模攻撃",
+   "تحقیق مایکروسافت گروه هکری وابسته به چین را شناسایی کرد؛ حملهٔ گسترده با هوش مصنوعی"
+  ],
+  [
+   "米「悪用試み 数百万件」",
+   "آمریکا: «میلیون‌ها مورد تلاش برای سوءاستفاده»"
+  ],
+  [
+   "新教科書「紙中心」素案 デジタルは「補完」",
+   "پیش‌نویس کتاب‌های درسی جدید «کاغذمحور»؛ دیجیتال «مکمل» می‌شود"
+  ],
+  [
+   "巨人 織田1位指名",
+   "یومیوری جاینتس اودا را در انتخاب نخست درفت برگزید"
+  ],
+  [
+   "ICCにサハロフ賞",
+   "جایزهٔ ساخاروف به دیوان کیفری بین‌المللی"
+  ]
+ ],
+ "mainichi-shinbun": [
+  [
+   "失効免許 公安で不正流用",
+   "سوءاستفادهٔ پلیس امنیتی از گواهینامه‌های باطل‌شده"
+  ],
+  [
+   "監視対象の顔写真収集 神奈川県警",
+   "پلیس استان کاناگاوا عکس چهرهٔ افراد تحت نظر را گردآوری کرد"
+  ],
+  [
+   "30年前から常態化か",
+   "رویه‌ای که شاید از ۳۰ سال پیش عادی شده بود"
+  ],
+  [
+   "企業、政府HP一時停止 PHP脆弱性 安全確保措置",
+   "توقف موقت وب‌سایت‌های شرکت‌ها و دولت؛ اقدام احتیاطی در برابر آسیب‌پذیری پی‌اچ‌پی"
+  ],
+  [
+   "中国政府系サイバー攻撃 ハッカー集団 マイクロソフト確認",
+   "مایکروسافت حملهٔ سایبری گروه هکری وابسته به دولت چین را تأیید کرد"
+  ],
+  [
+   "古都 流れゆく千年",
+   "پایتخت کهن، هزار سالی که می‌گذرد"
+  ]
+ ],
+ "gulf-news": [
+  [
+   "Houthis intensify attacks as Aramco evacuates HQ",
+   "حوثی‌ها حملات را تشدید کردند و آرامکو مقر خود را تخلیه کرد"
+  ],
+  [
+   "4 killed in airport, oilfield incidents; US orders embassy staff to leave",
+   "۴ کشته در حوادث فرودگاه و میدان نفتی؛ آمریکا دستور خروج کارکنان سفارت را داد"
+  ],
+  [
+   "Khaled holds talks with Greek Prime Minister",
+   "شیخ خالد با نخست‌وزیر یونان گفت‌وگو کرد"
+  ],
+  [
+   "UAE nominates Lana for UN chief",
+   "امارات لانا را نامزد دبیرکلی سازمان ملل کرد"
+  ],
+  [
+   "'Immensely proud of Abu Dhabi GP success'",
+   "«به موفقیت گرندپری ابوظبی بسیار افتخار می‌کنم»"
+  ],
+  [
+   "Website blackouts: PHP2Shell bug is your problem, too",
+   "خاموشی وب‌سایت‌ها: باگ پی‌اچ‌پی‌تو‌شل مشکل شما هم هست"
+  ],
+  [
+   "UAE moves to regulate traditional medicine with new standards",
+   "امارات با استانداردهای تازه طب سنتی را قانونمند می‌کند"
+  ]
+ ],
+ "khaleej-times": [],
+ "the-national-abu-dhabi": [
+  [
+   "UAE police lead $39bn crackdown on digital fraudsters",
+   "پلیس امارات پیشگام سرکوب ۳۹ میلیارد دلاری کلاهبرداران دیجیتال"
+  ],
+  [
+   "Emirates joins Interpol and dozens of countries to tackle online crime",
+   "امارات همراه با اینترپل و ده‌ها کشور به مقابله با جرایم آنلاین می‌پردازد"
+  ],
+  [
+   "Emirati minister Nusseibeh launches bid to succeed Guterres at helm of UN",
+   "نسیبه، وزیر اماراتی، نامزدی خود را برای جانشینی گوترش در رأس سازمان ملل آغاز کرد"
+  ],
+  [
+   "President honours victorious athletes",
+   "رئیس کشور از ورزشکاران پیروز تجلیل کرد"
+  ],
+  [
+   "Syria sends troops to Druze heartland amid Israeli army activity",
+   "سوریه در پی تحرکات ارتش اسرائیل نیرو به قلب مناطق دروزی‌نشین فرستاد"
+  ],
+  [
+   "Dubai pledges Dh150m to humanitarian efforts",
+   "دبی ۱۵۰ میلیون درهم برای امور بشردوستانه تعهد کرد"
+  ],
+  [
+   "IMF analyses war's effect on economies in region",
+   "صندوق بین‌المللی پول اثر جنگ بر اقتصادهای منطقه را بررسی می‌کند"
+  ]
+ ],
+ "hurriyet": [
+  [
+   "İlk buluşma İstanbul'da",
+   "نخستین دیدار در استانبول"
+  ],
+  [
+   "Galatasaray Lille'i sildi",
+   "گالاتاسرای لیل را درهم کوبید"
+  ],
+  [
+   "Fırtına'dan 2'de 2",
+   "«طوفان» دو بازی، دو برد"
+  ],
+  [
+   "Türkiye bu ikiliyi konuşacak",
+   "ترکیه از این زوج سخن خواهد گفت"
+  ],
+  [
+   "Kanada ile yeni dönem",
+   "دوران تازه با کانادا"
+  ],
+  [
+   "Eski milletvekiline 'FON'dan gözaltı",
+   "بازداشت نمایندهٔ پیشین در پروندهٔ «صندوق»"
+  ],
+  [
+   "Kendi çocuklarını böyle koruyorlar",
+   "این‌گونه از فرزندان خود محافظت می‌کنند"
+  ],
+  [
+   "Dijital dünya ve TV yasak",
+   "دنیای دیجیتال و تلویزیون ممنوع"
+  ]
+ ]
+}

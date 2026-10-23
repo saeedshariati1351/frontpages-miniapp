@@ -1,5 +1,20 @@
 [
  {
+  "date": "2026-10-23",
+  "date_fa": "جمعه ۱ آبان ۱۴۰۵",
+  "month_fa": "آبان ۱۴۰۵",
+  "jm": "1405-08",
+  "day_fa": "۱",
+  "weekday_fa": "جمعه",
+  "papers": 24,
+  "headlines": 145,
+  "thumbs": [
+   "covers/2026-10-23/the-new-york-times.jpg",
+   "covers/2026-10-23/the-washington-post.jpg",
+   "covers/2026-10-23/usa-today.jpg"
+  ]
+ },
+ {
   "date": "2026-10-22",
   "date_fa": "پنجشنبه ۳۰ مهر ۱۴۰۵",
   "month_fa": "مهر ۱۴۰۵",
