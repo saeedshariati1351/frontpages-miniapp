@@ -66,6 +66,11 @@ def chrome_render(sub_url, svg_url, w, h):
     svg = inline_svg(svg_url)
     svg = re.sub(r"<svg\b", f'<svg style="position:absolute;left:0;top:0;width:{w}px;height:{h}px"', svg, count=1)
     print("   svg bytes", len(svg), "fonts", svg.count("font/"))
+    if os.environ.get("DEBUG_SVG"):
+        dbg = re.sub(r"base64,[A-Za-z0-9+/=]{200,}", "base64,...", svg)
+        print("   SVG HEAD:", dbg[:2500])
+        print("   SVG TEXT SAMPLE:", re.findall(r"<text[^>]*>.{0,200}", dbg)[:3])
+        print("   SVG TAIL:", dbg[-800:])
     with tempfile.TemporaryDirectory() as d:
         page = os.path.join(d, "p.html")
         open(page, "w").write(f'''<!doctype html><html><body style="margin:0">
