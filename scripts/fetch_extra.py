@@ -8,7 +8,7 @@ Usage: python3 scripts/fetch_extra.py YYYY-MM-DD [YYYY-MM-DD ...]
 Adds covers/<date>/<slug>.jpg and merges the entry into data/<date>.covers.json.
 Existing covers are never replaced or removed.
 """
-import datetime, io, json, os, re, subprocess, sys, tempfile, urllib.request
+import datetime, io, json, os, re, sys, urllib.request
 from PIL import Image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -29,12 +29,10 @@ def top_crop(im):
 
 
 def pdf_first_page(data):
-    with tempfile.TemporaryDirectory() as d:
-        p = os.path.join(d, "a.pdf")
-        open(p, "wb").write(data)
-        subprocess.run(["pdftoppm", "-f", "1", "-l", "1", "-r", "110", "-png", p, os.path.join(d, "pg")], check=True)
-        f = sorted(x for x in os.listdir(d) if x.startswith("pg"))[0]
-        return Image.open(os.path.join(d, f)).copy()
+    import fitz  # pymupdf
+    doc = fitz.open(stream=data, filetype="pdf")
+    pix = doc[0].get_pixmap(dpi=110)
+    return Image.open(io.BytesIO(pix.tobytes("png"))).copy()
 
 
 # ---------- Asharq Al-Awsat (aawsat.com FlippingBook issues) ----------
