@@ -203,6 +203,108 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-10-22/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Widely condemned ad stokes Ohio race",
+       "fa": "آگهی‌ای که با محکومیت گسترده روبه‌رو شد رقابت اوهایو را داغ کرد",
+       "url": "https://duckduckgo.com/?q=%5CWidely%20condemned%20ad%20stokes%20Ohio%20race%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Backlash even from Republicans, but Vance defends it",
+       "fa": "واکنش منفی حتی از سوی جمهوری‌خواهان، اما ونس از آن دفاع می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CBacklash%20even%20from%20Republicans%2C%20but%20Vance%20defends%20it%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "More heat issues at facility after death",
+       "fa": "مشکلات تازهٔ گرما در مرکز نگهداری پس از یک مرگ",
+       "url": "https://duckduckgo.com/?q=%5CMore%20heat%20issues%20at%20facility%20after%20death%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Suit accuses ex-R.I. bishop of sex abuse",
+       "fa": "شکایتی اسقف پیشین رود آیلند را به سوءاستفادهٔ جنسی متهم می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CSuit%20accuses%20ex-R.I.%20bishop%20of%20sex%20abuse%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Showing their colors",
+       "fa": "رنگ‌هایشان را به نمایش می‌گذارند",
+       "url": "https://duckduckgo.com/?q=%5CShowing%20their%20colors%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Candidates use socials to engage the unengaged",
+       "fa": "نامزدها با شبکه‌های اجتماعی سراغ بی‌اعتناها می‌روند",
+       "url": "https://duckduckgo.com/?q=%5CCandidates%20use%20socials%20to%20engage%20the%20unengaged%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "A chance for AI to come out and play",
+       "fa": "فرصتی برای هوش مصنوعی تا به میدان بیاید",
+       "url": "https://duckduckgo.com/?q=%5CA%20chance%20for%20AI%20to%20come%20out%20and%20play%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-10-22/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Johnson pitches 'fair share' plan",
+       "fa": "جانسون طرح «سهم منصفانه» را مطرح کرد",
+       "url": "https://duckduckgo.com/?q=%5CJohnson%20pitches%20%27fair%20share%27%20plan%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Eyes on future: Mayor vows head tax would be investment in city's children",
+       "fa": "نگاه به آینده: شهردار وعده می‌دهد مالیات سرانه سرمایه‌گذاری برای کودکان شهر باشد",
+       "url": "https://duckduckgo.com/?q=%5CEyes%20on%20future%3A%20Mayor%20vows%20head%20tax%20would%20be%20investment%20in%20city%27s%20children%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "'Out of whack': $17.6 billion target faces long road to approval in split council",
+       "fa": "«نامتوازن»: هدف ۱۷٫۶ میلیارد دلاری در شورای دودسته راهی دراز تا تصویب دارد",
+       "url": "https://duckduckgo.com/?q=%5C%27Out%20of%20whack%27%3A%20%2417.6%20billion%20target%20faces%20long%20road%20to%20approval%20in%20split%20council%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Putin agrees to new talks",
+       "fa": "پوتین با مذاکرات تازه موافقت کرد",
+       "url": "https://duckduckgo.com/?q=%5CPutin%20agrees%20to%20new%20talks%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Zelenskyy sought summit with US to break impasse",
+       "fa": "زلنسکی برای شکستن بن‌بست خواستار نشست با آمریکا شده بود",
+       "url": "https://duckduckgo.com/?q=%5CZelenskyy%20sought%20summit%20with%20US%20to%20break%20impasse%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Williams, Maye a budding rivalry?",
+       "fa": "ویلیامز و مِی؛ رقابتی در حال شکل‌گیری؟",
+       "url": "https://duckduckgo.com/?q=%5CWilliams%2C%20Maye%20a%20budding%20rivalry%3F%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
     }
    ]
   },
@@ -548,6 +650,48 @@
        "o": "Boeing obtient enfin le feu vert pour son stratégique 737 MAX 10",
        "fa": "بوئینگ سرانجام برای هواپیمای راهبردی ۷۳۷ مکس ۱۰ مجوز گرفت",
        "url": "https://duckduckgo.com/?q=%5CBoeing%20obtient%20enfin%20le%20feu%20vert%20pour%20son%20strat%C3%A9gique%20737%20MAX%2010%20site%3Alesechos.fr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "le-point",
+     "name": "Le Point",
+     "fa": "لوپوئن (هفته‌نامه)",
+     "site": "https://www.lepoint.fr",
+     "img": "covers/2026-10-22/le-point.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/le-point/",
+     "headlines": [
+      {
+       "o": "Mais qu'a-t-on fait de la France ?",
+       "fa": "با فرانسه چه کرده‌ایم؟",
+       "url": "https://duckduckgo.com/?q=%5CMais%20qu%27a-t-on%20fait%20de%20la%20France%20%3F%20site%3Alepoint.fr",
+       "direct": false
+      },
+      {
+       "o": "Vingt ans d'effacement de l'État et de l'autorité. Une histoire de la violence politique",
+       "fa": "بیست سال کم‌رنگ شدن دولت و اقتدار؛ تاریخچه‌ای از خشونت سیاسی",
+       "url": "https://duckduckgo.com/?q=%5CVingt%20ans%20d%27effacement%20de%20l%27%C3%89tat%20et%20de%20l%27autorit%C3%A9.%20Une%20histoire%20de%20la%20violence%20politique%20site%3Alepoint.fr",
+       "direct": false
+      },
+      {
+       "o": "David Lisnard : enquête sur le candidat qui rebat les cartes à droite",
+       "fa": "داوید لیسنار: تحقیقی دربارهٔ نامزدی که معادلات راست را به هم می‌زند",
+       "url": "https://duckduckgo.com/?q=%5CDavid%20Lisnard%20%3A%20enqu%C3%AAte%20sur%20le%20candidat%20qui%20rebat%20les%20cartes%20%C3%A0%20droite%20site%3Alepoint.fr",
+       "direct": false
+      },
+      {
+       "o": "« Une présidentielle anticipée ? La question peut se poser »",
+       "fa": "«انتخابات زودهنگام ریاست‌جمهوری؟ این پرسش می‌تواند مطرح شود»",
+       "url": "https://duckduckgo.com/?q=%5C%C2%AB%20Une%20pr%C3%A9sidentielle%20anticip%C3%A9e%20%3F%20La%20question%20peut%20se%20poser%20%C2%BB%20site%3Alepoint.fr",
+       "direct": false
+      },
+      {
+       "o": "Économie : comment rebondir ? Le livre stimulant de François Villeroy de Galhau",
+       "fa": "اقتصاد: چگونه دوباره برخیزیم؟ کتاب الهام‌بخش فرانسوا ویلروا دو گالو",
+       "url": "https://duckduckgo.com/?q=%5C%C3%89conomie%20%3A%20comment%20rebondir%20%3F%20Le%20livre%20stimulant%20de%20Fran%C3%A7ois%20Villeroy%20de%20Galhau%20site%3Alepoint.fr",
        "direct": false
       }
      ]
@@ -1112,6 +1256,84 @@
        "o": "林氏、望まぬ「閣外放出」",
        "fa": "هایاشی ناخواسته از کابینه بیرون ماند؛ نخست‌وزیر از او نخواست بماند",
        "url": "https://duckduckgo.com/?q=%5C%E6%9E%97%E6%B0%8F%E3%80%81%E6%9C%9B%E3%81%BE%E3%81%AC%E3%80%8C%E9%96%A3%E5%A4%96%E6%94%BE%E5%87%BA%E3%80%8D%20site%3Amainichi.jp",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "عربستان سعودی",
+   "flag": "🇸🇦",
+   "papers": [
+    {
+     "slug": "asharq-al-awsat",
+     "name": "Asharq Al-Awsat",
+     "fa": "الشرق‌الاوسط",
+     "site": "https://aawsat.com",
+     "img": "covers/2026-10-22/asharq-al-awsat.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://aawsat.com/files/pdf/issue17495/index.html",
+     "headlines": [
+      {
+       "o": "طهران ترفع السقف قبل القرار الأميركي",
+       "fa": "تهران پیش از تصمیم آمریکا سقف خواسته‌هایش را بالا برد",
+       "url": "https://duckduckgo.com/?q=%5C%D8%B7%D9%87%D8%B1%D8%A7%D9%86%20%D8%AA%D8%B1%D9%81%D8%B9%20%D8%A7%D9%84%D8%B3%D9%82%D9%81%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1%20%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "ترمب عارض خطة إسرائيلية لقصف إيران... ونتنياهو أكد أن «إسقاط النظام هو الحل»",
+       "fa": "ترامپ با طرح اسرائیل برای بمباران ایران مخالفت کرد... و نتانیاهو تأکید کرد «سرنگونی نظام راه‌حل است»",
+       "url": "https://duckduckgo.com/?q=%5C%D8%AA%D8%B1%D9%85%D8%A8%20%D8%B9%D8%A7%D8%B1%D8%B6%20%D8%AE%D8%B7%D8%A9%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9%20%D9%84%D9%82%D8%B5%D9%81%20%D8%A5%D9%8A%D8%B1%D8%A7%D9%86...%20%D9%88%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88%20%D8%A3%D9%83%D8%AF%20%D8%A3%D9%86%20%C2%AB%D8%A5%D8%B3%D9%82%D8%A7%D8%B7%20%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%20%D9%87%D9%88%20%D8%A7%D9%84%D8%AD%D9%84%C2%BB%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "محادثات سعودية - فرنسية تناقش تنسيق الجهود",
+       "fa": "گفت‌وگوهای سعودی و فرانسوی دربارهٔ هماهنگ کردن تلاش‌ها",
+       "url": "https://duckduckgo.com/?q=%5C%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA%20%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%20-%20%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9%20%D8%AA%D9%86%D8%A7%D9%82%D8%B4%20%D8%AA%D9%86%D8%B3%D9%8A%D9%82%20%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "محمد بن سلمان بحث مع ماكرون التطورات... وتسلّم رسالة لخادم الحرمين من السيسي",
+       "fa": "محمد بن سلمان با مکرون دربارهٔ تحولات گفت‌وگو کرد... و پیام السیسی برای خادم حرمین را دریافت کرد",
+       "url": "https://duckduckgo.com/?q=%5C%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%A8%D8%AD%D8%AB%20%D9%85%D8%B9%20%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86%20%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA...%20%D9%88%D8%AA%D8%B3%D9%84%D9%91%D9%85%20%D8%B1%D8%B3%D8%A7%D9%84%D8%A9%20%D9%84%D8%AE%D8%A7%D8%AF%D9%85%20%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D9%8A%D9%86%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "استهداف حوثي لمطاري عدن والمكلا",
+       "fa": "حوثی‌ها فرودگاه‌های عدن و مکلا را هدف گرفتند",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81%20%D8%AD%D9%88%D8%AB%D9%8A%20%D9%84%D9%85%D8%B7%D8%A7%D8%B1%D9%8A%20%D8%B9%D8%AF%D9%86%20%D9%88%D8%A7%D9%84%D9%85%D9%83%D9%84%D8%A7%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "العراق يُضيّق على معابر إيران",
+       "fa": "عراق گذرگاه‌های مرزی با ایران را محدود می‌کند",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%20%D9%8A%D9%8F%D8%B6%D9%8A%D9%91%D9%82%20%D8%B9%D9%84%D9%89%20%D9%85%D8%B9%D8%A7%D8%A8%D8%B1%20%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "محادثات روسية - أميركية لإنقاذ عملية السلام",
+       "fa": "گفت‌وگوهای روسیه و آمریکا برای نجات روند صلح",
+       "url": "https://duckduckgo.com/?q=%5C%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA%20%D8%B1%D9%88%D8%B3%D9%8A%D8%A9%20-%20%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9%20%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0%20%D8%B9%D9%85%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "بوتين يتسلم وثائق من ويتكوف... وزيلينسكي يدعو لتجميد القتال",
+       "fa": "پوتین اسنادی از ویتکاف دریافت کرد... و زلنسکی خواستار توقف جنگ شد",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A8%D9%88%D8%AA%D9%8A%D9%86%20%D9%8A%D8%AA%D8%B3%D9%84%D9%85%20%D9%88%D8%AB%D8%A7%D8%A6%D9%82%20%D9%85%D9%86%20%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%81...%20%D9%88%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A%20%D9%8A%D8%AF%D8%B9%D9%88%20%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%AF%20%D8%A7%D9%84%D9%82%D8%AA%D8%A7%D9%84%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "البرهان يفتح باب العودة للسودانيين ويستبعد حمدوك",
+       "fa": "البرهان راه بازگشت سودانی‌ها را گشود و حمدوک را کنار گذاشت",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86%20%D9%8A%D9%81%D8%AA%D8%AD%20%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B9%D9%88%D8%AF%D8%A9%20%D9%84%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D9%8A%D9%86%20%D9%88%D9%8A%D8%B3%D8%AA%D8%A8%D8%B9%D8%AF%20%D8%AD%D9%85%D8%AF%D9%88%D9%83%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "انتخابات إسرائيل... ما هي وعود نتنياهو وآيزنكوت للناخبين؟",
+       "fa": "انتخابات اسرائیل... وعده‌های نتانیاهو و آیزنکوت به رأی‌دهندگان چیست؟",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84...%20%D9%85%D8%A7%20%D9%87%D9%8A%20%D9%88%D8%B9%D9%88%D8%AF%20%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88%20%D9%88%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA%20%D9%84%D9%84%D9%86%D8%A7%D8%AE%D8%A8%D9%8A%D9%86%D8%9F%20site%3Aaawsat.com",
        "direct": false
       }
      ]

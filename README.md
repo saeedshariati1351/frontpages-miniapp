@@ -10,14 +10,20 @@
 - `headlines/<تاریخ>.json` — تیترهای هر روزنامه: `[تیتر اصلی, ترجمهٔ فارسی, لینک اختیاری]`
 - `scripts/build_data.py` — ساختن `data/<تاریخ>.json`، `data/latest.json` و فهرست بایگانی `data/index.json`
 
-## به‌روزرسانی روزانه
+## به‌روزرسانی روزانه (دو نوبت: حدود ۹:۲۶ و ۱۹:۲۶ به وقت تهران)
+
+هر نوبت فقط روزنامه‌هایی را اضافه می‌کند که هنوز منتشر نشده‌اند؛ آنچه قبلاً منتشر شده دست نمی‌خورد. هر نوبت روز قبل را هم برای روزنامه‌های دیرآمده بررسی می‌کند.
 
 ```bash
-python3 scripts/fetch_covers.py 2026-10-22
-# نوشتن headlines/2026-10-22.json
-python3 scripts/build_data.py 2026-10-22
-python3 scripts/archive_shrink.py 2026-10-22   # روزهای قدیمی‌تر از ۳۰ روز سبک می‌شوند؛ هیچ روزی حذف نمی‌شود
-git add -A && git commit -m "2026-10-22" && git push
+# روزنامه‌های بیرون از frontpages.com (مثل الشرق‌الاوسط) در GitHub Actions:
+#   workflow «extra-covers» با ورودی dates="PREV DATE"
+python3 scripts/fetch_covers.py PREV && python3 scripts/fetch_covers.py DATE
+python3 scripts/headlines_todo.py DATE          # روزنامه‌هایی که هنوز تیتر ندارند
+python3 scripts/add_headlines.py DATE new.json  # افزودن تیترهای تازه بدون دست زدن به قبلی‌ها
+python3 scripts/build_data.py PREV && python3 scripts/build_data.py DATE
+python3 scripts/archive_shrink.py DATE   # روزهای قدیمی‌تر از ۳۰ روز سبک می‌شوند؛ هیچ روزی حذف نمی‌شود
 ```
+
+تاریخ هر جلد، تاریخ چاپ‌شده روی همان شماره است (نه روز بارگذاری)، پس شماره‌های عصرگاهیِ روز بعد (مثل لوموند و عرب نیوز) زیر تاریخ خودشان می‌روند.
 
 اگر برای تیتری لینک مستقیم داده نشود، لینک به نخستین نتیجهٔ همان تیتر در سایت خود روزنامه می‌رود.
