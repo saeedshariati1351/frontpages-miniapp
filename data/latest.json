@@ -187,6 +187,48 @@
      ]
     },
     {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-10-24/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Hope, despair for GOP voters in California",
+       "fa": "امید و ناامیدی رأی‌دهندگان جمهوری‌خواه در کالیفرنیا",
+       "url": "https://duckduckgo.com/?q=%5CHope%2C%20despair%20for%20GOP%20voters%20in%20California%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Billionaire tax faces a cash avalanche",
+       "fa": "بهمنی از پول در برابر مالیات میلیاردرها",
+       "url": "https://duckduckgo.com/?q=%5CBillionaire%20tax%20faces%20a%20cash%20avalanche%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Trump targets Senate race in Alaska",
+       "fa": "ترامپ انتخابات سنا در آلاسکا را هدف گرفت",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20targets%20Senate%20race%20in%20Alaska%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "$180-million water deal is under fire",
+       "fa": "قرارداد آب ۱۸۰ میلیون دلاری زیر آتش انتقاد",
+       "url": "https://duckduckgo.com/?q=%5C%24180-million%20water%20deal%20is%20under%20fire%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "West Bank crackdown",
+       "fa": "سرکوب در کرانهٔ باختری",
+       "url": "https://duckduckgo.com/?q=%5CWest%20Bank%20crackdown%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",
@@ -206,6 +248,144 @@
        "o": "Two top bureau officials charged with lying to Congress, covering up Hunter laptop",
        "fa": "دو مقام ارشد اف‌بی‌آی به دروغ‌گویی به کنگره و لاپوشانی ماجرای لپ‌تاپ هانتر متهم شدند",
        "url": "https://duckduckgo.com/?q=%5CTwo%20top%20bureau%20officials%20charged%20with%20lying%20to%20Congress%2C%20covering%20up%20Hunter%20laptop%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-10-24/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Cannabis foes' ads raise questions",
+       "fa": "آگهی‌های مخالفان ماری‌جوانا پرسش‌برانگیز است",
+       "url": "https://duckduckgo.com/?q=%5CCannabis%20foes%27%20ads%20raise%20questions%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "More issues detailed at assisted living home",
+       "fa": "مشکلات بیشتری در خانهٔ سالمندان آشکار شد",
+       "url": "https://duckduckgo.com/?q=%5CMore%20issues%20detailed%20at%20assisted%20living%20home%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Somerville sounds a warning to speeders on bike path",
+       "fa": "هشدار سامرویل به سرعت‌گیران در مسیر دوچرخه",
+       "url": "https://duckduckgo.com/?q=%5CSomerville%20sounds%20a%20warning%20to%20speeders%20on%20bike%20path%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Leaders in arts, science, business take a look ahead",
+       "fa": "رهبران هنر، علم و کسب‌وکار به آینده می‌نگرند",
+       "url": "https://duckduckgo.com/?q=%5CLeaders%20in%20arts%2C%20science%2C%20business%20take%20a%20look%20ahead%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-10-24/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Johnson eyes four more years",
+       "fa": "جانسون چهار سال دیگر را در نظر دارد",
+       "url": "https://duckduckgo.com/?q=%5CJohnson%20eyes%20four%20more%20years%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Proposals for census alarming advocates",
+       "fa": "پیشنهادهای مربوط به سرشماری مدافعان را نگران کرده است",
+       "url": "https://duckduckgo.com/?q=%5CProposals%20for%20census%20alarming%20advocates%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-10-24/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Philadelphia Museum of Art gets $20 million to expand learning space",
+       "fa": "موزهٔ هنر فیلادلفیا ۲۰ میلیون دلار برای گسترش فضای آموزشی دریافت کرد",
+       "url": "https://duckduckgo.com/?q=%5CPhiladelphia%20Museum%20of%20Art%20gets%20%2420%20million%20to%20expand%20learning%20space%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Trump says he told DOJ to file suit in Alaska",
+       "fa": "ترامپ می‌گوید به وزارت دادگستری دستور داده در آلاسکا شکایت کند",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20says%20he%20told%20DOJ%20to%20file%20suit%20in%20Alaska%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Former LGBTQ+ affairs director sues Parker administration",
+       "fa": "مدیر پیشین امور دگرباشان از دولت پارکر شکایت کرد",
+       "url": "https://duckduckgo.com/?q=%5CFormer%20LGBTQ%2B%20affairs%20director%20sues%20Parker%20administration%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Barkley hopes for Monday night return to Eagles lineup",
+       "fa": "بارکلی امیدوار است دوشنبه‌شب به ترکیب ایگلز بازگردد",
+       "url": "https://duckduckgo.com/?q=%5CBarkley%20hopes%20for%20Monday%20night%20return%20to%20Eagles%20lineup%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Hayes: LeBron James has made the Sixers a serious team",
+       "fa": "هِیز: لبرون جیمز سیکسرز را به تیمی جدی بدل کرده است",
+       "url": "https://duckduckgo.com/?q=%5CHayes%3A%20LeBron%20James%20has%20made%20the%20Sixers%20a%20serious%20team%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly's new pumpkin flinging contest",
+       "fa": "مسابقهٔ تازهٔ پرتاب کدوتنبل در فیلی",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%27s%20new%20pumpkin%20flinging%20contest%20site%3Ainquirer.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "houston-chronicle",
+     "name": "Houston Chronicle",
+     "fa": "هیوستون کرونیکل",
+     "site": "https://www.houstonchronicle.com",
+     "img": "covers/2026-10-24/houston-chronicle.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/houston-chronicle/",
+     "headlines": [
+      {
+       "o": "State's data on turnout lags counties'",
+       "fa": "آمار مشارکت ایالت از آمار شهرستان‌ها عقب است",
+       "url": "https://duckduckgo.com/?q=%5CState%27s%20data%20on%20turnout%20lags%20counties%27%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "County homes lacking AC take deadly toll",
+       "fa": "خانه‌های بی‌کولر شهرستان قربانی می‌گیرند",
+       "url": "https://duckduckgo.com/?q=%5CCounty%20homes%20lacking%20AC%20take%20deadly%20toll%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "County judge hopefuls spar over key issues",
+       "fa": "نامزدهای قضاوت شهرستان بر سر مسائل کلیدی درگیر شدند",
+       "url": "https://duckduckgo.com/?q=%5CCounty%20judge%20hopefuls%20spar%20over%20key%20issues%20site%3Ahoustonchronicle.com",
        "direct": false
       }
      ]
