@@ -1,0 +1,976 @@
+{
+ "the-new-york-times": [
+  [
+   "New Vaccine Offering Hope On Melanoma",
+   "واکسنی تازه که به درمان ملانوم امید می‌دهد"
+  ],
+  [
+   "Momentum Is Building for Cancer Therapies",
+   "درمان‌های سرطان شتاب می‌گیرند"
+  ],
+  [
+   "Trump's Threat Could Thwart Vote in Alaska",
+   "تهدید ترامپ ممکن است رأی‌گیری در آلاسکا را ناکام بگذارد"
+  ],
+  [
+   "Citing Similar Names, Seeks Block of Results in Event G.O.P. Senator Loses Narrowly",
+   "با استناد به نام‌های مشابه، در صورت شکست ناچیز سناتور جمهوری‌خواه خواستار توقف نتایج می‌شود"
+  ],
+  [
+   "Challenger Casts Himself as the Anti-Netanyahu",
+   "رقیب خود را «ضدنتانیاهو» معرفی می‌کند"
+  ],
+  [
+   "Eisenkot Has Lead, but His Low-Key Style Is Worrying Backers",
+   "آیزنکوت پیش است، اما سبک آرامش حامیانش را نگران کرده است"
+  ],
+  [
+   "For Talarico, Texas Record Tells 2 Stories",
+   "کارنامهٔ تالاریکو در تگزاس دو روایت دارد"
+  ],
+  [
+   "Latin America Grows to Like Crackdowns",
+   "آمریکای لاتین به سرکوب دل می‌بندد"
+  ],
+  [
+   "Big Names Flock to Florida",
+   "نام‌های بزرگ به فلوریدا هجوم می‌آورند"
+  ]
+ ],
+ "the-washington-post": [
+  [
+   "DOJ preps legal battle space in Alaska contest",
+   "وزارت دادگستری میدان نبرد حقوقی رقابت آلاسکا را آماده می‌کند"
+  ],
+  [
+   "Two Dan Sullivans are on Senate ballot",
+   "دو «دن سالیوان» در برگهٔ رأی سنا"
+  ],
+  [
+   "Would-be voters in limbo as new citizenships dive",
+   "با سقوط اعطای تابعیت، رأی‌دهندگان بالقوه بلاتکلیف مانده‌اند"
+  ],
+  [
+   "GOP braces for losses: Musk prepares for war",
+   "جمهوری‌خواهان خود را برای شکست آماده می‌کنند؛ ماسک برای جنگ"
+  ],
+  [
+   "New picture is emerging of how the air around us could harm the brain",
+   "تصویری تازه از آسیب هوای پیرامون ما به مغز پدیدار می‌شود"
+  ],
+  [
+   "Satellite access is still restricted, Ukraine says",
+   "اوکراین: دسترسی ماهواره‌ای همچنان محدود است"
+  ]
+ ],
+ "new-york-post": [
+  [
+   "Censored by the FBI",
+   "سانسورشده به دست اف‌بی‌آی"
+  ],
+  [
+   "Two top bureau officials charged with lying to Congress, covering up Hunter laptop",
+   "دو مقام ارشد اف‌بی‌آی به دروغ‌گویی به کنگره و لاپوشانی ماجرای لپ‌تاپ هانتر متهم شدند"
+  ]
+ ],
+ "the-herald-scotland": [
+  [
+   "Public sector reforms are branded 'nonsense'",
+   "اصلاحات بخش عمومی «یاوه» خوانده شد"
+  ],
+  [
+   "McKee told proposals risk total 'failure' by sidelining social care",
+   "به مک‌کی هشدار داده شد که طرح‌ها با کنار گذاشتن مراقبت اجتماعی به «شکست» کامل می‌انجامد"
+  ],
+  [
+   "Fears over Erasmus+ as university to 'slash' study abroad team",
+   "نگرانی دربارهٔ اراسموس‌پلاس با «کوچک‌سازی شدید» تیم تحصیل در خارج دانشگاه"
+  ],
+  [
+   "Hedge fund fails in bid to take over £1.1bn Trust",
+   "صندوق پوشش ریسک در تصاحب تراست ۱٫۱ میلیارد پوندی ناکام ماند"
+  ],
+  [
+   "Greer tells of Greens' cash battle before poll victories",
+   "گریر از نبرد مالی سبزها پیش از پیروزی‌های انتخاباتی می‌گوید"
+  ],
+  [
+   "Sturgeon hits out at Scots 'cringe factor'",
+   "استرجن به «خودکم‌بینی» اسکاتلندی‌ها می‌تازد"
+  ],
+  [
+   "Why would we do this to Scotland? Sam Heughan speaks of the 'poison' of data centres",
+   "چرا باید این بلا را سر اسکاتلند بیاوریم؟ سم هیوئن از «زهر» مراکز داده می‌گوید"
+  ],
+  [
+   "'It's beyond cool' – Why poetry open mic nights are increasing",
+   "«فراتر از باحال است»؛ چرا شب‌های شعرخوانی آزاد رو به افزایش است"
+  ]
+ ],
+ "the-national-scotland": [
+  [
+   "Scots trapped in West Bank",
+   "اسکاتلندی‌ها در کرانهٔ باختری گرفتار شدند"
+  ],
+  [
+   "Exclusive: Delegation tells of Israel's 'strangulating' lockdown",
+   "اختصاصی: هیئت از محاصرهٔ «خفه‌کنندهٔ» اسرائیل می‌گوید"
+  ],
+  [
+   "'I'm done with it': McCabe urges women to expose male comedians amid Angelone row",
+   "«دیگر بس است»: مک‌کیب در بحبوحهٔ جنجال آنجلونه از زنان می‌خواهد کمدین‌های مرد را رسوا کنند"
+  ],
+  [
+   "Police find no criminality in Yes Scotland finances",
+   "پلیس در حساب‌های مالی «یس اسکاتلند» تخلف کیفری نیافت"
+  ],
+  [
+   "'Fascists' attack socialist meeting",
+   "حملهٔ «فاشیست‌ها» به نشست سوسیالیست‌ها"
+  ]
+ ],
+ "western-mail-wales": [
+  [
+   "Steelworks liquidation is new blow to industry",
+   "انحلال کارخانهٔ فولاد ضربه‌ای تازه به صنعت است"
+  ],
+  [
+   "Gatland: Why four pro teams are right for Wales",
+   "گتلند: چرا چهار تیم حرفه‌ای برای ولز درست است"
+  ],
+  [
+   "Storms cut power to thousands",
+   "توفان‌ها برق هزاران نفر را قطع کرد"
+  ],
+  [
+   "'Prepare for more wildfires'",
+   "«برای آتش‌سوزی‌های بیشتر آماده شوید»"
+  ]
+ ],
+ "manchester-evening-news": [
+  [
+   "Terminal 3 revamp set for take off",
+   "نوسازی ترمینال ۳ آمادهٔ پرواز است"
+  ],
+  [
+   "Bosses announce plans for airport expansion",
+   "مدیران طرح‌های گسترش فرودگاه را اعلام کردند"
+  ],
+  [
+   "Boss won't rule out Bruno axe",
+   "سرمربی کنار گذاشتن برونو را منتفی نمی‌داند"
+  ],
+  [
+   "Big names back for Maresca",
+   "بازگشت ستاره‌ها برای مارسکا"
+  ]
+ ],
+ "liverpool-echo": [
+  [
+   "Former primary school head's sick secret",
+   "راز شوم مدیر پیشین دبستان"
+  ],
+  [
+   "Jailed after child abuse images found",
+   "پس از کشف تصاویر سوءاستفاده از کودکان زندانی شد"
+  ],
+  [
+   "Burnham: 'New attraction will be big deal for my city'",
+   "برنهام: «جاذبهٔ تازه برای شهرم اتفاق بزرگی خواهد بود»"
+  ],
+  [
+   "Rio: Reds boss warns against over-hyping teen star",
+   "ریو: سرمربی سرخ‌ها دربارهٔ بزرگ‌نمایی ستارهٔ نوجوان هشدار می‌دهد"
+  ],
+  [
+   "Tarkowski: Moyes hails his 'monster' who leads by example",
+   "تارکوفسکی: مویس «هیولای» الگوی تیمش را می‌ستاید"
+  ],
+  [
+   "This city is mine! Saoirse-Monica is loving life in Liverpool",
+   "این شهر مال من است! سرشا-مونیکا از زندگی در لیورپول لذت می‌برد"
+  ]
+ ],
+ "birmingham-mail": [
+  [
+   "Postcode gangs families 'united in their grief'",
+   "خانواده‌های قربانیان باندهای محله‌ای «در سوگ هم‌دل»"
+  ],
+  [
+   "'Moving' scenes in court after each 'loses a son'",
+   "صحنه‌های «تکان‌دهنده» در دادگاه پس از آنکه هر یک «پسری از دست داد»"
+  ],
+  [
+   "Emery enters his fifth year at Villa Park",
+   "امری وارد پنجمین سالش در ویلا پارک شد"
+  ]
+ ],
+ "le-monde": [
+  [
+   "Manifestations : l'exécutif multiplie les restrictions",
+   "تظاهرات: دولت محدودیت‌ها را چندبرابر می‌کند"
+  ],
+  [
+   "Les dangers d'un renoncement aux libertés publiques",
+   "خطرهای چشم‌پوشی از آزادی‌های عمومی"
+  ],
+  [
+   "La crise remet le RN en ordre de bataille",
+   "بحران «اجتماع ملی» را دوباره به آرایش نبرد درمی‌آورد"
+  ],
+  [
+   "Après le chaos, l'étrange semaine des Parisiens",
+   "پس از آشوب، هفتهٔ غریب پاریسی‌ها"
+  ],
+  [
+   "Brésil : Duel présidentiel indécis et tendu entre Bolsonaro et Lula",
+   "برزیل: رقابت ریاست‌جمهوری نامعلوم و پرتنش میان بولسونارو و لولا"
+  ],
+  [
+   "Les remparts en cas de crise de la dette en France",
+   "سپرهای دفاعی فرانسه در صورت بحران بدهی"
+  ],
+  [
+   "Washington durcit l'obtention de la « carte verte »",
+   "واشینگتن دریافت «گرین کارت» را سخت‌تر می‌کند"
+  ],
+  [
+   "Un colloque polémique déchire l'Institut de France",
+   "همایشی جنجالی انستیتوی فرانسه را دوپاره می‌کند"
+  ],
+  [
+   "Sur la Route 66, avec les exclus de l'histoire",
+   "در جادهٔ ۶۶، همراه با جاماندگان تاریخ"
+  ],
+  [
+   "Mobilisation pour faire renaître la forêt de Fontainebleau",
+   "بسیج برای احیای جنگل فونتنبلو"
+  ]
+ ],
+ "le-parisien": [
+  [
+   "Attaque raciste à Trappes",
+   "حملهٔ نژادپرستانه در تراپ"
+  ],
+  [
+   "Manifestations : 70 000 policiers et gendarmes mobilisés",
+   "تظاهرات: ۷۰ هزار پلیس و ژاندارم بسیج شدند"
+  ],
+  [
+   "Avec les canicules, davantage de rats dans la capitale",
+   "با موج‌های گرما، موش‌ها در پایتخت بیشتر شده‌اند"
+  ],
+  [
+   "L'élan de solidarité sauve Lorenzo, 19 ans, de la rue",
+   "موج همبستگی لورنزوی ۱۹ ساله را از خیابان‌خوابی نجات داد"
+  ],
+  [
+   "Vianney : un nouvel album très intime",
+   "ویانه: آلبومی تازه و بسیار خودمانی"
+  ]
+ ],
+ "les-echos": [
+  [
+   "Un geste à l'étude sur le SMIC",
+   "بررسی امتیازی دربارهٔ حداقل دستمزد"
+  ],
+  [
+   "Coup de pouce pour le nucléaire d'EDF",
+   "تقویت انرژی هسته‌ای ای‌دی‌اف"
+  ],
+  [
+   "Les jardineries confrontées à une interminable crise",
+   "فروشگاه‌های باغبانی گرفتار بحرانی بی‌پایان"
+  ],
+  [
+   "Assurance : le nouveau régime émeutes bientôt opérationnel",
+   "بیمه: نظام تازهٔ پوشش خسارت شورش‌ها به‌زودی اجرا می‌شود"
+  ],
+  [
+   "L'inflation nourrit la hausse des forfaits mobiles",
+   "تورم به افزایش قیمت بسته‌های تلفن همراه دامن می‌زند"
+  ],
+  [
+   "Besoin d'un retour à l'ordre",
+   "نیاز به بازگشت نظم"
+  ],
+  [
+   "Art Basel : Paris est une foire",
+   "آرت بازل: پاریس یک نمایشگاه است"
+  ]
+ ],
+ "ouest-france": [
+  [
+   "Tirs meurtriers près de Paris : la piste terroriste et raciste",
+   "تیراندازی مرگبار نزدیک پاریس: احتمال انگیزهٔ تروریستی و نژادپرستانه"
+  ],
+  [
+   "Pour ou contre Netanyahou ?",
+   "موافق یا مخالف نتانیاهو؟"
+  ],
+  [
+   "Présidentielle au Brésil : Lula da Silva et Flavio Bolsonaro au coude à coude",
+   "انتخابات ریاست‌جمهوری برزیل: لولا دا سیلوا و فلاویو بولسونارو شانه‌به‌شانه"
+  ],
+  [
+   "L'historien Julian Jackson décrypte la « de Gaulle mania » française",
+   "مورخ جولیان جکسون «دوگل‌شیفتگی» فرانسوی‌ها را رمزگشایی می‌کند"
+  ],
+  [
+   "JO d'hiver 2030 : Geoffroy Roux de Bézieux pour reprendre les rênes ?",
+   "المپیک زمستانی ۲۰۳۰: ژوفروا رو دو بزیو زمام امور را به دست می‌گیرد؟"
+  ],
+  [
+   "Des interdictions de manifester très contestées",
+   "ممنوعیت‌های تظاهرات به‌شدت مورد اعتراض"
+  ],
+  [
+   "Arbres à terre, électricité coupée : Austen a secoué le Finistère",
+   "درختان افتاده و برق قطع: توفان آستن فینیستر را لرزاند"
+  ],
+  [
+   "Le corps de l'adolescente était dissimulé près de l'échangeur",
+   "جسد دختر نوجوان نزدیک تقاطع بزرگراه پنهان شده بود"
+  ],
+  [
+   "Plabennec en quête d'un exploit en Coupe de France",
+   "پلابنک در پی شاهکاری در جام حذفی فرانسه"
+  ]
+ ],
+ "la-tribune": [
+  [
+   "La raffinerie de Feyzin à plein régime",
+   "پالایشگاه فِزَن با تمام ظرفیت"
+  ],
+  [
+   "L'assurance-vie luxembourgeoise séduit les fortunes",
+   "بیمهٔ عمر لوکزامبورگی ثروتمندان را جذب می‌کند"
+  ],
+  [
+   "Stellantis, Bolt et le chinois Pony.ai s'allient pour des robotaxis à Paris",
+   "استلانتیس، بولت و پونی‌اِی‌آی چینی برای تاکسی‌های خودران در پاریس متحد می‌شوند"
+  ],
+  [
+   "Le grand écart entre l'exécutif et les syndicats sur le Smic",
+   "شکاف بزرگ دولت و اتحادیه‌ها بر سر حداقل دستمزد"
+  ],
+  [
+   "La R&D se relocalise face aux tensions commerciales",
+   "پژوهش و توسعه در برابر تنش‌های تجاری به داخل بازمی‌گردد"
+  ]
+ ],
+ "l-equipe": [
+  [
+   "Superdoué",
+   "فوق‌مستعد"
+  ],
+  [
+   "Les Aiglons surprennent Brest",
+   "عقاب‌ها برست را غافلگیر کردند"
+  ],
+  [
+   "Pluie d'essais et averse de blessés",
+   "بارش امتیاز و رگبار مصدومیت"
+  ],
+  [
+   "L'impossible périple de Mbilli",
+   "سفر ناممکن امبیلی"
+  ],
+  [
+   "Le choc en plein Ballon d'Or",
+   "تقابل بزرگ در بحبوحهٔ توپ طلا"
+  ]
+ ],
+ "frankfurter-allgemeine-zeitung": [
+  [
+   "CDU wehrt sich gegen Festlegung auf Aigner als Bundespräsidentin",
+   "حزب دموکرات مسیحی در برابر نامزدی قطعی آیگنر برای ریاست‌جمهوری فدرال مقاومت می‌کند"
+  ],
+  [
+   "Debatte über Steinmeier-Nachfolge / Söder wirbt weiter für CSU-Politikerin",
+   "بحث بر سر جانشینی اشتاین‌مایر؛ زودر همچنان از سیاستمدار سی‌اس‌یو حمایت می‌کند"
+  ],
+  [
+   "Söder und Wüst nehmen Merz in die Zange",
+   "زودر و ووست مرتس را در منگنه گذاشته‌اند"
+  ],
+  [
+   "70.000 Polizisten sollen Krawalle verhindern",
+   "۷۰ هزار پلیس باید جلوی آشوب‌ها را بگیرند"
+  ],
+  [
+   "Amerikas Zweifel an der Todesstrafe",
+   "تردید آمریکا دربارهٔ مجازات اعدام"
+  ],
+  [
+   "Abry: Marine steht für Abschreckung",
+   "آبری: نیروی دریایی نماد بازدارندگی است"
+  ],
+  [
+   "Russland und die Ukraine tauschen Gefangene aus",
+   "روسیه و اوکراین زندانیان را مبادله می‌کنند"
+  ],
+  [
+   "Reiche will Raffinerien stärken",
+   "رایشه می‌خواهد پالایشگاه‌ها را تقویت کند"
+  ]
+ ],
+ "suddeutsche-zeitung": [
+  [
+   "E-Mails bringen Weidel in Bedrängnis",
+   "ایمیل‌ها وایدل را در تنگنا قرار می‌دهند"
+  ],
+  [
+   "Gute Nacht!",
+   "شب بخیر!"
+  ],
+  [
+   "Kein Geld für Entlastungen",
+   "پولی برای کاهش بار مالی نیست"
+  ],
+  [
+   "Sonne macht Schnee",
+   "خورشید برف می‌سازد"
+  ],
+  [
+   "Letzte Chance: Der Amazonas liegt im Sterben",
+   "آخرین فرصت: آمازون در حال مرگ است"
+  ],
+  [
+   "Herrscher der Angst",
+   "فرمانروای ترس"
+  ],
+  [
+   "Die Winterzeit beginnt",
+   "ساعت زمستانی آغاز می‌شود"
+  ]
+ ],
+ "bild": [
+  [
+   "Durchbruch bei Krebs-Impfstoff!",
+   "پیشرفت بزرگ در واکسن سرطان!"
+  ],
+  [
+   "Ein riesiger Erfolg der Forscher. Das Sterbe-Risiko von Krebs-Patienten sinkt um 42 Prozent",
+   "موفقیتی عظیم برای پژوهشگران؛ خطر مرگ بیماران سرطانی ۴۲ درصد کاهش می‌یابد"
+  ],
+  [
+   "Klingbeils Steuer-Murks ein Fall für die Gerichte?",
+   "آشفته‌کاری مالیاتی کلینگبایل کارش به دادگاه می‌کشد؟"
+  ],
+  [
+   "Meghans Vater: Kinder-Porno-Vorwürfe",
+   "پدر مگان: اتهام‌های مربوط به هرزه‌نگاری کودکان"
+  ],
+  [
+   "Kompany mit Notarzt in Klinik!",
+   "کومپانی با پزشک اورژانس به بیمارستان منتقل شد!"
+  ],
+  [
+   "Rekordsommer: Mehr als 50.000 Hitzetote in Europa",
+   "تابستان رکوردشکن: بیش از ۵۰ هزار قربانی گرما در اروپا"
+  ],
+  [
+   "Baubranche meldet Rekordplus im Neugeschäft",
+   "صنعت ساختمان از رشد بی‌سابقهٔ سفارش‌های تازه خبر می‌دهد"
+  ],
+  [
+   "Ganz schön stürmisch",
+   "حسابی توفانی"
+  ],
+  [
+   "Kneipen in Sorge vor der Abnehmspritze",
+   "میخانه‌ها از آمپول لاغری نگران‌اند"
+  ]
+ ],
+ "der-tagesspiegel": [
+  [
+   "Kurz vor der Wahl: Israel plant Abriegelung des Westjordanlandes",
+   "اندکی پیش از انتخابات: اسرائیل بستن کامل کرانهٔ باختری را در نظر دارد"
+  ],
+  [
+   "Wer uns hoffen lässt",
+   "آنان که به ما امید می‌دهند"
+  ],
+  [
+   "Es geht auch ohne Stereotype: Ehrliche Bücher über Kinderalltag",
+   "بدون کلیشه هم می‌شود: کتاب‌هایی صادقانه دربارهٔ زندگی روزمرهٔ کودکان"
+  ],
+  [
+   "Zeitumstellung am Sonntag: So reagiert unser Biorhythmus",
+   "تغییر ساعت در یکشنبه: واکنش ساعت زیستی ما"
+  ],
+  [
+   "Wieder Proteste: Frankreich droht ein Wochenende voller Gewalt",
+   "باز هم اعتراض: فرانسه در آستانهٔ آخر هفته‌ای پرخشونت"
+  ],
+  [
+   "Sperrgesetz der Bundesregierung: „Vergesellschaftung ist ein Grundrecht“",
+   "قانون منع دولت فدرال: «اشتراکی‌سازی حقی بنیادین است»"
+  ]
+ ],
+ "people-s-daily": [
+  [
+   "中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》",
+   "دفتر سیاسی کمیتهٔ مرکزی حزب کمونیست چین تشکیل جلسه داد و «گزارش جامع دور هفتم بازرسی بیستمین کمیتهٔ مرکزی» را بررسی کرد"
+  ],
+  [
+   "中共中央总书记习近平主持会议",
+   "شی جین‌پینگ، دبیرکل کمیتهٔ مرکزی حزب، ریاست جلسه را بر عهده داشت"
+  ],
+  [
+   "习近平对西藏那曲市巴青县7.0级地震作出重要指示强调 全力开展人员搜救 妥善安置受灾群众 切实保障人民群众生命财产安全",
+   "شی جین‌پینگ دربارهٔ زلزلهٔ ۷ ریشتری بائچینگ در ناگچو تبت دستور داد: جست‌وجو و نجات با تمام توان، اسکان مناسب آسیب‌دیدگان و حفاظت واقعی از جان و مال مردم"
+  ],
+  [
+   "习近平向2026全球治理论坛（雄安）致信",
+   "پیام شی جین‌پینگ به همایش حکمرانی جهانی ۲۰۲۶ (شیونگ‌آن)"
+  ],
+  [
+   "党和人民军队铿锵前进的制胜之道",
+   "راه پیروزی در پیشروی استوار حزب و ارتش خلق"
+  ],
+  [
+   "李强主持召开国务院常务会议",
+   "لی چیانگ ریاست نشست عادی شورای دولتی را بر عهده داشت"
+  ],
+  [
+   "秋粮收购有序开展",
+   "خرید غلات پاییزه به‌سامان پیش می‌رود"
+  ]
+ ],
+ "south-china-morning-post": [
+  [
+   "Green light for Citi's mainland venture",
+   "چراغ سبز برای شرکت سیتی در سرزمین اصلی چین"
+  ],
+  [
+   "US lender wins approval to set up a wholly foreign-owned securities firm, allowing Shanghai company to offer range of services",
+   "وام‌دهندهٔ آمریکایی مجوز تأسیس شرکت اوراق بهادار تماماً خارجی را گرفت"
+  ],
+  [
+   "16 dead in quake",
+   "۱۶ کشته در زلزله"
+  ],
+  [
+   "Security chief vows accountability, reforms ahead of fire report",
+   "رئیس امنیت پیش از انتشار گزارش آتش‌سوزی وعدهٔ پاسخ‌گویی و اصلاحات داد"
+  ],
+  [
+   "Beijing tightens rules on outbound capital to better shield China assets",
+   "پکن برای حفاظت بهتر از دارایی‌های چین قواعد خروج سرمایه را سخت‌تر می‌کند"
+  ],
+  [
+   "What will the fifth plenum mean for the root-and-branch graft fight?",
+   "پلنوم پنجم برای مبارزهٔ ریشه‌ای با فساد چه معنایی دارد؟"
+  ]
+ ],
+ "hong-kong-economic-journal": [
+  [
+   "大摩：資金流不利 港股未觸底",
+   "مورگان استنلی: جریان سرمایه نامساعد است و سهام هنگ‌کنگ هنوز به کف نرسیده"
+  ],
+  [
+   "恒指23000關口震盪拉鋸",
+   "شاخص هانگ‌سنگ در کشاکش نوسان حول ۲۳ هزار واحد"
+  ],
+  [
+   "花旗唱好互聯網股 首選ATM",
+   "سیتی به سهام اینترنتی خوش‌بین است؛ انتخاب نخست: «ای‌تی‌ام»"
+  ],
+  [
+   "西藏強震16死 疏散萬人",
+   "زلزلهٔ شدید تبت ۱۶ کشته داد و ده هزار نفر تخلیه شدند"
+  ],
+  [
+   "四區20社區藥房月底試行",
+   "۲۰ داروخانهٔ محلی در چهار منطقه از پایان ماه آزمایشی به کار می‌افتند"
+  ]
+ ],
+ "oriental-daily-news": [
+  [
+   "鄰遊樂場惡疫恐播",
+   "بیم شیوع بیماری مرگبار در کنار شهربازی"
+  ],
+  [
+   "鼠群車場奔坡",
+   "گلهٔ موش‌ها در پارکینگ و شیب تپه می‌دوند"
+  ],
+  [
+   "籠子虛設受詬病 垃圾站變自助餐廳",
+   "تله‌های بی‌اثر زیر انتقاد؛ ایستگاه زباله به رستوران سلف‌سرویس بدل شده"
+  ],
+  [
+   "巡完超市貨",
+   "سرکشی به اجناس سوپرمارکت"
+  ],
+  [
+   "本報揭超市衞生差",
+   "روزنامهٔ ما بهداشت بد سوپرمارکت‌ها را افشا می‌کند"
+  ]
+ ],
+ "yomiuri-shinbun": [
+  [
+   "巨人監督に松井氏",
+   "ماتسویی سرمربی جاینتس شد"
+  ],
+  [
+   "「新たな黄金時代に」",
+   "«به سوی عصر طلایی تازه»"
+  ],
+  [
+   "改正皇室典範 施行 男系養子、女性身分保持",
+   "قانون اصلاح‌شدهٔ خاندان سلطنتی اجرایی شد؛ فرزندخواندگی از تبار پدری و حفظ جایگاه زنان خاندان"
+  ],
+  [
+   "ガソリン補助縮小へ 首相方針 価格180円程度 検討",
+   "یارانهٔ بنزین کاهش می‌یابد؛ سیاست نخست‌وزیر بررسی قیمت حدود ۱۸۰ ین است"
+  ],
+  [
+   "「どこにいても、心にジャイアンツ」",
+   "«هر جا که باشم، جاینتس در قلبم است»"
+  ]
+ ],
+ "mainichi-shinbun": [
+  [
+   "日銀「物価2%到達」認識 デフレ対応転換 次回会合",
+   "بانک ژاپن «دستیابی به تورم ۲ درصدی» را تأیید می‌کند؛ چرخش از سیاست مقابله با تورم منفی در نشست آینده"
+  ],
+  [
+   "改正皇室典範 施行",
+   "قانون اصلاح‌شدهٔ خاندان سلطنتی اجرایی شد"
+  ],
+  [
+   "ガソリン補助縮小へ 首相が見直し指示",
+   "کاهش یارانهٔ بنزین؛ نخست‌وزیر دستور بازنگری داد"
+  ],
+  [
+   "松井氏 巨人新監督",
+   "ماتسویی سرمربی تازهٔ جاینتس"
+  ],
+  [
+   "タイムズ146万人に3000円 免許画像流出 見舞金 特損55億円",
+   "تایمز به ۱٫۴۶ میلیون نفر ۳ هزار ین می‌دهد؛ غرامت نشت تصاویر گواهینامه و زیان ویژهٔ ۵٫۵ میلیارد ینی"
+  ]
+ ],
+ "arab-news": [
+  [
+   "Jordan church bloodbath",
+   "حمام خون در کلیسای اردن"
+  ],
+  [
+   "7 killed after three gunmen open fire during Greek Orthodox funeral in southern village",
+   "۷ کشته پس از تیراندازی سه مرد مسلح در مراسم تشییع ارتدوکس یونانی در روستایی در جنوب"
+  ],
+  [
+   "King Abdullah vows 'harshest retaliation' as security forces launch manhunt for attackers",
+   "ملک عبدالله وعدهٔ «سخت‌ترین تلافی» داد و نیروهای امنیتی تعقیب مهاجمان را آغاز کردند"
+  ],
+  [
+   "War crisis talks as attacks by Houthis continue",
+   "گفت‌وگوهای بحران جنگ در حالی که حملات حوثی‌ها ادامه دارد"
+  ],
+  [
+   "Pro-Israel US lobby group hides names of candidates it funds",
+   "گروه لابی طرفدار اسرائیل در آمریکا نام نامزدهایی را که تأمین مالی می‌کند پنهان می‌کند"
+  ],
+  [
+   "Gulf economies heading for a strong rebound, says IMF official Jihad Azour",
+   "جهاد ازعور، مقام صندوق بین‌المللی پول: اقتصادهای خلیج فارس به سوی بازگشت قدرتمند می‌روند"
+  ],
+  [
+   "Palestinian farmers bear the brunt of settler attacks",
+   "کشاورزان فلسطینی بار اصلی حملات شهرک‌نشینان را به دوش می‌کشند"
+  ],
+  [
+   "Al-Balsam charity performs 112 heart-related surgeries in Nigeria",
+   "خیریهٔ البلسم ۱۱۲ جراحی قلب در نیجریه انجام داد"
+  ]
+ ],
+ "gulf-times": [
+  [
+   "Qatar GP stays on course despite regional tensions",
+   "گرندپری قطر به‌رغم تنش‌های منطقه‌ای سر جای خود می‌ماند"
+  ],
+  [
+   "Qatar race on schedule for Nov after April race postponed due to conflict",
+   "مسابقهٔ قطر پس از تعویق مسابقهٔ آوریل به سبب درگیری، طبق برنامه در نوامبر برگزار می‌شود"
+  ],
+  [
+   "More countries become part of Years of Culture",
+   "کشورهای بیشتری به «سال‌های فرهنگ» می‌پیوندند"
+  ],
+  [
+   "QFFD signs agreement with French Crisis and Support Center in Paris",
+   "صندوق توسعهٔ قطر با مرکز بحران و پشتیبانی فرانسه در پاریس توافق‌نامه امضا کرد"
+  ],
+  [
+   "Jordanian king pledges firm response to church shooting",
+   "پادشاه اردن به تیراندازی در کلیسا وعدهٔ پاسخ قاطع داد"
+  ],
+  [
+   "UAE reports oil spill from tanker attacks",
+   "امارات از نشت نفت در پی حمله به نفتکش‌ها خبر داد"
+  ]
+ ],
+ "al-quds": [
+  [
+   "نتنياهو يتوعد الضفة بعملية واسعة النطاق",
+   "نتانیاهو کرانهٔ باختری را به عملیاتی گسترده تهدید کرد"
+  ],
+  [
+   "إطباق الحصار على مدينة الخليل واقتحام عدد من القرى والمخيمات في المحافظة",
+   "محاصرهٔ کامل شهر الخلیل و یورش به شماری از روستاها و اردوگاه‌های استان"
+  ],
+  [
+   "7 شهداء و 34 جريحاً بهجوم إرهابي على كنيسة في الكرك",
+   "۷ کشته و ۳۴ زخمی در حملهٔ تروریستی به کلیسایی در الکرک"
+  ],
+  [
+   "العاهل الأردني يتوعد المجرمين بأشد العقوبات",
+   "پادشاه اردن جنایتکاران را به سخت‌ترین مجازات‌ها تهدید کرد"
+  ],
+  [
+   "3 شهداء بقصف القطاع",
+   "۳ شهید در بمباران نوار غزه"
+  ],
+  [
+   "إصابات باعتداء المستوطنين على قاطفي الزيتون",
+   "زخمی شدن چند نفر در حملهٔ شهرک‌نشینان به زیتون‌چینان"
+  ],
+  [
+   "عشرات الآلاف يؤدون صلاة الجمعة في الأقصى",
+   "ده‌ها هزار نفر نماز جمعه را در مسجدالاقصی به جا آوردند"
+  ],
+  [
+   "إنذار بإخلاء خربة السروج غرب جنين خلال أسبوع",
+   "اخطار تخلیهٔ خربة السروج در غرب جنین ظرف یک هفته"
+  ],
+  [
+   "خطة آيزنكوت لأول 100 يوم في الحكم",
+   "برنامهٔ آیزنکوت برای ۱۰۰ روز نخست حکومت"
+  ],
+  [
+   "إيطاليا تطالب سلطات الاحتلال بالإفراج عن ناشطات",
+   "ایتالیا از مقامات اشغالگر خواست فعالان زن را آزاد کنند"
+  ]
+ ],
+ "hurriyet": [
+  [
+   "Boğaz'dan barış sesi",
+   "صدای صلح از بسفر"
+  ],
+  [
+   "Barış için mücadeleye devam",
+   "ادامهٔ مبارزه برای صلح"
+  ],
+  [
+   "İntihardan çıkan katil",
+   "قاتلی که از پس یک خودکشی بیرون آمد"
+  ],
+  [
+   "Kritik isme ikinci kez gözaltı",
+   "بازداشت دوباره برای چهره‌ای کلیدی"
+  ],
+  [
+   "Antalya'da 'Let's COP'",
+   "«بیایید کاپ کنیم» در آنتالیا"
+  ],
+  [
+   "85 ülke lideri geliyor",
+   "رهبران ۸۵ کشور می‌آیند"
+  ],
+  [
+   "Avrupa bereketi",
+   "برکت اروپایی"
+  ],
+  [
+   "O puanın önemi yok",
+   "آن امتیاز اهمیتی ندارد"
+  ]
+ ],
+ "the-times-of-india": [
+  [
+   "MEA: China's patrolling deviations disturb border",
+   "وزارت خارجه: انحراف‌های گشت‌زنی چین مرز را آشفته می‌کند"
+  ],
+  [
+   "ITBP DG Cited Face-Offs Along Arunachal LAC",
+   "رئیس پلیس مرزی هند-تبت به رویارویی‌ها در خط کنترل آروناچال اشاره کرد"
+  ],
+  [
+   "FBI detains gangster Himanshu Bhau, India may get custody soon",
+   "اف‌بی‌آی هیمانشو بهاو، سرکردهٔ تبهکاران را بازداشت کرد؛ هند ممکن است به‌زودی او را تحویل بگیرد"
+  ],
+  [
+   "Northwest India turned drier, south wetter over 70 yrs, finds IMD study",
+   "پژوهش ادارهٔ هواشناسی: در ۷۰ سال شمال‌غرب هند خشک‌تر و جنوب مرطوب‌تر شده است"
+  ],
+  [
+   "Bk Pilibhit voter details changed, UP CEO calls it a 'deliberate crime'",
+   "تغییر مشخصات رأی‌دهندگان در پیلیبهیت؛ رئیس انتخابات اوتار پرادش آن را «جرمی عمدی» خواند"
+  ],
+  [
+   "DMK, TVK walk out of all-party meet on SIR",
+   "دی‌ام‌کی و تی‌وی‌کی نشست همهٔ احزاب دربارهٔ بازبینی ویژهٔ فهرست رأی‌دهندگان را ترک کردند"
+  ],
+  [
+   "DGHS: No reuse of single-use medical devices",
+   "ادارهٔ کل خدمات بهداشتی: ابزارهای پزشکی یک‌بارمصرف دوباره استفاده نشوند"
+  ],
+  [
+   "Hry power strike off after CM meets",
+   "اعتصاب کارکنان برق هریانا پس از دیدار با سرپرست ایالت لغو شد"
+  ],
+  [
+   "Arrest illegal, pay bizman ₹5L: HC to Maha govt",
+   "دادگاه عالی به دولت ماهاراشترا: بازداشت غیرقانونی بود، ۵ لک روپیه به تاجر بپردازید"
+  ]
+ ],
+ "the-hindu": [
+  [
+   "LAC 'disturbed' by PLA's behaviour, admits MEA",
+   "وزارت خارجه پذیرفت: رفتار ارتش آزادی‌بخش خلق خط کنترل واقعی را «آشفته» کرده است"
+  ],
+  [
+   "Gunmen kill seven at Jordan church, king vows retaliation for 'rare attack'",
+   "مردان مسلح هفت نفر را در کلیسایی در اردن کشتند؛ پادشاه وعدهٔ تلافی این «حملهٔ نادر» را داد"
+  ],
+  [
+   "Students, farmers, and civil society groups step up stir against SIR, CEC in capital",
+   "دانشجویان، کشاورزان و نهادهای مدنی اعتراض به بازبینی ویژهٔ فهرست رأی‌دهندگان و رئیس کمیسیون انتخابات را در پایتخت شدت بخشیدند"
+  ],
+  [
+   "16 killed as 7.0-magnitude earthquake hits Tibet",
+   "زلزلهٔ ۷ ریشتری تبت ۱۶ کشته برجا گذاشت"
+  ],
+  [
+   "Death in the time of Durga Puja",
+   "مرگ در روزهای دورگا پوجا"
+  ],
+  [
+   "North Kolkata pandal stampede exposes gaps in safety arrangements",
+   "ازدحام مرگبار در پاندال شمال کلکته کاستی‌های تدابیر ایمنی را آشکار کرد"
+  ],
+  [
+   "Oil prices near 6-month high amid Houthi crisis",
+   "قیمت نفت در بحبوحهٔ بحران حوثی‌ها نزدیک به بالاترین سطح شش ماه اخیر"
+  ],
+  [
+   "Govt. proposes revamp of driving licence rules",
+   "دولت بازنگری در قواعد گواهینامهٔ رانندگی را پیشنهاد کرد"
+  ],
+  [
+   "Israel plans to hit West Bank after death of soldiers",
+   "اسرائیل پس از کشته شدن سربازانش قصد حمله به کرانهٔ باختری دارد"
+  ],
+  [
+   "Net FDI $3.3 bn in Aug., positive for 3rd month",
+   "خالص سرمایه‌گذاری مستقیم خارجی در اوت ۳٫۳ میلیارد دلار؛ سومین ماه مثبت پیاپی"
+  ]
+ ],
+ "hindustan-times": [
+  [
+   "Investors bet big on Jio IPO as bids top 13 times",
+   "سرمایه‌گذاران روی عرضهٔ اولیهٔ جیو شرط بزرگی بستند؛ تقاضا از ۱۳ برابر گذشت"
+  ],
+  [
+   "Two die in gas leak at T'gana pharma unit",
+   "دو کشته در نشت گاز در واحد دارویی تلنگانا"
+  ],
+  [
+   "Tree felling under probe at Noida biodiversity park",
+   "تحقیق دربارهٔ قطع درختان در پارک تنوع زیستی نویدا"
+  ],
+  [
+   "Om Birla: BRICS Parliamentary Forum to focus on AI ethics, global issues",
+   "اوم بیرلا: مجمع پارلمانی بریکس بر اخلاق هوش مصنوعی و مسائل جهانی تمرکز می‌کند"
+  ]
+ ],
+ "the-economic-times": [
+  [
+   "Bears Crash Broader Mkts as Rout Deepens",
+   "با تعمیق ریزش، خرس‌ها بازارهای گسترده‌تر را درهم کوبیدند"
+  ],
+  [
+   "Friday Blockbuster for Jio IPO: ₹7.4Lcr Bids, 22x Subscription",
+   "جمعهٔ پرفروش برای عرضهٔ اولیهٔ جیو: ۷٫۴ لک کرور روپیه تقاضا و ۲۲ برابر پذیره‌نویسی"
+  ],
+  [
+   "India Warms Up to Dark Side of Chocolate",
+   "هند به شکلات تلخ روی خوش نشان می‌دهد"
+  ],
+  [
+   "Brent Goes Past $117/bbl, Highest since End of April",
+   "برنت از ۱۱۷ دلار در هر بشکه گذشت؛ بالاترین از پایان آوریل"
+  ],
+  [
+   "Can Makers Get 6-mth Relief on New Norms",
+   "قوطی‌سازان برای ضوابط تازه شش ماه مهلت گرفتند"
+  ],
+  [
+   "States Asked to Prevent Reuse of Single-use Medical Devices",
+   "از ایالت‌ها خواسته شد از استفادهٔ دوباره از ابزارهای پزشکی یک‌بارمصرف جلوگیری کنند"
+  ],
+  [
+   "India Resilient Amid Inflation Risks: RBI",
+   "بانک مرکزی هند: هند در برابر خطرهای تورمی مقاوم است"
+  ],
+  [
+   "Infy Profit Up 6.2%, Slashes FY27 Guidance",
+   "سود اینفوسیس ۶٫۲ درصد بالا رفت، پیش‌بینی سال مالی ۲۷ را کاهش داد"
+  ],
+  [
+   "Oct Pvt Sector Activity Hits 4-month High",
+   "فعالیت بخش خصوصی در اکتبر به بالاترین سطح چهار ماه اخیر رسید"
+  ],
+  [
+   "'Chinese Patrolling Deviations behind Border Face-Offs'",
+   "«انحراف‌های گشت‌زنی چین عامل رویارویی‌های مرزی است»"
+  ]
+ ],
+ "dainik-jagran": [
+  [
+   "राजधानी में कालोनी की श्रेणी के हिसाब से लगेगा यूजर चार्ज",
+   "در پایتخت عوارض استفاده بر اساس ردهٔ هر محله دریافت می‌شود"
+  ],
+  [
+   "पंकज आडवाणी ने जीता 29वां विश्व खिताब",
+   "پانکاج آدوانی بیست‌ونهمین عنوان قهرمانی جهان را به دست آورد"
+  ]
+ ],
+ "asharq-al-awsat": [
+  [
+   "الإرهاب يضرب كنيسة في الكرك الأردنية",
+   "تروریسم کلیسایی را در الکرک اردن هدف گرفت"
+  ],
+  [
+   "7 قتلى وعشرات المصابين... والملك عبد الله الثاني يتوعّد المنفذين",
+   "۷ کشته و ده‌ها زخمی؛ ملک عبدالله دوم عاملان را تهدید کرد"
+  ],
+  [
+   "واشنطن تستعد لحرب طويلة الأمد مع إيران",
+   "واشینگتن خود را برای جنگی طولانی با ایران آماده می‌کند"
+  ],
+  [
+   "تدمير «باليستيين» حوثيين في سماء الرياض وخميس مشيط",
+   "انهدام دو موشک بالستیک حوثی در آسمان ریاض و خمیس مشیط"
+  ],
+  [
+   "نتنياهو يغلق الضفة ويتوعدها بعملية غير مسبوقة",
+   "نتانیاهو کرانهٔ باختری را بست و آن را به عملیاتی بی‌سابقه تهدید کرد"
+  ],
+  [
+   "لبنان يلاحق مسؤولي «حزب الله» بالمذكرات القضائية",
+   "لبنان مقامات حزب‌الله را با احکام قضایی تعقیب می‌کند"
+  ],
+  [
+   "فرنسا تستعين بالجيش لمنع «سبت أسود» جديد",
+   "فرانسه برای جلوگیری از «شنبهٔ سیاه» دیگری از ارتش کمک می‌گیرد"
+  ],
+  [
+   "تحرك إقليمي ودولي لاحتواء أزمات المنطقة",
+   "تحرک منطقه‌ای و بین‌المللی برای مهار بحران‌های منطقه"
+  ]
+ ]
+}
