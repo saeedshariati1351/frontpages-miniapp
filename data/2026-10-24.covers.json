@@ -233,5 +233,30 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/the-japan-times/"
+ },
+ "los-angeles-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/los-angeles-times/"
+ },
+ "the-boston-globe": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-boston-globe/"
+ },
+ "chicago-tribune": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/chicago-tribune/"
+ },
+ "the-philadelphia-inquirer": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-philadelphia-inquirer/"
+ },
+ "houston-chronicle": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/houston-chronicle/"
  }
 }
