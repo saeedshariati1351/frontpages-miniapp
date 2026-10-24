@@ -23,6 +23,28 @@ def get(url):
         return r.read()
 
 
+def _d(date):
+    return datetime.date.fromisoformat(date)
+
+
+def is_saturday(date):
+    return _d(date).weekday() == 5
+
+
+def is_sunday(date):
+    return _d(date).weekday() == 6
+
+
+def next_day(date):
+    return (_d(date) + datetime.timedelta(days=1)).isoformat()
+
+
+def prev_day_covers(date):
+    prev = (_d(date) - datetime.timedelta(days=1)).isoformat()
+    path = os.path.join(ROOT, "data", f"{prev}.covers.json")
+    return json.load(open(path)) if os.path.exists(path) else {}
+
+
 def main():
     date = sys.argv[1] if len(sys.argv) > 1 else datetime.date.today().isoformat()
     ymd = date.replace("-", "/")
@@ -49,8 +71,16 @@ def main():
                 # Arab News) carry the next day's date while the image path keeps the upload day
                 ed = re.search(r'class="span-date[^"]*" datetime="(\d{4}-\d{2}-\d{2})"', html)
                 edition = ed.group(1) if ed else imgdate.replace("/", "-")
-                if edition != date:
+                # Papers flagged "weekend" in papers.json print one combined Saturday/Sunday
+                # edition, which frontpages.com lists under the Sunday date. File it under
+                # Saturday, and don't file the same edition again under Sunday.
+                if p.get("weekend") and is_saturday(date) and edition == next_day(date):
+                    print(f"weekend edition ({edition}) filed under Saturday:", slug)
+                elif edition != date:
                     print(f"stale ({edition}):", slug); continue
+                elif p.get("weekend") and is_sunday(date) and imgdate.replace("/", "-") < date \
+                        and slug in prev_day_covers(date):
+                    print("weekend edition already filed under Saturday:", slug); continue
                 # the public preview image (top of the front page), as used on frontpages.com listings
                 url = f"https://www.frontpages.com/t/{imgdate}/{name}@2x.webp"
                 im = Image.open(io.BytesIO(get(url))).convert("RGB")

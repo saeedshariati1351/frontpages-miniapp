@@ -173,5 +173,65 @@
   "w": 900,
   "h": 1200,
   "source": "https://aawsat.com/files/pdf/issue17497/index.html"
+ },
+ "usa-today": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/usa-today/"
+ },
+ "financial-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/financial-times/"
+ },
+ "morning-star": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/morning-star/"
+ },
+ "the-irish-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-irish-news/"
+ },
+ "le-figaro": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/le-figaro/"
+ },
+ "liberation": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/liberation/"
+ },
+ "la-croix": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/la-croix/"
+ },
+ "handelsblatt": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/handelsblatt/"
+ },
+ "rheinische-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/rheinische-post/"
+ },
+ "bz-berlin": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/bz-berlin/"
+ },
+ "china-daily": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/china-daily/"
+ },
+ "the-japan-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-japan-times/"
  }
 }

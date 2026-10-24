@@ -2,7 +2,7 @@
   {"country": "آمریکا", "flag": "🇺🇸", "papers": [
     {"slug": "the-new-york-times", "name": "The New York Times", "fa": "نیویورک تایمز", "site": "https://www.nytimes.com"},
     {"slug": "the-washington-post", "name": "The Washington Post", "fa": "واشنگتن پست", "site": "https://www.washingtonpost.com"},
-    {"slug": "usa-today", "name": "USA Today", "fa": "یو‌اس‌ای تودی", "site": "https://www.usatoday.com"},
+    {"slug": "usa-today", "weekend": true, "name": "USA Today", "fa": "یو‌اس‌ای تودی", "site": "https://www.usatoday.com"},
     {"slug": "los-angeles-times", "name": "Los Angeles Times", "fa": "لس‌آنجلس تایمز", "site": "https://www.latimes.com"},
     {"slug": "new-york-post", "name": "New York Post", "fa": "نیویورک پست", "site": "https://nypost.com"},
     {"slug": "the-boston-globe", "name": "The Boston Globe", "fa": "بوستون گلوب", "site": "https://www.bostonglobe.com"},
@@ -12,12 +12,12 @@
     {"slug": "miami-herald", "name": "Miami Herald", "fa": "میامی هرالد", "site": "https://www.miamiherald.com"}
   ]},
   {"country": "بریتانیا", "flag": "🇬🇧", "papers": [
-    {"slug": "financial-times", "name": "Financial Times", "fa": "فایننشال تایمز", "site": "https://www.ft.com"},
+    {"slug": "financial-times", "weekend": true, "name": "Financial Times", "fa": "فایننشال تایمز", "site": "https://www.ft.com"},
     {"slug": "city-am", "name": "City A.M.", "fa": "سیتی اِی‌اِم", "site": "https://www.cityam.com"},
-    {"slug": "morning-star", "name": "Morning Star", "fa": "مورنینگ استار", "site": "https://morningstaronline.co.uk"},
+    {"slug": "morning-star", "weekend": true, "name": "Morning Star", "fa": "مورنینگ استار", "site": "https://morningstaronline.co.uk"},
     {"slug": "the-herald-scotland", "name": "The Herald", "fa": "هرالد (اسکاتلند)", "site": "https://www.heraldscotland.com"},
     {"slug": "the-national-scotland", "name": "The National", "fa": "نشنال (اسکاتلند)", "site": "https://www.thenational.scot"},
-    {"slug": "the-irish-news", "name": "The Irish News", "fa": "آیریش نیوز (ایرلند شمالی)", "site": "https://www.irishnews.com"},
+    {"slug": "the-irish-news", "weekend": true, "name": "The Irish News", "fa": "آیریش نیوز (ایرلند شمالی)", "site": "https://www.irishnews.com"},
     {"slug": "western-mail-wales", "name": "Western Mail", "fa": "وسترن میل (ولز)", "site": "https://www.walesonline.co.uk"},
     {"slug": "manchester-evening-news", "name": "Manchester Evening News", "fa": "منچستر ایونینگ نیوز", "site": "https://www.manchestereveningnews.co.uk"},
     {"slug": "liverpool-echo", "name": "Liverpool Echo", "fa": "لیورپول اکو", "site": "https://www.liverpoolecho.co.uk"},
@@ -25,11 +25,11 @@
   ]},
   {"country": "فرانسه", "flag": "🇫🇷", "papers": [
     {"slug": "le-monde", "name": "Le Monde", "fa": "لوموند", "site": "https://www.lemonde.fr"},
-    {"slug": "le-figaro", "name": "Le Figaro", "fa": "لوفیگارو", "site": "https://www.lefigaro.fr"},
-    {"slug": "liberation", "name": "Libération", "fa": "لیبراسیون", "site": "https://www.liberation.fr"},
+    {"slug": "le-figaro", "weekend": true, "name": "Le Figaro", "fa": "لوفیگارو", "site": "https://www.lefigaro.fr"},
+    {"slug": "liberation", "weekend": true, "name": "Libération", "fa": "لیبراسیون", "site": "https://www.liberation.fr"},
     {"slug": "le-parisien", "name": "Le Parisien", "fa": "لوپاریزین", "site": "https://www.leparisien.fr"},
     {"slug": "les-echos", "name": "Les Échos", "fa": "لزاکو", "site": "https://www.lesechos.fr"},
-    {"slug": "la-croix", "name": "La Croix", "fa": "لاکروا", "site": "https://www.la-croix.com"},
+    {"slug": "la-croix", "weekend": true, "name": "La Croix", "fa": "لاکروا", "site": "https://www.la-croix.com"},
     {"slug": "ouest-france", "name": "Ouest-France", "fa": "وست‌فرانس", "site": "https://www.ouest-france.fr"},
     {"slug": "la-tribune", "name": "La Tribune", "fa": "لاتریبون", "site": "https://www.latribune.fr"},
     {"slug": "l-equipe", "name": "L'Équipe", "fa": "لکیپ", "site": "https://www.lequipe.fr"},
@@ -40,15 +40,15 @@
     {"slug": "suddeutsche-zeitung", "name": "Süddeutsche Zeitung", "fa": "زوددویچه تسایتونگ", "site": "https://www.sueddeutsche.de"},
     {"slug": "die-welt", "name": "Die Welt", "fa": "دی ولت", "site": "https://www.welt.de"},
     {"slug": "bild", "name": "Bild", "fa": "بیلد", "site": "https://www.bild.de"},
-    {"slug": "handelsblatt", "name": "Handelsblatt", "fa": "هندلسبلات", "site": "https://www.handelsblatt.com"},
+    {"slug": "handelsblatt", "weekend": true, "name": "Handelsblatt", "fa": "هندلسبلات", "site": "https://www.handelsblatt.com"},
     {"slug": "der-tagesspiegel", "name": "Der Tagesspiegel", "fa": "تاگس‌اشپیگل", "site": "https://www.tagesspiegel.de"},
-    {"slug": "rheinische-post", "name": "Rheinische Post", "fa": "راینیشه پست", "site": "https://rp-online.de"},
-    {"slug": "bz-berlin", "name": "B.Z. Berlin", "fa": "بی‌تسد برلین", "site": "https://www.bz-berlin.de"},
+    {"slug": "rheinische-post", "weekend": true, "name": "Rheinische Post", "fa": "راینیشه پست", "site": "https://rp-online.de"},
+    {"slug": "bz-berlin", "weekend": true, "name": "B.Z. Berlin", "fa": "بی‌تسد برلین", "site": "https://www.bz-berlin.de"},
     {"slug": "der-spiegel", "name": "Der Spiegel", "fa": "اشپیگل (هفته‌نامه)", "site": "https://www.spiegel.de"},
     {"slug": "kicker", "name": "Kicker", "fa": "کیکر (ورزشی)", "site": "https://www.kicker.de"}
   ]},
   {"country": "چین", "flag": "🇨🇳", "papers": [
-    {"slug": "china-daily", "name": "China Daily", "fa": "چاینا دیلی", "site": "https://www.chinadaily.com.cn"},
+    {"slug": "china-daily", "weekend": true, "name": "China Daily", "fa": "چاینا دیلی", "site": "https://www.chinadaily.com.cn"},
     {"slug": "global-times", "name": "Global Times", "fa": "گلوبال تایمز", "site": "https://www.globaltimes.cn"},
     {"slug": "people-s-daily", "name": "People's Daily", "fa": "روزنامهٔ خلق", "site": "http://paper.people.com.cn"},
     {"slug": "south-china-morning-post", "name": "South China Morning Post", "fa": "ساوت چاینا مورنینگ پست", "site": "https://www.scmp.com"},
@@ -56,7 +56,7 @@
     {"slug": "oriental-daily-news", "name": "Oriental Daily News", "fa": "اورینتال دیلی نیوز (هنگ‌کنگ)", "site": "https://www.orientaldaily.on.cc"}
   ]},
   {"country": "ژاپن", "flag": "🇯🇵", "papers": [
-    {"slug": "the-japan-times", "name": "The Japan Times", "fa": "جاپان تایمز", "site": "https://www.japantimes.co.jp"},
+    {"slug": "the-japan-times", "weekend": true, "name": "The Japan Times", "fa": "جاپان تایمز", "site": "https://www.japantimes.co.jp"},
     {"slug": "yomiuri-shinbun", "name": "Yomiuri Shimbun", "fa": "یومیوری شیمبون", "site": "https://www.yomiuri.co.jp"},
     {"slug": "mainichi-shinbun", "name": "Mainichi Shimbun", "fa": "ماینیچی شیمبون", "site": "https://mainichi.jp"}
   ]},
