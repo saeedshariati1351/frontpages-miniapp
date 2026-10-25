@@ -1,7 +1,152 @@
 {
+ "the-new-york-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-new-york-times/"
+ },
+ "new-york-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/new-york-post/"
+ },
+ "miami-herald": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/miami-herald/"
+ },
+ "the-herald-scotland": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-herald-scotland/"
+ },
+ "the-national-scotland": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-national-scotland/"
+ },
+ "manchester-evening-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/manchester-evening-news/"
+ },
+ "le-parisien": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/le-parisien/"
+ },
+ "la-tribune": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/la-tribune/"
+ },
+ "l-equipe": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/l-equipe/"
+ },
+ "frankfurter-allgemeine-zeitung": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/frankfurter-allgemeine-zeitung/"
+ },
+ "bild": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/bild/"
+ },
+ "der-tagesspiegel": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/der-tagesspiegel/"
+ },
+ "kicker": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/kicker/"
+ },
+ "people-s-daily": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/people-s-daily/"
+ },
+ "south-china-morning-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/south-china-morning-post/"
+ },
+ "oriental-daily-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/oriental-daily-news/"
+ },
+ "yomiuri-shinbun": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/yomiuri-shinbun/"
+ },
+ "mainichi-shinbun": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/mainichi-shinbun/"
+ },
  "asharq-al-awsat": {
   "w": 900,
   "h": 1200,
   "source": "https://aawsat.com/files/pdf/issue17498/index.html"
+ },
+ "arab-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/arab-news/"
+ },
+ "gulf-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/gulf-news/"
+ },
+ "gulf-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/gulf-times/"
+ },
+ "the-jordan-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-jordan-times/"
+ },
+ "al-quds": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/al-quds/"
+ },
+ "hurriyet": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/hurriyet/"
+ },
+ "the-times-of-india": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-times-of-india/"
+ },
+ "the-hindu": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-hindu/"
+ },
+ "hindustan-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/hindustan-times/"
+ },
+ "the-economic-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-economic-times/"
+ },
+ "dainik-jagran": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/dainik-jagran/"
  }
 }
