@@ -55,6 +55,102 @@
      ]
     },
     {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-10-25/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "Voters angry over high prices stand to get little relief",
+       "fa": "رأی‌دهندگان خشمگین از گرانی، امید چندانی به گشایش ندارند",
+       "url": "https://duckduckgo.com/?q=%5CVoters%20angry%20over%20high%20prices%20stand%20to%20get%20little%20relief%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Not much Congress can do about it: Even if Democrats win, underlying forces remain",
+       "fa": "کنگره کار چندانی از دستش برنمی‌آید؛ حتی با پیروزی دموکرات‌ها، عوامل بنیادی پابرجا می‌ماند",
+       "url": "https://duckduckgo.com/?q=%5CNot%20much%20Congress%20can%20do%20about%20it%3A%20Even%20if%20Democrats%20win%2C%20underlying%20forces%20remain%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Celebrating 100 years of Route 66",
+       "fa": "جشن صدسالگی جادهٔ ۶۶",
+       "url": "https://duckduckgo.com/?q=%5CCelebrating%20100%20years%20of%20Route%2066%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "ICE failed to monitor suicide risk detainee",
+       "fa": "ادارهٔ مهاجرت و گمرک از پایش بازداشتیِ در معرض خودکشی بازماند",
+       "url": "https://duckduckgo.com/?q=%5CICE%20failed%20to%20monitor%20suicide%20risk%20detainee%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "In D.C., declaring war on rats is political tradition",
+       "fa": "در واشنگتن، اعلان جنگ با موش‌ها یک سنت سیاسی است",
+       "url": "https://duckduckgo.com/?q=%5CIn%20D.C.%2C%20declaring%20war%20on%20rats%20is%20political%20tradition%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "French protests draw hundreds of thousands",
+       "fa": "صدها هزار نفر در اعتراضات فرانسه به خیابان آمدند",
+       "url": "https://duckduckgo.com/?q=%5CFrench%20protests%20draw%20hundreds%20of%20thousands%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Ossoff's films exposing corruption fueled his ascent",
+       "fa": "فیلم‌های افشاگرانهٔ اوسوف دربارهٔ فساد، به صعود او دامن زد",
+       "url": "https://duckduckgo.com/?q=%5COssoff%27s%20films%20exposing%20corruption%20fueled%20his%20ascent%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-10-25/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Trump's AI gamble fueling economic fears",
+       "fa": "قمار ترامپ بر سر هوش مصنوعی، نگرانی‌های اقتصادی را دامن می‌زند",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20AI%20gamble%20fueling%20economic%20fears%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Election officials in state receive threat",
+       "fa": "مسئولان انتخابات ایالت تهدید شدند",
+       "url": "https://duckduckgo.com/?q=%5CElection%20officials%20in%20state%20receive%20threat%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "How California's economy hopes to keep its dynamism",
+       "fa": "اقتصاد کالیفرنیا چگونه امیدوار است پویایی‌اش را حفظ کند",
+       "url": "https://duckduckgo.com/?q=%5CHow%20California%27s%20economy%20hopes%20to%20keep%20its%20dynamism%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Even as some sectors grow, the state's rivals gain ground with lower costs, fewer rules",
+       "fa": "با وجود رشد برخی بخش‌ها، رقبای ایالت با هزینه‌های کمتر و مقررات اندک‌تر پیش می‌افتند",
+       "url": "https://duckduckgo.com/?q=%5CEven%20as%20some%20sectors%20grow%2C%20the%20state%27s%20rivals%20gain%20ground%20with%20lower%20costs%2C%20fewer%20rules%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Growth of health system spurs worry",
+       "fa": "گسترش یک نظام درمانی نگرانی‌برانگیز شده است",
+       "url": "https://duckduckgo.com/?q=%5CGrowth%20of%20health%20system%20spurs%20worry%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",
@@ -74,6 +170,180 @@
        "o": "Nicole's Practically Magical: Star in new era is going supernova",
        "fa": "نیکول عملاً جادویی است: ستاره در دوران تازه‌اش می‌درخشد",
        "url": "https://duckduckgo.com/?q=%5CNicole%27s%20Practically%20Magical%3A%20Star%20in%20new%20era%20is%20going%20supernova%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-10-25/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Peak Boston?",
+       "fa": "بوستون به اوج رسیده است؟",
+       "url": "https://duckduckgo.com/?q=%5CPeak%20Boston%3F%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Why Mass. lost its mojo — and how we get it back",
+       "fa": "چرا ماساچوست شور و توانش را از دست داد و چگونه آن را بازپس بگیریم",
+       "url": "https://duckduckgo.com/?q=%5CWhy%20Mass.%20lost%20its%20mojo%20%E2%80%94%20and%20how%20we%20get%20it%20back%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Affluence, with a side of effluence",
+       "fa": "ثروت، با چاشنی فاضلاب",
+       "url": "https://duckduckgo.com/?q=%5CAffluence%2C%20with%20a%20side%20of%20effluence%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Party unity at risk in Mich. race",
+       "fa": "وحدت حزبی در رقابت میشیگان در خطر است",
+       "url": "https://duckduckgo.com/?q=%5CParty%20unity%20at%20risk%20in%20Mich.%20race%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Trying to play through latest Trump fixation",
+       "fa": "تلاش برای گلف‌بازی در سایهٔ تازه‌ترین وسواس ترامپ",
+       "url": "https://duckduckgo.com/?q=%5CTrying%20to%20play%20through%20latest%20Trump%20fixation%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "The Patriots' place in the AFC is about what we thought it would be",
+       "fa": "جایگاه پاتریوتس در کنفرانس AFC همان است که انتظارش را داشتیم",
+       "url": "https://duckduckgo.com/?q=%5CThe%20Patriots%27%20place%20in%20the%20AFC%20is%20about%20what%20we%20thought%20it%20would%20be%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-10-25/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Mold in schools a growing problem",
+       "fa": "کپک در مدرسه‌ها؛ مشکلی رو به گسترش",
+       "url": "https://duckduckgo.com/?q=%5CMold%20in%20schools%20a%20growing%20problem%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Climate change intensifying summer storms, causing damage, damp conditions in buildings",
+       "fa": "تغییرات اقلیمی توفان‌های تابستانی را شدیدتر کرده و به ساختمان‌ها آسیب و رطوبت می‌رساند",
+       "url": "https://duckduckgo.com/?q=%5CClimate%20change%20intensifying%20summer%20storms%2C%20causing%20damage%2C%20damp%20conditions%20in%20buildings%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Requiem for the American Dream",
+       "fa": "سوگ‌سرودی برای رؤیای آمریکایی",
+       "url": "https://duckduckgo.com/?q=%5CRequiem%20for%20the%20American%20Dream%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-10-25/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "In Amish country, a low-key vaccination push",
+       "fa": "در سرزمین آمیش‌ها، کارزار بی‌سروصدای واکسیناسیون",
+       "url": "https://duckduckgo.com/?q=%5CIn%20Amish%20country%2C%20a%20low-key%20vaccination%20push%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats, GOP divide sharply over using AI in ads",
+       "fa": "اختلاف شدید دموکرات‌ها و جمهوری‌خواهان بر سر استفاده از هوش مصنوعی در تبلیغات",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%2C%20GOP%20divide%20sharply%20over%20using%20AI%20in%20ads%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Halloween matrix: The region's most haunted sites, myths, festivities",
+       "fa": "نقشهٔ هالووین: جن‌زده‌ترین مکان‌ها، افسانه‌ها و جشن‌های منطقه",
+       "url": "https://duckduckgo.com/?q=%5CHalloween%20matrix%3A%20The%20region%27s%20most%20haunted%20sites%2C%20myths%2C%20festivities%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Developer eyeing a third Montco town for data center",
+       "fa": "سازنده‌ای سومین شهر مونتگومری کانتی را برای مرکز داده در نظر دارد",
+       "url": "https://duckduckgo.com/?q=%5CDeveloper%20eyeing%20a%20third%20Montco%20town%20for%20data%20center%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "What the Phillies can learn from the teams in the World Series",
+       "fa": "آنچه فیلیز می‌تواند از تیم‌های حاضر در ورلد سریز بیاموزد",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20the%20Phillies%20can%20learn%20from%20the%20teams%20in%20the%20World%20Series%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "What to know about Pa.'s Nov. 3 election",
+       "fa": "آنچه باید دربارهٔ انتخابات ۳ نوامبر پنسیلوانیا بدانید",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20to%20know%20about%20Pa.%27s%20Nov.%203%20election%20site%3Ainquirer.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "houston-chronicle",
+     "name": "Houston Chronicle",
+     "fa": "هیوستون کرونیکل",
+     "site": "https://www.houstonchronicle.com",
+     "img": "covers/2026-10-25/houston-chronicle.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/houston-chronicle/",
+     "headlines": [
+      {
+       "o": "Unseen consequence",
+       "fa": "پیامدی پنهان",
+       "url": "https://duckduckgo.com/?q=%5CUnseen%20consequence%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "After Texas added police in schools, more students were referred to justice system, most for minor offenses",
+       "fa": "پس از افزایش پلیس در مدرسه‌های تگزاس، دانش‌آموزان بیشتری به دستگاه قضایی ارجاع شدند؛ بیشترشان برای تخلفات جزئی",
+       "url": "https://duckduckgo.com/?q=%5CAfter%20Texas%20added%20police%20in%20schools%2C%20more%20students%20were%20referred%20to%20justice%20system%2C%20most%20for%20minor%20offenses%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "HISD lets others use its lessons for free",
+       "fa": "ناحیهٔ آموزشی هیوستون درس‌هایش را رایگان در اختیار دیگران می‌گذارد",
+       "url": "https://duckduckgo.com/?q=%5CHISD%20lets%20others%20use%20its%20lessons%20for%20free%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "A&M, Tech go down",
+       "fa": "شکست اِی‌اند‌اِم و تک",
+       "url": "https://duckduckgo.com/?q=%5CA%26M%2C%20Tech%20go%20down%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Out of work: Rules strip commercial drivers of licenses",
+       "fa": "بیکاری؛ مقررات تازه گواهی‌نامهٔ رانندگان تجاری را لغو می‌کند",
+       "url": "https://duckduckgo.com/?q=%5COut%20of%20work%3A%20Rules%20strip%20commercial%20drivers%20of%20licenses%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Political disgrace: Scandals, from bribery to impeachment, have rocked Texas",
+       "fa": "رسوایی سیاسی؛ از رشوه تا استیضاح، رسوایی‌ها تگزاس را لرزانده است",
+       "url": "https://duckduckgo.com/?q=%5CPolitical%20disgrace%3A%20Scandals%2C%20from%20bribery%20to%20impeachment%2C%20have%20rocked%20Texas%20site%3Ahoustonchronicle.com",
        "direct": false
       }
      ]
@@ -410,6 +680,54 @@
        "o": "Zeitrechnung: Der Kalender ist kein Naturgesetz",
        "fa": "گاه‌شماری: تقویم قانون طبیعت نیست",
        "url": "https://duckduckgo.com/?q=%5CZeitrechnung%3A%20Der%20Kalender%20ist%20kein%20Naturgesetz%20site%3Afaz.net",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "bild",
+     "name": "Bild",
+     "fa": "بیلد",
+     "site": "https://www.bild.de",
+     "img": "covers/2026-10-25/bild.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/bild/",
+     "headlines": [
+      {
+       "o": "Das Kompany-Drama",
+       "fa": "ماجرای کومپانی",
+       "url": "https://duckduckgo.com/?q=%5CDas%20Kompany-Drama%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Bayern-Trainer mit Notarzt in Klinik! Er fällt nicht Tage, sondern Wochen aus",
+       "fa": "سرمربی بایرن با پزشک اورژانس به بیمارستان منتقل شد! او نه چند روز، بلکه چند هفته غایب است",
+       "url": "https://duckduckgo.com/?q=%5CBayern-Trainer%20mit%20Notarzt%20in%20Klinik%21%20Er%20f%C3%A4llt%20nicht%20Tage%2C%20sondern%20Wochen%20aus%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Exklusiv: Deutschlands beste Kliniken",
+       "fa": "اختصاصی: بهترین بیمارستان‌های آلمان",
+       "url": "https://duckduckgo.com/?q=%5CExklusiv%3A%20Deutschlands%20beste%20Kliniken%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Exklusiv: Die Nazi-Akte Gottschalk",
+       "fa": "اختصاصی: پروندهٔ نازیِ گوتشالک",
+       "url": "https://duckduckgo.com/?q=%5CExklusiv%3A%20Die%20Nazi-Akte%20Gottschalk%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Wieder Füllkrug! Und wieder zwei Tore!",
+       "fa": "باز هم فول‌کروگ! و باز هم دو گل!",
+       "url": "https://duckduckgo.com/?q=%5CWieder%20F%C3%BCllkrug%21%20Und%20wieder%20zwei%20Tore%21%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Marianne Sägebrecht: Alle Zähne weg!",
+       "fa": "ماریانه زِگه‌برشت: همهٔ دندان‌هایم ریخت!",
+       "url": "https://duckduckgo.com/?q=%5CMarianne%20S%C3%A4gebrecht%3A%20Alle%20Z%C3%A4hne%20weg%21%20site%3Abild.de",
        "direct": false
       }
      ]
