@@ -73,6 +73,54 @@
      ]
     },
     {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-10-27/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "Netanyahu could lose but stay in power",
+       "fa": "نتانیاهو ممکن است ببازد اما در قدرت بماند",
+       "url": "https://duckduckgo.com/?q=%5CNetanyahu%20could%20lose%20but%20stay%20in%20power%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "$80B loss for Claude maker",
+       "fa": "۸۰ میلیارد دلار زیان برای سازندهٔ Claude",
+       "url": "https://duckduckgo.com/?q=%5C%2480B%20loss%20for%20Claude%20maker%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "A closed border, and a lost campaign issue",
+       "fa": "مرزی بسته و موضوعی انتخاباتی که از دست رفت",
+       "url": "https://duckduckgo.com/?q=%5CA%20closed%20border%2C%20and%20a%20lost%20campaign%20issue%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "GOP money shifts from D.C. hotel to Mar-a-Lago",
+       "fa": "پول جمهوری‌خواهان از هتل واشنگتن به مار-اِ-لاگو سرازیر شد",
+       "url": "https://duckduckgo.com/?q=%5CGOP%20money%20shifts%20from%20D.C.%20hotel%20to%20Mar-a-Lago%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Inside Lula's race to revive campaign",
+       "fa": "در پشت صحنهٔ تلاش لولا برای احیای کارزارش",
+       "url": "https://duckduckgo.com/?q=%5CInside%20Lula%27s%20race%20to%20revive%20campaign%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Execs who cozied up to Trump fear a reckoning",
+       "fa": "مدیرانی که به ترامپ نزدیک شدند از روز حساب می‌هراسند",
+       "url": "https://duckduckgo.com/?q=%5CExecs%20who%20cozied%20up%20to%20Trump%20fear%20a%20reckoning%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "usa-today",
      "name": "USA Today",
      "fa": "یو‌اس‌ای تودی",
@@ -115,6 +163,48 @@
      ]
     },
     {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-10-27/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "SoCal coast's current enemy: A hot ocean",
+       "fa": "دشمن کنونی سواحل جنوب کالیفرنیا: اقیانوسی داغ",
+       "url": "https://duckduckgo.com/?q=%5CSoCal%20coast%27s%20current%20enemy%3A%20A%20hot%20ocean%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Observers will swarm the polls on election day",
+       "fa": "ناظران روز انتخابات به حوزه‌های رأی‌گیری هجوم می‌آورند",
+       "url": "https://duckduckgo.com/?q=%5CObservers%20will%20swarm%20the%20polls%20on%20election%20day%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Vote puts Israeli leader's legacy on the line",
+       "fa": "انتخابات میراث رهبر اسرائیل را به خطر انداخته است",
+       "url": "https://duckduckgo.com/?q=%5CVote%20puts%20Israeli%20leader%27s%20legacy%20on%20the%20line%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Doubt over Bass' outside backers",
+       "fa": "تردید دربارهٔ حامیان بیرونی بَس",
+       "url": "https://duckduckgo.com/?q=%5CDoubt%20over%20Bass%27%20outside%20backers%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Misconduct claims jolt race",
+       "fa": "اتهام‌های سوءرفتار رقابت را تکان داد",
+       "url": "https://duckduckgo.com/?q=%5CMisconduct%20claims%20jolt%20race%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",
@@ -140,6 +230,120 @@
        "o": "Do the crime, not the time!",
        "fa": "جرم را مرتکب شو، نه حبس را!",
        "url": "https://duckduckgo.com/?q=%5CDo%20the%20crime%2C%20not%20the%20time%21%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-10-27/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Question 7 aims to revive starter homes",
+       "fa": "همه‌پرسی شمارهٔ ۷ در پی احیای خانه‌های ارزان برای خریداران اول",
+       "url": "https://duckduckgo.com/?q=%5CQuestion%207%20aims%20to%20revive%20starter%20homes%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "As costs soar, Healey shifts energy stance",
+       "fa": "با اوج‌گیری هزینه‌ها، هیلی موضع انرژی خود را تغییر داد",
+       "url": "https://duckduckgo.com/?q=%5CAs%20costs%20soar%2C%20Healey%20shifts%20energy%20stance%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "The 'most dangerous' roads to drive in Boston?",
+       "fa": "«خطرناک‌ترین» جاده‌های بوستون برای رانندگی؟",
+       "url": "https://duckduckgo.com/?q=%5CThe%20%27most%20dangerous%27%20roads%20to%20drive%20in%20Boston%3F%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-10-27/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Netanyahu's legacy on line in vote",
+       "fa": "میراث نتانیاهو در گرو انتخابات",
+       "url": "https://duckduckgo.com/?q=%5CNetanyahu%27s%20legacy%20on%20line%20in%20vote%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Mitchell, Del Mar vie for job with big stakes",
+       "fa": "رقابت میچل و دل‌مار بر سر منصبی سرنوشت‌ساز",
+       "url": "https://duckduckgo.com/?q=%5CMitchell%2C%20Del%20Mar%20vie%20for%20job%20with%20big%20stakes%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Right on time, debate on clock shift returns",
+       "fa": "درست به‌موقع، بحث تغییر ساعت بازگشت",
+       "url": "https://duckduckgo.com/?q=%5CRight%20on%20time%2C%20debate%20on%20clock%20shift%20returns%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-10-27/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Anthropic files for potentially the biggest IPO ever",
+       "fa": "آنتروپیک برای شاید بزرگ‌ترین عرضهٔ اولیهٔ تاریخ درخواست داد",
+       "url": "https://duckduckgo.com/?q=%5CAnthropic%20files%20for%20potentially%20the%20biggest%20IPO%20ever%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Museum supporters roar",
+       "fa": "خروش حامیان موزه",
+       "url": "https://duckduckgo.com/?q=%5CMuseum%20supporters%20roar%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Thousands of monitors will watch voting at polls",
+       "fa": "هزاران ناظر بر رأی‌گیری در حوزه‌ها نظارت خواهند کرد",
+       "url": "https://duckduckgo.com/?q=%5CThousands%20of%20monitors%20will%20watch%20voting%20at%20polls%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Trump's election attacks enter preemptive phase",
+       "fa": "حملات ترامپ به انتخابات وارد مرحلهٔ پیش‌دستانه شد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20election%20attacks%20enter%20preemptive%20phase%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Justice Dept. charges former FBI director Comey for third time",
+       "fa": "وزارت دادگستری برای سومین بار علیه کومی، رئیس پیشین اف‌بی‌آی، اتهام وارد کرد",
+       "url": "https://duckduckgo.com/?q=%5CJustice%20Dept.%20charges%20former%20FBI%20director%20Comey%20for%20third%20time%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Governor signs bill banning cell phones in schools",
+       "fa": "فرماندار لایحهٔ ممنوعیت تلفن همراه در مدارس را امضا کرد",
+       "url": "https://duckduckgo.com/?q=%5CGovernor%20signs%20bill%20banning%20cell%20phones%20in%20schools%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Murphy: Sixers still can't solve life without Embiid",
+       "fa": "مورفی: سیکسرز هنوز راه‌حلی برای زندگی بدون امبید ندارد",
+       "url": "https://duckduckgo.com/?q=%5CMurphy%3A%20Sixers%20still%20can%27t%20solve%20life%20without%20Embiid%20site%3Ainquirer.com",
        "direct": false
       }
      ]
