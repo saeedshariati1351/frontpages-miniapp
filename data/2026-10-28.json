@@ -163,6 +163,54 @@
      ]
     },
     {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-10-28/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Bass overcomes Raman's lead, tying her in poll",
+       "fa": "باس از پیشتازی رامان عبور کرد و در نظرسنجی هم‌تراز او شد",
+       "url": "https://duckduckgo.com/?q=%5CBass%20overcomes%20Raman%27s%20lead%2C%20tying%20her%20in%20poll%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "El Niño flooding shocks beach towns",
+       "fa": "سیل ال‌نینو شهرهای ساحلی را شوکه کرد",
+       "url": "https://duckduckgo.com/?q=%5CEl%20Ni%C3%B1o%20flooding%20shocks%20beach%20towns%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Small businesses turning to risky cash advances",
+       "fa": "کسب‌وکارهای کوچک به پیش‌پرداخت‌های نقدی پرخطر روی می‌آورند",
+       "url": "https://duckduckgo.com/?q=%5CSmall%20businesses%20turning%20to%20risky%20cash%20advances%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Feds accuse rehabs of fraud",
+       "fa": "دولت فدرال مراکز ترک اعتیاد را به کلاه‌برداری متهم کرد",
+       "url": "https://duckduckgo.com/?q=%5CFeds%20accuse%20rehabs%20of%20fraud%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Roy widens lead in city attorney race",
+       "fa": "روی پیشتازی‌اش را در رقابت دادستانی شهر بیشتر کرد",
+       "url": "https://duckduckgo.com/?q=%5CRoy%20widens%20lead%20in%20city%20attorney%20race%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Focus on the undecideds",
+       "fa": "تمرکز بر رأی‌دهندگان مردد",
+       "url": "https://duckduckgo.com/?q=%5CFocus%20on%20the%20undecideds%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",
@@ -182,6 +230,114 @@
        "o": "Catwalk catfight as two Victoria's Secret models go to war over Tom Brady",
        "fa": "دعوای روی سکوی مد: دو مدل ویکتوریا سیکرت بر سر تام بریدی به جان هم افتادند",
        "url": "https://duckduckgo.com/?q=%5CCatwalk%20catfight%20as%20two%20Victoria%27s%20Secret%20models%20go%20to%20war%20over%20Tom%20Brady%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-10-28/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "So far, little interference with voting",
+       "fa": "تاکنون مداخلهٔ اندکی در رأی‌گیری",
+       "url": "https://duckduckgo.com/?q=%5CSo%20far%2C%20little%20interference%20with%20voting%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "She provides answers to questions on the questions",
+       "fa": "او به پرسش‌ها دربارهٔ پرسش‌های همه‌پرسی پاسخ می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CShe%20provides%20answers%20to%20questions%20on%20the%20questions%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Prosecution's expert says evidence shows Birchmore slain",
+       "fa": "کارشناس دادستانی: شواهد نشان می‌دهد برچمور به قتل رسیده است",
+       "url": "https://duckduckgo.com/?q=%5CProsecution%27s%20expert%20says%20evidence%20shows%20Birchmore%20slain%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "As heating oil goes up, thermostats go down",
+       "fa": "با گران شدن نفت گرمایشی، ترموستات‌ها پایین می‌آیند",
+       "url": "https://duckduckgo.com/?q=%5CAs%20heating%20oil%20goes%20up%2C%20thermostats%20go%20down%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-10-28/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Unusual filing in FBI case draws ire",
+       "fa": "طرح غیرعادی دعوا در پروندهٔ اف‌بی‌آی خشم برانگیخت",
+       "url": "https://duckduckgo.com/?q=%5CUnusual%20filing%20in%20FBI%20case%20draws%20ire%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "An unlikely thread",
+       "fa": "رشته‌ای نامحتمل",
+       "url": "https://duckduckgo.com/?q=%5CAn%20unlikely%20thread%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-10-28/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Israelis surge to polls with nation's and Netanyahu's future on the ballot",
+       "fa": "هجوم اسرائیلی‌ها به پای صندوق‌ها در حالی که آیندهٔ کشور و نتانیاهو در گرو آرای آنان است",
+       "url": "https://duckduckgo.com/?q=%5CIsraelis%20surge%20to%20polls%20with%20nation%27s%20and%20Netanyahu%27s%20future%20on%20the%20ballot%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Why an accused police killer was still free",
+       "fa": "چرا متهم به قتل مأمور پلیس همچنان آزاد بود",
+       "url": "https://duckduckgo.com/?q=%5CWhy%20an%20accused%20police%20killer%20was%20still%20free%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly has added degree-holding workers, but office jobs not keeping pace",
+       "fa": "فیلادلفیا کارکنان دارای مدرک دانشگاهی بیشتری جذب کرده، اما مشاغل اداری پابه‌پای آن رشد نکرده است",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%20has%20added%20degree-holding%20workers%2C%20but%20office%20jobs%20not%20keeping%20pace%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "McLane: Eagles defensive line has been unraveling for some time",
+       "fa": "مک‌لین: خط دفاعی ایگلز مدتی است از هم می‌پاشد",
+       "url": "https://duckduckgo.com/?q=%5CMcLane%3A%20Eagles%20defensive%20line%20has%20been%20unraveling%20for%20some%20time%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Hayes: Clock is ticking on Sirianni's tenure",
+       "fa": "هِیز: زمان دوران سیریانی رو به پایان است",
+       "url": "https://duckduckgo.com/?q=%5CHayes%3A%20Clock%20is%20ticking%20on%20Sirianni%27s%20tenure%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Boyz II Men are going country",
+       "fa": "بویز تو من به موسیقی کانتری روی می‌آورد",
+       "url": "https://duckduckgo.com/?q=%5CBoyz%20II%20Men%20are%20going%20country%20site%3Ainquirer.com",
        "direct": false
       }
      ]
@@ -332,6 +488,36 @@
        "o": "Mbappe's costly Mao row",
        "fa": "جنجال پرهزینهٔ امباپه بر سر مائو",
        "url": "https://duckduckgo.com/?q=%5CMbappe%27s%20costly%20Mao%20row%20site%3Acityam.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "morning-star",
+     "name": "Morning Star",
+     "fa": "مورنینگ استار",
+     "site": "https://morningstaronline.co.uk",
+     "img": "covers/2026-10-28/morning-star.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/morning-star/",
+     "headlines": [
+      {
+       "o": "Wake up, smell the coffee and tax the banks",
+       "fa": "بیدار شوید، واقعیت را ببینید و از بانک‌ها مالیات بگیرید",
+       "url": "https://duckduckgo.com/?q=%5CWake%20up%2C%20smell%20the%20coffee%20and%20tax%20the%20banks%20site%3Amorningstaronline.co.uk",
+       "direct": false
+      },
+      {
+       "o": "'Destructive': workers walk out in council outsourcing battle",
+       "fa": "«ویرانگر»: کارگران در نبرد برون‌سپاری شورای محلی دست از کار کشیدند",
+       "url": "https://duckduckgo.com/?q=%5C%27Destructive%27%3A%20workers%20walk%20out%20in%20council%20outsourcing%20battle%20site%3Amorningstaronline.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Pivotal election: Israel divided as voters head to the polls",
+       "fa": "انتخاباتی سرنوشت‌ساز: اسرائیل در حالی که رأی‌دهندگان پای صندوق‌ها می‌روند دوپاره است",
+       "url": "https://duckduckgo.com/?q=%5CPivotal%20election%3A%20Israel%20divided%20as%20voters%20head%20to%20the%20polls%20site%3Amorningstaronline.co.uk",
        "direct": false
       }
      ]
@@ -2453,6 +2639,60 @@
    "name": "اسرائیل",
    "flag": "🇮🇱",
    "papers": [
+    {
+     "slug": "haaretz",
+     "name": "Haaretz",
+     "fa": "هاآرتص",
+     "site": "https://www.haaretz.com",
+     "img": "covers/2026-10-28/haaretz.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/haaretz/",
+     "headlines": [
+      {
+       "o": "Opposition forecast 70 seats amid record turnout",
+       "fa": "پیش‌بینی ۷۰ کرسی برای مخالفان در پی مشارکت بی‌سابقه",
+       "url": "https://duckduckgo.com/?q=%5COpposition%20forecast%2070%20seats%20amid%20record%20turnout%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "How Eisenkot ensures victory",
+       "fa": "آیزنکوت چگونه پیروزی را تضمین می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CHow%20Eisenkot%20ensures%20victory%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Spitting on Arabs is a shot in the foot for liberal camp",
+       "fa": "تف انداختن به عرب‌ها شلیک به پای خود اردوگاه لیبرال است",
+       "url": "https://duckduckgo.com/?q=%5CSpitting%20on%20Arabs%20is%20a%20shot%20in%20the%20foot%20for%20liberal%20camp%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Voters did their part, now it's the change bloc's turn",
+       "fa": "رأی‌دهندگان سهم خود را ادا کردند، اکنون نوبت بلوک تغییر است",
+       "url": "https://duckduckgo.com/?q=%5CVoters%20did%20their%20part%2C%20now%20it%27s%20the%20change%20bloc%27s%20turn%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Illegal voter tally reported at 115 polling stations – watchdog",
+       "fa": "نهاد ناظر: گزارش شمارش غیرقانونی رأی‌دهندگان در ۱۱۵ شعبهٔ اخذ رأی",
+       "url": "https://duckduckgo.com/?q=%5CIllegal%20voter%20tally%20reported%20at%20115%20polling%20stations%20%E2%80%93%20watchdog%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Failing schools, the overlooked issue of a pivotal election",
+       "fa": "مدارس ناکارآمد، موضوع نادیده‌گرفته‌شدهٔ انتخاباتی سرنوشت‌ساز",
+       "url": "https://duckduckgo.com/?q=%5CFailing%20schools%2C%20the%20overlooked%20issue%20of%20a%20pivotal%20election%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Bibi, king of group chats",
+       "fa": "بی‌بی، سلطان گروه‌های گفت‌وگو",
+       "url": "https://duckduckgo.com/?q=%5CBibi%2C%20king%20of%20group%20chats%20site%3Ahaaretz.com",
+       "direct": false
+      }
+     ]
+    },
     {
      "slug": "the-jerusalem-post",
      "name": "The Jerusalem Post",
