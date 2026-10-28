@@ -32,6 +32,19 @@ async def active_users():
             users = await client(GetUsersRequest([InputUserSelf()]))
             n = getattr(users[0], "bot_active_users", None)
             print("users.getUsers(self): bot_active_users=%s" % n)
+        if n is None:
+            from telethon.tl.functions.contacts import ResolveUsernameRequest
+            from telethon.tl.functions.users import GetFullUserRequest
+            name = os.environ.get("BOT_USERNAME", "worldnewspaperminiappbot")
+            res = await client(ResolveUsernameRequest(name))
+            for u in res.users:
+                print("resolve: id=%s bot_active_users=%s" % (u.id, getattr(u, "bot_active_users", None)))
+                n = n or getattr(u, "bot_active_users", None)
+            if n is None and res.users:
+                full = await client(GetFullUserRequest(res.users[0]))
+                for u in full.users:
+                    n = n or getattr(u, "bot_active_users", None)
+                print("getFullUser: bot_active_users=%s" % n)
         return n
     finally:
         await client.disconnect()
