@@ -2450,6 +2450,66 @@
    ]
   },
   {
+   "name": "اسرائیل",
+   "flag": "🇮🇱",
+   "papers": [
+    {
+     "slug": "the-jerusalem-post",
+     "name": "The Jerusalem Post",
+     "fa": "جروزالم پست",
+     "site": "https://www.jpost.com",
+     "img": "covers/2026-10-28/the-jerusalem-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-jerusalem-post/",
+     "headlines": [
+      {
+       "o": "Exit polls show Eisenkot, Netanyahu falling short",
+       "fa": "نظرسنجی‌های خروجی: نه آیزنکوت و نه نتانیاهو به اکثریت نمی‌رسند",
+       "url": "https://duckduckgo.com/?q=%5CExit%20polls%20show%20Eisenkot%2C%20Netanyahu%20falling%20short%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Eisenkot claims victory, first right to form gov't, despite mixed result",
+       "fa": "آیزنکوت به‌رغم نتیجهٔ دوپهلو، مدعی پیروزی و حق نخست تشکیل دولت شد",
+       "url": "https://duckduckgo.com/?q=%5CEisenkot%20claims%20victory%2C%20first%20right%20to%20form%20gov%27t%2C%20despite%20mixed%20result%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "'Only Bibi': At Likud headquarters, supporters keep faith with Netanyahu",
+       "fa": "«فقط بی‌بی»: در ستاد لیکود، هواداران همچنان به نتانیاهو وفادارند",
+       "url": "https://duckduckgo.com/?q=%5C%27Only%20Bibi%27%3A%20At%20Likud%20headquarters%2C%20supporters%20keep%20faith%20with%20Netanyahu%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Arab parties register best-ever election showing, could secure up to 18 seats",
+       "fa": "احزاب عرب بهترین نتیجهٔ انتخاباتی تاریخ خود را ثبت کردند و ممکن است تا ۱۸ کرسی بگیرند",
+       "url": "https://duckduckgo.com/?q=%5CArab%20parties%20register%20best-ever%20election%20showing%2C%20could%20secure%20up%20to%2018%20seats%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Study shows Israel and US Jews feel closer, not further apart",
+       "fa": "پژوهش: اسرائیل و یهودیان آمریکا به هم نزدیک‌تر شده‌اند، نه دورتر",
+       "url": "https://duckduckgo.com/?q=%5CStudy%20shows%20Israel%20and%20US%20Jews%20feel%20closer%2C%20not%20further%20apart%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Whereabouts of Bolsonaro unclear after defeat in Brazil",
+       "fa": "پس از شکست در برزیل، از محل حضور بولسونارو خبری نیست",
+       "url": "https://duckduckgo.com/?q=%5CWhereabouts%20of%20Bolsonaro%20unclear%20after%20defeat%20in%20Brazil%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Walter Koenig, Star Trek's original Chekov, dies at 90",
+       "fa": "والتر کونیگ، چکوف اصلی «پیشتازان فضا»، در ۹۰سالگی درگذشت",
+       "url": "https://duckduckgo.com/?q=%5CWalter%20Koenig%2C%20Star%20Trek%27s%20original%20Chekov%2C%20dies%20at%2090%20site%3Ajpost.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "ترکیه",
    "flag": "🇹🇷",
    "papers": [

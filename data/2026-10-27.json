@@ -2487,6 +2487,72 @@
    ]
   },
   {
+   "name": "اسرائیل",
+   "flag": "🇮🇱",
+   "papers": [
+    {
+     "slug": "haaretz",
+     "name": "Haaretz",
+     "fa": "هاآرتص",
+     "site": "https://www.haaretz.com",
+     "img": "covers/2026-10-27/haaretz.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/haaretz/",
+     "headlines": [
+      {
+       "o": "Israelis go to polls after PM tries to go to war",
+       "fa": "اسرائیلی‌ها پس از تلاش نخست‌وزیر برای رفتن به جنگ، پای صندوق‌های رأی می‌روند",
+       "url": "https://duckduckgo.com/?q=%5CIsraelis%20go%20to%20polls%20after%20PM%20tries%20to%20go%20to%20war%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Netanyahu digs in, and Iran is never far",
+       "fa": "نتانیاهو سرسختانه ایستاده است و ایران هم هرگز دور نیست",
+       "url": "https://duckduckgo.com/?q=%5CNetanyahu%20digs%20in%2C%20and%20Iran%20is%20never%20far%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "The real decision that's on the agenda",
+       "fa": "تصمیم واقعی‌ای که در دستور کار است",
+       "url": "https://duckduckgo.com/?q=%5CThe%20real%20decision%20that%27s%20on%20the%20agenda%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "This is not Israel's most consequential election. And that's a good thing",
+       "fa": "این سرنوشت‌سازترین انتخابات اسرائیل نیست؛ و این خوب است",
+       "url": "https://duckduckgo.com/?q=%5CThis%20is%20not%20Israel%27s%20most%20consequential%20election.%20And%20that%27s%20a%20good%20thing%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Fugitive former aide exploited PMO ties for personal gain",
+       "fa": "دستیار فراری پیشین از ارتباطاتش با دفتر نخست‌وزیر برای منافع شخصی سوءاستفاده کرد",
+       "url": "https://duckduckgo.com/?q=%5CFugitive%20former%20aide%20exploited%20PMO%20ties%20for%20personal%20gain%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "A visit to Israel's bellwether city",
+       "fa": "سفری به شهر شاخص انتخاباتی اسرائیل",
+       "url": "https://duckduckgo.com/?q=%5CA%20visit%20to%20Israel%27s%20bellwether%20city%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Will Arab vote turnout surge? Enthusiasm meets obstacles, including right-wing activists",
+       "fa": "آیا مشارکت عرب‌ها در رأی‌گیری جهش می‌کند؟ شور و شوق با موانعی از جمله فعالان راست‌گرا روبه‌روست",
+       "url": "https://duckduckgo.com/?q=%5CWill%20Arab%20vote%20turnout%20surge%3F%20Enthusiasm%20meets%20obstacles%2C%20including%20right-wing%20activists%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Vučić loses Serbian election",
+       "fa": "ووچیچ انتخابات صربستان را باخت",
+       "url": "https://duckduckgo.com/?q=%5CVu%C4%8Di%C4%87%20loses%20Serbian%20election%20site%3Ahaaretz.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "ترکیه",
    "flag": "🇹🇷",
    "papers": [

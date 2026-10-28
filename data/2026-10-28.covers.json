@@ -278,5 +278,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/dainik-jagran/"
+ },
+ "the-jerusalem-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-jerusalem-post/"
  }
 }
