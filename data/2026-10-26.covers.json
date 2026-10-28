@@ -293,5 +293,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/the-philadelphia-inquirer/"
+ },
+ "haaretz": {
+  "w": 900,
+  "h": 1366,
+  "source": "https://www.frontpages.com/haaretz/"
  }
 }

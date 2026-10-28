@@ -2549,6 +2549,72 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "the-jerusalem-post",
+     "name": "The Jerusalem Post",
+     "fa": "جروزالم پست",
+     "site": "https://www.jpost.com",
+     "img": "covers/2026-10-27/the-jerusalem-post.jpg",
+     "w": 900,
+     "h": 1459,
+     "source": "https://www.frontpages.com/the-jerusalem-post/",
+     "headlines": [
+      {
+       "o": "Israel heads to polls today for crucial vote",
+       "fa": "اسرائیل امروز برای رأی‌گیری سرنوشت‌ساز پای صندوق‌ها می‌رود",
+       "url": "https://duckduckgo.com/?q=%5CIsrael%20heads%20to%20polls%20today%20for%20crucial%20vote%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Police brace for riot scenario at Knesset",
+       "fa": "پلیس برای سناریوی آشوب در کنست آماده می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CPolice%20brace%20for%20riot%20scenario%20at%20Knesset%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "The campaign ends with Iran – and the question of trust",
+       "fa": "مبارزات انتخاباتی با ایران به پایان می‌رسد؛ و با پرسش اعتماد",
+       "url": "https://duckduckgo.com/?q=%5CThe%20campaign%20ends%20with%20Iran%20%E2%80%93%20and%20the%20question%20of%20trust%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Just form a government. Hate each other on your own time",
+       "fa": "فقط دولت تشکیل دهید؛ نفرت از یکدیگر را بگذارید برای وقت خودتان",
+       "url": "https://duckduckgo.com/?q=%5CJust%20form%20a%20government.%20Hate%20each%20other%20on%20your%20own%20time%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "US, Zamir slam brakes on Netanyahu desire to attack Iran during elections",
+       "fa": "آمریکا و زمیر جلوی تمایل نتانیاهو به حمله به ایران در جریان انتخابات را گرفتند",
+       "url": "https://duckduckgo.com/?q=%5CUS%2C%20Zamir%20slam%20brakes%20on%20Netanyahu%20desire%20to%20attack%20Iran%20during%20elections%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Could Trump's allies push PM into unity government without his far-right partners?",
+       "fa": "آیا متحدان ترامپ می‌توانند نخست‌وزیر را به دولت وحدت ملی بدون شرکای راست افراطی‌اش سوق دهند؟",
+       "url": "https://duckduckgo.com/?q=%5CCould%20Trump%27s%20allies%20push%20PM%20into%20unity%20government%20without%20his%20far-right%20partners%3F%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "State tells High Court: Hebron business razings executed without prior hearing",
+       "fa": "دولت به دیوان عالی: تخریب کسب‌وکارهای الخلیل بدون جلسهٔ رسیدگی قبلی انجام شد",
+       "url": "https://duckduckgo.com/?q=%5CState%20tells%20High%20Court%3A%20Hebron%20business%20razings%20executed%20without%20prior%20hearing%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Fly the flag: Will 70,000 visiting voters tip the balance?",
+       "fa": "پرچم را برافرازید: آیا ۷۰ هزار رأی‌دهندهٔ ازخارج‌آمده کفه را سنگین می‌کنند؟",
+       "url": "https://duckduckgo.com/?q=%5CFly%20the%20flag%3A%20Will%2070%2C000%20visiting%20voters%20tip%20the%20balance%3F%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Political deadlock: Israel needs a national-unity government!",
+       "fa": "بن‌بست سیاسی: اسرائیل به دولت وحدت ملی نیاز دارد!",
+       "url": "https://duckduckgo.com/?q=%5CPolitical%20deadlock%3A%20Israel%20needs%20a%20national-unity%20government%21%20site%3Ajpost.com",
+       "direct": false
+      }
+     ]
     }
    ]
   },

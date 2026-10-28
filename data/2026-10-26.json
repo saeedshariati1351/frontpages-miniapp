@@ -2625,6 +2625,72 @@
    ]
   },
   {
+   "name": "اسرائیل",
+   "flag": "🇮🇱",
+   "papers": [
+    {
+     "slug": "haaretz",
+     "name": "Haaretz",
+     "fa": "هاآرتص",
+     "site": "https://www.haaretz.com",
+     "img": "covers/2026-10-26/haaretz.jpg",
+     "w": 900,
+     "h": 1366,
+     "source": "https://www.frontpages.com/haaretz/",
+     "headlines": [
+      {
+       "o": "Across the country, citizens are banding together against election interference",
+       "fa": "در سراسر کشور، شهروندان در برابر دخالت در انتخابات متحد می‌شوند",
+       "url": "https://duckduckgo.com/?q=%5CAcross%20the%20country%2C%20citizens%20are%20banding%20together%20against%20election%20interference%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "'Over 2,000 Palestinians forced by IDF to leave Hebron'",
+       "fa": "«ارتش اسرائیل بیش از ۲ هزار فلسطینی را به ترک الخلیل وادار کرد»",
+       "url": "https://duckduckgo.com/?q=%5C%27Over%202%2C000%20Palestinians%20forced%20by%20IDF%20to%20leave%20Hebron%27%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Still undecided? A list of the 37th government's greatest hits",
+       "fa": "هنوز مردد هستید؟ فهرستی از «شاهکارهای» دولت سی‌وهفتم",
+       "url": "https://duckduckgo.com/?q=%5CStill%20undecided%3F%20A%20list%20of%20the%2037th%20government%27s%20greatest%20hits%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "PM offers doomsday. His rivals must act fast after the election",
+       "fa": "نخست‌وزیر آخرالزمان وعده می‌دهد؛ رقبایش باید پس از انتخابات سریع عمل کنند",
+       "url": "https://duckduckgo.com/?q=%5CPM%20offers%20doomsday.%20His%20rivals%20must%20act%20fast%20after%20the%20election%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "PM's final pitch: Vote for war, ostracism, poverty and insanity",
+       "fa": "آخرین تبلیغ نخست‌وزیر: به جنگ، طرد، فقر و جنون رأی دهید",
+       "url": "https://duckduckgo.com/?q=%5CPM%27s%20final%20pitch%3A%20Vote%20for%20war%2C%20ostracism%2C%20poverty%20and%20insanity%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "How did the Shas party lose its faithful in one of its strongholds?",
+       "fa": "حزب شاس چگونه وفادارانش را در یکی از پایگاه‌هایش از دست داد؟",
+       "url": "https://duckduckgo.com/?q=%5CHow%20did%20the%20Shas%20party%20lose%20its%20faithful%20in%20one%20of%20its%20strongholds%3F%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Demonizing Arab citizens to keep PM in power",
+       "fa": "اهریمن‌سازی از شهروندان عرب برای حفظ نخست‌وزیر در قدرت",
+       "url": "https://duckduckgo.com/?q=%5CDemonizing%20Arab%20citizens%20to%20keep%20PM%20in%20power%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "'We had two hours to leave': Hebron Palestinians describe nighttime expulsion by IDF",
+       "fa": "«دو ساعت فرصت داشتیم برویم»: فلسطینیان الخلیل از اخراج شبانه به دست ارتش اسرائیل می‌گویند",
+       "url": "https://duckduckgo.com/?q=%5C%27We%20had%20two%20hours%20to%20leave%27%3A%20Hebron%20Palestinians%20describe%20nighttime%20expulsion%20by%20IDF%20site%3Ahaaretz.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "ترکیه",
    "flag": "🇹🇷",
    "papers": [

@@ -45,6 +45,31 @@ def prev_day_covers(date):
     return json.load(open(path)) if os.path.exists(path) else {}
 
 
+def fetch_yesterday(slug, date, outdir, found):
+    """Save the previous edition of a paper (frontpages.com's "yesterday's edition"
+    button) when it carries `date`. Returns True if a cover was saved."""
+    import base64
+    req = urllib.request.Request(f"https://www.frontpages.com/{slug}/", data=b"y=1", headers=UA)
+    with urllib.request.urlopen(req, timeout=30) as r:
+        html = r.read().decode("utf-8", "ignore")
+    ed = re.search(r'class="span-date[^"]*" datetime="(\d{4}-\d{2}-\d{2})"', html)
+    m = re.search(r"getElementById\([^)]*\);var u=atob\('([A-Za-z0-9+/=]+)'\)", html)
+    if not ed or ed.group(1) != date or not m:
+        print(f"yesterday's edition not {date}:", slug)
+        return False
+    path = base64.b64decode(m.group(1)).decode()
+    if not re.fullmatch(r"/g/\d{4}/\d{2}/\d{2}/[\w.-]+\.webp", path):
+        print("unexpected yesterday image path:", slug, path)
+        return False
+    im = Image.open(io.BytesIO(get("https://www.frontpages.com" + path))).convert("RGB")
+    if im.width > 900:
+        im = im.resize((900, round(im.height * 900 / im.width)), Image.LANCZOS)
+    im.save(os.path.join(outdir, f"{slug}.jpg"), quality=82, optimize=True)
+    found[slug] = {"w": im.width, "h": im.height, "source": f"https://www.frontpages.com/{slug}/"}
+    print("ok (yesterday's edition):", slug, im.size)
+    return True
+
+
 def main():
     date = sys.argv[1] if len(sys.argv) > 1 else datetime.date.today().isoformat()
     ymd = date.replace("-", "/")
@@ -77,7 +102,14 @@ def main():
                 if p.get("weekend") and is_saturday(date) and edition == next_day(date):
                     print(f"weekend edition ({edition}) filed under Saturday:", slug)
                 elif edition != date:
-                    print(f"stale ({edition}):", slug); continue
+                    # Papers flagged "yesterday" in papers.json: if today's page already shows
+                    # the next edition, take the wanted date from frontpages.com's
+                    # "yesterday's edition" view (one day back only).
+                    if p.get("yesterday") and edition == next_day(date) and fetch_yesterday(slug, date, outdir, found):
+                        added += 1
+                    else:
+                        print(f"stale ({edition}):", slug)
+                    continue
                 elif p.get("weekend") and is_sunday(date) and imgdate.replace("/", "-") < date \
                         and slug in prev_day_covers(date):
                     print("weekend edition already filed under Saturday:", slug); continue

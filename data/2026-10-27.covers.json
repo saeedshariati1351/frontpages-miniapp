@@ -303,5 +303,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/haaretz/"
+ },
+ "the-jerusalem-post": {
+  "w": 900,
+  "h": 1459,
+  "source": "https://www.frontpages.com/the-jerusalem-post/"
  }
 }

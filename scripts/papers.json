@@ -82,8 +82,8 @@
     {"slug": "al-akhbar", "name": "Al-Akhbar", "fa": "الاخبار", "site": "https://www.al-akhbar.com", "via": "url"}
   ]},
   {"country": "اسرائیل", "flag": "🇮🇱", "papers": [
-    {"slug": "haaretz", "name": "Haaretz", "fa": "هاآرتص", "site": "https://www.haaretz.com"},
-    {"slug": "the-jerusalem-post", "name": "The Jerusalem Post", "fa": "جروزالم پست", "site": "https://www.jpost.com"}
+    {"slug": "haaretz", "name": "Haaretz", "fa": "هاآرتص", "site": "https://www.haaretz.com", "yesterday": true},
+    {"slug": "the-jerusalem-post", "name": "The Jerusalem Post", "fa": "جروزالم پست", "site": "https://www.jpost.com", "yesterday": true}
   ]},
   {"country": "ترکیه", "flag": "🇹🇷", "papers": [
     {"slug": "hurriyet", "name": "Hürriyet", "fa": "حریت", "site": "https://www.hurriyet.com.tr"}
