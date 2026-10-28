@@ -81,6 +81,7 @@
   .hl .o { font-size: 12.5px; color: var(--muted); unicode-bidi: plaintext; text-align: start; margin-top: 2px; line-height: 1.5; }
   .hl .go { color: var(--muted); font-size: 14px; padding-top: 4px; }
   .empty { color: var(--muted); padding: 24px 0; text-align: center; }
+  footer .users { color: var(--text); font-weight: 600; }
   footer { margin-top: 28px; color: var(--muted); font-size: 12px; text-align: center; line-height: 1.8; }
   .loading { text-align: center; color: var(--muted); padding: 60px 0; }
   /* day navigation + archive */
@@ -118,9 +119,10 @@ const inTg = !!(tg && tg.initData);
 if (tg) { try { tg.ready(); tg.expand(); } catch (e) {} }
 const app = document.getElementById('app');
 const cache = {};
-let index = [], filter = 'همه';
+let index = [], filter = 'همه', stats = null;
 const fa = n => String(n).replace(/\d/g, d => '۰۱۲۳۴۵۶۷۸۹'[d]);
 const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const usersLine = () => stats && stats.monthly_users ? `<br><span class="users">${fa(Number(stats.monthly_users).toLocaleString('en-US').replace(/,/g, '٬'))} کاربر ماهانه</span>` : '';
 const latestDate = () => index.length ? index[0].date : null;
 const dayHash = date => (!date || date === latestDate()) ? '#/' : '#/d/' + date;
 
@@ -176,7 +178,7 @@ function renderHome(d) {
           </a>`).join('')}
         </div>
       </section>`).join('')}
-    <footer>تصویر صفحه‌های اول از frontpages.com · ترجمهٔ تیترها به فارسی<br>با لمس هر روزنامه، تیترهای آن را ببینید.</footer>`;
+    <footer>تصویر صفحه‌های اول از frontpages.com · ترجمهٔ تیترها به فارسی<br>با لمس هر روزنامه، تیترهای آن را ببینید.${usersLine()}</footer>`;
   app.querySelectorAll('.chip').forEach(b => b.onclick = () => { filter = b.dataset.c; renderHome(d); });
   setBack(isToday ? null : '#/archive');
 }
@@ -205,7 +207,7 @@ function renderArchive() {
           </a>`).join('')}
         </div>
       </section>`).join('') : '<div class="empty">هنوز روزی در آرشیو نیست.</div>'}
-    <footer>هر روز صبح نسخهٔ تازه اضافه می‌شود و روزهای گذشته در آرشیو می‌مانند.</footer>`;
+    <footer>هر روز صبح نسخهٔ تازه اضافه می‌شود و روزهای گذشته در آرشیو می‌مانند.${usersLine()}</footer>`;
   window.scrollTo(0, 0);
   setBack('#/');
 }
@@ -244,6 +246,7 @@ async function route() {
   const h = location.hash;
   try {
     if (!index.length) { try { index = await (await fetch('data/index.json?v=' + Date.now())).json(); } catch (e) {} }
+    if (!stats) { try { stats = await (await fetch('data/stats.json?v=' + Date.now())).json(); } catch (e) { stats = {}; } }
     let m;
     if (h.startsWith('#/archive')) renderArchive();
     else if ((m = h.match(/^#\/p\/([\w-]+)(?:@(\d{4}-\d{2}-\d{2}))?/))) renderPaper(await load(m[2]), m[1]);
