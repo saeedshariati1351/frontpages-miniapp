@@ -1,10 +1,11 @@
 name: stats
 # Reads the Mini App's monthly users (Telegram's own count, via MTProto as the
 # bot) and saves it to data/stats.json, shown in the app's footer.
-# Needs secrets TELEGRAM_BOT_TOKEN, TG_API_ID, TG_API_HASH. Twice a day and by hand.
+# Needs secrets TELEGRAM_BOT_TOKEN, TG_API_ID, TG_API_HASH. By hand only for now.
 on:
-  schedule:
-    - cron: "17 4,16 * * *"
+  # schedule turned off for now (Telegram does not return the count to the bot):
+  # schedule:
+  #   - cron: "17 4,16 * * *"
   workflow_dispatch:
 permissions:
   contents: write
