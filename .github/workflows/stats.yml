@@ -1,6 +1,7 @@
 name: stats
-# Reads the Mini App's monthly users from the bot's public t.me page and saves
-# it to data/stats.json (shown in the app's footer). Twice a day and by hand.
+# Reads the Mini App's monthly users (Telegram's own count, via MTProto as the
+# bot) and saves it to data/stats.json, shown in the app's footer.
+# Needs secrets TELEGRAM_BOT_TOKEN, TG_API_ID, TG_API_HASH. Twice a day and by hand.
 on:
   schedule:
     - cron: "17 4,16 * * *"
@@ -15,7 +16,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: pip install -q telethon
       - run: python3 scripts/fetch_stats.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
       - name: Save
         run: |
           git config user.name "github-actions[bot]"

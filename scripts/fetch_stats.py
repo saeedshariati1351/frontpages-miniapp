@@ -1,31 +1,56 @@
 #!/usr/bin/env python3
-"""Monthly users of the Mini App, as Telegram shows them on the bot's public
-page (t.me/<bot>: "N monthly users"). Writes data/stats.json
-{"monthly_users": N, "updated": "YYYY-MM-DD"}; leaves it unchanged if the
-count can't be read. Runs in GitHub Actions (t.me isn't reachable from the
-cloud sandbox).
+"""Monthly users of the Mini App, as Telegram counts them (the "N monthly users"
+shown on the bot's profile; MTProto field User.bot_active_users).
 
-Usage: python3 scripts/fetch_stats.py [bot_username]
+Logs in to Telegram's MTProto API as the bot (Telethon, bot token) and reads
+the bot's own user object. Writes data/stats.json
+{"monthly_users": N, "updated": "YYYY-MM-DD"}; leaves it unchanged if the
+count can't be read. Runs in GitHub Actions.
+
+Env: TELEGRAM_BOT_TOKEN, TG_API_ID, TG_API_HASH (from my.telegram.org)
 """
-import datetime, html, json, re, sys, urllib.request
+import asyncio, datetime, json, os, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "stats.json"
-BOT = sys.argv[1] if len(sys.argv) > 1 else "worldnewspaperminiappbot"
 
-req = urllib.request.Request(f"https://t.me/{BOT}", headers={"User-Agent": "Mozilla/5.0"})
-page = html.unescape(urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "ignore"))
-extra = re.search(r'class="tgme_page_extra"[^>]*>(.*?)</div>', page, re.S)
-print("tgme_page_extra:", extra.group(1).strip() if extra else None)
-m = re.search(r"([\d][\d\s,.  ]*)\s*monthly users?", page, re.I)
-if not m:
-    print("monthly users not found; stats unchanged")
-    sys.exit(0)
-n = int(re.sub(r"\D", "", m.group(1)))
-old = json.loads(OUT.read_text()) if OUT.exists() else {}
-today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=3, minutes=30))).date().isoformat()
-new = {"monthly_users": n, "updated": today}
-if old.get("monthly_users") != n:
-    OUT.write_text(json.dumps(new) + "\n")
-print("monthly users:", n)
+
+async def active_users():
+    from telethon import TelegramClient
+    from telethon.sessions import StringSession
+    from telethon.tl.functions.users import GetUsersRequest
+    from telethon.tl.types import InputUserSelf
+    token = os.environ["TELEGRAM_BOT_TOKEN"]
+    client = TelegramClient(StringSession(), int(os.environ["TG_API_ID"]), os.environ["TG_API_HASH"])
+    await client.start(bot_token=token)
+    try:
+        me = await client.get_me()
+        n = getattr(me, "bot_active_users", None)
+        print("get_me: username=%s bot_active_users=%s" % (me.username, n))
+        if n is None:
+            users = await client(GetUsersRequest([InputUserSelf()]))
+            n = getattr(users[0], "bot_active_users", None)
+            print("users.getUsers(self): bot_active_users=%s" % n)
+        return n
+    finally:
+        await client.disconnect()
+
+
+def main():
+    for k in ("TELEGRAM_BOT_TOKEN", "TG_API_ID", "TG_API_HASH"):
+        if not os.environ.get(k):
+            print(f"{k} not set; stats unchanged"); return
+    n = asyncio.run(active_users())
+    if n is None:
+        print("monthly users not available; stats unchanged"); return
+    old = json.loads(OUT.read_text()) if OUT.exists() else {}
+    if old.get("monthly_users") == n:
+        print("monthly users unchanged:", n); return
+    today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=3, minutes=30))).date().isoformat()
+    OUT.write_text(json.dumps({"monthly_users": n, "updated": today}) + "\n")
+    print("monthly users:", n)
+
+
+if __name__ == "__main__":
+    main()
