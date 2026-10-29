@@ -73,6 +73,54 @@
      ]
     },
     {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-10-29/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "Nearly 200 noncitizens accused of voter fraud",
+       "fa": "نزدیک به ۲۰۰ غیرشهروند به تقلب در رأی‌گیری متهم شدند",
+       "url": "https://duckduckgo.com/?q=%5CNearly%20200%20noncitizens%20accused%20of%20voter%20fraud%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Record Arab vote in Israel",
+       "fa": "رأی بی‌سابقهٔ عرب‌ها در اسرائیل",
+       "url": "https://duckduckgo.com/?q=%5CRecord%20Arab%20vote%20in%20Israel%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "The seven races that will decide Senate control",
+       "fa": "هفت رقابتی که کنترل سنا را تعیین خواهد کرد",
+       "url": "https://duckduckgo.com/?q=%5CThe%20seven%20races%20that%20will%20decide%20Senate%20control%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Dartmouth provost resigns over use of AI",
+       "fa": "معاون دانشگاه دارتموث بر سر استفاده از هوش مصنوعی استعفا داد",
+       "url": "https://duckduckgo.com/?q=%5CDartmouth%20provost%20resigns%20over%20use%20of%20AI%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Workers' champ coined the slogan 'Sí se puede'",
+       "fa": "قهرمان کارگران که شعار «می‌توانیم» را ساخت",
+       "url": "https://duckduckgo.com/?q=%5CWorkers%27%20champ%20coined%20the%20slogan%20%27S%C3%AD%20se%20puede%27%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Bolsonaro in Miami declares himself the 'leader' of Brazil",
+       "fa": "بولسونارو در میامی خود را «رهبر» برزیل اعلام کرد",
+       "url": "https://duckduckgo.com/?q=%5CBolsonaro%20in%20Miami%20declares%20himself%20the%20%27leader%27%20of%20Brazil%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "usa-today",
      "name": "USA Today",
      "fa": "یو‌اس‌ای تودی",
@@ -133,6 +181,54 @@
      ]
     },
     {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-10-29/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Billionaire tax, voter ID losing support in poll",
+       "fa": "مالیات میلیاردرها و احراز هویت رأی‌دهندگان در نظرسنجی حمایت از دست می‌دهند",
+       "url": "https://duckduckgo.com/?q=%5CBillionaire%20tax%2C%20voter%20ID%20losing%20support%20in%20poll%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Rail disaster in Spain",
+       "fa": "فاجعهٔ ریلی در اسپانیا",
+       "url": "https://duckduckgo.com/?q=%5CRail%20disaster%20in%20Spain%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Workers' champion and feminist icon",
+       "fa": "قهرمان کارگران و نماد فمینیسم",
+       "url": "https://duckduckgo.com/?q=%5CWorkers%27%20champion%20and%20feminist%20icon%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Essayli is found to be serving illegally",
+       "fa": "دادگاه: اسایلی به‌طور غیرقانونی در سمت خود است",
+       "url": "https://duckduckgo.com/?q=%5CEssayli%20is%20found%20to%20be%20serving%20illegally%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Proposition 40 trends downward",
+       "fa": "روند نزولی گزارهٔ ۴۰",
+       "url": "https://duckduckgo.com/?q=%5CProposition%2040%20trends%20downward%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Younger voters favoring Raman",
+       "fa": "رأی‌دهندگان جوان‌تر به رامان گرایش دارند",
+       "url": "https://duckduckgo.com/?q=%5CYounger%20voters%20favoring%20Raman%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",
@@ -152,6 +248,126 @@
        "o": "Gov. Hochul backtracks on her 'no new taxes' pledge — now suggests she may appease Mamdani",
        "fa": "فرماندار هوکل از وعده‍ٔ «مالیات جدید نه» عقب نشست؛ حالا می‌گوید شاید با ممدانی کنار بیاید",
        "url": "https://duckduckgo.com/?q=%5CGov.%20Hochul%20backtracks%20on%20her%20%27no%20new%20taxes%27%20pledge%20%E2%80%94%20now%20suggests%20she%20may%20appease%20Mamdani%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-10-29/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "In study of ex-NFL players, 75% had CTE",
+       "fa": "در پژوهشی دربارهٔ بازیکنان سابق NFL، ۷۵ درصد به CTE مبتلا بودند",
+       "url": "https://duckduckgo.com/?q=%5CIn%20study%20of%20ex-NFL%20players%2C%2075%25%20had%20CTE%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Sort of bad, it's oh so good",
+       "fa": "کمی خراب، ولی چه خوب",
+       "url": "https://duckduckgo.com/?q=%5CSort%20of%20bad%2C%20it%27s%20oh%20so%20good%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Shaped by religion, Minogue puts his faith into deeds",
+       "fa": "مینوگ که دین شکلش داده، ایمانش را به عمل درمی‌آورد",
+       "url": "https://duckduckgo.com/?q=%5CShaped%20by%20religion%2C%20Minogue%20puts%20his%20faith%20into%20deeds%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "As Ohio struggles, familiar face looks better and better",
+       "fa": "در گرفتاری اوهایو، چهرهٔ آشنا روزبه‌روز بهتر به نظر می‌رسد",
+       "url": "https://duckduckgo.com/?q=%5CAs%20Ohio%20struggles%2C%20familiar%20face%20looks%20better%20and%20better%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "For Sununu (John E., that is), the family ties work both ways",
+       "fa": "برای سنونو (جان ای.)، پیوندهای خانوادگی هم سود دارد هم زیان",
+       "url": "https://duckduckgo.com/?q=%5CFor%20Sununu%20%28John%20E.%2C%20that%20is%29%2C%20the%20family%20ties%20work%20both%20ways%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-10-29/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "For Preckwinkle, eyes on future",
+       "fa": "نگاه پرکوینکل به آینده",
+       "url": "https://duckduckgo.com/?q=%5CFor%20Preckwinkle%2C%20eyes%20on%20future%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "68 dead in Spain railroad collision",
+       "fa": "۶۸ کشته در برخورد قطارها در اسپانیا",
+       "url": "https://duckduckgo.com/?q=%5C68%20dead%20in%20Spain%20railroad%20collision%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "America's Hairyland",
+       "fa": "سرزمین پشمالوی آمریکا",
+       "url": "https://duckduckgo.com/?q=%5CAmerica%27s%20Hairyland%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-10-29/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Questions swirl around 2012 Horsch plea deal",
+       "fa": "پرسش‌ها دربارهٔ توافق اعتراف هورش در ۲۰۱۲ بالا گرفته است",
+       "url": "https://duckduckgo.com/?q=%5CQuestions%20swirl%20around%202012%20Horsch%20plea%20deal%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Where Pa.'s four key races stand in final days",
+       "fa": "چهار رقابت کلیدی پنسیلوانیا در روزهای پایانی در چه وضعی است",
+       "url": "https://duckduckgo.com/?q=%5CWhere%20Pa.%27s%20four%20key%20races%20stand%20in%20final%20days%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly appoints its first rat czar",
+       "fa": "فیلادلفیا نخستین مسئول مبارزه با موش‌ها را منصوب کرد",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%20appoints%20its%20first%20rat%20czar%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Gang leader sentenced to life in slaying of SWAT officer",
+       "fa": "سرکردهٔ باند به‌خاطر قتل مأمور یگان ویژه به حبس ابد محکوم شد",
+       "url": "https://duckduckgo.com/?q=%5CGang%20leader%20sentenced%20to%20life%20in%20slaying%20of%20SWAT%20officer%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Do the Eagles have an effort problem? Sirianni doesn't think so",
+       "fa": "آیا ایگلز مشکل تلاش دارد؟ سیریانی چنین فکر نمی‌کند",
+       "url": "https://duckduckgo.com/?q=%5CDo%20the%20Eagles%20have%20an%20effort%20problem%3F%20Sirianni%20doesn%27t%20think%20so%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "The best spots for takeout",
+       "fa": "بهترین جاها برای غذای بیرون‌بر",
+       "url": "https://duckduckgo.com/?q=%5CThe%20best%20spots%20for%20takeout%20site%3Ainquirer.com",
        "direct": false
       }
      ]
@@ -464,6 +680,42 @@
        "o": "It's what ISN'T in the Budget that matters",
        "fa": "آنچه مهم است، چیزی است که در بودجه نیست",
        "url": "https://duckduckgo.com/?q=%5CIt%27s%20what%20ISN%27T%20in%20the%20Budget%20that%20matters%20site%3Athenational.scot",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-irish-news",
+     "name": "The Irish News",
+     "fa": "آیریش نیوز (ایرلند شمالی)",
+     "site": "https://www.irishnews.com",
+     "img": "covers/2026-10-29/the-irish-news.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-irish-news/",
+     "headlines": [
+      {
+       "o": "Residents 'fully vindicated' by ruling in the High Court",
+       "fa": "ساکنان با حکم دادگاه عالی «کاملاً حق‌به‌جانب» شناخته شدند",
+       "url": "https://duckduckgo.com/?q=%5CResidents%20%27fully%20vindicated%27%20by%20ruling%20in%20the%20High%20Court%20site%3Airishnews.com",
+       "direct": false
+      },
+      {
+       "o": "Three men jailed over 'ferocious' attack after Celtic game",
+       "fa": "سه مرد به‌خاطر حملهٔ «وحشیانه» پس از بازی سلتیک زندانی شدند",
+       "url": "https://duckduckgo.com/?q=%5CThree%20men%20jailed%20over%20%27ferocious%27%20attack%20after%20Celtic%20game%20site%3Airishnews.com",
+       "direct": false
+      },
+      {
+       "o": "Owners are not to blame for Man United's team being so bad",
+       "fa": "مالکان مقصر ضعف شدید تیم منچستریونایتد نیستند",
+       "url": "https://duckduckgo.com/?q=%5COwners%20are%20not%20to%20blame%20for%20Man%20United%27s%20team%20being%20so%20bad%20site%3Airishnews.com",
+       "direct": false
+      },
+      {
+       "o": "Health news and features",
+       "fa": "اخبار و گزارش‌های سلامت",
+       "url": "https://duckduckgo.com/?q=%5CHealth%20news%20and%20features%20site%3Airishnews.com",
        "direct": false
       }
      ]
@@ -2485,6 +2737,60 @@
    "flag": "🇮🇳",
    "papers": [
     {
+     "slug": "the-times-of-india",
+     "name": "The Times of India",
+     "fa": "تایمز آو ایندیا",
+     "site": "https://timesofindia.indiatimes.com",
+     "img": "covers/2026-10-29/the-times-of-india.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-times-of-india/",
+     "headlines": [
+      {
+       "o": "SC removes Oct 30 deadline for additions to Delhi electoral roll",
+       "fa": "دیوان عالی مهلت ۳۰ اکتبر برای افزودن نام به فهرست رأی‌دهندگان دهلی را لغو کرد",
+       "url": "https://duckduckgo.com/?q=%5CSC%20removes%20Oct%2030%20deadline%20for%20additions%20to%20Delhi%20electoral%20roll%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "On debut, Jio 2nd most valuable company, behind only parent RIL",
+       "fa": "جیو در نخستین روز عرضه دومین شرکت ارزشمند هند شد، تنها پس از شرکت مادر ریلاینس",
+       "url": "https://duckduckgo.com/?q=%5COn%20debut%2C%20Jio%202nd%20most%20valuable%20company%2C%20behind%20only%20parent%20RIL%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Israel poll results deadlocked amid historic showing by Arab parties",
+       "fa": "بن‌بست در نتایج انتخابات اسرائیل در پی عملکرد تاریخی احزاب عرب",
+       "url": "https://duckduckgo.com/?q=%5CIsrael%20poll%20results%20deadlocked%20amid%20historic%20showing%20by%20Arab%20parties%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "NDA wins 16 of 28 in MLC polls; BJP 6 vs SP 5 in UP",
+       "fa": "ائتلاف NDA در انتخابات شوراهای قانون‌گذاری ۱۶ کرسی از ۲۸ کرسی را برد",
+       "url": "https://duckduckgo.com/?q=%5CNDA%20wins%2016%20of%2028%20in%20MLC%20polls%3B%20BJP%206%20vs%20SP%205%20in%20UP%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Spain high-speed train collision kills 68, injures 100",
+       "fa": "برخورد قطار پرسرعت در اسپانیا ۶۸ کشته و ۱۰۰ زخمی برجا گذاشت",
+       "url": "https://duckduckgo.com/?q=%5CSpain%20high-speed%20train%20collision%20kills%2068%2C%20injures%20100%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Arnab fury in Andhra, 9 dead",
+       "fa": "خشم توفان آرناب در آندرا؛ ۹ کشته",
+       "url": "https://duckduckgo.com/?q=%5CArnab%20fury%20in%20Andhra%2C%209%20dead%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Rahul lashes out at govt over Tatas, FM hits back",
+       "fa": "راهول به‌خاطر گروه تاتا به دولت تاخت؛ وزیر دارایی پاسخ داد",
+       "url": "https://duckduckgo.com/?q=%5CRahul%20lashes%20out%20at%20govt%20over%20Tatas%2C%20FM%20hits%20back%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-hindu",
      "name": "The Hindu",
      "fa": "هندو",
@@ -2576,6 +2882,54 @@
        "o": "'Diwali gift': Govt approves DA hike for 4.85 mn staff",
        "fa": "«هدیه‍ٔ دیوالی»: دولت افزایش کمک‌هزینه‍ٔ گرانی ۴٫۸۵ میلیون کارمند را تصویب کرد",
        "url": "https://duckduckgo.com/?q=%5C%27Diwali%20gift%27%3A%20Govt%20approves%20DA%20hike%20for%204.85%20mn%20staff%20site%3Ahindustantimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-economic-times",
+     "name": "The Economic Times",
+     "fa": "اکونومیک تایمز",
+     "site": "https://economictimes.indiatimes.com",
+     "img": "covers/2026-10-29/the-economic-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-economic-times/",
+     "headlines": [
+      {
+       "o": "Jio Platforms Hits Quiet Street with Much Fanfare",
+       "fa": "جیو پلتفرمز با سروصدای فراوان به بازار آرام آمد",
+       "url": "https://duckduckgo.com/?q=%5CJio%20Platforms%20Hits%20Quiet%20Street%20with%20Much%20Fanfare%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Small NBFCs on Hackers' Radar",
+       "fa": "شرکت‌های مالی غیربانکی کوچک در تیررس هکرها",
+       "url": "https://duckduckgo.com/?q=%5CSmall%20NBFCs%20on%20Hackers%27%20Radar%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "US Fed Holds Rates Despite High Inflation; Next Move Unclear",
+       "fa": "فدرال رزرو با وجود تورم بالا نرخ بهره را ثابت نگه داشت؛ گام بعدی نامعلوم است",
+       "url": "https://duckduckgo.com/?q=%5CUS%20Fed%20Holds%20Rates%20Despite%20High%20Inflation%3B%20Next%20Move%20Unclear%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "HUL Scales 14-Qtr High in Q2 with 15% Rise in Sales",
+       "fa": "هندوستان یونی‌لیور با رشد ۱۵ درصدی فروش به اوج ۱۴ فصل رسید",
+       "url": "https://duckduckgo.com/?q=%5CHUL%20Scales%2014-Qtr%20High%20in%20Q2%20with%2015%25%20Rise%20in%20Sales%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Tractor Demand Drying to likely 3-yr Low at Arid Farms",
+       "fa": "تقاضای تراکتور در مزارع خشک احتمالاً به پایین‌ترین سطح سه سال اخیر می‌رسد",
+       "url": "https://duckduckgo.com/?q=%5CTractor%20Demand%20Drying%20to%20likely%203-yr%20Low%20at%20Arid%20Farms%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "FM Chides Rahul Gandhi for Politicising Legal & Commercial Matters",
+       "fa": "وزیر دارایی راهول گاندی را به سیاسی‌کردن مسائل حقوقی و تجاری متهم کرد",
+       "url": "https://duckduckgo.com/?q=%5CFM%20Chides%20Rahul%20Gandhi%20for%20Politicising%20Legal%20%26%20Commercial%20Matters%20site%3Aeconomictimes.indiatimes.com",
        "direct": false
       }
      ]
