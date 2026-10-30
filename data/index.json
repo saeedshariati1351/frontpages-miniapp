@@ -1,13 +1,28 @@
 [
  {
+  "date": "2026-10-30",
+  "date_fa": "جمعه ۸ آبان ۱۴۰۵",
+  "month_fa": "آبان ۱۴۰۵",
+  "jm": "1405-08",
+  "day_fa": "۸",
+  "weekday_fa": "جمعه",
+  "papers": 49,
+  "headlines": 290,
+  "thumbs": [
+   "covers/2026-10-30/the-new-york-times.jpg",
+   "covers/2026-10-30/new-york-post.jpg",
+   "covers/2026-10-30/houston-chronicle.jpg"
+  ]
+ },
+ {
   "date": "2026-10-29",
   "date_fa": "پنجشنبه ۷ آبان ۱۴۰۵",
   "month_fa": "آبان ۱۴۰۵",
   "jm": "1405-08",
   "day_fa": "۷",
   "weekday_fa": "پنجشنبه",
-  "papers": 63,
-  "headlines": 353,
+  "papers": 64,
+  "headlines": 358,
   "thumbs": [
    "covers/2026-10-29/the-new-york-times.jpg",
    "covers/2026-10-29/the-washington-post.jpg",

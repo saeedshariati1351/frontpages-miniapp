@@ -1643,6 +1643,48 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "der-spiegel",
+     "name": "Der Spiegel",
+     "fa": "اشپیگل (هفته‌نامه)",
+     "site": "https://www.spiegel.de",
+     "img": "covers/2026-10-29/der-spiegel.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/der-spiegel/",
+     "headlines": [
+      {
+       "o": "Die Angst der Elif Eralp",
+       "fa": "ترس الیف ارالپ",
+       "url": "https://duckduckgo.com/?q=%5CDie%20Angst%20der%20Elif%20Eralp%20site%3Aspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "Warum die Spitzenfrau der Berliner Linken von Terror-Sympathisanten eingeschüchtert ist",
+       "fa": "چرا زن شمارهٔ یک حزب چپ برلین از سوی هواداران تروریسم مرعوب شده است",
+       "url": "https://duckduckgo.com/?q=%5CWarum%20die%20Spitzenfrau%20der%20Berliner%20Linken%20von%20Terror-Sympathisanten%20eingesch%C3%BCchtert%20ist%20site%3Aspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "AfD-Leak: Neonazis und Schläger willkommen",
+       "fa": "افشاگری دربارهٔ آ‌اف‌د: نئونازی‌ها و اوباش خوش آمدند",
+       "url": "https://duckduckgo.com/?q=%5CAfD-Leak%3A%20Neonazis%20und%20Schl%C3%A4ger%20willkommen%20site%3Aspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "USA: Enttäuschte Trump-Fans rechnen ab",
+       "fa": "آمریکا: هواداران سرخوردهٔ ترامپ تسویه‌حساب می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5CUSA%3A%20Entt%C3%A4uschte%20Trump-Fans%20rechnen%20ab%20site%3Aspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "Nobelpreisträger Kazuo Ishiguro über den Reiz der KI",
+       "fa": "کازوئو ایشی‌گورو، برندهٔ نوبل، دربارهٔ جاذبهٔ هوش مصنوعی",
+       "url": "https://duckduckgo.com/?q=%5CNobelpreistr%C3%A4ger%20Kazuo%20Ishiguro%20%C3%BCber%20den%20Reiz%20der%20KI%20site%3Aspiegel.de",
+       "direct": false
+      }
+     ]
     }
    ]
   },
