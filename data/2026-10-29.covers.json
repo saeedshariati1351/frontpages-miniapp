@@ -313,5 +313,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/the-economic-times/"
+ },
+ "der-spiegel": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/der-spiegel/"
  }
 }
