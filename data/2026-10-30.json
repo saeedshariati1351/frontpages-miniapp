@@ -55,6 +55,96 @@
      ]
     },
     {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-10-30/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "Trump's arch would darken Arlington graves",
+       "fa": "طاق پیروزی ترامپ بر گورهای آرلینگتون سایه می‌اندازد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20arch%20would%20darken%20Arlington%20graves%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Ousted general in legal peril",
+       "fa": "ژنرال برکنارشده در خطر پیگرد قضایی",
+       "url": "https://duckduckgo.com/?q=%5COusted%20general%20in%20legal%20peril%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Inquiries launched into Peltola campaign",
+       "fa": "تحقیقات دربارهٔ ستاد انتخاباتی پلتولا آغاز شد",
+       "url": "https://duckduckgo.com/?q=%5CInquiries%20launched%20into%20Peltola%20campaign%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Trump budgets $1.2M to fell D.C. golf course trees",
+       "fa": "ترامپ ۱٫۲ میلیون دلار برای قطع درختان زمین گلف واشنگتن بودجه گذاشت",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20budgets%20%241.2M%20to%20fell%20D.C.%20golf%20course%20trees%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Shakespearean actor and beloved 'Star Trek' star",
+       "fa": "بازیگر شکسپیری و ستارهٔ محبوب «پیشتازان فضا»",
+       "url": "https://duckduckgo.com/?q=%5CShakespearean%20actor%20and%20beloved%20%27Star%20Trek%27%20star%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Inside the logjam of Trump's $1.5 trillion Pentagon plan",
+       "fa": "در پشت بن‌بست طرح ۱٫۵ تریلیون‌دلاری ترامپ برای پنتاگون",
+       "url": "https://duckduckgo.com/?q=%5CInside%20the%20logjam%20of%20Trump%27s%20%241.5%20trillion%20Pentagon%20plan%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-10-30/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Trump's DOJ intensifies its war over voting",
+       "fa": "وزارت دادگستری ترامپ جنگ بر سر رأی‌گیری را شدت می‌بخشد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20DOJ%20intensifies%20its%20war%20over%20voting%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "When election denialism is on ballot",
+       "fa": "وقتی انکار انتخابات در صندوق رأی است",
+       "url": "https://duckduckgo.com/?q=%5CWhen%20election%20denialism%20is%20on%20ballot%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "SoCal's coast is losing to El Niño flooding",
+       "fa": "ساحل جنوب کالیفرنیا در برابر سیلاب‌های ال‌نینو کم می‌آورد",
+       "url": "https://duckduckgo.com/?q=%5CSoCal%27s%20coast%20is%20losing%20to%20El%20Ni%C3%B1o%20flooding%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Becerra widens his strong lead in poll",
+       "fa": "بسرا برتری قاطع خود را در نظرسنجی افزایش داد",
+       "url": "https://duckduckgo.com/?q=%5CBecerra%20widens%20his%20strong%20lead%20in%20poll%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "All the universe was his stage",
+       "fa": "همهٔ کیهان صحنهٔ او بود",
+       "url": "https://duckduckgo.com/?q=%5CAll%20the%20universe%20was%20his%20stage%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",
@@ -74,6 +164,132 @@
        "o": "Feds had evidence in 2016, under Obama, that Omar married brother",
        "fa": "دولت فدرال در سال ۲۰۱۶، در دوران اوباما، شواهدی داشت که عمر با برادرش ازدواج کرده است",
        "url": "https://duckduckgo.com/?q=%5CFeds%20had%20evidence%20in%202016%2C%20under%20Obama%2C%20that%20Omar%20married%20brother%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-10-30/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Now who makes the clean getaway?",
+       "fa": "حالا چه کسی بی‌دردسر می‌رود؟",
+       "url": "https://duckduckgo.com/?q=%5CNow%20who%20makes%20the%20clean%20getaway%3F%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Airbnb guests can skip those long checklists, and the hosts aren't happy about it",
+       "fa": "مهمانان ایربی‌ان‌بی می‌توانند از فهرست‌های طولانی وظایف بگذرند و میزبانان از این ناخرسندند",
+       "url": "https://duckduckgo.com/?q=%5CAirbnb%20guests%20can%20skip%20those%20long%20checklists%2C%20and%20the%20hosts%20aren%27t%20happy%20about%20it%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Age dictates stance on Cambridge housing",
+       "fa": "سن، موضع ساکنان کمبریج دربارهٔ مسکن را تعیین می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CAge%20dictates%20stance%20on%20Cambridge%20housing%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Second time's the charm for investor",
+       "fa": "بار دوم برای سرمایه‌گذار خوش‌یمن بود",
+       "url": "https://duckduckgo.com/?q=%5CSecond%20time%27s%20the%20charm%20for%20investor%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Healey's term dominated by Trump battles",
+       "fa": "دورهٔ هیلی زیر سایهٔ نبرد با ترامپ گذشت",
+       "url": "https://duckduckgo.com/?q=%5CHealey%27s%20term%20dominated%20by%20Trump%20battles%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-10-30/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "'Happy warrior' seeks 3rd term",
+       "fa": "«جنگجوی شاد» به دنبال دورهٔ سوم",
+       "url": "https://duckduckgo.com/?q=%5C%27Happy%20warrior%27%20seeks%203rd%20term%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Insurance choices for seniors upended",
+       "fa": "گزینه‌های بیمهٔ سالمندان زیرورو شد",
+       "url": "https://duckduckgo.com/?q=%5CInsurance%20choices%20for%20seniors%20upended%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "First call",
+       "fa": "نخستین فراخوان",
+       "url": "https://duckduckgo.com/?q=%5CFirst%20call%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-10-30/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "What Horsch told the feds to score a plea deal",
+       "fa": "آنچه هورش برای رسیدن به توافق اعتراف به مأموران فدرال گفت",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20Horsch%20told%20the%20feds%20to%20score%20a%20plea%20deal%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Constitution Center taps college chief as president",
+       "fa": "مرکز قانون اساسی رئیس یک دانشکده را به ریاست برگزید",
+       "url": "https://duckduckgo.com/?q=%5CConstitution%20Center%20taps%20college%20chief%20as%20president%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Pledging a secure election",
+       "fa": "تعهد به انتخاباتی امن",
+       "url": "https://duckduckgo.com/?q=%5CPledging%20a%20secure%20election%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "City council considers tax on driverless taxis, delivery robots",
+       "fa": "شورای شهر وضع مالیات بر تاکسی‌های بی‌راننده و ربات‌های تحویل را بررسی می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CCity%20council%20considers%20tax%20on%20driverless%20taxis%2C%20delivery%20robots%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "The Portal to stay in City, for now",
+       "fa": "«پورتال» فعلاً در شهر می‌ماند",
+       "url": "https://duckduckgo.com/?q=%5CThe%20Portal%20to%20stay%20in%20City%2C%20for%20now%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Hayes: Time for Jalen Carter to show some character",
+       "fa": "هیز: وقت آن است که جیلن کارتر شخصیتش را نشان دهد",
+       "url": "https://duckduckgo.com/?q=%5CHayes%3A%20Time%20for%20Jalen%20Carter%20to%20show%20some%20character%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Why Main Line health stopped taking cash and checks",
+       "fa": "چرا «مین لاین هلث» دیگر پول نقد و چک نمی‌پذیرد",
+       "url": "https://duckduckgo.com/?q=%5CWhy%20Main%20Line%20health%20stopped%20taking%20cash%20and%20checks%20site%3Ainquirer.com",
        "direct": false
       }
      ]
@@ -2262,6 +2478,66 @@
    "flag": "🇮🇳",
    "papers": [
     {
+     "slug": "the-times-of-india",
+     "name": "The Times of India",
+     "fa": "تایمز آو ایندیا",
+     "site": "https://timesofindia.indiatimes.com",
+     "img": "covers/2026-10-30/the-times-of-india.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-times-of-india/",
+     "headlines": [
+      {
+       "o": "NCLT, NCLAT hijacked by corp affairs ministry: SC",
+       "fa": "دیوان عالی: وزارت امور شرکت‌ها دادگاه‌های حقوق شرکت‌ها را قبضه کرده است",
+       "url": "https://duckduckgo.com/?q=%5CNCLT%2C%20NCLAT%20hijacked%20by%20corp%20affairs%20ministry%3A%20SC%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "BJP, Sena spar after MVA wins in Pune, Nagpur, Aurangabad",
+       "fa": "کشمکش بی‌جی‌پی و شیوسنا پس از پیروزی ائتلاف ام‌وی‌اِی در پونه، ناگپور و اورنگ‌آباد",
+       "url": "https://duckduckgo.com/?q=%5CBJP%2C%20Sena%20spar%20after%20MVA%20wins%20in%20Pune%2C%20Nagpur%2C%20Aurangabad%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Jamia set to hold student body polls after 22 yrs",
+       "fa": "جامعهٔ ملیهٔ اسلامیه پس از ۲۲ سال انتخابات تشکل دانشجویی برگزار می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CJamia%20set%20to%20hold%20student%20body%20polls%20after%2022%20yrs%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "iPhone snatched, woman chases, tackles 2 thieves",
+       "fa": "زنی پس از ربوده‌شدن آیفونش دو دزد را تعقیب کرد و زمین زد",
+       "url": "https://duckduckgo.com/?q=%5CiPhone%20snatched%2C%20woman%20chases%2C%20tackles%202%20thieves%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "SIR extended in Delhi, final poll roll Dec 22",
+       "fa": "بازبینی ویژهٔ فهرست رأی‌دهندگان دهلی تمدید شد؛ فهرست نهایی ۲۲ دسامبر",
+       "url": "https://duckduckgo.com/?q=%5CSIR%20extended%20in%20Delhi%2C%20final%20poll%20roll%20Dec%2022%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "SC to RBI: Protect a/c holders in case of digital fraud",
+       "fa": "دیوان عالی به بانک مرکزی هند: از صاحبان حساب در برابر کلاه‌برداری دیجیتال حمایت کنید",
+       "url": "https://duckduckgo.com/?q=%5CSC%20to%20RBI%3A%20Protect%20a/c%20holders%20in%20case%20of%20digital%20fraud%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "EU eyes mid-'27 launch for landmark FTA",
+       "fa": "اتحادیهٔ اروپا اجرای توافق تاریخی تجارت آزاد را از میانهٔ ۲۰۲۷ هدف گرفته است",
+       "url": "https://duckduckgo.com/?q=%5CEU%20eyes%20mid-%2727%20launch%20for%20landmark%20FTA%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Noel picks Vakil to chair Trent, 'Chandra in dark'",
+       "fa": "نوئل تاتا وکیل را به ریاست ترنت گماشت؛ «چاندرا بی‌خبر بود»",
+       "url": "https://duckduckgo.com/?q=%5CNoel%20picks%20Vakil%20to%20chair%20Trent%2C%20%27Chandra%20in%20dark%27%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-hindu",
      "name": "The Hindu",
      "fa": "هندو",
@@ -2377,6 +2653,60 @@
        "o": "'Burden squarely rests on accused in DA case'",
        "fa": "«بار اثبات در پروندهٔ دارایی نامتناسب کاملاً بر دوش متهم است»",
        "url": "https://duckduckgo.com/?q=%5C%27Burden%20squarely%20rests%20on%20accused%20in%20DA%20case%27%20site%3Ahindustantimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-economic-times",
+     "name": "The Economic Times",
+     "fa": "اکونومیک تایمز",
+     "site": "https://economictimes.indiatimes.com",
+     "img": "covers/2026-10-30/the-economic-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-economic-times/",
+     "headlines": [
+      {
+       "o": "India's Buoyancy Wins Over Consumer MNCs",
+       "fa": "رونق هند شرکت‌های چندملیتی کالاهای مصرفی را جذب کرد",
+       "url": "https://duckduckgo.com/?q=%5CIndia%27s%20Buoyancy%20Wins%20Over%20Consumer%20MNCs%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "APSEZ Makes $3.3b Play for Evos Terminals",
+       "fa": "آدانی پورتس پیشنهاد ۳٫۳ میلیارد دلاری برای پایانه‌های ایووس داد",
+       "url": "https://duckduckgo.com/?q=%5CAPSEZ%20Makes%20%243.3b%20Play%20for%20Evos%20Terminals%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Handset, TV Makers Set to Slash Production on Festive Sales Shock",
+       "fa": "سازندگان گوشی و تلویزیون پس از شوک فروش فصل جشن‌ها تولید را کاهش می‌دهند",
+       "url": "https://duckduckgo.com/?q=%5CHandset%2C%20TV%20Makers%20Set%20to%20Slash%20Production%20on%20Festive%20Sales%20Shock%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Working Capital Demand from Banks Jumps 20%",
+       "fa": "تقاضای سرمایه در گردش از بانک‌ها ۲۰ درصد جهش کرد",
+       "url": "https://duckduckgo.com/?q=%5CWorking%20Capital%20Demand%20from%20Banks%20Jumps%2020%25%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "IndiGo Logs ₹1.8kcr Q2 Loss on High Fuel Bill",
+       "fa": "ایندیگو به سبب هزینهٔ بالای سوخت در فصل دوم ۱۸۰۰ کرور روپیه زیان داد",
+       "url": "https://duckduckgo.com/?q=%5CIndiGo%20Logs%20%E2%82%B91.8kcr%20Q2%20Loss%20on%20High%20Fuel%20Bill%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Coal Stocks may Increase 10 mt by Year-end",
+       "fa": "ذخایر زغال‌سنگ ممکن است تا پایان سال ۱۰ میلیون تن افزایش یابد",
+       "url": "https://duckduckgo.com/?q=%5CCoal%20Stocks%20may%20Increase%2010%20mt%20by%20Year-end%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "No Price Cuts in Nearly 25% Cancer Drugs",
+       "fa": "قیمت نزدیک به ۲۵ درصد داروهای سرطان کاهش نیافت",
+       "url": "https://duckduckgo.com/?q=%5CNo%20Price%20Cuts%20in%20Nearly%2025%25%20Cancer%20Drugs%20site%3Aeconomictimes.indiatimes.com",
        "direct": false
       }
      ]
