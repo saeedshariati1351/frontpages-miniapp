@@ -61,6 +61,66 @@
      ]
     },
     {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-10-31/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "Iran war is set to ramp up, testing gains in Hormuz",
+       "fa": "جنگ ایران رو به تشدید است و دستاوردها در هرمز را به آزمون می‌گذارد",
+       "url": "https://duckduckgo.com/?q=%5CIran%20war%20is%20set%20to%20ramp%20up%2C%20testing%20gains%20in%20Hormuz%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Oil flows are near prewar levels",
+       "fa": "جریان نفت به نزدیکی سطح پیش از جنگ رسیده است",
+       "url": "https://duckduckgo.com/?q=%5COil%20flows%20are%20near%20prewar%20levels%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Eruption in Philippines",
+       "fa": "فوران آتشفشان در فیلیپین",
+       "url": "https://duckduckgo.com/?q=%5CEruption%20in%20Philippines%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Scientists sought alert on measles in pregnancy",
+       "fa": "دانشمندان خواستار صدور هشدار دربارهٔ سرخک در دوران بارداری شدند",
+       "url": "https://duckduckgo.com/?q=%5CScientists%20sought%20alert%20on%20measles%20in%20pregnancy%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "If Republicans lose big, fingers may point at him",
+       "fa": "اگر جمهوری‌خواهان سنگین ببازند، انگشت‌ها ممکن است به سوی او نشانه رود",
+       "url": "https://duckduckgo.com/?q=%5CIf%20Republicans%20lose%20big%2C%20fingers%20may%20point%20at%20him%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Midwesterners who helped turn Florida red may push it left",
+       "fa": "اهالی غرب میانه که به جمهوری‌خواه‌شدن فلوریدا کمک کردند، شاید آن را به چپ سوق دهند",
+       "url": "https://duckduckgo.com/?q=%5CMidwesterners%20who%20helped%20turn%20Florida%20red%20may%20push%20it%20left%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Hack is likely largest theft of digital currencies in history",
+       "fa": "این هک احتمالاً بزرگ‌ترین سرقت ارزهای دیجیتال در تاریخ است",
+       "url": "https://duckduckgo.com/?q=%5CHack%20is%20likely%20largest%20theft%20of%20digital%20currencies%20in%20history%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "An attack ad dredged up her wounded childhood",
+       "fa": "یک آگهی تخریبی کودکی زخم‌خورده‌اش را دوباره بیرون کشید",
+       "url": "https://duckduckgo.com/?q=%5CAn%20attack%20ad%20dredged%20up%20her%20wounded%20childhood%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "usa-today",
      "name": "USA Today",
      "fa": "یو‌اس‌ای تودی",
@@ -115,6 +175,48 @@
      ]
     },
     {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-10-31/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Request to block 20,000 ballots is again rejected",
+       "fa": "درخواست توقیف ۲۰ هزار برگهٔ رأی بار دیگر رد شد",
+       "url": "https://duckduckgo.com/?q=%5CRequest%20to%20block%2020%2C000%20ballots%20is%20again%20rejected%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "What subpoenas may mean in L.A.",
+       "fa": "احضاریه‌ها برای لس‌آنجلس چه معنایی می‌تواند داشته باشد",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20subpoenas%20may%20mean%20in%20L.A.%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Big Tech stocks drop amid AI sell-offs",
+       "fa": "سهام غول‌های فناوری در پی موج فروش سهام هوش مصنوعی سقوط کرد",
+       "url": "https://duckduckgo.com/?q=%5CBig%20Tech%20stocks%20drop%20amid%20AI%20sell-offs%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "L.A.'s Black leaders wary of Bass' prospects",
+       "fa": "رهبران سیاه‌پوست لس‌آنجلس نگران بخت باس هستند",
+       "url": "https://duckduckgo.com/?q=%5CL.A.%27s%20Black%20leaders%20wary%20of%20Bass%27%20prospects%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Feeble Congress now faces its voters",
+       "fa": "کنگرهٔ ناتوان اکنون با رأی‌دهندگانش روبه‌رو می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CFeeble%20Congress%20now%20faces%20its%20voters%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",
@@ -140,6 +242,120 @@
        "o": "North Korea pulls off ‘biggest bank heist in history’ — steals $6.3 billion in crypto",
        "fa": "کرهٔ شمالی «بزرگ‌ترین سرقت بانکی تاریخ» را رقم زد؛ ۶٫۳ میلیارد دلار رمزارز به سرقت رفت",
        "url": "https://duckduckgo.com/?q=%5CNorth%20Korea%20pulls%20off%20%E2%80%98biggest%20bank%20heist%20in%20history%E2%80%99%20%E2%80%94%20steals%20%246.3%20billion%20in%20crypto%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-10-31/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Some stability on natural gas bills",
+       "fa": "اندکی ثبات در قبض‌های گاز طبیعی",
+       "url": "https://duckduckgo.com/?q=%5CSome%20stability%20on%20natural%20gas%20bills%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "6 years after COVID's hardest hit, a fresh start",
+       "fa": "شش سال پس از سخت‌ترین ضربهٔ کووید، آغازی تازه",
+       "url": "https://duckduckgo.com/?q=%5C6%20years%20after%20COVID%27s%20hardest%20hit%2C%20a%20fresh%20start%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Still unclear what question on primaries would mean",
+       "fa": "هنوز روشن نیست همه‌پرسی دربارهٔ انتخابات مقدماتی چه پیامدی خواهد داشت",
+       "url": "https://duckduckgo.com/?q=%5CStill%20unclear%20what%20question%20on%20primaries%20would%20mean%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "A smashing day to dress up",
+       "fa": "روزی پرشور برای لباس مبدل پوشیدن",
+       "url": "https://duckduckgo.com/?q=%5CA%20smashing%20day%20to%20dress%20up%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-10-31/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Pope Leo casts local mail-in ballot",
+       "fa": "پاپ لئو رأی پستی خود را در انتخابات محلی به صندوق انداخت",
+       "url": "https://duckduckgo.com/?q=%5CPope%20Leo%20casts%20local%20mail-in%20ballot%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Trump itinerary adds back 2 rallies",
+       "fa": "دو گردهمایی دوباره به برنامهٔ سفر ترامپ افزوده شد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20itinerary%20adds%20back%202%20rallies%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Surveys boost interest in bat protection efforts",
+       "fa": "پیمایش‌ها علاقه به تلاش‌ها برای حفاظت از خفاش‌ها را افزایش داد",
+       "url": "https://duckduckgo.com/?q=%5CSurveys%20boost%20interest%20in%20bat%20protection%20efforts%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-10-31/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Comcast to lay off more than 600 in Philly",
+       "fa": "کامکست بیش از ۶۰۰ نفر را در فیلادلفیا اخراج می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CComcast%20to%20lay%20off%20more%20than%20600%20in%20Philly%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Council issues subpoenas in museum closure",
+       "fa": "شورای شهر در پروندهٔ تعطیلی موزه احضاریه صادر کرد",
+       "url": "https://duckduckgo.com/?q=%5CCouncil%20issues%20subpoenas%20in%20museum%20closure%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Saquon Barkley on track to play Sunday",
+       "fa": "سیکوان بارکلی برای بازی یکشنبه آماده می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CSaquon%20Barkley%20on%20track%20to%20play%20Sunday%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Final days at mall in Bensalem",
+       "fa": "آخرین روزهای مرکز خرید بنسالم",
+       "url": "https://duckduckgo.com/?q=%5CFinal%20days%20at%20mall%20in%20Bensalem%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Graveyard, diner are neighbors in Philly",
+       "fa": "گورستان و غذاخوری در فیلادلفیا همسایه‌اند",
+       "url": "https://duckduckgo.com/?q=%5CGraveyard%2C%20diner%20are%20neighbors%20in%20Philly%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Anti-bullying bill would protect students in N.J.",
+       "fa": "لایحهٔ مقابله با قلدری از دانش‌آموزان نیوجرسی محافظت می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CAnti-bullying%20bill%20would%20protect%20students%20in%20N.J.%20site%3Ainquirer.com",
        "direct": false
       }
      ]
