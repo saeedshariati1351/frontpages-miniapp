@@ -121,6 +121,180 @@
      ]
     },
     {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-01/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Inflation, war, and Trump: a potent mix for midterm voters",
+       "fa": "تورم، جنگ و ترامپ؛ ترکیبی پرقدرت برای رأی‌دهندگان میان‌دوره‌ای",
+       "url": "https://duckduckgo.com/?q=%5CInflation%2C%20war%2C%20and%20Trump%3A%20a%20potent%20mix%20for%20midterm%20voters%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Mass. ballot: half empty or half full?",
+       "fa": "برگهٔ رأی ماساچوست: نیمه‌خالی یا نیمه‌پر؟",
+       "url": "https://duckduckgo.com/?q=%5CMass.%20ballot%3A%20half%20empty%20or%20half%20full%3F%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "At MIT, a surprising rebuttal to AI use",
+       "fa": "واکنشی غافلگیرکننده در ام‌آی‌تی به استفاده از هوش مصنوعی",
+       "url": "https://duckduckgo.com/?q=%5CAt%20MIT%2C%20a%20surprising%20rebuttal%20to%20AI%20use%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Main Street makeover widens a civic divide",
+       "fa": "نوسازی «مین استریت» شکاف مدنی را عمیق‌تر می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CMain%20Street%20makeover%20widens%20a%20civic%20divide%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-01/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Pritzker puts his mark on US races",
+       "fa": "پریتزکر بر رقابت‌های انتخاباتی آمریکا مهر خود را می‌زند",
+       "url": "https://duckduckgo.com/?q=%5CPritzker%20puts%20his%20mark%20on%20US%20races%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Symbols of renewal",
+       "fa": "نمادهای نوزایی",
+       "url": "https://duckduckgo.com/?q=%5CSymbols%20of%20renewal%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats could flip the only GOP-held seat on the Cook County Board on Tuesday",
+       "fa": "دموکرات‌ها ممکن است سه‌شنبه تنها کرسی جمهوری‌خواهان در هیئت شهرستان کوک را از آنِ خود کنند",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20could%20flip%20the%20only%20GOP-held%20seat%20on%20the%20Cook%20County%20Board%20on%20Tuesday%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Days away from Chicago's historic school board election, the 40-plus candidates are knocking on doors",
+       "fa": "چند روز مانده به انتخابات تاریخی هیئت آموزش‌وپرورش شیکاگو، بیش از ۴۰ نامزد درِ خانه‌ها را می‌زنند",
+       "url": "https://duckduckgo.com/?q=%5CDays%20away%20from%20Chicago%27s%20historic%20school%20board%20election%2C%20the%2040-plus%20candidates%20are%20knocking%20on%20doors%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-01/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "How the region's unaffiliated voters could decide who controls Congress",
+       "fa": "رأی‌دهندگان مستقل منطقه چگونه می‌توانند تعیین کنند کنترل کنگره در دست چه کسی باشد",
+       "url": "https://duckduckgo.com/?q=%5CHow%20the%20region%27s%20unaffiliated%20voters%20could%20decide%20who%20controls%20Congress%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly's left sets sights on a Council majority",
+       "fa": "چپ‌های فیلادلفیا اکثریت شورای شهر را نشانه گرفته‌اند",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%27s%20left%20sets%20sights%20on%20a%20Council%20majority%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Surge in Democratic and Unaffiliated Registrations in Pa.",
+       "fa": "جهش ثبت‌نام دموکرات‌ها و مستقل‌ها در پنسیلوانیا",
+       "url": "https://duckduckgo.com/?q=%5CSurge%20in%20Democratic%20and%20Unaffiliated%20Registrations%20in%20Pa.%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "City plans to lease 21 acres to union at $1 a year",
+       "fa": "شهرداری قصد دارد ۲۱ جریب زمین را سالانه به یک دلار به اتحادیه اجاره دهد",
+       "url": "https://duckduckgo.com/?q=%5CCity%20plans%20to%20lease%2021%20acres%20to%20union%20at%20%241%20a%20year%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "How the air around us can alter the brain",
+       "fa": "هوای پیرامون ما چگونه می‌تواند مغز را دگرگون کند",
+       "url": "https://duckduckgo.com/?q=%5CHow%20the%20air%20around%20us%20can%20alter%20the%20brain%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Keys for Birds in matchup vs. Washington",
+       "fa": "کلیدهای پیروزی ایگلز در دیدار با واشنگتن",
+       "url": "https://duckduckgo.com/?q=%5CKeys%20for%20Birds%20in%20matchup%20vs.%20Washington%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "5 chilling tales of hauntings in Philly",
+       "fa": "پنج روایت هولناک از خانه‌های جن‌زده در فیلادلفیا",
+       "url": "https://duckduckgo.com/?q=%5C5%20chilling%20tales%20of%20hauntings%20in%20Philly%20site%3Ainquirer.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "houston-chronicle",
+     "name": "Houston Chronicle",
+     "fa": "هیوستون کرونیکل",
+     "site": "https://www.houstonchronicle.com",
+     "img": "covers/2026-11-01/houston-chronicle.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/houston-chronicle/",
+     "headlines": [
+      {
+       "o": "Schools rethinking juvenile referrals",
+       "fa": "مدارس در ارجاع نوجوانان به دستگاه قضایی بازنگری می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5CSchools%20rethinking%20juvenile%20referrals%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Laws, legacy and land",
+       "fa": "قانون، میراث و زمین",
+       "url": "https://duckduckgo.com/?q=%5CLaws%2C%20legacy%20and%20land%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Why Texas Democrats keep on fighting",
+       "fa": "چرا دموکرات‌های تگزاس همچنان می‌جنگند",
+       "url": "https://duckduckgo.com/?q=%5CWhy%20Texas%20Democrats%20keep%20on%20fighting%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Daylight saving time ended",
+       "fa": "ساعت تابستانی به پایان رسید",
+       "url": "https://duckduckgo.com/?q=%5CDaylight%20saving%20time%20ended%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Bigger, better",
+       "fa": "بزرگ‌تر، بهتر",
+       "url": "https://duckduckgo.com/?q=%5CBigger%2C%20better%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Home $weet home",
+       "fa": "خانه، خانهٔ گران",
+       "url": "https://duckduckgo.com/?q=%5CHome%20%24weet%20home%20site%3Ahoustonchronicle.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "miami-herald",
      "name": "Miami Herald",
      "fa": "میامی هرالد",
@@ -452,6 +626,60 @@
        "o": "Fatih Akin und Malakoff Kowalski über „Geister“",
        "fa": "فاتح آکین و مالاکوف کوالسکی دربارهٔ «ارواح»",
        "url": "https://duckduckgo.com/?q=%5CFatih%20Akin%20und%20Malakoff%20Kowalski%20%C3%BCber%20%E2%80%9EGeister%E2%80%9C%20site%3Afaz.net",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "bild",
+     "name": "Bild",
+     "fa": "بیلد",
+     "site": "https://www.bild.de",
+     "img": "covers/2026-11-01/bild.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/bild/",
+     "headlines": [
+      {
+       "o": "So greift die Linke nach der Macht",
+       "fa": "چپ‌ها این‌گونه برای قدرت خیز برداشته‌اند",
+       "url": "https://duckduckgo.com/?q=%5CSo%20greift%20die%20Linke%20nach%20der%20Macht%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Das war echt der Gipfel",
+       "fa": "این واقعاً اوجِ ماجرا بود",
+       "url": "https://duckduckgo.com/?q=%5CDas%20war%20echt%20der%20Gipfel%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Impfen oder nicht?",
+       "fa": "واکسن بزنیم یا نه؟",
+       "url": "https://duckduckgo.com/?q=%5CImpfen%20oder%20nicht%3F%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Mit der Dunkelheit kamen die Chaoten",
+       "fa": "با تاریکی، آشوبگران آمدند",
+       "url": "https://duckduckgo.com/?q=%5CMit%20der%20Dunkelheit%20kamen%20die%20Chaoten%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Jetzt kommt der Tank-Rabatt mit BILD!",
+       "fa": "اکنون تخفیف سوخت با بیلد از راه می‌رسد!",
+       "url": "https://duckduckgo.com/?q=%5CJetzt%20kommt%20der%20Tank-Rabatt%20mit%20BILD%21%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Grusel-Spaß bei Heidi",
+       "fa": "سرگرمی وحشت‌آمیز نزد هایدی",
+       "url": "https://duckduckgo.com/?q=%5CGrusel-Spa%C3%9F%20bei%20Heidi%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Mit Markus Lanz im Trump-Land",
+       "fa": "همراه مارکوس لانتس در سرزمین ترامپ",
+       "url": "https://duckduckgo.com/?q=%5CMit%20Markus%20Lanz%20im%20Trump-Land%20site%3Abild.de",
        "direct": false
       }
      ]
