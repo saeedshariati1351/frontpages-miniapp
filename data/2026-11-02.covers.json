@@ -263,5 +263,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/india-today/"
+ },
+ "asharq-al-awsat": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://aawsat.com/files/pdf/issue17506/index.html"
  }
 }
