@@ -7,6 +7,60 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-03/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "Economic Worries Sharpen as Midterm Campaign Ends",
+       "fa": "با پایان کارزار انتخابات میان‌دوره‌ای، نگرانی‌های اقتصادی شدت گرفت",
+       "url": "https://duckduckgo.com/?q=%5CEconomic%20Worries%20Sharpen%20as%20Midterm%20Campaign%20Ends%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Republicans Stress Strong Indicators as Democrats Fault Trump Policies",
+       "fa": "جمهوری‌خواهان بر شاخص‌های قوی تأکید می‌کنند و دموکرات‌ها سیاست‌های ترامپ را مقصر می‌دانند",
+       "url": "https://duckduckgo.com/?q=%5CRepublicans%20Stress%20Strong%20Indicators%20as%20Democrats%20Fault%20Trump%20Policies%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "G.O.P. Faces Ire At Clampdown On Immigrants",
+       "fa": "حزب جمهوری‌خواه با خشم از سخت‌گیری بر مهاجران روبه‌روست",
+       "url": "https://duckduckgo.com/?q=%5CG.O.P.%20Faces%20Ire%20At%20Clampdown%20On%20Immigrants%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "With Sour Jabs, Vance Reveals Preview of '28",
+       "fa": "ونس با طعنه‌های تند، پیش‌نمایشی از ۲۰۲۸ را نشان می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CWith%20Sour%20Jabs%2C%20Vance%20Reveals%20Preview%20of%20%2728%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "The Final Arguments: Radicalism vs. Corruption",
+       "fa": "واپسین استدلال‌ها: افراط‌گرایی در برابر فساد",
+       "url": "https://duckduckgo.com/?q=%5CThe%20Final%20Arguments%3A%20Radicalism%20vs.%20Corruption%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "With the Parties Trading Blows, the President Sees a 'Golden Age'",
+       "fa": "در حالی که احزاب به هم ضربه می‌زنند، رئیس‌جمهور «عصر طلایی» می‌بیند",
+       "url": "https://duckduckgo.com/?q=%5CWith%20the%20Parties%20Trading%20Blows%2C%20the%20President%20Sees%20a%20%27Golden%20Age%27%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Israel's Inconclusive Vote Cues Long Battle to Pick Prime Minister",
+       "fa": "انتخابات بی‌نتیجهٔ اسرائیل نبردی طولانی برای تعیین نخست‌وزیر را رقم می‌زند",
+       "url": "https://duckduckgo.com/?q=%5CIsrael%27s%20Inconclusive%20Vote%20Cues%20Long%20Battle%20to%20Pick%20Prime%20Minister%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-washington-post",
      "name": "The Washington Post",
      "fa": "واشنگتن پست",
@@ -92,6 +146,192 @@
        "o": "The Big Ten is in a rare spot, facing hard times",
        "fa": "لیگ بیگ تن در وضعیتی کم‌سابقه با روزهای سختی روبه‌روست",
        "url": "https://duckduckgo.com/?q=%5CThe%20Big%20Ten%20is%20in%20a%20rare%20spot%2C%20facing%20hard%20times%20site%3Ausatoday.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-03/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Trump's aura of invincibility faces next test",
+       "fa": "هالهٔ شکست‌ناپذیری ترامپ با آزمونی دیگر روبه‌روست",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20aura%20of%20invincibility%20faces%20next%20test%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Poll finds broad fear of vote-count interference",
+       "fa": "نظرسنجی: ترس گسترده از دخالت در شمارش آرا",
+       "url": "https://duckduckgo.com/?q=%5CPoll%20finds%20broad%20fear%20of%20vote-count%20interference%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Justices reject bid to review 20,000 ballots",
+       "fa": "قاضیان دیوان عالی درخواست بازبینی ۲۰ هزار برگهٔ رأی را رد کردند",
+       "url": "https://duckduckgo.com/?q=%5CJustices%20reject%20bid%20to%20review%2020%2C000%20ballots%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Closing message to voters: Admire the pool",
+       "fa": "پیام پایانی به رأی‌دهندگان: استخر را تحسین کنید",
+       "url": "https://duckduckgo.com/?q=%5CClosing%20message%20to%20voters%3A%20Admire%20the%20pool%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Newsom pushes bigger film, TV tax credit",
+       "fa": "نیوسام خواهان معافیت مالیاتی بزرگ‌تر برای فیلم و تلویزیون است",
+       "url": "https://duckduckgo.com/?q=%5CNewsom%20pushes%20bigger%20film%2C%20TV%20tax%20credit%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "new-york-post",
+     "name": "New York Post",
+     "fa": "نیویورک پست",
+     "site": "https://nypost.com",
+     "img": "covers/2026-11-03/new-york-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/new-york-post/",
+     "headlines": [
+      {
+       "o": "HOLD THE LINE!",
+       "fa": "ایستادگی کنید!",
+       "url": "https://duckduckgo.com/?q=%5CHOLD%20THE%20LINE%21%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "Vote today to halt the progressive takeover, higher taxes in New York",
+       "fa": "امروز رأی دهید تا جلوی تسلط پیشروها و مالیات‌های بالاتر در نیویورک گرفته شود",
+       "url": "https://duckduckgo.com/?q=%5CVote%20today%20to%20halt%20the%20progressive%20takeover%2C%20higher%20taxes%20in%20New%20York%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-03/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Any blue wave would ripple into Mass. politics",
+       "fa": "هر موج آبی به سیاست ماساچوست هم سرایت خواهد کرد",
+       "url": "https://duckduckgo.com/?q=%5CAny%20blue%20wave%20would%20ripple%20into%20Mass.%20politics%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Final pitches in Maine contest",
+       "fa": "آخرین تلاش‌ها در رقابت مین",
+       "url": "https://duckduckgo.com/?q=%5CFinal%20pitches%20in%20Maine%20contest%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Questions of the day",
+       "fa": "پرسش‌های روز",
+       "url": "https://duckduckgo.com/?q=%5CQuestions%20of%20the%20day%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Voting guide",
+       "fa": "راهنمای رأی‌دادن",
+       "url": "https://duckduckgo.com/?q=%5CVoting%20guide%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "US Senate power",
+       "fa": "قدرت در سنای آمریکا",
+       "url": "https://duckduckgo.com/?q=%5CUS%20Senate%20power%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "'Progressive agenda'",
+       "fa": "«دستور کار پیشرو»",
+       "url": "https://duckduckgo.com/?q=%5C%27Progressive%20agenda%27%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-03/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "The stage is set",
+       "fa": "صحنه آماده است",
+       "url": "https://duckduckgo.com/?q=%5CThe%20stage%20is%20set%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "First Black Illinoisan to vote has a museum",
+       "fa": "نخستین رأی‌دهندهٔ سیاه‌پوست ایلینوی موزه دارد",
+       "url": "https://duckduckgo.com/?q=%5CFirst%20Black%20Illinoisan%20to%20vote%20has%20a%20museum%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-03/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Time for voters to decide",
+       "fa": "زمان تصمیم رأی‌دهندگان است",
+       "url": "https://duckduckgo.com/?q=%5CTime%20for%20voters%20to%20decide%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Garrity gets millions from an unlikely donor",
+       "fa": "گریتی میلیون‌ها دلار از حامی‌ای غیرمنتظره دریافت می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CGarrity%20gets%20millions%20from%20an%20unlikely%20donor%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "As measles spread appears to slow, experts cautious",
+       "fa": "با کُند شدن ظاهری شیوع سرخک، کارشناسان محتاط‌اند",
+       "url": "https://duckduckgo.com/?q=%5CAs%20measles%20spread%20appears%20to%20slow%2C%20experts%20cautious%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly police warn residents about Honda thefts",
+       "fa": "پلیس فیلادلفیا دربارهٔ سرقت خودروهای هوندا به ساکنان هشدار داد",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%20police%20warn%20residents%20about%20Honda%20thefts%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Protections for city renters are in effect",
+       "fa": "حمایت‌ها از مستأجران شهر اجرایی شد",
+       "url": "https://duckduckgo.com/?q=%5CProtections%20for%20city%20renters%20are%20in%20effect%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Sielski: Eagles are reeling, and the NFL is licking its chops",
+       "fa": "سیلسکی: ایگلز در حال تزلزل است و لیگ NFL انتظارش را می‌کشد",
+       "url": "https://duckduckgo.com/?q=%5CSielski%3A%20Eagles%20are%20reeling%2C%20and%20the%20NFL%20is%20licking%20its%20chops%20site%3Ainquirer.com",
        "direct": false
       }
      ]
