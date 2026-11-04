@@ -273,5 +273,40 @@
   "w": 900,
   "h": 1200,
   "source": "https://aawsat.com/files/pdf/issue17508/index.html"
+ },
+ "the-new-york-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-new-york-times/"
+ },
+ "los-angeles-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/los-angeles-times/"
+ },
+ "new-york-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/new-york-post/"
+ },
+ "the-boston-globe": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-boston-globe/"
+ },
+ "chicago-tribune": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/chicago-tribune/"
+ },
+ "the-philadelphia-inquirer": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-philadelphia-inquirer/"
+ },
+ "kicker": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/kicker/"
  }
 }
