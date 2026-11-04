@@ -7,6 +7,60 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-04/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "Battles Linger as Nation Decides Control of Congress",
+       "fa": "رقابت‌ها همچنان ادامه دارد؛ ملت دربارهٔ کنترل کنگره تصمیم می‌گیرد",
+       "url": "https://duckduckgo.com/?q=%5CBattles%20Linger%20as%20Nation%20Decides%20Control%20of%20Congress%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "No End Is in Sight to Democrats' Israel Splits",
+       "fa": "پایانی برای شکاف دموکرات‌ها بر سر اسرائیل در چشم‌انداز نیست",
+       "url": "https://duckduckgo.com/?q=%5CNo%20End%20Is%20in%20Sight%20to%20Democrats%27%20Israel%20Splits%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Trump's Hunt for Illegal Voters Nets Little",
+       "fa": "شکار رأی‌دهندگان غیرقانونی ترامپ دستاورد چندانی نداشته است",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20Hunt%20for%20Illegal%20Voters%20Nets%20Little%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Hochul Fends Off a Trump Ally To Capture a Second Full Term",
+       "fa": "هوکول با کنار زدن متحد ترامپ دومین دورهٔ کامل فرمانداری را به دست آورد",
+       "url": "https://duckduckgo.com/?q=%5CHochul%20Fends%20Off%20a%20Trump%20Ally%20To%20Capture%20a%20Second%20Full%20Term%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "U.S. Debates Israeli Claim of Iran Chemical Arms",
+       "fa": "بحث در آمریکا دربارهٔ ادعای اسرائیل مبنی بر سلاح شیمیایی ایران",
+       "url": "https://duckduckgo.com/?q=%5CU.S.%20Debates%20Israeli%20Claim%20of%20Iran%20Chemical%20Arms%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Some See a Warning as a Ploy by Netanyahu",
+       "fa": "برخی این هشدار را ترفندی از سوی نتانیاهو می‌دانند",
+       "url": "https://duckduckgo.com/?q=%5CSome%20See%20a%20Warning%20as%20a%20Ploy%20by%20Netanyahu%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Nobelist Put a Price on Pollution, Swaying Policy",
+       "fa": "برندهٔ نوبلی که برای آلودگی قیمت تعیین کرد و بر سیاست‌گذاری اثر گذاشت (درگذشت ویلیام نوردهاوس)",
+       "url": "https://duckduckgo.com/?q=%5CNobelist%20Put%20a%20Price%20on%20Pollution%2C%20Swaying%20Policy%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-washington-post",
      "name": "The Washington Post",
      "fa": "واشنگتن پست",
@@ -104,6 +158,198 @@
        "o": "Eric Dane's memoir has advice for daughters",
        "fa": "خاطرات اریک دین برای دخترانش توصیه‌هایی دارد",
        "url": "https://duckduckgo.com/?q=%5CEric%20Dane%27s%20memoir%20has%20advice%20for%20daughters%20site%3Ausatoday.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-04/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Feds deploy election watchers to L.A.",
+       "fa": "دولت فدرال ناظران انتخاباتی را به لس‌آنجلس اعزام کرد",
+       "url": "https://duckduckgo.com/?q=%5CFeds%20deploy%20election%20watchers%20to%20L.A.%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Little room for error for the next mayor of L.A.",
+       "fa": "شهردار بعدی لس‌آنجلس جای چندانی برای خطا ندارد",
+       "url": "https://duckduckgo.com/?q=%5CLittle%20room%20for%20error%20for%20the%20next%20mayor%20of%20L.A.%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Real work awaits Democrats in state",
+       "fa": "کار اصلی در ایالت در انتظار دموکرات‌هاست",
+       "url": "https://duckduckgo.com/?q=%5CReal%20work%20awaits%20Democrats%20in%20state%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Worth the wait",
+       "fa": "ارزش انتظار را داشت",
+       "url": "https://duckduckgo.com/?q=%5CWorth%20the%20wait%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Specter of new fighting grips Mideast",
+       "fa": "شبح درگیری‌های تازه بر خاورمیانه سایه افکنده است",
+       "url": "https://duckduckgo.com/?q=%5CSpecter%20of%20new%20fighting%20grips%20Mideast%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "new-york-post",
+     "name": "New York Post",
+     "fa": "نیویورک پست",
+     "site": "https://nypost.com",
+     "img": "covers/2026-11-04/new-york-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/new-york-post/",
+     "headlines": [
+      {
+       "o": "Blue tsunami",
+       "fa": "سونامی آبی",
+       "url": "https://duckduckgo.com/?q=%5CBlue%20tsunami%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "Trump suffers historic rebuke as Dems romp in midterms",
+       "fa": "ترامپ با پیروزی قاطع دموکرات‌ها در انتخابات میان‌دوره‌ای توبیخی تاریخی شد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20suffers%20historic%20rebuke%20as%20Dems%20romp%20in%20midterms%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-04/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Democrats set to take Congress in sweeping rebuke of Trump",
+       "fa": "دموکرات‌ها در توبیخی گسترده از ترامپ در آستانهٔ تصاحب کنگره‌اند",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20set%20to%20take%20Congress%20in%20sweeping%20rebuke%20of%20Trump%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Once unthinkable, even deep red states turn on GOP, down to state houses in Texas and Iowa",
+       "fa": "اتفاقی که روزی تصورناپذیر بود: حتی ایالت‌های سرسخت جمهوری‌خواه، تا مجالس ایالتی تگزاس و آیووا، به حزب جمهوری‌خواه پشت کردند",
+       "url": "https://duckduckgo.com/?q=%5COnce%20unthinkable%2C%20even%20deep%20red%20states%20turn%20on%20GOP%2C%20down%20to%20state%20houses%20in%20Texas%20and%20Iowa%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "After decades in office, Collins is toppled",
+       "fa": "کالینز پس از چند دهه در منصب، شکست خورد",
+       "url": "https://duckduckgo.com/?q=%5CAfter%20decades%20in%20office%2C%20Collins%20is%20toppled%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Healey wins reelection, sets sights on second term",
+       "fa": "هیلی دوباره انتخاب شد و چشم به دور دوم دوخته است",
+       "url": "https://duckduckgo.com/?q=%5CHealey%20wins%20reelection%2C%20sets%20sights%20on%20second%20term%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Nine questions generate more heat than usual",
+       "fa": "نُه همه‌پرسی بیش از معمول جنجال‌برانگیز شد",
+       "url": "https://duckduckgo.com/?q=%5CNine%20questions%20generate%20more%20heat%20than%20usual%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-04/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Pritzker, Stratton win",
+       "fa": "پریتزکر و استراتن پیروز شدند",
+       "url": "https://duckduckgo.com/?q=%5CPritzker%2C%20Stratton%20win%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Governor elected to 3rd term, his 2-time running mate now senator",
+       "fa": "فرماندار برای سومین دوره انتخاب شد و معاون دو دورهٔ انتخاباتی‌اش اکنون سناتور است",
+       "url": "https://duckduckgo.com/?q=%5CGovernor%20elected%20to%203rd%20term%2C%20his%202-time%20running%20mate%20now%20senator%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Across the Chicago area, voters turned out for a busy day at polls",
+       "fa": "در سراسر منطقهٔ شیکاگو رأی‌دهندگان در روزی شلوغ پای صندوق‌ها آمدند",
+       "url": "https://duckduckgo.com/?q=%5CAcross%20the%20Chicago%20area%2C%20voters%20turned%20out%20for%20a%20busy%20day%20at%20polls%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Voters hand Trump stunning rebuke",
+       "fa": "رأی‌دهندگان ترامپ را به‌شکلی خیره‌کننده توبیخ کردند",
+       "url": "https://duckduckgo.com/?q=%5CVoters%20hand%20Trump%20stunning%20rebuke%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-04/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "On a brisk day for turnout, Trump looms large in voters' minds",
+       "fa": "در روزی پرمشارکت، ترامپ در ذهن رأی‌دهندگان پررنگ بود",
+       "url": "https://duckduckgo.com/?q=%5COn%20a%20brisk%20day%20for%20turnout%2C%20Trump%20looms%20large%20in%20voters%27%20minds%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Horsch's lawyer claimed John Street vouched for him",
+       "fa": "وکیل هورش مدعی شد جان استریت ضامن او شده بود",
+       "url": "https://duckduckgo.com/?q=%5CHorsch%27s%20lawyer%20claimed%20John%20Street%20vouched%20for%20him%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Mural Arts says it will keep banner critics have labeled as AI",
+       "fa": "«میورال آرتس» می‌گوید بنری را که منتقدان ساخت هوش مصنوعی می‌دانند نگه می‌دارد",
+       "url": "https://duckduckgo.com/?q=%5CMural%20Arts%20says%20it%20will%20keep%20banner%20critics%20have%20labeled%20as%20AI%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "The salary cap implications of an Eagles fire sale at the NFL trade deadline",
+       "fa": "پیامدهای سقف دستمزد در صورت حراج بازیکنان ایگلز در مهلت نقل‌وانتقالات NFL",
+       "url": "https://duckduckgo.com/?q=%5CThe%20salary%20cap%20implications%20of%20an%20Eagles%20fire%20sale%20at%20the%20NFL%20trade%20deadline%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Huge pop acts are visiting Philly this week",
+       "fa": "ستاره‌های بزرگ پاپ این هفته به فیلادلفیا می‌آیند",
+       "url": "https://duckduckgo.com/?q=%5CHuge%20pop%20acts%20are%20visiting%20Philly%20this%20week%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "14 must-see art exhibitions this fall",
+       "fa": "۱۴ نمایشگاه هنری دیدنی این پاییز",
+       "url": "https://duckduckgo.com/?q=%5C14%20must-see%20art%20exhibitions%20this%20fall%20site%3Ainquirer.com",
        "direct": false
       }
      ]
