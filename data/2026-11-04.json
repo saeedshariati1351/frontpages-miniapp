@@ -1,0 +1,2903 @@
+{
+ "date": "2026-11-04",
+ "date_fa": "چهارشنبه ۱۳ آبان ۱۴۰۵",
+ "countries": [
+  {
+   "name": "آمریکا",
+   "flag": "🇺🇸",
+   "papers": [
+    {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-11-04/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "Voters swing to Democrats",
+       "fa": "رأی‌دهندگان به سوی دموکرات‌ها چرخیدند",
+       "url": "https://duckduckgo.com/?q=%5CVoters%20swing%20to%20Democrats%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Party is poised to take power on Capitol Hill with an eagerness to thwart Trump's agenda",
+       "fa": "حزب آمادهٔ به‌دست‌گرفتن قدرت در کنگره است و مشتاق است برنامهٔ ترامپ را ناکام بگذارد",
+       "url": "https://duckduckgo.com/?q=%5CParty%20is%20poised%20to%20take%20power%20on%20Capitol%20Hill%20with%20an%20eagerness%20to%20thwart%20Trump%27s%20agenda%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Janeese Lewis George wins D.C. mayor's race",
+       "fa": "جنیس لوئیس جورج در رقابت شهرداری واشنگتن پیروز شد",
+       "url": "https://duckduckgo.com/?q=%5CJaneese%20Lewis%20George%20wins%20D.C.%20mayor%27s%20race%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Leftward lurch extends across demographics and geographies",
+       "fa": "چرخش به چپ در همهٔ گروه‌های جمعیتی و جغرافیایی گسترش یافت",
+       "url": "https://duckduckgo.com/?q=%5CLeftward%20lurch%20extends%20across%20demographics%20and%20geographies%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Bottoms wins Ga. governor's race, ending decades of GOP dominance",
+       "fa": "باتمز با پیروزی در رقابت فرمانداری جورجیا به چند دهه سلطهٔ جمهوری‌خواهان پایان داد",
+       "url": "https://duckduckgo.com/?q=%5CBottoms%20wins%20Ga.%20governor%27s%20race%2C%20ending%20decades%20of%20GOP%20dominance%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "usa-today",
+     "name": "USA Today",
+     "fa": "یو‌اس‌ای تودی",
+     "site": "https://www.usatoday.com",
+     "img": "covers/2026-11-04/usa-today.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/usa-today/",
+     "headlines": [
+      {
+       "o": "U.S. strikes Iran island",
+       "fa": "آمریکا به جزیره‌ای ایرانی حمله کرد",
+       "url": "https://duckduckgo.com/?q=%5CU.S.%20strikes%20Iran%20island%20site%3Ausatoday.com",
+       "direct": false
+      },
+      {
+       "o": "Allies intensify mediation efforts",
+       "fa": "متحدان تلاش‌های میانجی‌گری را تشدید کردند",
+       "url": "https://duckduckgo.com/?q=%5CAllies%20intensify%20mediation%20efforts%20site%3Ausatoday.com",
+       "direct": false
+      },
+      {
+       "o": "A father's struggle",
+       "fa": "مبارزهٔ یک پدر",
+       "url": "https://duckduckgo.com/?q=%5CA%20father%27s%20struggle%20site%3Ausatoday.com",
+       "direct": false
+      },
+      {
+       "o": "Florida jet crash probe focuses on weather",
+       "fa": "تحقیقات سقوط جت در فلوریدا بر وضع هوا متمرکز است",
+       "url": "https://duckduckgo.com/?q=%5CFlorida%20jet%20crash%20probe%20focuses%20on%20weather%20site%3Ausatoday.com",
+       "direct": false
+      },
+      {
+       "o": "Catch up on what you missed",
+       "fa": "آنچه را از دست داده‌اید جبران کنید",
+       "url": "https://duckduckgo.com/?q=%5CCatch%20up%20on%20what%20you%20missed%20site%3Ausatoday.com",
+       "direct": false
+      },
+      {
+       "o": "Buckle up! But do it the correct way, experts say",
+       "fa": "کمربند را ببندید! اما به روش درست، به گفتهٔ کارشناسان",
+       "url": "https://duckduckgo.com/?q=%5CBuckle%20up%21%20But%20do%20it%20the%20correct%20way%2C%20experts%20say%20site%3Ausatoday.com",
+       "direct": false
+      },
+      {
+       "o": "The pros and cons of Florida State football",
+       "fa": "مزایا و معایب تیم فوتبال دانشگاه ایالتی فلوریدا",
+       "url": "https://duckduckgo.com/?q=%5CThe%20pros%20and%20cons%20of%20Florida%20State%20football%20site%3Ausatoday.com",
+       "direct": false
+      },
+      {
+       "o": "Eric Dane's memoir has advice for daughters",
+       "fa": "خاطرات اریک دین برای دخترانش توصیه‌هایی دارد",
+       "url": "https://duckduckgo.com/?q=%5CEric%20Dane%27s%20memoir%20has%20advice%20for%20daughters%20site%3Ausatoday.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "houston-chronicle",
+     "name": "Houston Chronicle",
+     "fa": "هیوستون کرونیکل",
+     "site": "https://www.houstonchronicle.com",
+     "img": "covers/2026-11-04/houston-chronicle.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/houston-chronicle/",
+     "headlines": [
+      {
+       "o": "Voters weigh shakeup",
+       "fa": "رأی‌دهندگان تحولی بزرگ را می‌سنجند",
+       "url": "https://duckduckgo.com/?q=%5CVoters%20weigh%20shakeup%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Midterm election arrives for nation grappling with concerns over inflation, Iran war",
+       "fa": "انتخابات میان‌دوره‌ای در حالی فرا رسید که کشور با نگرانی از تورم و جنگ ایران دست‌وپنجه نرم می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CMidterm%20election%20arrives%20for%20nation%20grappling%20with%20concerns%20over%20inflation%2C%20Iran%20war%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Harris County residents head to polls to make a difference",
+       "fa": "ساکنان شهرستان هریس برای ایجاد تغییر پای صندوق‌های رأی رفتند",
+       "url": "https://duckduckgo.com/?q=%5CHarris%20County%20residents%20head%20to%20polls%20to%20make%20a%20difference%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Few problems greet people despite fears of interference",
+       "fa": "به‌رغم نگرانی از دخالت، مردم با مشکلات اندکی روبه‌رو شدند",
+       "url": "https://duckduckgo.com/?q=%5CFew%20problems%20greet%20people%20despite%20fears%20of%20interference%20site%3Ahoustonchronicle.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "miami-herald",
+     "name": "Miami Herald",
+     "fa": "میامی هرالد",
+     "site": "https://www.miamiherald.com",
+     "img": "covers/2026-11-04/miami-herald.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/miami-herald/",
+     "headlines": [
+      {
+       "o": "U.S. to halt $4B in Israel funding at end of 2026, Trump says",
+       "fa": "ترامپ: آمریکا کمک ۴ میلیارد دلاری به اسرائیل را در پایان ۲۰۲۶ قطع می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CU.S.%20to%20halt%20%244B%20in%20Israel%20funding%20at%20end%20of%202026%2C%20Trump%20says%20site%3Amiamiherald.com",
+       "direct": false
+      },
+      {
+       "o": "Doing their civic duty",
+       "fa": "ادای وظیفهٔ شهروندی",
+       "url": "https://duckduckgo.com/?q=%5CDoing%20their%20civic%20duty%20site%3Amiamiherald.com",
+       "direct": false
+      },
+      {
+       "o": "For wealthy Miami-Dade condo buyers, renting instead may be cheaper",
+       "fa": "برای خریداران ثروتمند آپارتمان در میامی‌دید، اجاره‌کردن ممکن است ارزان‌تر باشد",
+       "url": "https://duckduckgo.com/?q=%5CFor%20wealthy%20Miami-Dade%20condo%20buyers%2C%20renting%20instead%20may%20be%20cheaper%20site%3Amiamiherald.com",
+       "direct": false
+      },
+      {
+       "o": "Miami cruise canceled after Coast Guard detained ship at port",
+       "fa": "سفر دریایی میامی پس از توقیف کشتی در بندر به دست گارد ساحلی لغو شد",
+       "url": "https://duckduckgo.com/?q=%5CMiami%20cruise%20canceled%20after%20Coast%20Guard%20detained%20ship%20at%20port%20site%3Amiamiherald.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "بریتانیا",
+   "flag": "🇬🇧",
+   "papers": [
+    {
+     "slug": "financial-times",
+     "name": "Financial Times",
+     "fa": "فایننشال تایمز",
+     "site": "https://www.ft.com",
+     "img": "covers/2026-11-04/financial-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/financial-times/",
+     "headlines": [
+      {
+       "o": "Nvidia demands cut in clients' China dealings to protect American AI lead",
+       "fa": "انویدیا برای حفظ برتری هوش مصنوعی آمریکا از مشتریانش می‌خواهد معاملات با چین را کاهش دهند",
+       "url": "https://duckduckgo.com/?q=%5CNvidia%20demands%20cut%20in%20clients%27%20China%20dealings%20to%20protect%20American%20AI%20lead%20site%3Aft.com",
+       "direct": false
+      },
+      {
+       "o": "Trump awaits voters' verdict",
+       "fa": "ترامپ در انتظار حکم رأی‌دهندگان",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20awaits%20voters%27%20verdict%20site%3Aft.com",
+       "direct": false
+      },
+      {
+       "o": "Customers struggle to comply as it is difficult to find enough non-Chinese clients outside the US",
+       "fa": "مشتریان در رعایت این خواسته دچار مشکل‌اند، چون یافتن مشتریان غیرچینی کافی در خارج از آمریکا دشوار است",
+       "url": "https://duckduckgo.com/?q=%5CCustomers%20struggle%20to%20comply%20as%20it%20is%20difficult%20to%20find%20enough%20non-Chinese%20clients%20outside%20the%20US%20site%3Aft.com",
+       "direct": false
+      },
+      {
+       "o": "'Big draw' Cameron enlisted to charm donors and build on Badenoch revival",
+       "fa": "کامرون «پرجاذبه» برای جلب نظر حامیان مالی و تقویت احیای بادنوک به کار گرفته شد",
+       "url": "https://duckduckgo.com/?q=%5C%27Big%20draw%27%20Cameron%20enlisted%20to%20charm%20donors%20and%20build%20on%20Badenoch%20revival%20site%3Aft.com",
+       "direct": false
+      },
+      {
+       "o": "Rio targets toad army that threatens jump in costs",
+       "fa": "ریو تینتو ارتش وزغ‌هایی را هدف گرفته که هزینه‌ها را به‌شدت بالا می‌برد",
+       "url": "https://duckduckgo.com/?q=%5CRio%20targets%20toad%20army%20that%20threatens%20jump%20in%20costs%20site%3Aft.com",
+       "direct": false
+      },
+      {
+       "o": "How a $20bn fraud burnt Turkey's investors",
+       "fa": "چگونه یک کلاهبرداری ۲۰ میلیارد دلاری سرمایه‌گذاران ترکیه را سوزاند",
+       "url": "https://duckduckgo.com/?q=%5CHow%20a%20%2420bn%20fraud%20burnt%20Turkey%27s%20investors%20site%3Aft.com",
+       "direct": false
+      },
+      {
+       "o": "Will the AI boom differ from any other mania?",
+       "fa": "آیا رونق هوش مصنوعی با دیگر جنون‌های بازار فرق خواهد داشت؟",
+       "url": "https://duckduckgo.com/?q=%5CWill%20the%20AI%20boom%20differ%20from%20any%20other%20mania%3F%20site%3Aft.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "city-am",
+     "name": "City A.M.",
+     "fa": "سیتی اِی‌اِم",
+     "site": "https://www.cityam.com",
+     "img": "covers/2026-11-04/city-am.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/city-am/",
+     "headlines": [
+      {
+       "o": "Cold war",
+       "fa": "جنگ سرد",
+       "url": "https://duckduckgo.com/?q=%5CCold%20war%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "Britain's food chain vulnerable to chilling cyber threat",
+       "fa": "زنجیرهٔ غذایی بریتانیا در برابر تهدید سایبری هولناک آسیب‌پذیر است",
+       "url": "https://duckduckgo.com/?q=%5CBritain%27s%20food%20chain%20vulnerable%20to%20chilling%20cyber%20threat%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "Virgin Media O2 confirms thousands of job cuts in cost-cutting push",
+       "fa": "ویرجین مدیا اُ۲ حذف هزاران شغل را در چارچوب طرح کاهش هزینه تأیید کرد",
+       "url": "https://duckduckgo.com/?q=%5CVirgin%20Media%20O2%20confirms%20thousands%20of%20job%20cuts%20in%20cost-cutting%20push%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "Westminster digests Healey's budget",
+       "fa": "وست‌مینستر بودجهٔ هیلی را هضم می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CWestminster%20digests%20Healey%27s%20budget%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "HMRC cracks down on LLPs",
+       "fa": "ادارهٔ مالیات بریتانیا بر شرکت‌های تضامنی با مسئولیت محدود سخت گرفت",
+       "url": "https://duckduckgo.com/?q=%5CHMRC%20cracks%20down%20on%20LLPs%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "Is WFH holding young people back?",
+       "fa": "آیا دورکاری مانع پیشرفت جوانان است؟",
+       "url": "https://duckduckgo.com/?q=%5CIs%20WFH%20holding%20young%20people%20back%3F%20site%3Acityam.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "morning-star",
+     "name": "Morning Star",
+     "fa": "مورنینگ استار",
+     "site": "https://morningstaronline.co.uk",
+     "img": "covers/2026-11-04/morning-star.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/morning-star/",
+     "headlines": [
+      {
+       "o": "Solidarity bus sets off to join French workers on strike",
+       "fa": "اتوبوس همبستگی برای پیوستن به کارگران اعتصابی فرانسه راه افتاد",
+       "url": "https://duckduckgo.com/?q=%5CSolidarity%20bus%20sets%20off%20to%20join%20French%20workers%20on%20strike%20site%3Amorningstaronline.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Strike Map takes British workers on mission to back November 5 action",
+       "fa": "«نقشهٔ اعتصاب» کارگران بریتانیایی را برای حمایت از اقدام ۵ نوامبر اعزام می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CStrike%20Map%20takes%20British%20workers%20on%20mission%20to%20back%20November%205%20action%20site%3Amorningstaronline.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Commonwealth summit: King falls short of apology for slavery",
+       "fa": "نشست کشورهای مشترک‌المنافع: پادشاه از عذرخواهی برای برده‌داری بازماند",
+       "url": "https://duckduckgo.com/?q=%5CCommonwealth%20summit%3A%20King%20falls%20short%20of%20apology%20for%20slavery%20site%3Amorningstaronline.co.uk",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-herald-scotland",
+     "name": "The Herald",
+     "fa": "هرالد (اسکاتلند)",
+     "site": "https://www.heraldscotland.com",
+     "img": "covers/2026-11-04/the-herald-scotland.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-herald-scotland/",
+     "headlines": [
+      {
+       "o": "Warning third of Scots face freeze-or-debt choice as energy cap nears £2,000",
+       "fa": "هشدار: با نزدیک‌شدن سقف قیمت انرژی به ۲۰۰۰ پوند، یک‌سوم اسکاتلندی‌ها باید میان سرما و بدهی یکی را برگزینند",
+       "url": "https://duckduckgo.com/?q=%5CWarning%20third%20of%20Scots%20face%20freeze-or-debt%20choice%20as%20energy%20cap%20nears%20%C2%A32%2C000%20site%3Aheraldscotland.com",
+       "direct": false
+      },
+      {
+       "o": "Plea for urgent, targeted heating support for struggling households this winter",
+       "fa": "درخواست حمایت فوری و هدفمند گرمایشی از خانوارهای کم‌بضاعت در این زمستان",
+       "url": "https://duckduckgo.com/?q=%5CPlea%20for%20urgent%2C%20targeted%20heating%20support%20for%20struggling%20households%20this%20winter%20site%3Aheraldscotland.com",
+       "direct": false
+      },
+      {
+       "o": "Criminal justice crisis as High Court trial backlog trebles",
+       "fa": "بحران عدالت کیفری با سه‌برابرشدن پرونده‌های معوق دادگاه عالی",
+       "url": "https://duckduckgo.com/?q=%5CCriminal%20justice%20crisis%20as%20High%20Court%20trial%20backlog%20trebles%20site%3Aheraldscotland.com",
+       "direct": false
+      },
+      {
+       "o": "'Rapid' rates review still has not started five months on",
+       "fa": "بازبینی «سریع» عوارض تجاری پنج ماه بعد هنوز آغاز نشده است",
+       "url": "https://duckduckgo.com/?q=%5C%27Rapid%27%20rates%20review%20still%20has%20not%20started%20five%20months%20on%20site%3Aheraldscotland.com",
+       "direct": false
+      },
+      {
+       "o": "Call for resilience committee",
+       "fa": "درخواست تشکیل کمیتهٔ تاب‌آوری",
+       "url": "https://duckduckgo.com/?q=%5CCall%20for%20resilience%20committee%20site%3Aheraldscotland.com",
+       "direct": false
+      },
+      {
+       "o": "Concerns over art loan to China",
+       "fa": "نگرانی از امانت‌دادن آثار هنری به چین",
+       "url": "https://duckduckgo.com/?q=%5CConcerns%20over%20art%20loan%20to%20China%20site%3Aheraldscotland.com",
+       "direct": false
+      },
+      {
+       "o": "Think Brexit is in the rear-view mirror? Think again",
+       "fa": "فکر می‌کنید برکسیت پشت سر مانده؟ دوباره فکر کنید",
+       "url": "https://duckduckgo.com/?q=%5CThink%20Brexit%20is%20in%20the%20rear-view%20mirror%3F%20Think%20again%20site%3Aheraldscotland.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-national-scotland",
+     "name": "The National",
+     "fa": "نشنال (اسکاتلند)",
+     "site": "https://www.thenational.scot",
+     "img": "covers/2026-11-04/the-national-scotland.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-national-scotland/",
+     "headlines": [
+      {
+       "o": "'Pay up'",
+       "fa": "«بپردازید»",
+       "url": "https://duckduckgo.com/?q=%5C%27Pay%20up%27%20site%3Athenational.scot",
+       "direct": false
+      },
+      {
+       "o": "Meet the activists demanding reparations over slave trade",
+       "fa": "با فعالانی آشنا شوید که برای تجارت برده خواستار غرامت‌اند",
+       "url": "https://duckduckgo.com/?q=%5CMeet%20the%20activists%20demanding%20reparations%20over%20slave%20trade%20site%3Athenational.scot",
+       "direct": false
+      },
+      {
+       "o": "Ndaye Lisa Badji-Churchill on why UK can't keep dancing around slavery apology",
+       "fa": "ندای لیزا باجی‌چرچیل: چرا بریتانیا نمی‌تواند همچنان از عذرخواهی برای برده‌داری طفره برود",
+       "url": "https://duckduckgo.com/?q=%5CNdaye%20Lisa%20Badji-Churchill%20on%20why%20UK%20can%27t%20keep%20dancing%20around%20slavery%20apology%20site%3Athenational.scot",
+       "direct": false
+      },
+      {
+       "o": "MSPs back calls for young people to be paid same as older colleagues",
+       "fa": "نمایندگان پارلمان اسکاتلند از درخواست پرداخت دستمزد برابر به جوانان و همکاران مسن‌ترشان حمایت کردند",
+       "url": "https://duckduckgo.com/?q=%5CMSPs%20back%20calls%20for%20young%20people%20to%20be%20paid%20same%20as%20older%20colleagues%20site%3Athenational.scot",
+       "direct": false
+      },
+      {
+       "o": "Duke's plan for £2bn AI data centre sparks 50k complaints",
+       "fa": "طرح دوک برای مرکز داده‌ٔ ۲ میلیارد پوندی هوش مصنوعی ۵۰ هزار شکایت به دنبال داشت",
+       "url": "https://duckduckgo.com/?q=%5CDuke%27s%20plan%20for%20%C2%A32bn%20AI%20data%20centre%20sparks%2050k%20complaints%20site%3Athenational.scot",
+       "direct": false
+      },
+      {
+       "o": "Our refugee campaign wins journalism award",
+       "fa": "کارزار ما برای پناهندگان جایزهٔ روزنامه‌نگاری گرفت",
+       "url": "https://duckduckgo.com/?q=%5COur%20refugee%20campaign%20wins%20journalism%20award%20site%3Athenational.scot",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-irish-news",
+     "name": "The Irish News",
+     "fa": "آیریش نیوز (ایرلند شمالی)",
+     "site": "https://www.irishnews.com",
+     "img": "covers/2026-11-04/the-irish-news.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-irish-news/",
+     "headlines": [
+      {
+       "o": "Dissident republicans 'could use drones to deliver payload bombs'",
+       "fa": "«جمهوری‌خواهان مخالف ممکن است از پهپاد برای رساندن بمب استفاده کنند»",
+       "url": "https://duckduckgo.com/?q=%5CDissident%20republicans%20%27could%20use%20drones%20to%20deliver%20payload%20bombs%27%20site%3Airishnews.com",
+       "direct": false
+      },
+      {
+       "o": "'The brightest lights never truly fade'",
+       "fa": "«درخشان‌ترین چراغ‌ها هرگز به‌راستی خاموش نمی‌شوند»",
+       "url": "https://duckduckgo.com/?q=%5C%27The%20brightest%20lights%20never%20truly%20fade%27%20site%3Airishnews.com",
+       "direct": false
+      },
+      {
+       "o": "'She wouldn't hurt a fly': Family of Limerick mum feared murdered in Enniskillen",
+       "fa": "«آزارش به مورچه هم نمی‌رسید»: خانوادهٔ مادر اهل لیمریک که بیم می‌رود در انیسکیلن به قتل رسیده باشد",
+       "url": "https://duckduckgo.com/?q=%5C%27She%20wouldn%27t%20hurt%20a%20fly%27%3A%20Family%20of%20Limerick%20mum%20feared%20murdered%20in%20Enniskillen%20site%3Airishnews.com",
+       "direct": false
+      },
+      {
+       "o": "Candystripes fan trading Cambodia for FAI Cup final",
+       "fa": "هوادار دری سیتی کامبوج را برای فینال جام اتحادیهٔ فوتبال ایرلند ترک می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CCandystripes%20fan%20trading%20Cambodia%20for%20FAI%20Cup%20final%20site%3Airishnews.com",
+       "direct": false
+      },
+      {
+       "o": "If Stormont is finished, what comes next?",
+       "fa": "اگر کار استورمانت تمام شده، بعد چه خواهد شد؟",
+       "url": "https://duckduckgo.com/?q=%5CIf%20Stormont%20is%20finished%2C%20what%20comes%20next%3F%20site%3Airishnews.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "western-mail-wales",
+     "name": "Western Mail",
+     "fa": "وسترن میل (ولز)",
+     "site": "https://www.walesonline.co.uk",
+     "img": "covers/2026-11-04/western-mail-wales.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/western-mail-wales/",
+     "headlines": [
+      {
+       "o": "Voters 'duped' over Wales Covid inquiry",
+       "fa": "رأی‌دهندگان در ماجرای تحقیق کرونای ولز «فریب خوردند»",
+       "url": "https://duckduckgo.com/?q=%5CVoters%20%27duped%27%20over%20Wales%20Covid%20inquiry%20site%3Awalesonline.co.uk",
+       "direct": false
+      },
+      {
+       "o": "'Keely's death cannot be in vain' – mother takes campaign for tougher driving sentences to MPs",
+       "fa": "«مرگ کیلی نباید بیهوده باشد»؛ مادر کارزار مجازات‌های سخت‌تر رانندگی را به نمایندگان پارلمان برد",
+       "url": "https://duckduckgo.com/?q=%5C%27Keely%27s%20death%20cannot%20be%20in%20vain%27%20%E2%80%93%20mother%20takes%20campaign%20for%20tougher%20driving%20sentences%20to%20MPs%20site%3Awalesonline.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Knifeman admits beach stab attack",
+       "fa": "مرد چاقوبه‌دست حملهٔ چاقوکشی در ساحل را پذیرفت",
+       "url": "https://duckduckgo.com/?q=%5CKnifeman%20admits%20beach%20stab%20attack%20site%3Awalesonline.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Japan start of our World Cup – Smith",
+       "fa": "اسمیت: ژاپن آغاز جام جهانی ماست",
+       "url": "https://duckduckgo.com/?q=%5CJapan%20start%20of%20our%20World%20Cup%20%E2%80%93%20Smith%20site%3Awalesonline.co.uk",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "liverpool-echo",
+     "name": "Liverpool Echo",
+     "fa": "لیورپول اکو",
+     "site": "https://www.liverpoolecho.co.uk",
+     "img": "covers/2026-11-04/liverpool-echo.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/liverpool-echo/",
+     "headlines": [
+      {
+       "o": "Dad was 'seconds from home' when car hit him",
+       "fa": "پدر «چند ثانیه با خانه فاصله داشت» که خودرو به او زد",
+       "url": "https://duckduckgo.com/?q=%5CDad%20was%20%27seconds%20from%20home%27%20when%20car%20hit%20him%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Man 'drove at people' after church car park fight",
+       "fa": "مردی پس از درگیری در پارکینگ کلیسا «به سوی مردم راند»",
+       "url": "https://duckduckgo.com/?q=%5CMan%20%27drove%20at%20people%27%20after%20church%20car%20park%20fight%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Royal Daffodil officially enters passenger service",
+       "fa": "کشتی رویال دافودیل رسماً به خدمت مسافربری درآمد",
+       "url": "https://duckduckgo.com/?q=%5CRoyal%20Daffodil%20officially%20enters%20passenger%20service%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Iraola demanding more from his forwards",
+       "fa": "ایرائولا از مهاجمانش بیشتر می‌خواهد",
+       "url": "https://duckduckgo.com/?q=%5CIraola%20demanding%20more%20from%20his%20forwards%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Dewsbury-Hall: 'Blues are reaping rewards of Barry's hard work'",
+       "fa": "دیوزبری‌هال: «آبی‌ها ثمرهٔ سخت‌کوشی بری را برداشت می‌کنند»",
+       "url": "https://duckduckgo.com/?q=%5CDewsbury-Hall%3A%20%27Blues%20are%20reaping%20rewards%20of%20Barry%27s%20hard%20work%27%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "birmingham-mail",
+     "name": "Birmingham Mail",
+     "fa": "بیرمنگام میل",
+     "site": "https://www.birminghammail.co.uk",
+     "img": "covers/2026-11-04/birmingham-mail.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/birmingham-mail/",
+     "headlines": [
+      {
+       "o": "Murdered",
+       "fa": "به قتل رسید",
+       "url": "https://duckduckgo.com/?q=%5CMurdered%20site%3Abirminghammail.co.uk",
+       "direct": false
+      },
+      {
+       "o": "But why did it take 42 years for new inquest to uncover awful truth about paperboy found hanging, asks family",
+       "fa": "خانواده می‌پرسد: چرا ۴۲ سال طول کشید تا تحقیق تازه حقیقت تلخ دربارهٔ پسر روزنامه‌فروشی را که حلق‌آویز پیدا شد آشکار کند؟",
+       "url": "https://duckduckgo.com/?q=%5CBut%20why%20did%20it%20take%2042%20years%20for%20new%20inquest%20to%20uncover%20awful%20truth%20about%20paperboy%20found%20hanging%2C%20asks%20family%20site%3Abirminghammail.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Flag-raising is a 'human right', city court told",
+       "fa": "به دادگاه شهر گفته شد برافراشتن پرچم «حقی انسانی» است",
+       "url": "https://duckduckgo.com/?q=%5CFlag-raising%20is%20a%20%27human%20right%27%2C%20city%20court%20told%20site%3Abirminghammail.co.uk",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "فرانسه",
+   "flag": "🇫🇷",
+   "papers": [
+    {
+     "slug": "le-monde",
+     "name": "Le Monde",
+     "fa": "لوموند",
+     "site": "https://www.lemonde.fr",
+     "img": "covers/2026-11-04/le-monde.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/le-monde/",
+     "headlines": [
+      {
+       "o": "Un budget 2027 auquel plus personne ne croit",
+       "fa": "بودجهٔ ۲۰۲۷ که دیگر هیچ‌کس به آن باور ندارد",
+       "url": "https://duckduckgo.com/?q=%5CUn%20budget%202027%20auquel%20plus%20personne%20ne%20croit%20site%3Alemonde.fr",
+       "direct": false
+      },
+      {
+       "o": "Manifestations: paroles de blessés",
+       "fa": "تظاهرات: روایت مجروحان",
+       "url": "https://duckduckgo.com/?q=%5CManifestations%3A%20paroles%20de%20bless%C3%A9s%20site%3Alemonde.fr",
+       "direct": false
+      },
+      {
+       "o": "La colère des jeunes diplômés face au déclassement",
+       "fa": "خشم جوانان دانش‌آموخته از تنزل جایگاه اجتماعی",
+       "url": "https://duckduckgo.com/?q=%5CLa%20col%C3%A8re%20des%20jeunes%20dipl%C3%B4m%C3%A9s%20face%20au%20d%C3%A9classement%20site%3Alemonde.fr",
+       "direct": false
+      },
+      {
+       "o": "« L'influence des images de la jeunesse française en Europe »",
+       "fa": "«تأثیر تصاویر جوانان فرانسوی در اروپا»",
+       "url": "https://duckduckgo.com/?q=%5C%C2%AB%20L%27influence%20des%20images%20de%20la%20jeunesse%20fran%C3%A7aise%20en%20Europe%20%C2%BB%20site%3Alemonde.fr",
+       "direct": false
+      },
+      {
+       "o": "Le « super El Niño » provoque des dégâts à répétition",
+       "fa": "«ال‌نینوی فوق‌العاده» خسارت‌های پیاپی به بار می‌آورد",
+       "url": "https://duckduckgo.com/?q=%5CLe%20%C2%AB%20super%20El%20Ni%C3%B1o%20%C2%BB%20provoque%20des%20d%C3%A9g%C3%A2ts%20%C3%A0%20r%C3%A9p%C3%A9tition%20site%3Alemonde.fr",
+       "direct": false
+      },
+      {
+       "o": "Israël: la rue divisée sur la participation des partis arabes à la vie politique",
+       "fa": "اسرائیل: افکار عمومی بر سر مشارکت احزاب عرب در سیاست دوپاره است",
+       "url": "https://duckduckgo.com/?q=%5CIsra%C3%ABl%3A%20la%20rue%20divis%C3%A9e%20sur%20la%20participation%20des%20partis%20arabes%20%C3%A0%20la%20vie%20politique%20site%3Alemonde.fr",
+       "direct": false
+      },
+      {
+       "o": "Cybersécurité: les systèmes de réfrigération attaqués dans plusieurs pays",
+       "fa": "امنیت سایبری: سامانه‌های سردخانه‌ای در چند کشور هدف حمله قرار گرفتند",
+       "url": "https://duckduckgo.com/?q=%5CCybers%C3%A9curit%C3%A9%3A%20les%20syst%C3%A8mes%20de%20r%C3%A9frig%C3%A9ration%20attaqu%C3%A9s%20dans%20plusieurs%20pays%20site%3Alemonde.fr",
+       "direct": false
+      },
+      {
+       "o": "Economie: la ruée mondiale vers le cuivre",
+       "fa": "اقتصاد: هجوم جهانی به سوی مس",
+       "url": "https://duckduckgo.com/?q=%5CEconomie%3A%20la%20ru%C3%A9e%20mondiale%20vers%20le%20cuivre%20site%3Alemonde.fr",
+       "direct": false
+      },
+      {
+       "o": "Des IA « conscientes », l'hypothèse qui agite le monde scientifique",
+       "fa": "هوش مصنوعی «آگاه»؛ فرضیه‌ای که جهان علم را به تکاپو انداخته است",
+       "url": "https://duckduckgo.com/?q=%5CDes%20IA%20%C2%AB%20conscientes%20%C2%BB%2C%20l%27hypoth%C3%A8se%20qui%20agite%20le%20monde%20scientifique%20site%3Alemonde.fr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "le-figaro",
+     "name": "Le Figaro",
+     "fa": "لوفیگارو",
+     "site": "https://www.lefigaro.fr",
+     "img": "covers/2026-11-04/le-figaro.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/le-figaro/",
+     "headlines": [
+      {
+       "o": "2027 : la dette au cœur de l'inquiétude des Français",
+       "fa": "۲۰۲۷: بدهی در کانون نگرانی فرانسوی‌ها",
+       "url": "https://duckduckgo.com/?q=%5C2027%20%3A%20la%20dette%20au%20c%C5%93ur%20de%20l%27inqui%C3%A9tude%20des%20Fran%C3%A7ais%20site%3Alefigaro.fr",
+       "direct": false
+      },
+      {
+       "o": "Philippe Jaenada, un Goncourt truculent sur les traces de Maigret",
+       "fa": "فیلیپ ژنادا، برندهٔ پرشور گنکور در رد پای مگره",
+       "url": "https://duckduckgo.com/?q=%5CPhilippe%20Jaenada%2C%20un%20Goncourt%20truculent%20sur%20les%20traces%20de%20Maigret%20site%3Alefigaro.fr",
+       "direct": false
+      },
+      {
+       "o": "Blocages : ces parents qui viennent faire la police devant les lycées",
+       "fa": "محاصرهٔ مدارس: والدینی که جلوی دبیرستان‌ها نقش پلیس را بازی می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5CBlocages%20%3A%20ces%20parents%20qui%20viennent%20faire%20la%20police%20devant%20les%20lyc%C3%A9es%20site%3Alefigaro.fr",
+       "direct": false
+      },
+      {
+       "o": "Rattrapé par le réel",
+       "fa": "گرفتار واقعیت",
+       "url": "https://duckduckgo.com/?q=%5CRattrap%C3%A9%20par%20le%20r%C3%A9el%20site%3Alefigaro.fr",
+       "direct": false
+      },
+      {
+       "o": "Élysée : des messages chocs d'Emmanuel Macron révélés dans un livre",
+       "fa": "الیزه: پیام‌های تکان‌دهندهٔ امانوئل ماکرون در یک کتاب فاش شد",
+       "url": "https://duckduckgo.com/?q=%5C%C3%89lys%C3%A9e%20%3A%20des%20messages%20chocs%20d%27Emmanuel%20Macron%20r%C3%A9v%C3%A9l%C3%A9s%20dans%20un%20livre%20site%3Alefigaro.fr",
+       "direct": false
+      },
+      {
+       "o": "États-Unis : Trump déconnecté des réalités de l'Amérique",
+       "fa": "ایالات متحده: ترامپ از واقعیت‌های آمریکا جدا افتاده است",
+       "url": "https://duckduckgo.com/?q=%5C%C3%89tats-Unis%20%3A%20Trump%20d%C3%A9connect%C3%A9%20des%20r%C3%A9alit%C3%A9s%20de%20l%27Am%C3%A9rique%20site%3Alefigaro.fr",
+       "direct": false
+      },
+      {
+       "o": "Reportage : à Aurillac, dans l'atelier d'un des derniers fondeurs de cloches",
+       "fa": "گزارش: در اوریاک، در کارگاه یکی از آخرین ناقوس‌ریزان",
+       "url": "https://duckduckgo.com/?q=%5CReportage%20%3A%20%C3%A0%20Aurillac%2C%20dans%20l%27atelier%20d%27un%20des%20derniers%20fondeurs%20de%20cloches%20site%3Alefigaro.fr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "liberation",
+     "name": "Libération",
+     "fa": "لیبراسیون",
+     "site": "https://www.liberation.fr",
+     "img": "covers/2026-11-04/liberation.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/liberation/",
+     "headlines": [
+      {
+       "o": "Rencontre avec Laurent Nuñez : en pleine déconnexion",
+       "fa": "گفت‌وگو با لوران نونیز: یکسره بریده از واقعیت",
+       "url": "https://duckduckgo.com/?q=%5CRencontre%20avec%20Laurent%20Nu%C3%B1ez%20%3A%20en%20pleine%20d%C3%A9connexion%20site%3Aliberation.fr",
+       "direct": false
+      },
+      {
+       "o": "Siri Hustvedt : « Ces élections de mi-mandat sont cruciales »",
+       "fa": "سیری هاستودت: «این انتخابات میان‌دوره‌ای سرنوشت‌ساز است»",
+       "url": "https://duckduckgo.com/?q=%5CSiri%20Hustvedt%20%3A%20%C2%AB%20Ces%20%C3%A9lections%20de%20mi-mandat%20sont%20cruciales%20%C2%BB%20site%3Aliberation.fr",
+       "direct": false
+      },
+      {
+       "o": "Philippe Jaenada : au bout de l'enquête, le Goncourt",
+       "fa": "فیلیپ ژنادا: در پایان تحقیق، جایزهٔ گنکور",
+       "url": "https://duckduckgo.com/?q=%5CPhilippe%20Jaenada%20%3A%20au%20bout%20de%20l%27enqu%C3%AAte%2C%20le%20Goncourt%20site%3Aliberation.fr",
+       "direct": false
+      },
+      {
+       "o": "Cinéma : « Possible Love », en couples déréglés",
+       "fa": "سینما: «عشق ممکن»، در میان زوج‌های نابسامان",
+       "url": "https://duckduckgo.com/?q=%5CCin%C3%A9ma%20%3A%20%C2%AB%20Possible%20Love%20%C2%BB%2C%20en%20couples%20d%C3%A9r%C3%A9gl%C3%A9s%20site%3Aliberation.fr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "le-parisien",
+     "name": "Le Parisien",
+     "fa": "لوپاریزین",
+     "site": "https://www.leparisien.fr",
+     "img": "covers/2026-11-04/le-parisien.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/le-parisien/",
+     "headlines": [
+      {
+       "o": "Maintien de l'ordre : la banalisation de la violence",
+       "fa": "حفظ نظم: عادی‌شدن خشونت",
+       "url": "https://duckduckgo.com/?q=%5CMaintien%20de%20l%27ordre%20%3A%20la%20banalisation%20de%20la%20violence%20site%3Aleparisien.fr",
+       "direct": false
+      },
+      {
+       "o": "Voitures : les moins chères et les plus chères à entretenir",
+       "fa": "خودروها: ارزان‌ترین و گران‌ترین‌ها از نظر هزینهٔ نگهداری",
+       "url": "https://duckduckgo.com/?q=%5CVoitures%20%3A%20les%20moins%20ch%C3%A8res%20et%20les%20plus%20ch%C3%A8res%20%C3%A0%20entretenir%20site%3Aleparisien.fr",
+       "direct": false
+      },
+      {
+       "o": "Prix Goncourt 2026 : le sacre du roi de la contre-enquête",
+       "fa": "جایزهٔ گنکور ۲۰۲۶: تاج‌گذاری سلطان تحقیقات موازی",
+       "url": "https://duckduckgo.com/?q=%5CPrix%20Goncourt%202026%20%3A%20le%20sacre%20du%20roi%20de%20la%20contre-enqu%C3%AAte%20site%3Aleparisien.fr",
+       "direct": false
+      },
+      {
+       "o": "Livret A : le plafond relevé jusqu'à 30 000 €",
+       "fa": "حساب پس‌انداز لیوره آ: سقف تا ۳۰ هزار یورو بالا رفت",
+       "url": "https://duckduckgo.com/?q=%5CLivret%20A%20%3A%20le%20plafond%20relev%C3%A9%20jusqu%27%C3%A0%2030%20000%20%E2%82%AC%20site%3Aleparisien.fr",
+       "direct": false
+      },
+      {
+       "o": "Fermeture de l'A13 : la crainte d'un « cataclysme » sur les routes",
+       "fa": "بسته‌شدن بزرگراه A13: بیم «فاجعه» در جاده‌ها",
+       "url": "https://duckduckgo.com/?q=%5CFermeture%20de%20l%27A13%20%3A%20la%20crainte%20d%27un%20%C2%AB%20cataclysme%20%C2%BB%20sur%20les%20routes%20site%3Aleparisien.fr",
+       "direct": false
+      },
+      {
+       "o": "Paris : la Ville lance les kiosques de police municipale",
+       "fa": "پاریس: شهرداری کیوسک‌های پلیس شهری راه‌اندازی می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CParis%20%3A%20la%20Ville%20lance%20les%20kiosques%20de%20police%20municipale%20site%3Aleparisien.fr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "les-echos",
+     "name": "Les Échos",
+     "fa": "لزاکو",
+     "site": "https://www.lesechos.fr",
+     "img": "covers/2026-11-04/les-echos.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/les-echos/",
+     "headlines": [
+      {
+       "o": "Entreprises : le poids des impôts locaux",
+       "fa": "شرکت‌ها: سنگینی بار مالیات‌های محلی",
+       "url": "https://duckduckgo.com/?q=%5CEntreprises%20%3A%20le%20poids%20des%20imp%C3%B4ts%20locaux%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Comment l'IA a mis le feu à l'édition",
+       "fa": "هوش مصنوعی چگونه صنعت نشر را به آتش کشید",
+       "url": "https://duckduckgo.com/?q=%5CComment%20l%27IA%20a%20mis%20le%20feu%20%C3%A0%20l%27%C3%A9dition%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Fin d'année à haut risque pour le commerce",
+       "fa": "پایان سالی پرمخاطره برای تجارت خرده‌فروشی",
+       "url": "https://duckduckgo.com/?q=%5CFin%20d%27ann%C3%A9e%20%C3%A0%20haut%20risque%20pour%20le%20commerce%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Ces entreprises qui produisent au cœur des prisons",
+       "fa": "شرکت‌هایی که در دل زندان‌ها تولید می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5CCes%20entreprises%20qui%20produisent%20au%20c%C5%93ur%20des%20prisons%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "BPCE continue de miser sur le Portugal avec l'acquisition de GamaLife",
+       "fa": "بانک BPCE با خرید گامالایف همچنان روی پرتغال سرمایه‌گذاری می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CBPCE%20continue%20de%20miser%20sur%20le%20Portugal%20avec%20l%27acquisition%20de%20GamaLife%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Meloni mise en difficulté par la fronde sociale en Italie",
+       "fa": "ملونی در برابر شورش اجتماعی در ایتالیا به دردسر افتاده است",
+       "url": "https://duckduckgo.com/?q=%5CMeloni%20mise%20en%20difficult%C3%A9%20par%20la%20fronde%20sociale%20en%20Italie%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Epargne : vers un relèvement du plafond du Livret A au 1er février",
+       "fa": "پس‌انداز: به سوی افزایش سقف لیوره آ از اول فوریه",
+       "url": "https://duckduckgo.com/?q=%5CEpargne%20%3A%20vers%20un%20rel%C3%A8vement%20du%20plafond%20du%20Livret%20A%20au%201er%20f%C3%A9vrier%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Entreprises : pas de cadeaux !",
+       "fa": "شرکت‌ها: هیچ امتیازی در کار نیست!",
+       "url": "https://duckduckgo.com/?q=%5CEntreprises%20%3A%20pas%20de%20cadeaux%20%21%20site%3Alesechos.fr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "la-croix",
+     "name": "La Croix",
+     "fa": "لاکروا",
+     "site": "https://www.la-croix.com",
+     "img": "covers/2026-11-04/la-croix.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/la-croix/",
+     "headlines": [
+      {
+       "o": "Salaires : l'équation impossible",
+       "fa": "دستمزدها: معادلهٔ ناممکن",
+       "url": "https://duckduckgo.com/?q=%5CSalaires%20%3A%20l%27%C3%A9quation%20impossible%20site%3Ala-croix.com",
+       "direct": false
+      },
+      {
+       "o": "La question de la revalorisation des salaires sera au cœur de la mobilisation du jeudi 5 novembre",
+       "fa": "مسئلهٔ افزایش دستمزدها در کانون بسیج روز پنجشنبه ۵ نوامبر خواهد بود",
+       "url": "https://duckduckgo.com/?q=%5CLa%20question%20de%20la%20revalorisation%20des%20salaires%20sera%20au%20c%C5%93ur%20de%20la%20mobilisation%20du%20jeudi%205%20novembre%20site%3Ala-croix.com",
+       "direct": false
+      },
+      {
+       "o": "Cher modèle social",
+       "fa": "الگوی اجتماعی پرهزینه",
+       "url": "https://duckduckgo.com/?q=%5CCher%20mod%C3%A8le%20social%20site%3Ala-croix.com",
+       "direct": false
+      },
+      {
+       "o": "À Madagascar, l'influence tentaculaire du Kremlin",
+       "fa": "نفوذ هشت‌پاوار کرملین در ماداگاسکار",
+       "url": "https://duckduckgo.com/?q=%5C%C3%80%20Madagascar%2C%20l%27influence%20tentaculaire%20du%20Kremlin%20site%3Ala-croix.com",
+       "direct": false
+      },
+      {
+       "o": "Le legs au secours des collectivités locales ?",
+       "fa": "آیا ارث‌بخشی به یاری نهادهای محلی می‌آید؟",
+       "url": "https://duckduckgo.com/?q=%5CLe%20legs%20au%20secours%20des%20collectivit%C3%A9s%20locales%20%3F%20site%3Ala-croix.com",
+       "direct": false
+      },
+      {
+       "o": "« N'attendez pas d'être parfaits », le message de Léon XIV à une jeunesse inquiète",
+       "fa": "«منتظر کامل‌شدن نمانید»؛ پیام لئوی چهاردهم به جوانانی نگران",
+       "url": "https://duckduckgo.com/?q=%5C%C2%AB%20N%27attendez%20pas%20d%27%C3%AAtre%20parfaits%20%C2%BB%2C%20le%20message%20de%20L%C3%A9on%20XIV%20%C3%A0%20une%20jeunesse%20inqui%C3%A8te%20site%3Ala-croix.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "ouest-france",
+     "name": "Ouest-France",
+     "fa": "وست‌فرانس",
+     "site": "https://www.ouest-france.fr",
+     "img": "covers/2026-11-04/ouest-france.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/ouest-france/",
+     "headlines": [
+      {
+       "o": "Salaires : un coup de pouce est-il possible pour le Smic ?",
+       "fa": "دستمزدها: آیا افزایش حداقل دستمزد ممکن است؟",
+       "url": "https://duckduckgo.com/?q=%5CSalaires%20%3A%20un%20coup%20de%20pouce%20est-il%20possible%20pour%20le%20Smic%20%3F%20site%3Aouest-france.fr",
+       "direct": false
+      },
+      {
+       "o": "Il faut refonder le pacte social",
+       "fa": "باید پیمان اجتماعی را از نو بنا کرد",
+       "url": "https://duckduckgo.com/?q=%5CIl%20faut%20refonder%20le%20pacte%20social%20site%3Aouest-france.fr",
+       "direct": false
+      },
+      {
+       "o": "Que risque Donald Trump en cas de défaite aux midterms ?",
+       "fa": "دونالد ترامپ در صورت شکست در انتخابات میان‌دوره‌ای با چه خطری روبه‌روست؟",
+       "url": "https://duckduckgo.com/?q=%5CQue%20risque%20Donald%20Trump%20en%20cas%20de%20d%C3%A9faite%20aux%20midterms%20%3F%20site%3Aouest-france.fr",
+       "direct": false
+      },
+      {
+       "o": "Inquiétudes autour du rattrapage des cours pour les lycéens",
+       "fa": "نگرانی دربارهٔ جبران کلاس‌های از دست‌رفتهٔ دبیرستانی‌ها",
+       "url": "https://duckduckgo.com/?q=%5CInqui%C3%A9tudes%20autour%20du%20rattrapage%20des%20cours%20pour%20les%20lyc%C3%A9ens%20site%3Aouest-france.fr",
+       "direct": false
+      },
+      {
+       "o": "Les propositions des candidats à la présidentielle",
+       "fa": "پیشنهادهای نامزدهای انتخابات ریاست‌جمهوری",
+       "url": "https://duckduckgo.com/?q=%5CLes%20propositions%20des%20candidats%20%C3%A0%20la%20pr%C3%A9sidentielle%20site%3Aouest-france.fr",
+       "direct": false
+      },
+      {
+       "o": "Meurtre de François Ferreira : un deuxième procès démarre",
+       "fa": "قتل فرانسوا فریرا: دومین دادگاه آغاز شد",
+       "url": "https://duckduckgo.com/?q=%5CMeurtre%20de%20Fran%C3%A7ois%20Ferreira%20%3A%20un%20deuxi%C3%A8me%20proc%C3%A8s%20d%C3%A9marre%20site%3Aouest-france.fr",
+       "direct": false
+      },
+      {
+       "o": "Le Finistère en crise sécheresse au cœur de l'automne",
+       "fa": "فینیستر در دل پاییز گرفتار بحران خشک‌سالی",
+       "url": "https://duckduckgo.com/?q=%5CLe%20Finist%C3%A8re%20en%20crise%20s%C3%A9cheresse%20au%20c%C5%93ur%20de%20l%27automne%20site%3Aouest-france.fr",
+       "direct": false
+      },
+      {
+       "o": "Nous étions chez Drouant avec le lauréat Philippe Jaenada",
+       "fa": "ما با فیلیپ ژنادا، برندهٔ جایزه، در رستوران دروان بودیم",
+       "url": "https://duckduckgo.com/?q=%5CNous%20%C3%A9tions%20chez%20Drouant%20avec%20le%20laur%C3%A9at%20Philippe%20Jaenada%20site%3Aouest-france.fr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "la-tribune",
+     "name": "La Tribune",
+     "fa": "لاتریبون",
+     "site": "https://www.latribune.fr",
+     "img": "covers/2026-11-04/la-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/la-tribune/",
+     "headlines": [
+      {
+       "o": "Midterms : les 7 failles de Trump",
+       "fa": "انتخابات میان‌دوره‌ای: هفت نقطه‌ضعف ترامپ",
+       "url": "https://duckduckgo.com/?q=%5CMidterms%20%3A%20les%207%20failles%20de%20Trump%20site%3Alatribune.fr",
+       "direct": false
+      },
+      {
+       "o": "Palmarès exclusif « Elle » – « La Tribune » : ces 30 femmes qui font la France de demain",
+       "fa": "فهرست اختصاصی «اِل» و «لا تریبون»: ۳۰ زنی که فرانسهٔ فردا را می‌سازند",
+       "url": "https://duckduckgo.com/?q=%5CPalmar%C3%A8s%20exclusif%20%C2%AB%20Elle%20%C2%BB%20%E2%80%93%20%C2%AB%20La%20Tribune%20%C2%BB%20%3A%20ces%2030%20femmes%20qui%20font%20la%20France%20de%20demain%20site%3Alatribune.fr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "l-equipe",
+     "name": "L'Équipe",
+     "fa": "لکیپ",
+     "site": "https://www.lequipe.fr",
+     "img": "covers/2026-11-04/l-equipe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/l-equipe/",
+     "headlines": [
+      {
+       "o": "Livré en 8 minutes",
+       "fa": "در هشت دقیقه تحویل داده شد",
+       "url": "https://duckduckgo.com/?q=%5CLivr%C3%A9%20en%208%20minutes%20site%3Alequipe.fr",
+       "direct": false
+      },
+      {
+       "o": "En marquant quatre buts en 7'35\", le PSG avait déjà assommé Villarreal après un gros quart d'heure de jeu",
+       "fa": "پاری‌سن‌ژرمن با چهار گل در هفت دقیقه و ۳۵ ثانیه، پس از یک‌ربع بازی کار ویارئال را تمام کرده بود",
+       "url": "https://duckduckgo.com/?q=%5CEn%20marquant%20quatre%20buts%20en%207%2735%22%2C%20le%20PSG%20avait%20d%C3%A9j%C3%A0%20assomm%C3%A9%20Villarreal%20apr%C3%A8s%20un%20gros%20quart%20d%27heure%20de%20jeu%20site%3Alequipe.fr",
+       "direct": false
+      },
+      {
+       "o": "Lille, un point de départ",
+       "fa": "لیل، یک امتیاز برای شروع",
+       "url": "https://duckduckgo.com/?q=%5CLille%2C%20un%20point%20de%20d%C3%A9part%20site%3Alequipe.fr",
+       "direct": false
+      },
+      {
+       "o": "Le choc De Miguel",
+       "fa": "شوک دِ میگل",
+       "url": "https://duckduckgo.com/?q=%5CLe%20choc%20De%20Miguel%20site%3Alequipe.fr",
+       "direct": false
+      },
+      {
+       "o": "Djokovic résiste",
+       "fa": "جوکوویچ مقاومت می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CDjokovic%20r%C3%A9siste%20site%3Alequipe.fr",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "آلمان",
+   "flag": "🇩🇪",
+   "papers": [
+    {
+     "slug": "frankfurter-allgemeine-zeitung",
+     "name": "Frankfurter Allgemeine",
+     "fa": "فرانکفورتر آلگماینه",
+     "site": "https://www.faz.net",
+     "img": "covers/2026-11-04/frankfurter-allgemeine-zeitung.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/frankfurter-allgemeine-zeitung/",
+     "headlines": [
+      {
+       "o": "Selenskyj: Kein stabiler Frieden ohne Europa",
+       "fa": "زلنسکی: بدون اروپا صلح پایدار در کار نیست",
+       "url": "https://duckduckgo.com/?q=%5CSelenskyj%3A%20Kein%20stabiler%20Frieden%20ohne%20Europa%20site%3Afaz.net",
+       "direct": false
+      },
+      {
+       "o": "Poseck sieht Integration bei Randalierern gescheitert",
+       "fa": "پوزک: ادغام آشوبگران شکست خورده است",
+       "url": "https://duckduckgo.com/?q=%5CPoseck%20sieht%20Integration%20bei%20Randalierern%20gescheitert%20site%3Afaz.net",
+       "direct": false
+      },
+      {
+       "o": "Iran ist für den nächsten Krieg gerüstet",
+       "fa": "ایران برای جنگ بعدی آماده است",
+       "url": "https://duckduckgo.com/?q=%5CIran%20ist%20f%C3%BCr%20den%20n%C3%A4chsten%20Krieg%20ger%C3%BCstet%20site%3Afaz.net",
+       "direct": false
+      },
+      {
+       "o": "Der Ukraine den Rücken stärken",
+       "fa": "پشت اوکراین را محکم کنیم",
+       "url": "https://duckduckgo.com/?q=%5CDer%20Ukraine%20den%20R%C3%BCcken%20st%C3%A4rken%20site%3Afaz.net",
+       "direct": false
+      },
+      {
+       "o": "Renten steigen 2027 um gut vier Prozent",
+       "fa": "مستمری‌ها در ۲۰۲۷ اندکی بیش از چهار درصد افزایش می‌یابد",
+       "url": "https://duckduckgo.com/?q=%5CRenten%20steigen%202027%20um%20gut%20vier%20Prozent%20site%3Afaz.net",
+       "direct": false
+      },
+      {
+       "o": "Merz: Gesetzentwurf gegen Enteignungen ist fertig",
+       "fa": "مرتس: پیش‌نویس قانون منع مصادرهٔ املاک آماده است",
+       "url": "https://duckduckgo.com/?q=%5CMerz%3A%20Gesetzentwurf%20gegen%20Enteignungen%20ist%20fertig%20site%3Afaz.net",
+       "direct": false
+      },
+      {
+       "o": "Schaeffler streicht Jobs und schließt Werke",
+       "fa": "شفلر شغل‌ها را حذف و کارخانه‌ها را تعطیل می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CSchaeffler%20streicht%20Jobs%20und%20schlie%C3%9Ft%20Werke%20site%3Afaz.net",
+       "direct": false
+      },
+      {
+       "o": "Fußballprofi stirbt nach Foul",
+       "fa": "فوتبالیست حرفه‌ای پس از یک خطا جان باخت",
+       "url": "https://duckduckgo.com/?q=%5CFu%C3%9Fballprofi%20stirbt%20nach%20Foul%20site%3Afaz.net",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "suddeutsche-zeitung",
+     "name": "Süddeutsche Zeitung",
+     "fa": "زوددویچه تسایتونگ",
+     "site": "https://www.sueddeutsche.de",
+     "img": "covers/2026-11-04/suddeutsche-zeitung.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/suddeutsche-zeitung/",
+     "headlines": [
+      {
+       "o": "Selenskij sucht Beistand in Berlin",
+       "fa": "زلنسکی در برلین در پی پشتیبانی است",
+       "url": "https://duckduckgo.com/?q=%5CSelenskij%20sucht%20Beistand%20in%20Berlin%20site%3Asueddeutsche.de",
+       "direct": false
+      },
+      {
+       "o": "Ein toter Mann am Strand",
+       "fa": "مردی مرده در ساحل",
+       "url": "https://duckduckgo.com/?q=%5CEin%20toter%20Mann%20am%20Strand%20site%3Asueddeutsche.de",
+       "direct": false
+      },
+      {
+       "o": "Schaeffler macht vier Werke dicht",
+       "fa": "شفلر چهار کارخانه را تعطیل می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CSchaeffler%20macht%20vier%20Werke%20dicht%20site%3Asueddeutsche.de",
+       "direct": false
+      },
+      {
+       "o": "Merz will eine Bundespräsidentin",
+       "fa": "مرتس رئیس‌جمهوری زن می‌خواهد",
+       "url": "https://duckduckgo.com/?q=%5CMerz%20will%20eine%20Bundespr%C3%A4sidentin%20site%3Asueddeutsche.de",
+       "direct": false
+      },
+      {
+       "o": "Juli Zeh bringt Landtag in Bedrängnis",
+       "fa": "یولی تسه پارلمان ایالتی را در تنگنا قرار داد",
+       "url": "https://duckduckgo.com/?q=%5CJuli%20Zeh%20bringt%20Landtag%20in%20Bedr%C3%A4ngnis%20site%3Asueddeutsche.de",
+       "direct": false
+      },
+      {
+       "o": "Mediamarkt-Saturn wird chinesisch",
+       "fa": "مدیامارکت‌ساتورن چینی می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CMediamarkt-Saturn%20wird%20chinesisch%20site%3Asueddeutsche.de",
+       "direct": false
+      },
+      {
+       "o": "Wie schauen junge Franzosen auf ihr Land? Besuch in einer Banlieue",
+       "fa": "جوانان فرانسوی چگونه به کشورشان می‌نگرند؟ دیداری از یک حومه‌نشین",
+       "url": "https://duckduckgo.com/?q=%5CWie%20schauen%20junge%20Franzosen%20auf%20ihr%20Land%3F%20Besuch%20in%20einer%20Banlieue%20site%3Asueddeutsche.de",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "die-welt",
+     "name": "Die Welt",
+     "fa": "دی ولت",
+     "site": "https://www.welt.de",
+     "img": "covers/2026-11-04/die-welt.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/die-welt/",
+     "headlines": [
+      {
+       "o": "Merz appelliert an Moskau: „Zeit für ein Ende des Krieges“",
+       "fa": "مرتس خطاب به مسکو: «زمان پایان جنگ فرا رسیده است»",
+       "url": "https://duckduckgo.com/?q=%5CMerz%20appelliert%20an%20Moskau%3A%20%E2%80%9EZeit%20f%C3%BCr%20ein%20Ende%20des%20Krieges%E2%80%9C%20site%3Awelt.de",
+       "direct": false
+      },
+      {
+       "o": "Schaeffler streicht Jobs und schließt Werke",
+       "fa": "شفلر شغل‌ها را حذف و کارخانه‌ها را تعطیل می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CSchaeffler%20streicht%20Jobs%20und%20schlie%C3%9Ft%20Werke%20site%3Awelt.de",
+       "direct": false
+      },
+      {
+       "o": "Bas und ihr destruktiver Zug",
+       "fa": "باس و حرکت ویرانگرش",
+       "url": "https://duckduckgo.com/?q=%5CBas%20und%20ihr%20destruktiver%20Zug%20site%3Awelt.de",
+       "direct": false
+      },
+      {
+       "o": "Greifen die USA den Iran nach den Midterms wieder in großem Stil an?",
+       "fa": "آیا آمریکا پس از انتخابات میان‌دوره‌ای دوباره به‌طور گسترده به ایران حمله می‌کند؟",
+       "url": "https://duckduckgo.com/?q=%5CGreifen%20die%20USA%20den%20Iran%20nach%20den%20Midterms%20wieder%20in%20gro%C3%9Fem%20Stil%20an%3F%20site%3Awelt.de",
+       "direct": false
+      },
+      {
+       "o": "Wie digitale Medien Lesen und Schreiben beeinflussen",
+       "fa": "رسانه‌های دیجیتال چگونه بر خواندن و نوشتن اثر می‌گذارند",
+       "url": "https://duckduckgo.com/?q=%5CWie%20digitale%20Medien%20Lesen%20und%20Schreiben%20beeinflussen%20site%3Awelt.de",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "bild",
+     "name": "Bild",
+     "fa": "بیلد",
+     "site": "https://www.bild.de",
+     "img": "covers/2026-11-04/bild.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/bild/",
+     "headlines": [
+      {
+       "o": "300.000 Metaller-Jobs in Gefahr!",
+       "fa": "۳۰۰ هزار شغل در صنعت فلز در خطر!",
+       "url": "https://duckduckgo.com/?q=%5C300.000%20Metaller-Jobs%20in%20Gefahr%21%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "So frisst sich die Auto-Krise durch unser Land",
+       "fa": "بحران خودروسازی این‌گونه کشورمان را می‌بلعد",
+       "url": "https://duckduckgo.com/?q=%5CSo%20frisst%20sich%20die%20Auto-Krise%20durch%20unser%20Land%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Sexuelle Belästigung? Boris Palmer wehrt sich!",
+       "fa": "آزار جنسی؟ بوریس پالمر از خود دفاع می‌کند!",
+       "url": "https://duckduckgo.com/?q=%5CSexuelle%20Bel%C3%A4stigung%3F%20Boris%20Palmer%20wehrt%20sich%21%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Heute billiger tanken mit BILD!",
+       "fa": "امروز با بیلد ارزان‌تر سوخت بزنید!",
+       "url": "https://duckduckgo.com/?q=%5CHeute%20billiger%20tanken%20mit%20BILD%21%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Fieser Betrug mit ihrer Kreditkarte",
+       "fa": "کلاهبرداری زشت با کارت اعتباری او",
+       "url": "https://duckduckgo.com/?q=%5CFieser%20Betrug%20mit%20ihrer%20Kreditkarte%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Die Familie aus dem Todes-Jet",
+       "fa": "خانوادهٔ جت مرگ",
+       "url": "https://duckduckgo.com/?q=%5CDie%20Familie%20aus%20dem%20Todes-Jet%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Kane-Klausel enthüllt!",
+       "fa": "بند قرارداد کین فاش شد!",
+       "url": "https://duckduckgo.com/?q=%5CKane-Klausel%20enth%C3%BCllt%21%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Lufthansa auf Erfolgskurs – trotz hoher Kerosinkosten",
+       "fa": "لوفت‌هانزا با وجود هزینهٔ بالای سوخت در مسیر موفقیت است",
+       "url": "https://duckduckgo.com/?q=%5CLufthansa%20auf%20Erfolgskurs%20%E2%80%93%20trotz%20hoher%20Kerosinkosten%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Immer mehr Israelis wollen deutschen Pass",
+       "fa": "شمار روزافزونی از اسرائیلی‌ها گذرنامهٔ آلمانی می‌خواهند",
+       "url": "https://duckduckgo.com/?q=%5CImmer%20mehr%20Israelis%20wollen%20deutschen%20Pass%20site%3Abild.de",
+       "direct": false
+      },
+      {
+       "o": "Weniger Getränke mit Zucker produziert",
+       "fa": "نوشیدنی‌های شیرین کمتری تولید شد",
+       "url": "https://duckduckgo.com/?q=%5CWeniger%20Getr%C3%A4nke%20mit%20Zucker%20produziert%20site%3Abild.de",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "handelsblatt",
+     "name": "Handelsblatt",
+     "fa": "هندلسبلات",
+     "site": "https://www.handelsblatt.com",
+     "img": "covers/2026-11-04/handelsblatt.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/handelsblatt/",
+     "headlines": [
+      {
+       "o": "Koalition streitet über Steuererhöhungen",
+       "fa": "ائتلاف بر سر افزایش مالیات‌ها مناقشه دارد",
+       "url": "https://duckduckgo.com/?q=%5CKoalition%20streitet%20%C3%BCber%20Steuererh%C3%B6hungen%20site%3Ahandelsblatt.com",
+       "direct": false
+      },
+      {
+       "o": "Berlin plant neue Verbote für Huawei-Technologie",
+       "fa": "برلین ممنوعیت‌های تازه‌ای برای فناوری هوآوی در نظر دارد",
+       "url": "https://duckduckgo.com/?q=%5CBerlin%20plant%20neue%20Verbote%20f%C3%BCr%20Huawei-Technologie%20site%3Ahandelsblatt.com",
+       "direct": false
+      },
+      {
+       "o": "Schaeffler streicht Tausende Jobs in Deutschland",
+       "fa": "شفلر هزاران شغل را در آلمان حذف می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CSchaeffler%20streicht%20Tausende%20Jobs%20in%20Deutschland%20site%3Ahandelsblatt.com",
+       "direct": false
+      },
+      {
+       "o": "Wohin steuert Amerika?",
+       "fa": "آمریکا به کجا می‌رود؟",
+       "url": "https://duckduckgo.com/?q=%5CWohin%20steuert%20Amerika%3F%20site%3Ahandelsblatt.com",
+       "direct": false
+      },
+      {
+       "o": "Selenskyj lädt Putin nicht nach Kiew ein",
+       "fa": "زلنسکی پوتین را به کی‌یف دعوت نمی‌کند",
+       "url": "https://duckduckgo.com/?q=%5CSelenskyj%20l%C3%A4dt%20Putin%20nicht%20nach%20Kiew%20ein%20site%3Ahandelsblatt.com",
+       "direct": false
+      },
+      {
+       "o": "Zwölf Milliarden für Kraftwerke",
+       "fa": "دوازده میلیارد برای نیروگاه‌ها",
+       "url": "https://duckduckgo.com/?q=%5CZw%C3%B6lf%20Milliarden%20f%C3%BCr%20Kraftwerke%20site%3Ahandelsblatt.com",
+       "direct": false
+      },
+      {
+       "o": "Brauchen KI-Agenten eine eigene Rechtspersönlichkeit?",
+       "fa": "آیا عامل‌های هوش مصنوعی به شخصیت حقوقی مستقل نیاز دارند؟",
+       "url": "https://duckduckgo.com/?q=%5CBrauchen%20KI-Agenten%20eine%20eigene%20Rechtspers%C3%B6nlichkeit%3F%20site%3Ahandelsblatt.com",
+       "direct": false
+      },
+      {
+       "o": "Wie Anleger schon vor dem Börsengang auf Anthropic setzen können",
+       "fa": "سرمایه‌گذاران چگونه می‌توانند پیش از عرضهٔ عمومی روی آنتروپیک سرمایه‌گذاری کنند",
+       "url": "https://duckduckgo.com/?q=%5CWie%20Anleger%20schon%20vor%20dem%20B%C3%B6rsengang%20auf%20Anthropic%20setzen%20k%C3%B6nnen%20site%3Ahandelsblatt.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "der-tagesspiegel",
+     "name": "Der Tagesspiegel",
+     "fa": "تاگس‌اشپیگل",
+     "site": "https://www.tagesspiegel.de",
+     "img": "covers/2026-11-04/der-tagesspiegel.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/der-tagesspiegel/",
+     "headlines": [
+      {
+       "o": "So sieht der Westen den Osten",
+       "fa": "غرب این‌گونه شرق را می‌بیند",
+       "url": "https://duckduckgo.com/?q=%5CSo%20sieht%20der%20Westen%20den%20Osten%20site%3Atagesspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "Merz ruft Europäer zu weiteren Hilfen für die Ukraine auf",
+       "fa": "مرتس اروپاییان را به کمک‌های بیشتر به اوکراین فراخواند",
+       "url": "https://duckduckgo.com/?q=%5CMerz%20ruft%20Europ%C3%A4er%20zu%20weiteren%20Hilfen%20f%C3%BCr%20die%20Ukraine%20auf%20site%3Atagesspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "SPD kündigt Widerstand gegen Spritpreis-Deckel an",
+       "fa": "حزب سوسیال‌دموکرات از مخالفت با سقف قیمت سوخت خبر داد",
+       "url": "https://duckduckgo.com/?q=%5CSPD%20k%C3%BCndigt%20Widerstand%20gegen%20Spritpreis-Deckel%20an%20site%3Atagesspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "Wohnungsmarkt: Diese Folgen haben die Pläne zur Vergesellschaftung schon jetzt",
+       "fa": "بازار مسکن: پیامدهای کنونی طرح‌های اجتماعی‌سازی",
+       "url": "https://duckduckgo.com/?q=%5CWohnungsmarkt%3A%20Diese%20Folgen%20haben%20die%20Pl%C3%A4ne%20zur%20Vergesellschaftung%20schon%20jetzt%20site%3Atagesspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "Neuer Vorplatz: Lichtenberg hat ein direkten Zugang zum Berliner Ostkreuz",
+       "fa": "میدان جدید: لیشتنبرگ دسترسی مستقیم به ایستگاه اوست‌کروی برلین پیدا کرد",
+       "url": "https://duckduckgo.com/?q=%5CNeuer%20Vorplatz%3A%20Lichtenberg%20hat%20ein%20direkten%20Zugang%20zum%20Berliner%20Ostkreuz%20site%3Atagesspiegel.de",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "rheinische-post",
+     "name": "Rheinische Post",
+     "fa": "راینیشه پست",
+     "site": "https://rp-online.de",
+     "img": "covers/2026-11-04/rheinische-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/rheinische-post/",
+     "headlines": [
+      {
+       "o": "RWE soll drei neue Gaskraftwerke bauen",
+       "fa": "RWE قرار است سه نیروگاه گازی جدید بسازد",
+       "url": "https://duckduckgo.com/?q=%5CRWE%20soll%20drei%20neue%20Gaskraftwerke%20bauen%20site%3Arp-online.de",
+       "direct": false
+      },
+      {
+       "o": "Wahl als Urteil über Trump",
+       "fa": "انتخابات به‌مثابهٔ داوری دربارهٔ ترامپ",
+       "url": "https://duckduckgo.com/?q=%5CWahl%20als%20Urteil%20%C3%BCber%20Trump%20site%3Arp-online.de",
+       "direct": false
+      },
+      {
+       "o": "SPD kritisiert Entwurf für Gesetz zum Spritpreisdeckel",
+       "fa": "حزب سوسیال‌دموکرات پیش‌نویس قانون سقف قیمت سوخت را نقد کرد",
+       "url": "https://duckduckgo.com/?q=%5CSPD%20kritisiert%20Entwurf%20f%C3%BCr%20Gesetz%20zum%20Spritpreisdeckel%20site%3Arp-online.de",
+       "direct": false
+      },
+      {
+       "o": "Weitere Fälle von gefährlichen Süßigkeiten",
+       "fa": "موارد تازه‌ای از شیرینی‌های خطرناک",
+       "url": "https://duckduckgo.com/?q=%5CWeitere%20F%C3%A4lle%20von%20gef%C3%A4hrlichen%20S%C3%BC%C3%9Figkeiten%20site%3Arp-online.de",
+       "direct": false
+      },
+      {
+       "o": "Der Brite war 28 Jahre lang zu Fuß auf Weltreise. Jetzt ist er wieder zu Hause",
+       "fa": "این بریتانیایی ۲۸ سال پیاده دور دنیا را گشت و اکنون به خانه بازگشته است",
+       "url": "https://duckduckgo.com/?q=%5CDer%20Brite%20war%2028%20Jahre%20lang%20zu%20Fu%C3%9F%20auf%20Weltreise.%20Jetzt%20ist%20er%20wieder%20zu%20Hause%20site%3Arp-online.de",
+       "direct": false
+      },
+      {
+       "o": "Wann müssen Kinder für ihre Eltern zahlen – und wie viel?",
+       "fa": "فرزندان چه زمانی باید هزینهٔ والدینشان را بپردازند و چه مقدار؟",
+       "url": "https://duckduckgo.com/?q=%5CWann%20m%C3%BCssen%20Kinder%20f%C3%BCr%20ihre%20Eltern%20zahlen%20%E2%80%93%20und%20wie%20viel%3F%20site%3Arp-online.de",
+       "direct": false
+      },
+      {
+       "o": "Der ukrainische Präsident besucht Berlin. Er will Europa am Verhandlungstisch",
+       "fa": "رئیس‌جمهور اوکراین به برلین می‌رود؛ او اروپا را پشت میز مذاکره می‌خواهد",
+       "url": "https://duckduckgo.com/?q=%5CDer%20ukrainische%20Pr%C3%A4sident%20besucht%20Berlin.%20Er%20will%20Europa%20am%20Verhandlungstisch%20site%3Arp-online.de",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "bz-berlin",
+     "name": "B.Z. Berlin",
+     "fa": "بی‌تسد برلین",
+     "site": "https://www.bz-berlin.de",
+     "img": "covers/2026-11-04/bz-berlin.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/bz-berlin/",
+     "headlines": [
+      {
+       "o": "Kudamm: Vollgas, Schuss, dann war Schluss",
+       "fa": "کودام: گاز تا ته، شلیک، و بعد پایان",
+       "url": "https://duckduckgo.com/?q=%5CKudamm%3A%20Vollgas%2C%20Schuss%2C%20dann%20war%20Schluss%20site%3Abz-berlin.de",
+       "direct": false
+      },
+      {
+       "o": "Reese-Rückkehr! Hertha wünscht sich Respekt von den eigenen Fans",
+       "fa": "بازگشت ریزه! هرتا از هواداران خودش احترام می‌خواهد",
+       "url": "https://duckduckgo.com/?q=%5CReese-R%C3%BCckkehr%21%20Hertha%20w%C3%BCnscht%20sich%20Respekt%20von%20den%20eigenen%20Fans%20site%3Abz-berlin.de",
+       "direct": false
+      },
+      {
+       "o": "Berlinerin tauscht Burnout gegen Botswana",
+       "fa": "زن برلینی فرسودگی شغلی را با بوتسوانا عوض کرد",
+       "url": "https://duckduckgo.com/?q=%5CBerlinerin%20tauscht%20Burnout%20gegen%20Botswana%20site%3Abz-berlin.de",
+       "direct": false
+      },
+      {
+       "o": "Führerschein bald auf dem Handy!",
+       "fa": "گواهی‌نامهٔ رانندگی به‌زودی روی تلفن همراه!",
+       "url": "https://duckduckgo.com/?q=%5CF%C3%BChrerschein%20bald%20auf%20dem%20Handy%21%20site%3Abz-berlin.de",
+       "direct": false
+      },
+      {
+       "o": "Cash Call: Schnappen Sie sich heute 150.000 Euro!",
+       "fa": "تماس نقدی: امروز ۱۵۰ هزار یورو ببرید!",
+       "url": "https://duckduckgo.com/?q=%5CCash%20Call%3A%20Schnappen%20Sie%20sich%20heute%20150.000%20Euro%21%20site%3Abz-berlin.de",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "چین",
+   "flag": "🇨🇳",
+   "papers": [
+    {
+     "slug": "china-daily",
+     "name": "China Daily",
+     "fa": "چاینا دیلی",
+     "site": "https://www.chinadaily.com.cn",
+     "img": "covers/2026-11-04/china-daily.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/china-daily/",
+     "headlines": [
+      {
+       "o": "Course charted for strict Party self-governance",
+       "fa": "مسیر خودگردانی سخت‌گیرانهٔ حزب ترسیم شد",
+       "url": "https://duckduckgo.com/?q=%5CCourse%20charted%20for%20strict%20Party%20self-governance%20site%3Achinadaily.com.cn",
+       "direct": false
+      },
+      {
+       "o": "CPC resolution calls for tougher anti-graft steps, responses to emerging challenges",
+       "fa": "قطعنامهٔ حزب کمونیست چین خواستار اقدامات سخت‌تر ضدفساد و پاسخ به چالش‌های نوظهور شد",
+       "url": "https://duckduckgo.com/?q=%5CCPC%20resolution%20calls%20for%20tougher%20anti-graft%20steps%2C%20responses%20to%20emerging%20challenges%20site%3Achinadaily.com.cn",
+       "direct": false
+      },
+      {
+       "o": "Farewell tribute",
+       "fa": "ادای احترام وداع",
+       "url": "https://duckduckgo.com/?q=%5CFarewell%20tribute%20site%3Achinadaily.com.cn",
+       "direct": false
+      },
+      {
+       "o": "Li calls for open, inclusive, dynamic digital innovation",
+       "fa": "لی خواستار نوآوری دیجیتال باز، فراگیر و پویا شد",
+       "url": "https://duckduckgo.com/?q=%5CLi%20calls%20for%20open%2C%20inclusive%2C%20dynamic%20digital%20innovation%20site%3Achinadaily.com.cn",
+       "direct": false
+      },
+      {
+       "o": "CIIE gears up for a record ninth edition in Shanghai",
+       "fa": "نمایشگاه بین‌المللی واردات چین برای نهمین دورهٔ رکوردشکن در شانگهای آماده می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CCIIE%20gears%20up%20for%20a%20record%20ninth%20edition%20in%20Shanghai%20site%3Achinadaily.com.cn",
+       "direct": false
+      },
+      {
+       "o": "Counter dining offers an immersive culinary experience",
+       "fa": "غذاخوری پشت پیشخوان تجربهٔ آشپزی همه‌جانبه‌ای پیش رو می‌گذارد",
+       "url": "https://duckduckgo.com/?q=%5CCounter%20dining%20offers%20an%20immersive%20culinary%20experience%20site%3Achinadaily.com.cn",
+       "direct": false
+      },
+      {
+       "o": "Tracks of time",
+       "fa": "رد پای زمان",
+       "url": "https://duckduckgo.com/?q=%5CTracks%20of%20time%20site%3Achinadaily.com.cn",
+       "direct": false
+      },
+      {
+       "o": "Super El Nino looms over a volatile winter",
+       "fa": "ال‌نینوی فوق‌العاده بر زمستانی پرنوسان سایه انداخته است",
+       "url": "https://duckduckgo.com/?q=%5CSuper%20El%20Nino%20looms%20over%20a%20volatile%20winter%20site%3Achinadaily.com.cn",
+       "direct": false
+      },
+      {
+       "o": "Ballot test",
+       "fa": "آزمون صندوق رأی",
+       "url": "https://duckduckgo.com/?q=%5CBallot%20test%20site%3Achinadaily.com.cn",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "global-times",
+     "name": "Global Times",
+     "fa": "گلوبال تایمز",
+     "site": "https://www.globaltimes.cn",
+     "img": "covers/2026-11-04/global-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/global-times/",
+     "headlines": [
+      {
+       "o": "China opposes 'digital iron curtain,' calls for openness at Wuzhen Summit",
+       "fa": "چین در نشست ووجن با «پردهٔ آهنین دیجیتال» مخالفت کرد و خواستار گشودگی شد",
+       "url": "https://duckduckgo.com/?q=%5CChina%20opposes%20%27digital%20iron%20curtain%2C%27%20calls%20for%20openness%20at%20Wuzhen%20Summit%20site%3Aglobaltimes.cn",
+       "direct": false
+      },
+      {
+       "o": "Tech advances, devt approach hailed by intl participants",
+       "fa": "شرکت‌کنندگان بین‌المللی پیشرفت‌های فناوری و رویکرد توسعهٔ چین را ستودند",
+       "url": "https://duckduckgo.com/?q=%5CTech%20advances%2C%20devt%20approach%20hailed%20by%20intl%20participants%20site%3Aglobaltimes.cn",
+       "direct": false
+      },
+      {
+       "o": "Experts blast US Chinese vehicle ban as 'protectionism'",
+       "fa": "کارشناسان ممنوعیت خودروهای چینی در آمریکا را «حمایت‌گرایی» خواندند",
+       "url": "https://duckduckgo.com/?q=%5CExperts%20blast%20US%20Chinese%20vehicle%20ban%20as%20%27protectionism%27%20site%3Aglobaltimes.cn",
+       "direct": false
+      },
+      {
+       "o": "Belt and Road Media cooperation Forum held",
+       "fa": "مجمع همکاری رسانه‌ای کمربند و جاده برگزار شد",
+       "url": "https://duckduckgo.com/?q=%5CBelt%20and%20Road%20Media%20cooperation%20Forum%20held%20site%3Aglobaltimes.cn",
+       "direct": false
+      },
+      {
+       "o": "NDRC vows bold steps for tech breakthroughs",
+       "fa": "کمیسیون ملی توسعه و اصلاحات وعدهٔ گام‌های جسورانه برای دستیابی به پیشرفت‌های فناوری داد",
+       "url": "https://duckduckgo.com/?q=%5CNDRC%20vows%20bold%20steps%20for%20tech%20breakthroughs%20site%3Aglobaltimes.cn",
+       "direct": false
+      },
+      {
+       "o": "Tiger families thrive in national park on China-Russia border",
+       "fa": "خانواده‌های ببر در پارک ملی مرز چین و روسیه رونق گرفته‌اند",
+       "url": "https://duckduckgo.com/?q=%5CTiger%20families%20thrive%20in%20national%20park%20on%20China-Russia%20border%20site%3Aglobaltimes.cn",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "people-s-daily",
+     "name": "People's Daily",
+     "fa": "روزنامهٔ خلق",
+     "site": "http://paper.people.com.cn",
+     "img": "covers/2026-11-04/people-s-daily.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/people-s-daily/",
+     "headlines": [
+      {
+       "o": "总书记的人民情怀：做强做优做大实体经济",
+       "fa": "دغدغهٔ مردمی دبیرکل: اقتصاد واقعی را قوی‌تر، بهتر و بزرگ‌تر کنیم",
+       "url": "https://duckduckgo.com/?q=%5C%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E4%BA%BA%E6%B0%91%E6%83%85%E6%80%80%EF%BC%9A%E5%81%9A%E5%BC%BA%E5%81%9A%E4%BC%98%E5%81%9A%E5%A4%A7%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%20site%3Apaper.people.com.cn",
+       "direct": false
+      },
+      {
+       "o": "刘延东同志遗体在京火化",
+       "fa": "پیکر رفیق لیو یاندونگ در پکن سوزانده شد",
+       "url": "https://duckduckgo.com/?q=%5C%E5%88%98%E5%BB%B6%E4%B8%9C%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E4%BA%AC%E7%81%AB%E5%8C%96%20site%3Apaper.people.com.cn",
+       "direct": false
+      },
+      {
+       "o": "李强出席2026年世界互联网大会乌镇峰会开幕式并发表主旨演讲",
+       "fa": "لی چیانگ در مراسم افتتاحیهٔ نشست ووجن کنفرانس جهانی اینترنت ۲۰۲۶ شرکت و سخنرانی کلیدی کرد",
+       "url": "https://duckduckgo.com/?q=%5C%E6%9D%8E%E5%BC%BA%E5%87%BA%E5%B8%AD2026%E5%B9%B4%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%B9%B6%E5%8F%91%E8%A1%A8%E4%B8%BB%E6%97%A8%E6%BC%94%E8%AE%B2%20site%3Apaper.people.com.cn",
+       "direct": false
+      },
+      {
+       "o": "十四届全国人大常委会第二十五次会议举行第二次全体会议",
+       "fa": "کمیتهٔ دائمی چهاردهمین کنگرهٔ ملی خلق دومین نشست عمومی بیست‌وپنجمین اجلاس خود را برگزار کرد",
+       "url": "https://duckduckgo.com/?q=%5C%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E6%AC%A1%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E4%BD%93%E4%BC%9A%E8%AE%AE%20site%3Apaper.people.com.cn",
+       "direct": false
+      },
+      {
+       "o": "全国政协十四届常委会第十九次会议开幕",
+       "fa": "نوزدهمین نشست کمیتهٔ دائمی چهاردهمین دورهٔ کنفرانس مشورتی سیاسی خلق چین آغاز شد",
+       "url": "https://duckduckgo.com/?q=%5C%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%8D%81%E5%9B%9B%E5%B1%8A%E5%B8%B8%E5%A7%94%E4%BC%9A%E7%AC%AC%E5%8D%81%E4%B9%9D%E6%AC%A1%E4%BC%9A%E8%AE%AE%E5%BC%80%E5%B9%95%20site%3Apaper.people.com.cn",
+       "direct": false
+      },
+      {
+       "o": "强化系统观念，增强整体效能",
+       "fa": "تقویت نگرش نظام‌مند، افزایش کارایی کلی",
+       "url": "https://duckduckgo.com/?q=%5C%E5%BC%BA%E5%8C%96%E7%B3%BB%E7%BB%9F%E8%A7%82%E5%BF%B5%EF%BC%8C%E5%A2%9E%E5%BC%BA%E6%95%B4%E4%BD%93%E6%95%88%E8%83%BD%20site%3Apaper.people.com.cn",
+       "direct": false
+      },
+      {
+       "o": "学习贯彻党的二十届五中全会精神中央宣讲团首场报告会在京举行",
+       "fa": "نخستین گردهمایی گروه تبلیغی مرکزی برای آموزش و اجرای روح پنجمین پلنوم بیستمین کمیتهٔ مرکزی در پکن برگزار شد",
+       "url": "https://duckduckgo.com/?q=%5C%E5%AD%A6%E4%B9%A0%E8%B4%AF%E5%BD%BB%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%E4%B8%AD%E5%A4%AE%E5%AE%A3%E8%AE%B2%E5%9B%A2%E9%A6%96%E5%9C%BA%E6%8A%A5%E5%91%8A%E4%BC%9A%E5%9C%A8%E4%BA%AC%E4%B8%BE%E8%A1%8C%20site%3Apaper.people.com.cn",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "south-china-morning-post",
+     "name": "South China Morning Post",
+     "fa": "ساوت چاینا مورنینگ پست",
+     "site": "https://www.scmp.com",
+     "img": "covers/2026-11-04/south-china-morning-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/south-china-morning-post/",
+     "headlines": []
+    },
+    {
+     "slug": "hong-kong-economic-journal",
+     "name": "Hong Kong Economic Journal",
+     "fa": "هنگ‌کنگ اکونومیک ژورنال",
+     "site": "https://www.hkej.com",
+     "img": "covers/2026-11-04/hong-kong-economic-journal.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/hong-kong-economic-journal/",
+     "headlines": [
+      {
+       "o": "PIMCO憂AI投資過熱 黑石續樂觀",
+       "fa": "پیمکو نگران داغ‌شدن بیش از حد سرمایه‌گذاری در هوش مصنوعی است؛ بلک‌استون همچنان خوش‌بین",
+       "url": "https://duckduckgo.com/?q=%5CPIMCO%E6%86%82AI%E6%8A%95%E8%B3%87%E9%81%8E%E7%86%B1%20%E9%BB%91%E7%9F%B3%E7%BA%8C%E6%A8%82%E8%A7%80%20site%3Ahkej.com",
+       "direct": false
+      },
+      {
+       "o": "大摩：股市短期倘調整 年底迎「聖誕反彈」",
+       "fa": "مورگان استنلی: بازار سهام اگر در کوتاه‌مدت اصلاح شود، پایان سال «جهش کریسمس» در پیش دارد",
+       "url": "https://duckduckgo.com/?q=%5C%E5%A4%A7%E6%91%A9%EF%BC%9A%E8%82%A1%E5%B8%82%E7%9F%AD%E6%9C%9F%E5%80%98%E8%AA%BF%E6%95%B4%20%E5%B9%B4%E5%BA%95%E8%BF%8E%E3%80%8C%E8%81%96%E8%AA%95%E5%8F%8D%E5%BD%88%E3%80%8D%20site%3Ahkej.com",
+       "direct": false
+      },
+      {
+       "o": "渣打十年維持10萬員工 自動化淘汰2.5萬職位",
+       "fa": "استاندارد چارترد ده سال ۱۰۰ هزار کارمند را حفظ می‌کند، اما خودکارسازی ۲۵ هزار شغل را از میان می‌برد",
+       "url": "https://duckduckgo.com/?q=%5C%E6%B8%A3%E6%89%93%E5%8D%81%E5%B9%B4%E7%B6%AD%E6%8C%8110%E8%90%AC%E5%93%A1%E5%B7%A5%20%E8%87%AA%E5%8B%95%E5%8C%96%E6%B7%98%E6%B1%B02.5%E8%90%AC%E8%81%B7%E4%BD%8D%20site%3Ahkej.com",
+       "direct": false
+      },
+      {
+       "o": "體育資產獲看好 複合回報15%",
+       "fa": "دارایی‌های ورزشی مورد توجه؛ بازده مرکب ۱۵ درصد",
+       "url": "https://duckduckgo.com/?q=%5C%E9%AB%94%E8%82%B2%E8%B3%87%E7%94%A2%E7%8D%B2%E7%9C%8B%E5%A5%BD%20%E8%A4%87%E5%90%88%E5%9B%9E%E5%A0%B115%25%20site%3Ahkej.com",
+       "direct": false
+      },
+      {
+       "o": "加外運存準率 邊人幣炒風",
+       "fa": "افزایش نرخ ذخیرهٔ ارزی؛ چه کسی روی یوان سفته‌بازی می‌کند",
+       "url": "https://duckduckgo.com/?q=%5C%E5%8A%A0%E5%A4%96%E9%81%8B%E5%AD%98%E6%BA%96%E7%8E%87%20%E9%82%8A%E4%BA%BA%E5%B9%A3%E7%82%92%E9%A2%A8%20site%3Ahkej.com",
+       "direct": false
+      },
+      {
+       "o": "QS亞洲榜 港三大學晉五強",
+       "fa": "رتبه‌بندی آسیایی QS: سه دانشگاه هنگ‌کنگ به جمع پنج برتر راه یافتند",
+       "url": "https://duckduckgo.com/?q=%5CQS%E4%BA%9E%E6%B4%B2%E6%A6%9C%20%E6%B8%AF%E4%B8%89%E5%A4%A7%E5%AD%B8%E6%99%89%E4%BA%94%E5%BC%B7%20site%3Ahkej.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "oriental-daily-news",
+     "name": "Oriental Daily News",
+     "fa": "اورینتال دیلی نیوز (هنگ‌کنگ)",
+     "site": "https://www.orientaldaily.on.cc",
+     "img": "covers/2026-11-04/oriental-daily-news.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/oriental-daily-news/",
+     "headlines": [
+      {
+       "o": "黃碧嬌疑似遠飛外地",
+       "fa": "هوانگ بی‌جیائو احتمالاً به خارج پرواز کرده است",
+       "url": "https://duckduckgo.com/?q=%5C%E9%BB%83%E7%A2%A7%E5%AC%8C%E7%96%91%E4%BC%BC%E9%81%A0%E9%A3%9B%E5%A4%96%E5%9C%B0%20site%3Aorientaldaily.on.cc",
+       "direct": false
+      },
+      {
+       "o": "調查多時未有聲氣",
+       "fa": "تحقیقات مدت‌هاست بی‌نتیجه مانده",
+       "url": "https://duckduckgo.com/?q=%5C%E8%AA%BF%E6%9F%A5%E5%A4%9A%E6%99%82%E6%9C%AA%E6%9C%89%E8%81%B2%E6%B0%A3%20site%3Aorientaldaily.on.cc",
+       "direct": false
+      },
+      {
+       "o": "離世授權票事件 災民轟部門無交代進展",
+       "fa": "ماجرای برگه‌های وکالت متوفیان: آسیب‌دیدگان از اداره به خاطر گزارش‌ندادن پیشرفت کار انتقاد کردند",
+       "url": "https://duckduckgo.com/?q=%5C%E9%9B%A2%E4%B8%96%E6%8E%88%E6%AC%8A%E7%A5%A8%E4%BA%8B%E4%BB%B6%20%E7%81%BD%E6%B0%91%E8%BD%9F%E9%83%A8%E9%96%80%E7%84%A1%E4%BA%A4%E4%BB%A3%E9%80%B2%E5%B1%95%20site%3Aorientaldaily.on.cc",
+       "direct": false
+      },
+      {
+       "o": "全城咪錶突停4句鐘服務 營運商香港電訊須交報告",
+       "fa": "پارکومترهای سراسر شهر ناگهان چهار ساعت از کار افتادند؛ اپراتور، هنگ‌کنگ تلکام، باید گزارش بدهد",
+       "url": "https://duckduckgo.com/?q=%5C%E5%85%A8%E5%9F%8E%E5%92%AA%E9%8C%B6%E7%AA%81%E5%81%9C4%E5%8F%A5%E9%90%98%E6%9C%8D%E5%8B%99%20%E7%87%9F%E9%81%8B%E5%95%86%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A%E9%A0%88%E4%BA%A4%E5%A0%B1%E5%91%8A%20site%3Aorientaldaily.on.cc",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ژاپن",
+   "flag": "🇯🇵",
+   "papers": [
+    {
+     "slug": "the-japan-times",
+     "name": "The Japan Times",
+     "fa": "جاپان تایمز",
+     "site": "https://www.japantimes.co.jp",
+     "img": "covers/2026-11-04/the-japan-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-japan-times/",
+     "headlines": [
+      {
+       "o": "AI intensifies North Korea's crypto heists",
+       "fa": "هوش مصنوعی سرقت‌های رمزارزی کرهٔ شمالی را تشدید می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CAI%20intensifies%20North%20Korea%27s%20crypto%20heists%20site%3Ajapantimes.co.jp",
+       "direct": false
+      },
+      {
+       "o": "Powerful tool helps hackers fund military buildup",
+       "fa": "ابزاری قدرتمند به هکرها کمک می‌کند تقویت نظامی را تأمین مالی کنند",
+       "url": "https://duckduckgo.com/?q=%5CPowerful%20tool%20helps%20hackers%20fund%20military%20buildup%20site%3Ajapantimes.co.jp",
+       "direct": false
+      },
+      {
+       "o": "Japan gets serious on defense hike",
+       "fa": "ژاپن در افزایش بودجهٔ دفاعی جدی می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CJapan%20gets%20serious%20on%20defense%20hike%20site%3Ajapantimes.co.jp",
+       "direct": false
+      },
+      {
+       "o": "Officials eye nearly doubling budget with new five-year plan",
+       "fa": "مقامات با برنامهٔ پنج‌سالهٔ جدید تقریباً دوبرابرکردن بودجه را در نظر دارند",
+       "url": "https://duckduckgo.com/?q=%5COfficials%20eye%20nearly%20doubling%20budget%20with%20new%20five-year%20plan%20site%3Ajapantimes.co.jp",
+       "direct": false
+      },
+      {
+       "o": "Japan's female astronaut shoots for the moon",
+       "fa": "فضانورد زن ژاپنی ماه را نشانه گرفته است",
+       "url": "https://duckduckgo.com/?q=%5CJapan%27s%20female%20astronaut%20shoots%20for%20the%20moon%20site%3Ajapantimes.co.jp",
+       "direct": false
+      },
+      {
+       "o": "Russian army suffers record casualties as war gains slip",
+       "fa": "ارتش روسیه با کندشدن پیشروی‌ها بیشترین تلفات را متحمل شد",
+       "url": "https://duckduckgo.com/?q=%5CRussian%20army%20suffers%20record%20casualties%20as%20war%20gains%20slip%20site%3Ajapantimes.co.jp",
+       "direct": false
+      },
+      {
+       "o": "National: Escalating pressure",
+       "fa": "داخلی: فشار فزاینده",
+       "url": "https://duckduckgo.com/?q=%5CNational%3A%20Escalating%20pressure%20site%3Ajapantimes.co.jp",
+       "direct": false
+      },
+      {
+       "o": "One man's 28-year trek across world is finished",
+       "fa": "سفر پیادهٔ ۲۸ سالهٔ یک مرد به دور جهان به پایان رسید",
+       "url": "https://duckduckgo.com/?q=%5COne%20man%27s%2028-year%20trek%20across%20world%20is%20finished%20site%3Ajapantimes.co.jp",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "yomiuri-shinbun",
+     "name": "Yomiuri Shimbun",
+     "fa": "یومیوری شیمبون",
+     "site": "https://www.yomiuri.co.jp",
+     "img": "covers/2026-11-04/yomiuri-shinbun.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/yomiuri-shinbun/",
+     "headlines": [
+      {
+       "o": "米中間選 投票始まる",
+       "fa": "رأی‌گیری انتخابات میان‌دوره‌ای آمریکا آغاز شد",
+       "url": "https://duckduckgo.com/?q=%5C%E7%B1%B3%E4%B8%AD%E9%96%93%E9%81%B8%20%E6%8A%95%E7%A5%A8%E5%A7%8B%E3%81%BE%E3%82%8B%20site%3Ayomiuri.co.jp",
+       "direct": false
+      },
+      {
+       "o": "上院 与野党互角",
+       "fa": "مجلس سنا: حزب حاکم و مخالفان برابرند",
+       "url": "https://duckduckgo.com/?q=%5C%E4%B8%8A%E9%99%A2%20%E4%B8%8E%E9%87%8E%E5%85%9A%E4%BA%92%E8%A7%92%20site%3Ayomiuri.co.jp",
+       "direct": false
+      },
+      {
+       "o": "接戦7州 勝敗カギ",
+       "fa": "هفت ایالت پررقابت کلید پیروزی یا شکست",
+       "url": "https://duckduckgo.com/?q=%5C%E6%8E%A5%E6%88%A67%E5%B7%9E%20%E5%8B%9D%E6%95%97%E3%82%AB%E3%82%AE%20site%3Ayomiuri.co.jp",
+       "direct": false
+      },
+      {
+       "o": "システム移行 高額請求 IT大手、自治体に",
+       "fa": "غول‌های فناوری اطلاعات بابت انتقال سامانه‌ها به شهرداری‌ها صورت‌حساب‌های سنگین دادند",
+       "url": "https://duckduckgo.com/?q=%5C%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%A7%BB%E8%A1%8C%20%E9%AB%98%E9%A1%8D%E8%AB%8B%E6%B1%82%20IT%E5%A4%A7%E6%89%8B%E3%80%81%E8%87%AA%E6%B2%BB%E4%BD%93%E3%81%AB%20site%3Ayomiuri.co.jp",
+       "direct": false
+      },
+      {
+       "o": "公取実態調査へ",
+       "fa": "کمیسیون تجارت منصفانه تحقیق دربارهٔ وضعیت را آغاز می‌کند",
+       "url": "https://duckduckgo.com/?q=%5C%E5%85%AC%E5%8F%96%E5%AE%9F%E6%85%8B%E8%AA%BF%E6%9F%BB%E3%81%B8%20site%3Ayomiuri.co.jp",
+       "direct": false
+      },
+      {
+       "o": "米、イランの島 限定攻撃 ホルムズ海峡近く",
+       "fa": "آمریکا به جزیره‌ای ایرانی نزدیک تنگهٔ هرمز حملهٔ محدود کرد",
+       "url": "https://duckduckgo.com/?q=%5C%E7%B1%B3%E3%80%81%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%AE%E5%B3%B6%20%E9%99%90%E5%AE%9A%E6%94%BB%E6%92%83%20%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1%E8%BF%91%E3%81%8F%20site%3Ayomiuri.co.jp",
+       "direct": false
+      },
+      {
+       "o": "赤根所長、国連ビデオ演説",
+       "fa": "رئیس دادگاه، آکانه، سخنرانی ویدئویی در سازمان ملل کرد",
+       "url": "https://duckduckgo.com/?q=%5C%E8%B5%A4%E6%A0%B9%E6%89%80%E9%95%B7%E3%80%81%E5%9B%BD%E9%80%A3%E3%83%93%E3%83%87%E3%82%AA%E6%BC%94%E8%AA%AC%20site%3Ayomiuri.co.jp",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "mainichi-shinbun",
+     "name": "Mainichi Shimbun",
+     "fa": "ماینیچی شیمبون",
+     "site": "https://mainichi.jp",
+     "img": "covers/2026-11-04/mainichi-shinbun.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/mainichi-shinbun/",
+     "headlines": [
+      {
+       "o": "防衛AI「国産」推進",
+       "fa": "پیشبرد هوش مصنوعی دفاعی «ساخت داخل»",
+       "url": "https://duckduckgo.com/?q=%5C%E9%98%B2%E8%A1%9BAI%E3%80%8C%E5%9B%BD%E7%94%A3%E3%80%8D%E6%8E%A8%E9%80%B2%20site%3Amainichi.jp",
+       "direct": false
+      },
+      {
+       "o": "米中間選 投票始まる",
+       "fa": "رأی‌گیری انتخابات میان‌دوره‌ای آمریکا آغاز شد",
+       "url": "https://duckduckgo.com/?q=%5C%E7%B1%B3%E4%B8%AD%E9%96%93%E9%81%B8%20%E6%8A%95%E7%A5%A8%E5%A7%8B%E3%81%BE%E3%82%8B%20site%3Amainichi.jp",
+       "direct": false
+      },
+      {
+       "o": "トランプ氏、実績主張 民主は両院奪還意欲",
+       "fa": "ترامپ بر کارنامه‌اش تأکید می‌کند؛ دموکرات‌ها در پی بازپس‌گیری هر دو مجلس‌اند",
+       "url": "https://duckduckgo.com/?q=%5C%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97%E6%B0%8F%E3%80%81%E5%AE%9F%E7%B8%BE%E4%B8%BB%E5%BC%B5%20%E6%B0%91%E4%B8%BB%E3%81%AF%E4%B8%A1%E9%99%A2%E5%A5%AA%E9%82%84%E6%84%8F%E6%AC%B2%20site%3Amainichi.jp",
+       "direct": false
+      },
+      {
+       "o": "邦人の犠牲2人に スペイン列車事故1週間",
+       "fa": "یک هفته پس از سانحهٔ قطار اسپانیا، شمار قربانیان ژاپنی به دو نفر رسید",
+       "url": "https://duckduckgo.com/?q=%5C%E9%82%A6%E4%BA%BA%E3%81%AE%E7%8A%A0%E7%89%B22%E4%BA%BA%E3%81%AB%20%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E5%88%97%E8%BB%8A%E4%BA%8B%E6%95%851%E9%80%B1%E9%96%93%20site%3Amainichi.jp",
+       "direct": false
+      },
+      {
+       "o": "サカナ社 新会社設立へ",
+       "fa": "شرکت ساکانا شرکت جدیدی تأسیس می‌کند",
+       "url": "https://duckduckgo.com/?q=%5C%E3%82%B5%E3%82%AB%E3%83%8A%E7%A4%BE%20%E6%96%B0%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B%E3%81%B8%20site%3Amainichi.jp",
+       "direct": false
+      },
+      {
+       "o": "四季映す光のショー",
+       "fa": "نمایش نوری که چهار فصل را بازمی‌تاباند",
+       "url": "https://duckduckgo.com/?q=%5C%E5%9B%9B%E5%AD%A3%E6%98%A0%E3%81%99%E5%85%89%E3%81%AE%E3%82%B7%E3%83%A7%E3%83%BC%20site%3Amainichi.jp",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "عربستان سعودی",
+   "flag": "🇸🇦",
+   "papers": [
+    {
+     "slug": "asharq-al-awsat",
+     "name": "Asharq Al-Awsat",
+     "fa": "الشرق‌الاوسط",
+     "site": "https://aawsat.com",
+     "img": "covers/2026-11-04/asharq-al-awsat.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://aawsat.com/files/pdf/issue17508/index.html",
+     "headlines": [
+      {
+       "o": "الوساطة في ساعاتها الأخيرة",
+       "fa": "میانجی‌گری در آخرین ساعت‌هایش",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9%20%D9%81%D9%8A%20%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA%D9%87%D8%A7%20%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "طهران تتحفظ على رد واشنطن وتتمسك بالشروط السبعة... وترمب يقر بضربة على جزيرة قشم",
+       "fa": "تهران به پاسخ واشنگتن تحفظ دارد و بر شروط هفت‌گانه پافشاری می‌کند... و ترامپ حمله به جزیرهٔ قشم را تأیید کرد",
+       "url": "https://duckduckgo.com/?q=%5C%D8%B7%D9%87%D8%B1%D8%A7%D9%86%20%D8%AA%D8%AA%D8%AD%D9%81%D8%B8%20%D8%B9%D9%84%D9%89%20%D8%B1%D8%AF%20%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86%20%D9%88%D8%AA%D8%AA%D9%85%D8%B3%D9%83%20%D8%A8%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7%20%D8%A7%D9%84%D8%B3%D8%A8%D8%B9%D8%A9...%20%D9%88%D8%AA%D8%B1%D9%85%D8%A8%20%D9%8A%D9%82%D8%B1%20%D8%A8%D8%B6%D8%B1%D8%A8%D8%A9%20%D8%B9%D9%84%D9%89%20%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9%20%D9%82%D8%B4%D9%85%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "صناديق الاقتراع ترسم حدود نفوذ ترمب",
+       "fa": "صندوق‌های رأی مرزهای نفوذ ترامپ را ترسیم می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5C%D8%B5%D9%86%D8%A7%D8%AF%D9%8A%D9%82%20%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%B9%20%D8%AA%D8%B1%D8%B3%D9%85%20%D8%AD%D8%AF%D9%88%D8%AF%20%D9%86%D9%81%D9%88%D8%B0%20%D8%AA%D8%B1%D9%85%D8%A8%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "«أرامكو» تعلن بدء توسعة خط «شرق - غرب»",
+       "fa": "آرامکو آغاز گسترش خط لولهٔ «شرق ـ غرب» را اعلام کرد",
+       "url": "https://duckduckgo.com/?q=%5C%C2%AB%D8%A3%D8%B1%D8%A7%D9%85%D9%83%D9%88%C2%BB%20%D8%AA%D8%B9%D9%84%D9%86%20%D8%A8%D8%AF%D8%A1%20%D8%AA%D9%88%D8%B3%D8%B9%D8%A9%20%D8%AE%D8%B7%20%C2%AB%D8%B4%D8%B1%D9%82%20-%20%D8%BA%D8%B1%D8%A8%C2%BB%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "تأجيل «كأس آسيا» إلى ديسمبر 2027",
+       "fa": "جام ملت‌های آسیا به دسامبر ۲۰۲۷ موکول شد",
+       "url": "https://duckduckgo.com/?q=%5C%D8%AA%D8%A3%D8%AC%D9%8A%D9%84%20%C2%AB%D9%83%D8%A3%D8%B3%20%D8%A2%D8%B3%D9%8A%D8%A7%C2%BB%20%D8%A5%D9%84%D9%89%20%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1%202027%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "سوريا تفكك خلية لـ«حزب الله» بتهمة التخطيط لاستهداف مصفاة",
+       "fa": "سوریه یک هستهٔ «حزب‌الله» را به اتهام برنامه‌ریزی برای حمله به یک پالایشگاه متلاشی کرد",
+       "url": "https://duckduckgo.com/?q=%5C%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%20%D8%AA%D9%81%D9%83%D9%83%20%D8%AE%D9%84%D9%8A%D8%A9%20%D9%84%D9%80%C2%AB%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%C2%BB%20%D8%A8%D8%AA%D9%87%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7%20%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81%20%D9%85%D8%B5%D9%81%D8%A7%D8%A9%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "الأردن: جريمة «كنيسة الكرك» أمام القضاء العسكري",
+       "fa": "اردن: جنایت «کلیسای کرک» در دادگاه نظامی",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%3A%20%D8%AC%D8%B1%D9%8A%D9%85%D8%A9%20%C2%AB%D9%83%D9%86%D9%8A%D8%B3%D8%A9%20%D8%A7%D9%84%D9%83%D8%B1%D9%83%C2%BB%20%D8%A3%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "احتمال «خروج الفصائل عن السيطرة» يُنشّط اتصالات عراقية",
+       "fa": "احتمال «خارج‌شدن گروه‌های مسلح از کنترل» تماس‌های عراقی را فعال کرد",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%20%C2%AB%D8%AE%D8%B1%D9%88%D8%AC%20%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9%C2%BB%20%D9%8A%D9%8F%D9%86%D8%B4%D9%91%D8%B7%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%20%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9%20site%3Aaawsat.com",
+       "direct": false
+      },
+      {
+       "o": "قادة «التغيير» يتفقون على آيزنكوت... ويرفضون «العرب»",
+       "fa": "رهبران «تغییر» بر سر آیزنکوت توافق کردند... و «عرب‌ها» را نپذیرفتند",
+       "url": "https://duckduckgo.com/?q=%5C%D9%82%D8%A7%D8%AF%D8%A9%20%C2%AB%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%C2%BB%20%D9%8A%D8%AA%D9%81%D9%82%D9%88%D9%86%20%D8%B9%D9%84%D9%89%20%D8%A2%D9%8A%D8%B2%D9%86%D9%83%D9%88%D8%AA...%20%D9%88%D9%8A%D8%B1%D9%81%D8%B6%D9%88%D9%86%20%C2%AB%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%C2%BB%20site%3Aaawsat.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "arab-news",
+     "name": "Arab News",
+     "fa": "عرب نیوز",
+     "site": "https://www.arabnews.com",
+     "img": "covers/2026-11-04/arab-news.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/arab-news/",
+     "headlines": [
+      {
+       "o": "'Work has begun' on oil pipeline extension",
+       "fa": "«کار گسترش خط لولهٔ نفت آغاز شده است»",
+       "url": "https://duckduckgo.com/?q=%5C%27Work%20has%20begun%27%20on%20oil%20pipeline%20extension%20site%3Aarabnews.com",
+       "direct": false
+      },
+      {
+       "o": "Aim is increased capacity to 10m barrels a day, Aramco chief says",
+       "fa": "رئیس آرامکو: هدف افزایش ظرفیت به ۱۰ میلیون بشکه در روز است",
+       "url": "https://duckduckgo.com/?q=%5CAim%20is%20increased%20capacity%20to%2010m%20barrels%20a%20day%2C%20Aramco%20chief%20says%20site%3Aarabnews.com",
+       "direct": false
+      },
+      {
+       "o": "Saudi Arabia's air defenses shoot down another armed drone in Makkah region",
+       "fa": "پدافند هوایی عربستان سعودی پهپاد مسلح دیگری را در منطقهٔ مکه سرنگون کرد",
+       "url": "https://duckduckgo.com/?q=%5CSaudi%20Arabia%27s%20air%20defenses%20shoot%20down%20another%20armed%20drone%20in%20Makkah%20region%20site%3Aarabnews.com",
+       "direct": false
+      },
+      {
+       "o": "All eyes on Michigan and El-Sayed as America votes in pivotal midterms",
+       "fa": "همهٔ نگاه‌ها به میشیگان و السید در حالی که آمریکا در انتخابات میان‌دوره‌ای سرنوشت‌ساز رأی می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CAll%20eyes%20on%20Michigan%20and%20El-Sayed%20as%20America%20votes%20in%20pivotal%20midterms%20site%3Aarabnews.com",
+       "direct": false
+      },
+      {
+       "o": "2027 Asian Cup rescheduled",
+       "fa": "زمان جام ملت‌های آسیا ۲۰۲۷ تغییر کرد",
+       "url": "https://duckduckgo.com/?q=%5C2027%20Asian%20Cup%20rescheduled%20site%3Aarabnews.com",
+       "direct": false
+      },
+      {
+       "o": "Ben-Gvir's Israeli election own goal",
+       "fa": "گل به خودی بن‌گویر در انتخابات اسرائیل",
+       "url": "https://duckduckgo.com/?q=%5CBen-Gvir%27s%20Israeli%20election%20own%20goal%20site%3Aarabnews.com",
+       "direct": false
+      },
+      {
+       "o": "European Film Festival returns to Riyadh",
+       "fa": "جشنوارهٔ فیلم اروپایی به ریاض بازمی‌گردد",
+       "url": "https://duckduckgo.com/?q=%5CEuropean%20Film%20Festival%20returns%20to%20Riyadh%20site%3Aarabnews.com",
+       "direct": false
+      },
+      {
+       "o": "Princess Rajwa opts for Temperley in Amman",
+       "fa": "شاهزاده رجوه در امان لباس تمپرلی را برگزید",
+       "url": "https://duckduckgo.com/?q=%5CPrincess%20Rajwa%20opts%20for%20Temperley%20in%20Amman%20site%3Aarabnews.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "امارات",
+   "flag": "🇦🇪",
+   "papers": [
+    {
+     "slug": "gulf-news",
+     "name": "Gulf News",
+     "fa": "گلف نیوز",
+     "site": "https://gulfnews.com",
+     "img": "covers/2026-11-04/gulf-news.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/gulf-news/",
+     "headlines": [
+      {
+       "o": "Deal hopes still alive despite US strikes on Iran",
+       "fa": "با وجود حملات آمریکا به ایران، امید به توافق همچنان زنده است",
+       "url": "https://duckduckgo.com/?q=%5CDeal%20hopes%20still%20alive%20despite%20US%20strikes%20on%20Iran%20site%3Agulfnews.com",
+       "direct": false
+      },
+      {
+       "o": "Qatar optimistic about peace talks, Tehran voices 'pessimism'",
+       "fa": "قطر به مذاکرات صلح خوش‌بین است، تهران از «بدبینی» سخن می‌گوید",
+       "url": "https://duckduckgo.com/?q=%5CQatar%20optimistic%20about%20peace%20talks%2C%20Tehran%20voices%20%27pessimism%27%20site%3Agulfnews.com",
+       "direct": false
+      },
+      {
+       "o": "Minimum e-scooter riding age set at 15",
+       "fa": "حداقل سن اسکوترسواری برقی ۱۵ سال تعیین شد",
+       "url": "https://duckduckgo.com/?q=%5CMinimum%20e-scooter%20riding%20age%20set%20at%2015%20site%3Agulfnews.com",
+       "direct": false
+      },
+      {
+       "o": "President leads Flag Day celebrations",
+       "fa": "رئیس امارات جشن روز پرچم را رهبری کرد",
+       "url": "https://duckduckgo.com/?q=%5CPresident%20leads%20Flag%20Day%20celebrations%20site%3Agulfnews.com",
+       "direct": false
+      },
+      {
+       "o": "Dhanteras 2026: What gold trends UAE buyers are looking for",
+       "fa": "دانتراس ۲۰۲۶: خریداران اماراتی در پی کدام روندهای طلا هستند",
+       "url": "https://duckduckgo.com/?q=%5CDhanteras%202026%3A%20What%20gold%20trends%20UAE%20buyers%20are%20looking%20for%20site%3Agulfnews.com",
+       "direct": false
+      },
+      {
+       "o": "Natural History Museum offers a rare experience",
+       "fa": "موزهٔ تاریخ طبیعی تجربه‌ای کم‌نظیر عرضه می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CNatural%20History%20Museum%20offers%20a%20rare%20experience%20site%3Agulfnews.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "khaleej-times",
+     "name": "Khaleej Times",
+     "fa": "خلیج تایمز",
+     "site": "https://www.khaleejtimes.com",
+     "img": "covers/2026-11-04/khaleej-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/khaleej-times/",
+     "headlines": [
+      {
+       "o": "Iran: Return to war is going to benefit no one",
+       "fa": "ایران: بازگشت به جنگ به سود هیچ‌کس نیست",
+       "url": "https://duckduckgo.com/?q=%5CIran%3A%20Return%20to%20war%20is%20going%20to%20benefit%20no%20one%20site%3Akhaleejtimes.com",
+       "direct": false
+      },
+      {
+       "o": "Pezeshkian says his government is still trying to resolve the crisis 'through dialogue' after reported US strikes on Qeshm island",
+       "fa": "پزشکیان پس از گزارش حملات آمریکا به جزیرهٔ قشم می‌گوید دولتش همچنان می‌کوشد بحران را «از راه گفت‌وگو» حل کند",
+       "url": "https://duckduckgo.com/?q=%5CPezeshkian%20says%20his%20government%20is%20still%20trying%20to%20resolve%20the%20crisis%20%27through%20dialogue%27%20after%20reported%20US%20strikes%20on%20Qeshm%20island%20site%3Akhaleejtimes.com",
+       "direct": false
+      },
+      {
+       "o": "US ending its $3.8b annual security aid to Israel: Trump",
+       "fa": "ترامپ: آمریکا کمک امنیتی سالانهٔ ۳٫۸ میلیارد دلاری به اسرائیل را پایان می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CUS%20ending%20its%20%243.8b%20annual%20security%20aid%20to%20Israel%3A%20Trump%20site%3Akhaleejtimes.com",
+       "direct": false
+      },
+      {
+       "o": "Residents can own 2 vehicles, register 3 more for an extra fee",
+       "fa": "ساکنان می‌توانند دو خودرو داشته باشند و با پرداخت هزینهٔ اضافه سه خودروی دیگر ثبت کنند",
+       "url": "https://duckduckgo.com/?q=%5CResidents%20can%20own%202%20vehicles%2C%20register%203%20more%20for%20an%20extra%20fee%20site%3Akhaleejtimes.com",
+       "direct": false
+      },
+      {
+       "o": "Flag Day: Leaders and residents celebrate 55 years of the union",
+       "fa": "روز پرچم: رهبران و ساکنان ۵۵ سالگی اتحاد را جشن گرفتند",
+       "url": "https://duckduckgo.com/?q=%5CFlag%20Day%3A%20Leaders%20and%20residents%20celebrate%2055%20years%20of%20the%20union%20site%3Akhaleejtimes.com",
+       "direct": false
+      },
+      {
+       "o": "From Iran war to Israel aid: How U.S. foreign policy could change if Democrats prevail",
+       "fa": "از جنگ ایران تا کمک به اسرائیل: اگر دموکرات‌ها پیروز شوند سیاست خارجی آمریکا چگونه تغییر می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CFrom%20Iran%20war%20to%20Israel%20aid%3A%20How%20U.S.%20foreign%20policy%20could%20change%20if%20Democrats%20prevail%20site%3Akhaleejtimes.com",
+       "direct": false
+      },
+      {
+       "o": "Shoppers pull back from gold jewellery as prices bite",
+       "fa": "با فشار قیمت‌ها خریداران از جواهرات طلا روی برگرداندند",
+       "url": "https://duckduckgo.com/?q=%5CShoppers%20pull%20back%20from%20gold%20jewellery%20as%20prices%20bite%20site%3Akhaleejtimes.com",
+       "direct": false
+      },
+      {
+       "o": "'One of my idols': Chacarra excited to share Abu Dhabi tee with McIlroy",
+       "fa": "«یکی از الگوهایم»: چاکارا از هم‌بازی‌شدن با مک‌ایلروی در ابوظبی هیجان‌زده است",
+       "url": "https://duckduckgo.com/?q=%5C%27One%20of%20my%20idols%27%3A%20Chacarra%20excited%20to%20share%20Abu%20Dhabi%20tee%20with%20McIlroy%20site%3Akhaleejtimes.com",
+       "direct": false
+      },
+      {
+       "o": "Paris challenges Dad MJ's estate over Dh2.8bn trust",
+       "fa": "پاریس بر سر صندوق امانی ۲٫۸ میلیارد درهمی با ماترک پدرش مایکل جکسون درگیر شد",
+       "url": "https://duckduckgo.com/?q=%5CParis%20challenges%20Dad%20MJ%27s%20estate%20over%20Dh2.8bn%20trust%20site%3Akhaleejtimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-national-abu-dhabi",
+     "name": "The National",
+     "fa": "نشنال (ابوظبی)",
+     "site": "https://www.thenationalnews.com",
+     "img": "covers/2026-11-04/the-national-abu-dhabi.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-national-abu-dhabi/",
+     "headlines": [
+      {
+       "o": "Middle East holds its breath as US counts midterm votes",
+       "fa": "خاورمیانه نفس در سینه حبس کرده، در حالی که آمریکا آرای میان‌دوره‌ای را می‌شمارد",
+       "url": "https://duckduckgo.com/?q=%5CMiddle%20East%20holds%20its%20breath%20as%20US%20counts%20midterm%20votes%20site%3Athenationalnews.com",
+       "direct": false
+      },
+      {
+       "o": "Americans deliver verdict on Trump presidency, protracted Iran war and rising cost of living",
+       "fa": "آمریکایی‌ها دربارهٔ ریاست‌جمهوری ترامپ، جنگ طولانی ایران و افزایش هزینهٔ زندگی داوری می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5CAmericans%20deliver%20verdict%20on%20Trump%20presidency%2C%20protracted%20Iran%20war%20and%20rising%20cost%20of%20living%20site%3Athenationalnews.com",
+       "direct": false
+      },
+      {
+       "o": "Energy companies brace for US-Iran escalation",
+       "fa": "شرکت‌های انرژی خود را برای تشدید تنش آمریکا و ایران آماده می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5CEnergy%20companies%20brace%20for%20US-Iran%20escalation%20site%3Athenationalnews.com",
+       "direct": false
+      },
+      {
+       "o": "Green light for updated traffic and e-scooter rules",
+       "fa": "چراغ سبز به مقررات به‌روزشدهٔ راهنمایی‌ورانندگی و اسکوتر برقی",
+       "url": "https://duckduckgo.com/?q=%5CGreen%20light%20for%20updated%20traffic%20and%20e-scooter%20rules%20site%3Athenationalnews.com",
+       "direct": false
+      },
+      {
+       "o": "Lebanon must be part of the US-Iran solution",
+       "fa": "لبنان باید بخشی از راه‌حل آمریکا و ایران باشد",
+       "url": "https://duckduckgo.com/?q=%5CLebanon%20must%20be%20part%20of%20the%20US-Iran%20solution%20site%3Athenationalnews.com",
+       "direct": false
+      },
+      {
+       "o": "UAE celebrates national unity and progress",
+       "fa": "امارات وحدت ملی و پیشرفت را جشن می‌گیرد",
+       "url": "https://duckduckgo.com/?q=%5CUAE%20celebrates%20national%20unity%20and%20progress%20site%3Athenationalnews.com",
+       "direct": false
+      },
+      {
+       "o": "AI's rise will fuel demand, says Adnoc Gas chief",
+       "fa": "رئیس ادنوک گاز: رشد هوش مصنوعی تقاضا را افزایش می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CAI%27s%20rise%20will%20fuel%20demand%2C%20says%20Adnoc%20Gas%20chief%20site%3Athenationalnews.com",
+       "direct": false
+      },
+      {
+       "o": "Sharjah plans design centre to develop new products",
+       "fa": "شارجه برای توسعهٔ محصولات تازه مرکز طراحی برپا می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CSharjah%20plans%20design%20centre%20to%20develop%20new%20products%20site%3Athenationalnews.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "قطر",
+   "flag": "🇶🇦",
+   "papers": [
+    {
+     "slug": "gulf-times",
+     "name": "Gulf Times",
+     "fa": "گلف تایمز",
+     "site": "https://www.gulf-times.com",
+     "img": "covers/2026-11-04/gulf-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/gulf-times/",
+     "headlines": [
+      {
+       "o": "Mediator Qatar eyes 'glimmer of hope'",
+       "fa": "قطرِ میانجی «روزنهٔ امیدی» می‌بیند",
+       "url": "https://duckduckgo.com/?q=%5CMediator%20Qatar%20eyes%20%27glimmer%20of%20hope%27%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "Amir, Bavaria minister-president hold talks",
+       "fa": "امیر قطر و نخست‌وزیر ایالت باواریا گفت‌وگو کردند",
+       "url": "https://duckduckgo.com/?q=%5CAmir%2C%20Bavaria%20minister-president%20hold%20talks%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "PM underscores diplomacy in peace push",
+       "fa": "نخست‌وزیر بر دیپلماسی در تلاش برای صلح تأکید کرد",
+       "url": "https://duckduckgo.com/?q=%5CPM%20underscores%20diplomacy%20in%20peace%20push%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "Qatar sees tourism surge",
+       "fa": "قطر شاهد جهش گردشگری است",
+       "url": "https://duckduckgo.com/?q=%5CQatar%20sees%20tourism%20surge%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "US voters set for midterm verdict",
+       "fa": "رأی‌دهندگان آمریکایی آمادهٔ صدور حکم میان‌دوره‌ای‌اند",
+       "url": "https://duckduckgo.com/?q=%5CUS%20voters%20set%20for%20midterm%20verdict%20site%3Agulf-times.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "اردن",
+   "flag": "🇯🇴",
+   "papers": [
+    {
+     "slug": "the-jordan-times",
+     "name": "The Jordan Times",
+     "fa": "جردن تایمز",
+     "site": "https://jordantimes.com",
+     "img": "covers/2026-11-04/the-jordan-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-jordan-times/",
+     "headlines": [
+      {
+       "o": "SSC prosecutor completes investigation into Karak church attack, files charges",
+       "fa": "دادستان دادگاه امنیت دولتی تحقیقات حمله به کلیسای کرک را به پایان رساند و کیفرخواست صادر کرد",
+       "url": "https://duckduckgo.com/?q=%5CSSC%20prosecutor%20completes%20investigation%20into%20Karak%20church%20attack%2C%20files%20charges%20site%3Ajordantimes.com",
+       "direct": false
+      },
+      {
+       "o": "Crown Prince to begin three-day working visit to Estonia",
+       "fa": "ولیعهد سفر کاری سه‌روزه به استونی را آغاز می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CCrown%20Prince%20to%20begin%20three-day%20working%20visit%20to%20Estonia%20site%3Ajordantimes.com",
+       "direct": false
+      },
+      {
+       "o": "IMF says it reaches staff-level agreement with Jordan on $294m in new financing",
+       "fa": "صندوق بین‌المللی پول: با اردن بر سر تأمین مالی تازهٔ ۲۹۴ میلیون دلاری به توافق کارشناسی رسیدیم",
+       "url": "https://duckduckgo.com/?q=%5CIMF%20says%20it%20reaches%20staff-level%20agreement%20with%20Jordan%20on%20%24294m%20in%20new%20financing%20site%3Ajordantimes.com",
+       "direct": false
+      },
+      {
+       "o": "JD1.06 billion allocated to support food security, stabilise prices — ministry",
+       "fa": "وزارتخانه: ۱٫۰۶ میلیارد دینار برای حمایت از امنیت غذایی و ثبات قیمت‌ها اختصاص یافت",
+       "url": "https://duckduckgo.com/?q=%5CJD1.06%20billion%20allocated%20to%20support%20food%20security%2C%20stabilise%20prices%20%E2%80%94%20ministry%20site%3Ajordantimes.com",
+       "direct": false
+      },
+      {
+       "o": "Princess Ghida named among world's 100 most influential women in oncology for 2026",
+       "fa": "شاهزاده غیدا در میان ۱۰۰ زن تأثیرگذار جهان در حوزهٔ سرطان‌شناسی در ۲۰۲۶ قرار گرفت",
+       "url": "https://duckduckgo.com/?q=%5CPrincess%20Ghida%20named%20among%20world%27s%20100%20most%20influential%20women%20in%20oncology%20for%202026%20site%3Ajordantimes.com",
+       "direct": false
+      },
+      {
+       "o": "Iraq introduces visas on arrival for Jordanian citizens",
+       "fa": "عراق برای شهروندان اردنی روادید فرودگاهی برقرار کرد",
+       "url": "https://duckduckgo.com/?q=%5CIraq%20introduces%20visas%20on%20arrival%20for%20Jordanian%20citizens%20site%3Ajordantimes.com",
+       "direct": false
+      },
+      {
+       "o": "AFC postpones 2027 Asian Cup in Saudi Arabia amid regional developments",
+       "fa": "کنفدراسیون فوتبال آسیا جام ملت‌های ۲۰۲۷ در عربستان را در پی تحولات منطقه به تعویق انداخت",
+       "url": "https://duckduckgo.com/?q=%5CAFC%20postpones%202027%20Asian%20Cup%20in%20Saudi%20Arabia%20amid%20regional%20developments%20site%3Ajordantimes.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "فلسطین",
+   "flag": "🇵🇸",
+   "papers": [
+    {
+     "slug": "al-quds",
+     "name": "Al-Quds",
+     "fa": "القدس",
+     "site": "https://www.alquds.com",
+     "img": "covers/2026-11-04/al-quds.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/al-quds/",
+     "headlines": [
+      {
+       "o": "واشنطن وطهران تراجعان مسودة مقترح لإنهاء الحرب",
+       "fa": "واشنگتن و تهران پیش‌نویس طرحی برای پایان جنگ را بررسی می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5C%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86%20%D9%88%D8%B7%D9%87%D8%B1%D8%A7%D9%86%20%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9%D8%A7%D9%86%20%D9%85%D8%B3%D9%88%D8%AF%D8%A9%20%D9%85%D9%82%D8%AA%D8%B1%D8%AD%20%D9%84%D8%A5%D9%86%D9%87%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%20site%3Aalquds.com",
+       "direct": false
+      },
+      {
+       "o": "الأنصاري: لقاءات الدوحة تشير إلى بصيص أمل بنجاح الحل الدبلوماسي",
+       "fa": "انصاری: دیدارهای دوحه از روزنهٔ امیدی برای موفقیت راه‌حل دیپلماتیک حکایت دارد",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D9%84%D8%A3%D9%86%D8%B5%D8%A7%D8%B1%D9%8A%3A%20%D9%84%D9%82%D8%A7%D8%A1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9%20%D8%AA%D8%B4%D9%8A%D8%B1%20%D8%A5%D9%84%D9%89%20%D8%A8%D8%B5%D9%8A%D8%B5%20%D8%A3%D9%85%D9%84%20%D8%A8%D9%86%D8%AC%D8%A7%D8%AD%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%20site%3Aalquds.com",
+       "direct": false
+      },
+      {
+       "o": "ترمب يعلن وقف المساعدات الأمريكية السنوية لإسرائيل",
+       "fa": "ترامپ از قطع کمک‌های سالانهٔ آمریکا به اسرائیل خبر داد",
+       "url": "https://duckduckgo.com/?q=%5C%D8%AA%D8%B1%D9%85%D8%A8%20%D9%8A%D8%B9%D9%84%D9%86%20%D9%88%D9%82%D9%81%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A%D8%A9%20%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%20site%3Aalquds.com",
+       "direct": false
+      },
+      {
+       "o": "5 شهداء بينهم طفلة بغارات على غزة",
+       "fa": "پنج شهید از جمله یک دختربچه در حملات هوایی به غزه",
+       "url": "https://duckduckgo.com/?q=%5C5%20%D8%B4%D9%87%D8%AF%D8%A7%D8%A1%20%D8%A8%D9%8A%D9%86%D9%87%D9%85%20%D8%B7%D9%81%D9%84%D8%A9%20%D8%A8%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%B9%D9%84%D9%89%20%D8%BA%D8%B2%D8%A9%20site%3Aalquds.com",
+       "direct": false
+      },
+      {
+       "o": "اعتداءات للمستوطنين وأوامر بالاستيلاء على 41 دونماً",
+       "fa": "حملات شهرک‌نشینان و دستور مصادرهٔ ۴۱ دونم زمین",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA%20%D9%84%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%8A%D9%86%20%D9%88%D8%A3%D9%88%D8%A7%D9%85%D8%B1%20%D8%A8%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%84%D8%A7%D8%A1%20%D8%B9%D9%84%D9%89%2041%20%D8%AF%D9%88%D9%86%D9%85%D8%A7%D9%8B%20site%3Aalquds.com",
+       "direct": false
+      },
+      {
+       "o": "غولان يلتقي جبارين والطيبي في إطار مشاورات لتشكيل الحكومة",
+       "fa": "گولان در چارچوب رایزنی‌های تشکیل دولت با جبارین و طیبی دیدار کرد",
+       "url": "https://duckduckgo.com/?q=%5C%D8%BA%D9%88%D9%84%D8%A7%D9%86%20%D9%8A%D9%84%D8%AA%D9%82%D9%8A%20%D8%AC%D8%A8%D8%A7%D8%B1%D9%8A%D9%86%20%D9%88%D8%A7%D9%84%D8%B7%D9%8A%D8%A8%D9%8A%20%D9%81%D9%8A%20%D8%A5%D8%B7%D8%A7%D8%B1%20%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D8%A7%D8%AA%20%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84%20%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9%20site%3Aalquds.com",
+       "direct": false
+      },
+      {
+       "o": "القناة 15: بلديات ومستشفيات إسرائيلية تقرر فتح الملاجئ خشية تصعيد مرتقب",
+       "fa": "شبکهٔ ۱۵: شهرداری‌ها و بیمارستان‌های اسرائیل از بیم تشدید احتمالی تنش، پناهگاه‌ها را باز می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9%2015%3A%20%D8%A8%D9%84%D8%AF%D9%8A%D8%A7%D8%AA%20%D9%88%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA%20%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9%20%D8%AA%D9%82%D8%B1%D8%B1%20%D9%81%D8%AA%D8%AD%20%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AC%D8%A6%20%D8%AE%D8%B4%D9%8A%D8%A9%20%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF%20%D9%85%D8%B1%D8%AA%D9%82%D8%A8%20site%3Aalquds.com",
+       "direct": false
+      },
+      {
+       "o": "بلير في تل أبيب بعد أيام لدعم مبادرات تتعلق بمستقبل القطاع",
+       "fa": "بلر چند روز دیگر برای حمایت از ابتکارهای مربوط به آیندهٔ نوار غزه به تل‌آویو می‌رود",
+       "url": "https://duckduckgo.com/?q=%5C%D8%A8%D9%84%D9%8A%D8%B1%20%D9%81%D9%8A%20%D8%AA%D9%84%20%D8%A3%D8%A8%D9%8A%D8%A8%20%D8%A8%D8%B9%D8%AF%20%D8%A3%D9%8A%D8%A7%D9%85%20%D9%84%D8%AF%D8%B9%D9%85%20%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%20%D8%AA%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9%20site%3Aalquds.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "اسرائیل",
+   "flag": "🇮🇱",
+   "papers": [
+    {
+     "slug": "haaretz",
+     "name": "Haaretz",
+     "fa": "هاآرتص",
+     "site": "https://www.haaretz.com",
+     "img": "covers/2026-11-04/haaretz.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/haaretz/",
+     "headlines": [
+      {
+       "o": "Opposition leaders meet, vow to 'swiftly' oust PM, back Eisenkot",
+       "fa": "رهبران مخالف دیدار کردند و متعهد شدند نخست‌وزیر را «به‌سرعت» برکنار کنند و از آیزنکوت حمایت کنند",
+       "url": "https://duckduckgo.com/?q=%5COpposition%20leaders%20meet%2C%20vow%20to%20%27swiftly%27%20oust%20PM%2C%20back%20Eisenkot%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Trump: PM and I agreed military aid will stop this year",
+       "fa": "ترامپ: من و نخست‌وزیر توافق کردیم کمک نظامی امسال متوقف شود",
+       "url": "https://duckduckgo.com/?q=%5CTrump%3A%20PM%20and%20I%20agreed%20military%20aid%20will%20stop%20this%20year%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "A sign of Israel's waning status in U.S.",
+       "fa": "نشانه‌ای از افول جایگاه اسرائیل در آمریکا",
+       "url": "https://duckduckgo.com/?q=%5CA%20sign%20of%20Israel%27s%20waning%20status%20in%20U.S.%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Shin Bet chief demands probe of Arab MKs without evidence of allegations",
+       "fa": "رئیس شین‌بت بدون ارائهٔ مدرکی برای اتهامات، خواستار تحقیق دربارهٔ نمایندگان عرب کنست شد",
+       "url": "https://duckduckgo.com/?q=%5CShin%20Bet%20chief%20demands%20probe%20of%20Arab%20MKs%20without%20evidence%20of%20allegations%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Israel's political paradox should not have happened",
+       "fa": "تناقض سیاسی اسرائیل نباید رخ می‌داد",
+       "url": "https://duckduckgo.com/?q=%5CIsrael%27s%20political%20paradox%20should%20not%20have%20happened%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "IDF sources: Settler violence spiking during illegal W. Bank outpost removals",
+       "fa": "منابع ارتش اسرائیل: خشونت شهرک‌نشینان هنگام برچیدن پایگاه‌های غیرقانونی کرانهٔ باختری اوج گرفته است",
+       "url": "https://duckduckgo.com/?q=%5CIDF%20sources%3A%20Settler%20violence%20spiking%20during%20illegal%20W.%20Bank%20outpost%20removals%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "Jewish Dems who may reshape Congress' approach to Israel",
+       "fa": "دموکرات‌های یهودی که ممکن است رویکرد کنگره به اسرائیل را دگرگون کنند",
+       "url": "https://duckduckgo.com/?q=%5CJewish%20Dems%20who%20may%20reshape%20Congress%27%20approach%20to%20Israel%20site%3Ahaaretz.com",
+       "direct": false
+      },
+      {
+       "o": "31 years since Rabin murder",
+       "fa": "۳۱ سال پس از قتل رابین",
+       "url": "https://duckduckgo.com/?q=%5C31%20years%20since%20Rabin%20murder%20site%3Ahaaretz.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-jerusalem-post",
+     "name": "The Jerusalem Post",
+     "fa": "جروزالم پست",
+     "site": "https://www.jpost.com",
+     "img": "covers/2026-11-04/the-jerusalem-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-jerusalem-post/",
+     "headlines": [
+      {
+       "o": "In shock call, Trump says US to halt military aid to Israel from next year",
+       "fa": "ترامپ در اعلامی غافلگیرکننده: آمریکا از سال آینده کمک نظامی به اسرائیل را متوقف می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CIn%20shock%20call%2C%20Trump%20says%20US%20to%20halt%20military%20aid%20to%20Israel%20from%20next%20year%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "President's praise: Jerusalem a reliable ally, unlike other countries",
+       "fa": "ستایش رئیس‌جمهور: اورشلیم برخلاف دیگر کشورها متحدی قابل‌اعتماد است",
+       "url": "https://duckduckgo.com/?q=%5CPresident%27s%20praise%3A%20Jerusalem%20a%20reliable%20ally%2C%20unlike%20other%20countries%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "What does Trump's declaration mean?",
+       "fa": "اعلام ترامپ به چه معناست؟",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20does%20Trump%27s%20declaration%20mean%3F%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Opposition bloc backs Eisenkot for PM, will act swiftly to form gov't",
+       "fa": "بلوک مخالف از نخست‌وزیری آیزنکوت حمایت می‌کند و به‌سرعت برای تشکیل دولت اقدام خواهد کرد",
+       "url": "https://duckduckgo.com/?q=%5COpposition%20bloc%20backs%20Eisenkot%20for%20PM%2C%20will%20act%20swiftly%20to%20form%20gov%27t%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Trump's aid bombshell, Haley Stevens, and the battle for the soul of the Democratic Party",
+       "fa": "بمب کمک‌های ترامپ، هیلی استیونز و نبرد بر سر روح حزب دموکرات",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20aid%20bombshell%2C%20Haley%20Stevens%2C%20and%20the%20battle%20for%20the%20soul%20of%20the%20Democratic%20Party%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "US-Iran talks 'stuck,' sources tell 'Post'",
+       "fa": "منابع به «پست» گفتند مذاکرات آمریکا و ایران «گیر کرده است»",
+       "url": "https://duckduckgo.com/?q=%5CUS-Iran%20talks%20%27stuck%2C%27%20sources%20tell%20%27Post%27%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Boy George at the Nova festival memorial: 'If you're ever confused, I stand with the Jews'",
+       "fa": "بوی جورج در یادبود جشنوارهٔ نوا: «اگر روزی تردید داشتید، من کنار یهودیان می‌ایستم»",
+       "url": "https://duckduckgo.com/?q=%5CBoy%20George%20at%20the%20Nova%20festival%20memorial%3A%20%27If%20you%27re%20ever%20confused%2C%20I%20stand%20with%20the%20Jews%27%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Coalition wrangling",
+       "fa": "کشمکش‌های ائتلافی",
+       "url": "https://duckduckgo.com/?q=%5CCoalition%20wrangling%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "Upsetting: Flights in Europe disrupted by bomb threats, no devices found",
+       "fa": "آشفتگی: پروازها در اروپا با تهدید بمب مختل شد، اما بمبی پیدا نشد",
+       "url": "https://duckduckgo.com/?q=%5CUpsetting%3A%20Flights%20in%20Europe%20disrupted%20by%20bomb%20threats%2C%20no%20devices%20found%20site%3Ajpost.com",
+       "direct": false
+      },
+      {
+       "o": "'Paging Hezbollah': Documentary recounting Mossad op released in US",
+       "fa": "«پیجرهای حزب‌الله»: مستندی دربارهٔ عملیات موساد در آمریکا منتشر شد",
+       "url": "https://duckduckgo.com/?q=%5C%27Paging%20Hezbollah%27%3A%20Documentary%20recounting%20Mossad%20op%20released%20in%20US%20site%3Ajpost.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ترکیه",
+   "flag": "🇹🇷",
+   "papers": [
+    {
+     "slug": "hurriyet",
+     "name": "Hürriyet",
+     "fa": "حریت",
+     "site": "https://www.hurriyet.com.tr",
+     "img": "covers/2026-11-04/hurriyet.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/hurriyet/",
+     "headlines": [
+      {
+       "o": "Ara ödemeler bu hafta sürecek",
+       "fa": "پرداخت‌های میان‌دوره‌ای این هفته ادامه می‌یابد",
+       "url": "https://duckduckgo.com/?q=%5CAra%20%C3%B6demeler%20bu%20hafta%20s%C3%BCrecek%20site%3Ahurriyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Yeni hedefimiz 15 milyar dolar",
+       "fa": "هدف تازهٔ ما ۱۵ میلیارد دلار است",
+       "url": "https://duckduckgo.com/?q=%5CYeni%20hedefimiz%2015%20milyar%20dolar%20site%3Ahurriyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Türkiye bizim kan kardeşimiz",
+       "fa": "ترکیه برادر خونی ماست",
+       "url": "https://duckduckgo.com/?q=%5CT%C3%BCrkiye%20bizim%20kan%20karde%C5%9Fimiz%20site%3Ahurriyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Ekim enflasyonu yüzde 2.58",
+       "fa": "تورم مهرماه (اکتبر) ۲٫۵۸ درصد",
+       "url": "https://duckduckgo.com/?q=%5CEkim%20enflasyonu%20y%C3%BCzde%202.58%20site%3Ahurriyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Altı kişi daha gözaltına alındı",
+       "fa": "شش نفر دیگر بازداشت شدند",
+       "url": "https://duckduckgo.com/?q=%5CAlt%C4%B1%20ki%C5%9Fi%20daha%20g%C3%B6zalt%C4%B1na%20al%C4%B1nd%C4%B1%20site%3Ahurriyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Bahis çarkını yerli yapay zekâ 'avcı' bozdu",
+       "fa": "هوش مصنوعی بومی «شکارچی» چرخهٔ شرط‌بندی را از کار انداخت",
+       "url": "https://duckduckgo.com/?q=%5CBahis%20%C3%A7ark%C4%B1n%C4%B1%20yerli%20yapay%20zek%C3%A2%20%27avc%C4%B1%27%20bozdu%20site%3Ahurriyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Varlık Fonu büyük hissedar",
+       "fa": "صندوق ثروت سهام‌دار بزرگ",
+       "url": "https://duckduckgo.com/?q=%5CVarl%C4%B1k%20Fonu%20b%C3%BCy%C3%BCk%20hissedar%20site%3Ahurriyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Batrasov",
+       "fa": "باتراسوف",
+       "url": "https://duckduckgo.com/?q=%5CBatrasov%20site%3Ahurriyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Avrupa'da zor sınav",
+       "fa": "آزمون دشوار در اروپا",
+       "url": "https://duckduckgo.com/?q=%5CAvrupa%27da%20zor%20s%C4%B1nav%20site%3Ahurriyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Karakuyu'da gizem ve mücadele",
+       "fa": "رمز و راز و مبارزه در کاراکویو",
+       "url": "https://duckduckgo.com/?q=%5CKarakuyu%27da%20gizem%20ve%20m%C3%BCcadele%20site%3Ahurriyet.com.tr",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "هند",
+   "flag": "🇮🇳",
+   "papers": [
+    {
+     "slug": "the-times-of-india",
+     "name": "The Times of India",
+     "fa": "تایمز آو ایندیا",
+     "site": "https://timesofindia.indiatimes.com",
+     "img": "covers/2026-11-04/the-times-of-india.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-times-of-india/",
+     "headlines": [
+      {
+       "o": "EC: Okay to use Form 6 for re-inclusion in rolls",
+       "fa": "کمیسیون انتخابات: استفاده از فرم ۶ برای بازگرداندن نام به فهرست رأی‌دهندگان مجاز است",
+       "url": "https://duckduckgo.com/?q=%5CEC%3A%20Okay%20to%20use%20Form%206%20for%20re-inclusion%20in%20rolls%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "'No Action To Be Taken Against Those Doing So'",
+       "fa": "«هیچ اقدامی علیه کسانی که چنین می‌کنند انجام نخواهد شد»",
+       "url": "https://duckduckgo.com/?q=%5C%27No%20Action%20To%20Be%20Taken%20Against%20Those%20Doing%20So%27%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "SC: Right to protest can't justify endless occupation of a site",
+       "fa": "دیوان عالی: حق اعتراض اشغال بی‌پایان یک مکان را توجیه نمی‌کند",
+       "url": "https://duckduckgo.com/?q=%5CSC%3A%20Right%20to%20protest%20can%27t%20justify%20endless%20occupation%20of%20a%20site%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "ACP who led police protest suspended",
+       "fa": "معاون فرمانده پلیس که اعتراض پلیس‌ها را رهبری کرده بود تعلیق شد",
+       "url": "https://duckduckgo.com/?q=%5CACP%20who%20led%20police%20protest%20suspended%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Apology is not accountability: HC on detention",
+       "fa": "دادگاه عالی ایالتی دربارهٔ بازداشت: عذرخواهی به معنای پاسخ‌گویی نیست",
+       "url": "https://duckduckgo.com/?q=%5CApology%20is%20not%20accountability%3A%20HC%20on%20detention%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "One more Indian seafarer killed near Oman; toll 23",
+       "fa": "یک دریانورد هندی دیگر نزدیک عمان کشته شد؛ شمار قربانیان به ۲۳ رسید",
+       "url": "https://duckduckgo.com/?q=%5COne%20more%20Indian%20seafarer%20killed%20near%20Oman%3B%20toll%2023%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "US carries out limited strikes on Iran island",
+       "fa": "آمریکا حملات محدودی به جزیره‌ای ایرانی انجام داد",
+       "url": "https://duckduckgo.com/?q=%5CUS%20carries%20out%20limited%20strikes%20on%20Iran%20island%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "'Aren't we secular?' HC orders Dia's post restored",
+       "fa": "«مگر ما سکولار نیستیم؟» دادگاه دستور بازگرداندن پست دیا را داد",
+       "url": "https://duckduckgo.com/?q=%5C%27Aren%27t%20we%20secular%3F%27%20HC%20orders%20Dia%27s%20post%20restored%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Trump's trial by midterms",
+       "fa": "محاکمهٔ ترامپ در انتخابات میان‌دوره‌ای",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20trial%20by%20midterms%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Govt eyes ₹15k cr from land sale of public enterprises",
+       "fa": "دولت از فروش زمین شرکت‌های دولتی ۱۵ هزار کرور روپیه درآمد در نظر دارد",
+       "url": "https://duckduckgo.com/?q=%5CGovt%20eyes%20%E2%82%B915k%20cr%20from%20land%20sale%20of%20public%20enterprises%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-hindu",
+     "name": "The Hindu",
+     "fa": "هندو",
+     "site": "https://www.thehindu.com",
+     "img": "covers/2026-11-04/the-hindu.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-hindu/",
+     "headlines": [
+      {
+       "o": "2 dead as cyclone ravages 3 districts of A.P.",
+       "fa": "توفان سه ناحیهٔ آندرا پرادش را ویران کرد؛ دو نفر کشته شدند",
+       "url": "https://duckduckgo.com/?q=%5C2%20dead%20as%20cyclone%20ravages%203%20districts%20of%20A.P.%20site%3Athehindu.com",
+       "direct": false
+      },
+      {
+       "o": "Drone strike on vessel off Oman leaves Indian dead",
+       "fa": "حملهٔ پهپادی به کشتی‌ای در آب‌های عمان یک هندی را کشت",
+       "url": "https://duckduckgo.com/?q=%5CDrone%20strike%20on%20vessel%20off%20Oman%20leaves%20Indian%20dead%20site%3Athehindu.com",
+       "direct": false
+      },
+      {
+       "o": "U.S. votes in midterm elections; control of Congress at stake",
+       "fa": "آمریکا در انتخابات میان‌دوره‌ای رأی می‌دهد؛ کنترل کنگره در خطر است",
+       "url": "https://duckduckgo.com/?q=%5CU.S.%20votes%20in%20midterm%20elections%3B%20control%20of%20Congress%20at%20stake%20site%3Athehindu.com",
+       "direct": false
+      },
+      {
+       "o": "Russia trying to foment 'instability' in Poland: Tusk",
+       "fa": "توسک: روسیه می‌کوشد در لهستان «بی‌ثباتی» ایجاد کند",
+       "url": "https://duckduckgo.com/?q=%5CRussia%20trying%20to%20foment%20%27instability%27%20in%20Poland%3A%20Tusk%20site%3Athehindu.com",
+       "direct": false
+      },
+      {
+       "o": "Movements create 'protest economy', SC tells traders",
+       "fa": "دیوان عالی به بازرگانان: جنبش‌ها «اقتصاد اعتراض» می‌سازند",
+       "url": "https://duckduckgo.com/?q=%5CMovements%20create%20%27protest%20economy%27%2C%20SC%20tells%20traders%20site%3Athehindu.com",
+       "direct": false
+      },
+      {
+       "o": "803 voter IDs linked to 197 names after SIR",
+       "fa": "پس از بازبینی ویژه، ۸۰۳ کارت رأی‌دهنده به ۱۹۷ نام مرتبط بود",
+       "url": "https://duckduckgo.com/?q=%5C803%20voter%20IDs%20linked%20to%20197%20names%20after%20SIR%20site%3Athehindu.com",
+       "direct": false
+      },
+      {
+       "o": "NDA heads for landslide win in Andhra Pradesh",
+       "fa": "ائتلاف ملی دموکراتیک به سوی پیروزی قاطع در آندرا پرادش",
+       "url": "https://duckduckgo.com/?q=%5CNDA%20heads%20for%20landslide%20win%20in%20Andhra%20Pradesh%20site%3Athehindu.com",
+       "direct": false
+      },
+      {
+       "o": "Silence is not a strategy",
+       "fa": "سکوت راهبرد نیست",
+       "url": "https://duckduckgo.com/?q=%5CSilence%20is%20not%20a%20strategy%20site%3Athehindu.com",
+       "direct": false
+      },
+      {
+       "o": "New Zealand, India lock horns in ODIs",
+       "fa": "نیوزیلند و هند در مسابقات یک‌روزه شاخ‌به‌شاخ می‌شوند",
+       "url": "https://duckduckgo.com/?q=%5CNew%20Zealand%2C%20India%20lock%20horns%20in%20ODIs%20site%3Athehindu.com",
+       "direct": false
+      },
+      {
+       "o": "Tata-Iveco deal 'global ambition turns into reality'",
+       "fa": "قرارداد تاتا و ایوکو: «بلندپروازی جهانی به واقعیت بدل شد»",
+       "url": "https://duckduckgo.com/?q=%5CTata-Iveco%20deal%20%27global%20ambition%20turns%20into%20reality%27%20site%3Athehindu.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "hindustan-times",
+     "name": "Hindustan Times",
+     "fa": "هندوستان تایمز",
+     "site": "https://www.hindustantimes.com",
+     "img": "covers/2026-11-04/hindustan-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/hindustan-times/",
+     "headlines": [
+      {
+       "o": "SC flags illegal firecracker sales as AQI surges in city",
+       "fa": "دیوان عالی با افزایش شاخص آلودگی هوای شهر، فروش غیرقانونی ترقه را گوشزد کرد",
+       "url": "https://duckduckgo.com/?q=%5CSC%20flags%20illegal%20firecracker%20sales%20as%20AQI%20surges%20in%20city%20site%3Ahindustantimes.com",
+       "direct": false
+      },
+      {
+       "o": "Indian killed in attack on dhow near Oman, 23rd in West Asia",
+       "fa": "یک هندی در حمله به لنجی نزدیک عمان کشته شد؛ بیست‌وسومین قربانی در غرب آسیا",
+       "url": "https://duckduckgo.com/?q=%5CIndian%20killed%20in%20attack%20on%20dhow%20near%20Oman%2C%2023rd%20in%20West%20Asia%20site%3Ahindustantimes.com",
+       "direct": false
+      },
+      {
+       "o": "Indian killed as 2 choppers crash in Nepal",
+       "fa": "با سقوط دو بالگرد در نپال یک هندی کشته شد",
+       "url": "https://duckduckgo.com/?q=%5CIndian%20killed%20as%202%20choppers%20crash%20in%20Nepal%20site%3Ahindustantimes.com",
+       "direct": false
+      },
+      {
+       "o": "Navy acts against two over warship mishap",
+       "fa": "نیروی دریایی علیه دو نفر به خاطر سانحهٔ ناو جنگی اقدام کرد",
+       "url": "https://duckduckgo.com/?q=%5CNavy%20acts%20against%20two%20over%20warship%20mishap%20site%3Ahindustantimes.com",
+       "direct": false
+      },
+      {
+       "o": "HT launches pollution dashboard that puts air quality data in context",
+       "fa": "هندوستان تایمز داشبورد آلودگی راه انداخت که داده‌های کیفیت هوا را در بستر آن نشان می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CHT%20launches%20pollution%20dashboard%20that%20puts%20air%20quality%20data%20in%20context%20site%3Ahindustantimes.com",
+       "direct": false
+      },
+      {
+       "o": "Nobody has right to occupy protest site indefinitely, says SC",
+       "fa": "دیوان عالی: هیچ‌کس حق ندارد محل اعتراض را برای همیشه اشغال کند",
+       "url": "https://duckduckgo.com/?q=%5CNobody%20has%20right%20to%20occupy%20protest%20site%20indefinitely%2C%20says%20SC%20site%3Ahindustantimes.com",
+       "direct": false
+      },
+      {
+       "o": "As US votes, Trump strikes Iran",
+       "fa": "همزمان با رأی‌گیری در آمریکا، ترامپ به ایران حمله کرد",
+       "url": "https://duckduckgo.com/?q=%5CAs%20US%20votes%2C%20Trump%20strikes%20Iran%20site%3Ahindustantimes.com",
+       "direct": false
+      },
+      {
+       "o": "Bengaluru: Outfit 'audits' Kannadigas in tech cos",
+       "fa": "بنگلور: یک گروه کانادایی‌زبانان را در شرکت‌های فناوری «حسابرسی» می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CBengaluru%3A%20Outfit%20%27audits%27%20Kannadigas%20in%20tech%20cos%20site%3Ahindustantimes.com",
+       "direct": false
+      },
+      {
+       "o": "Ranks, fee cuts: Health min panel proposes raft of NEET-PG changes",
+       "fa": "رتبه‌ها و کاهش شهریه: کمیتهٔ وزارت بهداشت مجموعه‌ای از تغییرات در آزمون NEET-PG پیشنهاد کرد",
+       "url": "https://duckduckgo.com/?q=%5CRanks%2C%20fee%20cuts%3A%20Health%20min%20panel%20proposes%20raft%20of%20NEET-PG%20changes%20site%3Ahindustantimes.com",
+       "direct": false
+      },
+      {
+       "o": "After curbs on sugarcane, govt restricts use of rice for ethanol",
+       "fa": "پس از محدودیت نیشکر، دولت استفاده از برنج برای تولید اتانول را محدود کرد",
+       "url": "https://duckduckgo.com/?q=%5CAfter%20curbs%20on%20sugarcane%2C%20govt%20restricts%20use%20of%20rice%20for%20ethanol%20site%3Ahindustantimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-economic-times",
+     "name": "The Economic Times",
+     "fa": "اکونومیک تایمز",
+     "site": "https://economictimes.indiatimes.com",
+     "img": "covers/2026-11-04/the-economic-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-economic-times/",
+     "headlines": [
+      {
+       "o": "Gig Worker Benefits may Come @ 2%/Transaction",
+       "fa": "مزایای کارگران پلتفرمی ممکن است با ۲ درصد از هر تراکنش تأمین شود",
+       "url": "https://duckduckgo.com/?q=%5CGig%20Worker%20Benefits%20may%20Come%20%40%202%25/Transaction%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Robust SBI Loan Growth Brings a Street-beating Q2",
+       "fa": "رشد قوی وام‌های بانک دولتی هند سه‌ماههٔ دومی فراتر از انتظار بازار رقم زد",
+       "url": "https://duckduckgo.com/?q=%5CRobust%20SBI%20Loan%20Growth%20Brings%20a%20Street-beating%20Q2%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Mac & Co Ditch India Cameo, Play Big Role in Apple's Hit Sept Quarter",
+       "fa": "مک و دیگر محصولات از نقش کوتاه گذشتند و در سه‌ماههٔ پرفروش سپتامبر اپل در هند نقشی بزرگ ایفا کردند",
+       "url": "https://duckduckgo.com/?q=%5CMac%20%26%20Co%20Ditch%20India%20Cameo%2C%20Play%20Big%20Role%20in%20Apple%27s%20Hit%20Sept%20Quarter%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Premji Invest Goes Big on Strategic Output & Tech",
+       "fa": "پرمجی اینوست روی تولید راهبردی و فناوری سرمایه‌گذاری کلان می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CPremji%20Invest%20Goes%20Big%20on%20Strategic%20Output%20%26%20Tech%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Indices Soar to Near 2-Mth High",
+       "fa": "شاخص‌ها به نزدیک بالاترین سطح دوماهه جهش کردند",
+       "url": "https://duckduckgo.com/?q=%5CIndices%20Soar%20to%20Near%202-Mth%20High%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "PM Modi Hails India's Growth Story, Property Eradication Drive",
+       "fa": "مودی داستان رشد هند و کارزار ریشه‌کنی فقر را ستود",
+       "url": "https://duckduckgo.com/?q=%5CPM%20Modi%20Hails%20India%27s%20Growth%20Story%2C%20Property%20Eradication%20Drive%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Refiners Expect Healthy Margins, but Costs a Worry",
+       "fa": "پالایشگران انتظار حاشیهٔ سود خوبی دارند، اما هزینه‌ها نگران‌کننده است",
+       "url": "https://duckduckgo.com/?q=%5CRefiners%20Expect%20Healthy%20Margins%2C%20but%20Costs%20a%20Worry%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Acquisitions Turbocharge IT Inc's Growth",
+       "fa": "خریدها به رشد شرکت‌های فناوری اطلاعات شتاب می‌دهند",
+       "url": "https://duckduckgo.com/?q=%5CAcquisitions%20Turbocharge%20IT%20Inc%27s%20Growth%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Lighthouse Eyes 2 Hyderabad Schools",
+       "fa": "لایت‌هاوس دو مدرسه در حیدرآباد را هدف گرفته است",
+       "url": "https://duckduckgo.com/?q=%5CLighthouse%20Eyes%202%20Hyderabad%20Schools%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "dainik-jagran",
+     "name": "Dainik Jagran",
+     "fa": "دینک جاگران",
+     "site": "https://www.jagran.com",
+     "img": "covers/2026-11-04/dainik-jagran.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/dainik-jagran/",
+     "headlines": [
+      {
+       "o": "विरोध-प्रदर्शन स्थल पर हमेशा के लिए कब्जा नहीं किया जा सकता: सुप्रीम कोर्ट",
+       "fa": "دیوان عالی: محل اعتراض را نمی‌توان برای همیشه اشغال کرد",
+       "url": "https://duckduckgo.com/?q=%5C%E0%A4%B5%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%A7-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8%20%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%B2%20%E0%A4%AA%E0%A4%B0%20%E0%A4%B9%E0%A4%AE%E0%A5%87%E0%A4%B6%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%95%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A4%BE%20%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82%20%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE%20%E0%A4%9C%E0%A4%BE%20%E0%A4%B8%E0%A4%95%E0%A4%A4%E0%A4%BE%3A%20%E0%A4%B8%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AE%20%E0%A4%95%E0%A5%8B%E0%A4%B0%E0%A5%8D%E0%A4%9F%20site%3Ajagran.com",
+       "direct": false
+      },
+      {
+       "o": "कांग्रेस हमेशा संविधान विरोधियों के साथ: शाह",
+       "fa": "شاه: کنگره همیشه در کنار مخالفان قانون اساسی بوده است",
+       "url": "https://duckduckgo.com/?q=%5C%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B8%20%E0%A4%B9%E0%A4%AE%E0%A5%87%E0%A4%B6%E0%A4%BE%20%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%20%E0%A4%B5%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%A7%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82%20%E0%A4%95%E0%A5%87%20%E0%A4%B8%E0%A4%BE%E0%A4%A5%3A%20%E0%A4%B6%E0%A4%BE%E0%A4%B9%20site%3Ajagran.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
