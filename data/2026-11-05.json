@@ -7,6 +7,108 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-05/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "A Forceful Rebuke: Democrats Sweep Congress, Delivering Blow to Republicans",
+       "fa": "توبیخی قاطع: دموکرات‌ها کنگره را درنوردیدند و ضربه‌ای به جمهوری‌خواهان زدند",
+       "url": "https://duckduckgo.com/?q=%5CA%20Forceful%20Rebuke%3A%20Democrats%20Sweep%20Congress%2C%20Delivering%20Blow%20to%20Republicans%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "A Signal Trump's Era Is Starting Its Twilight",
+       "fa": "نشانه‌ای از آغاز غروب دوران ترامپ",
+       "url": "https://duckduckgo.com/?q=%5CA%20Signal%20Trump%27s%20Era%20Is%20Starting%20Its%20Twilight%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Vance Cites War — Johnson to Step Back",
+       "fa": "ونس جنگ را مقصر می‌داند؛ جانسون کنار می‌رود",
+       "url": "https://duckduckgo.com/?q=%5CVance%20Cites%20War%20%E2%80%94%20Johnson%20to%20Step%20Back%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Seismic Change As Texas Breaks Grasp of G.O.P.",
+       "fa": "تحولی زلزله‌وار؛ تگزاس از چنگ جمهوری‌خواهان رها شد",
+       "url": "https://duckduckgo.com/?q=%5CSeismic%20Change%20As%20Texas%20Breaks%20Grasp%20of%20G.O.P.%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "The Senate Seats That Turned Blue",
+       "fa": "کرسی‌های سنا که آبی شدند",
+       "url": "https://duckduckgo.com/?q=%5CThe%20Senate%20Seats%20That%20Turned%20Blue%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Congress to Dust Off Role As Check on the President",
+       "fa": "کنگره نقش خود را در مهار رئیس‌جمهور از نو زنده می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CCongress%20to%20Dust%20Off%20Role%20As%20Check%20on%20the%20President%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-11-05/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "Parties reckon with new era",
+       "fa": "دو حزب با دورانی تازه روبه‌رو می‌شوند",
+       "url": "https://duckduckgo.com/?q=%5CParties%20reckon%20with%20new%20era%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats face a choice: Confront or compromise",
+       "fa": "دموکرات‌ها بر سر دوراهی: رویارویی یا سازش",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20face%20a%20choice%3A%20Confront%20or%20compromise%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Trump joins some in GOP in blaming Iran war",
+       "fa": "ترامپ هم با برخی جمهوری‌خواهان جنگ ایران را مقصر می‌داند",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20joins%20some%20in%20GOP%20in%20blaming%20Iran%20war%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "The GOP missteps that helped lay the groundwork for a historic rebuke",
+       "fa": "خطاهای جمهوری‌خواهان که زمینه‌ساز توبیخی تاریخی شد",
+       "url": "https://duckduckgo.com/?q=%5CThe%20GOP%20missteps%20that%20helped%20lay%20the%20groundwork%20for%20a%20historic%20rebuke%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "A big U-turn for majority-Latino counties that had flipped for Trump",
+       "fa": "چرخشی بزرگ در شهرستان‌های لاتین‌تبار که پیش‌تر به ترامپ گرویده بودند",
+       "url": "https://duckduckgo.com/?q=%5CA%20big%20U-turn%20for%20majority-Latino%20counties%20that%20had%20flipped%20for%20Trump%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "After rout, Trump returns to ballroom, his 'safest place'",
+       "fa": "ترامپ پس از شکست سنگین به تالار رقص، «امن‌ترین جایش»، بازمی‌گردد",
+       "url": "https://duckduckgo.com/?q=%5CAfter%20rout%2C%20Trump%20returns%20to%20ballroom%2C%20his%20%27safest%20place%27%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "D.C. gets ready for its first democratic socialist mayor",
+       "fa": "واشنگتن برای نخستین شهردار سوسیالیست دموکراتش آماده می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CD.C.%20gets%20ready%20for%20its%20first%20democratic%20socialist%20mayor%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "usa-today",
      "name": "USA Today",
      "fa": "یو‌اس‌ای تودی",
@@ -56,6 +158,192 @@
        "o": "Ali's story steps into stream, out of the ring",
        "fa": "داستان علی از رینگ بیرون آمد و به پخش آنلاین رسید",
        "url": "https://duckduckgo.com/?q=%5CAli%27s%20story%20steps%20into%20stream%2C%20out%20of%20the%20ring%20site%3Ausatoday.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-05/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "'A generational remake' from the left",
+       "fa": "«بازسازی نسلی» از سوی چپ",
+       "url": "https://duckduckgo.com/?q=%5C%27A%20generational%20remake%27%20from%20the%20left%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Raman is poised to win, analysts predict",
+       "fa": "تحلیلگران: رامان در آستانهٔ پیروزی است",
+       "url": "https://duckduckgo.com/?q=%5CRaman%20is%20poised%20to%20win%2C%20analysts%20predict%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats' historic triumph was fueled by a rare coalition of voters",
+       "fa": "پیروزی تاریخی دموکرات‌ها حاصل ائتلافی کم‌نظیر از رأی‌دهندگان بود",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%27%20historic%20triumph%20was%20fueled%20by%20a%20rare%20coalition%20of%20voters%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "What will define the 'Becerra era'?",
+       "fa": "«دوران بسرا» با چه چیزی تعریف خواهد شد؟",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20will%20define%20the%20%27Becerra%20era%27%3F%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "New focus on reining in Trump and prices",
+       "fa": "تمرکز تازه بر مهار ترامپ و قیمت‌ها",
+       "url": "https://duckduckgo.com/?q=%5CNew%20focus%20on%20reining%20in%20Trump%20and%20prices%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "new-york-post",
+     "name": "New York Post",
+     "fa": "نیویورک پست",
+     "site": "https://nypost.com",
+     "img": "covers/2026-11-05/new-york-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/new-york-post/",
+     "headlines": [
+      {
+       "o": "Tehran Us Apart",
+       "fa": "تهران ما را از هم جدا کرد",
+       "url": "https://duckduckgo.com/?q=%5CTehran%20Us%20Apart%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "Vance puts blame for midterm shellacking on Trump's Iran war",
+       "fa": "ونس شکست سنگین میان‌دوره‌ای را به گردن جنگ ایرانِ ترامپ می‌اندازد",
+       "url": "https://duckduckgo.com/?q=%5CVance%20puts%20blame%20for%20midterm%20shellacking%20on%20Trump%27s%20Iran%20war%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-05/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "On day after, jubilation and resolve",
+       "fa": "در روز بعد، شادمانی و عزم",
+       "url": "https://duckduckgo.com/?q=%5COn%20day%20after%2C%20jubilation%20and%20resolve%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Clark says leadership team will be ready",
+       "fa": "کلارک: تیم رهبری آماده خواهد بود",
+       "url": "https://duckduckgo.com/?q=%5CClark%20says%20leadership%20team%20will%20be%20ready%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Distance from Trump helped GOP governor survive storm",
+       "fa": "فاصله از ترامپ به فرماندار جمهوری‌خواه کمک کرد از طوفان جان به در ببرد",
+       "url": "https://duckduckgo.com/?q=%5CDistance%20from%20Trump%20helped%20GOP%20governor%20survive%20storm%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Deep split over housing reflected in close contest",
+       "fa": "شکاف عمیق بر سر مسکن در رقابتی نزدیک بازتاب یافت",
+       "url": "https://duckduckgo.com/?q=%5CDeep%20split%20over%20housing%20reflected%20in%20close%20contest%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Despite the doubters, Jackson had what it took to oust Collins",
+       "fa": "جکسون به‌رغم تردیدها توان کنار زدن کالینز را داشت",
+       "url": "https://duckduckgo.com/?q=%5CDespite%20the%20doubters%2C%20Jackson%20had%20what%20it%20took%20to%20oust%20Collins%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-05/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "A New Blue Era",
+       "fa": "دوران آبیِ تازه",
+       "url": "https://duckduckgo.com/?q=%5CA%20New%20Blue%20Era%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Across nation: Staggering results, historic surprises reshape power in Washington",
+       "fa": "در سراسر کشور: نتایجی خیره‌کننده و شگفتی‌های تاریخی، قدرت را در واشنگتن از نو شکل می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CAcross%20nation%3A%20Staggering%20results%2C%20historic%20surprises%20reshape%20power%20in%20Washington%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "In Illinois: Voters prove state's deep Democratic bona fides as Pritzker, Stratton roll",
+       "fa": "در ایلینوی: با پیروزی قاطع پریتزکر و استراتن، رأی‌دهندگان وفاداری عمیق ایالت به دموکرات‌ها را نشان دادند",
+       "url": "https://duckduckgo.com/?q=%5CIn%20Illinois%3A%20Voters%20prove%20state%27s%20deep%20Democratic%20bona%20fides%20as%20Pritzker%2C%20Stratton%20roll%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "In Chicago: Biggs' school board president win delivers blow to CTU, City Hall allies",
+       "fa": "در شیکاگو: پیروزی بیگز در انتخابات ریاست هیئت آموزش ضربه‌ای به اتحادیهٔ معلمان و متحدان شهرداری است",
+       "url": "https://duckduckgo.com/?q=%5CIn%20Chicago%3A%20Biggs%27%20school%20board%20president%20win%20delivers%20blow%20to%20CTU%2C%20City%20Hall%20allies%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-05/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "From Pa. to D.C., a seismic shift",
+       "fa": "از پنسیلوانیا تا واشنگتن، تحولی زلزله‌وار",
+       "url": "https://duckduckgo.com/?q=%5CFrom%20Pa.%20to%20D.C.%2C%20a%20seismic%20shift%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Slumping Eagles make change at quarterback",
+       "fa": "ایگلزِ افت‌کرده کوارتربک را عوض کرد",
+       "url": "https://duckduckgo.com/?q=%5CSlumping%20Eagles%20make%20change%20at%20quarterback%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Will the Phillies spend to beef up the middle of the lineup?",
+       "fa": "آیا فیلیز برای تقویت میانهٔ ترکیبش هزینه می‌کند؟",
+       "url": "https://duckduckgo.com/?q=%5CWill%20the%20Phillies%20spend%20to%20beef%20up%20the%20middle%20of%20the%20lineup%3F%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Drexel pauses student events involving alcohol",
+       "fa": "دانشگاه درکسل برنامه‌های دانشجویی همراه با الکل را متوقف کرد",
+       "url": "https://duckduckgo.com/?q=%5CDrexel%20pauses%20student%20events%20involving%20alcohol%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "The best things to do in Philly in November",
+       "fa": "بهترین سرگرمی‌های فیلادلفیا در نوامبر",
+       "url": "https://duckduckgo.com/?q=%5CThe%20best%20things%20to%20do%20in%20Philly%20in%20November%20site%3Ainquirer.com",
        "direct": false
       }
      ]
@@ -194,6 +482,54 @@
        "o": "Parties scan for favourites as 2028 race set in motion",
        "fa": "با آغاز رقابت ۲۰۲۸، احزاب در جست‌وجوی چهره‌های محبوب‌اند",
        "url": "https://duckduckgo.com/?q=%5CParties%20scan%20for%20favourites%20as%202028%20race%20set%20in%20motion%20site%3Aft.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "city-am",
+     "name": "City A.M.",
+     "fa": "سیتی اِی‌اِم",
+     "site": "https://www.cityam.com",
+     "img": "covers/2026-11-05/city-am.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/city-am/",
+     "headlines": [
+      {
+       "o": "A Blue Dawn",
+       "fa": "سپیده‌دمی آبی",
+       "url": "https://duckduckgo.com/?q=%5CA%20Blue%20Dawn%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "Sky's the limit? Culture secretary formally intervenes in Sky's £1.6bn ITV deal",
+       "fa": "آسمان حد است؟ وزیر فرهنگ رسماً در معاملهٔ ۱٫۶ میلیارد پوندی اسکای و آی‌تی‌وی مداخله کرد",
+       "url": "https://duckduckgo.com/?q=%5CSky%27s%20the%20limit%3F%20Culture%20secretary%20formally%20intervenes%20in%20Sky%27s%20%C2%A31.6bn%20ITV%20deal%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "Poundland owner 'commits to protecting jobs'",
+       "fa": "مالک پاوندلند «متعهد به حفظ مشاغل» شد",
+       "url": "https://duckduckgo.com/?q=%5CPoundland%20owner%20%27commits%20to%20protecting%20jobs%27%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "Revolut secures milestone $115bn price tag after string of licence wins",
+       "fa": "ریوولوت پس از کسب پیاپی مجوزها به ارزش‌گذاری تاریخی ۱۱۵ میلیارد دلار رسید",
+       "url": "https://duckduckgo.com/?q=%5CRevolut%20secures%20milestone%20%24115bn%20price%20tag%20after%20string%20of%20licence%20wins%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "Buik: The City needs more fun",
+       "fa": "بویک: سیتی به سرگرمی بیشتری نیاز دارد",
+       "url": "https://duckduckgo.com/?q=%5CBuik%3A%20The%20City%20needs%20more%20fun%20site%3Acityam.com",
+       "direct": false
+      },
+      {
+       "o": "Spooky truth behind your costume",
+       "fa": "حقیقت ترسناک پشت لباس مبدل شما",
+       "url": "https://duckduckgo.com/?q=%5CSpooky%20truth%20behind%20your%20costume%20site%3Acityam.com",
        "direct": false
       }
      ]
@@ -2615,6 +2951,60 @@
    "flag": "🇮🇳",
    "papers": [
     {
+     "slug": "the-times-of-india",
+     "name": "The Times of India",
+     "fa": "تایمز آو ایندیا",
+     "site": "https://timesofindia.indiatimes.com",
+     "img": "covers/2026-11-05/the-times-of-india.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-times-of-india/",
+     "headlines": [
+      {
+       "o": "Trump Loses The War At Home",
+       "fa": "ترامپ جنگ داخلی را باخت",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20Loses%20The%20War%20At%20Home%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Dems Storm Red Bastions, Seize Both House & Senate, Also Have Majority Of Guvs",
+       "fa": "دموکرات‌ها به سنگرهای سرخ یورش بردند، مجلس نمایندگان و سنا را گرفتند و اکثریت فرمانداران را هم دارند",
+       "url": "https://duckduckgo.com/?q=%5CDems%20Storm%20Red%20Bastions%2C%20Seize%20Both%20House%20%26%20Senate%2C%20Also%20Have%20Majority%20Of%20Guvs%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Blue Tick: Why America Flipped & Don Flopped",
+       "fa": "تیک آبی: چرا آمریکا چرخید و ترامپ زمین خورد",
+       "url": "https://duckduckgo.com/?q=%5CBlue%20Tick%3A%20Why%20America%20Flipped%20%26%20Don%20Flopped%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Vance blames Iran war for rout; had to do it, says Trump",
+       "fa": "ونس جنگ ایران را عامل شکست دانست؛ ترامپ: ناچار بودم",
+       "url": "https://duckduckgo.com/?q=%5CVance%20blames%20Iran%20war%20for%20rout%3B%20had%20to%20do%20it%2C%20says%20Trump%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "GOPsmacked! What will the rout mean for India-US ties?",
+       "fa": "ضربه به جمهوری‌خواهان! این شکست برای روابط هند و آمریکا چه معنایی دارد؟",
+       "url": "https://duckduckgo.com/?q=%5CGOPsmacked%21%20What%20will%20the%20rout%20mean%20for%20India-US%20ties%3F%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Early Diwali for desi Dems: 4 hold on to seats, fresher Dandiya dances to victory",
+       "fa": "دیوالیِ زودهنگام برای دموکرات‌های هندی‌تبار: چهار نفر کرسی‌شان را حفظ کردند و داندیای تازه‌وارد پیروز شد",
+       "url": "https://duckduckgo.com/?q=%5CEarly%20Diwali%20for%20desi%20Dems%3A%204%20hold%20on%20to%20seats%2C%20fresher%20Dandiya%20dances%20to%20victory%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Hormuz free run for India, China, Iraq & Qatar",
+       "fa": "عبور آزاد از هرمز برای هند، چین، عراق و قطر",
+       "url": "https://duckduckgo.com/?q=%5CHormuz%20free%20run%20for%20India%2C%20China%2C%20Iraq%20%26%20Qatar%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-hindu",
      "name": "The Hindu",
      "fa": "هندو",
@@ -2706,6 +3096,66 @@
        "o": "'Dialling the wrong number': SC on petition for rotating reserved seats",
        "fa": "«شماره را اشتباه گرفته‌اید»: واکنش دیوان عالی به دادخواست چرخشی‌کردن کرسی‌های رزرو",
        "url": "https://duckduckgo.com/?q=%5C%27Dialling%20the%20wrong%20number%27%3A%20SC%20on%20petition%20for%20rotating%20reserved%20seats%20site%3Ahindustantimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-economic-times",
+     "name": "The Economic Times",
+     "fa": "اکونومیک تایمز",
+     "site": "https://economictimes.indiatimes.com",
+     "img": "covers/2026-11-05/the-economic-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-economic-times/",
+     "headlines": [
+      {
+       "o": "Trump & Team Beaten Blue",
+       "fa": "ترامپ و تیمش آبی‌وار شکست خوردند",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20%26%20Team%20Beaten%20Blue%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats Sweep Cong on Wave of Voter Angst",
+       "fa": "دموکرات‌ها بر موج نارضایتی رأی‌دهندگان کنگره را درنوردیدند",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20Sweep%20Cong%20on%20Wave%20of%20Voter%20Angst%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Republican Fortunes Go South as Another War Flips the Script",
+       "fa": "بخت جمهوری‌خواهان افول کرد؛ جنگی دیگر ورق را برگرداند",
+       "url": "https://duckduckgo.com/?q=%5CRepublican%20Fortunes%20Go%20South%20as%20Another%20War%20Flips%20the%20Script%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "India Seen Taking a Clear and Calm View",
+       "fa": "هند نگاهی روشن و آرام در پیش گرفته است",
+       "url": "https://duckduckgo.com/?q=%5CIndia%20Seen%20Taking%20a%20Clear%20and%20Calm%20View%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Results may Shift Trade Deal Balance Towards India",
+       "fa": "نتایج ممکن است کفهٔ توافق تجاری را به سود هند سنگین کند",
+       "url": "https://duckduckgo.com/?q=%5CResults%20may%20Shift%20Trade%20Deal%20Balance%20Towards%20India%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Oil Prices Plunge 9%, US Stocks Zoom and Rupee Strengthens",
+       "fa": "قیمت نفت ۹ درصد سقوط کرد، سهام آمریکا اوج گرفت و روپیه تقویت شد",
+       "url": "https://duckduckgo.com/?q=%5COil%20Prices%20Plunge%209%25%2C%20US%20Stocks%20Zoom%20and%20Rupee%20Strengthens%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "FMCG Growth Slips, Small Cos Lose Ground to Biggies",
+       "fa": "رشد کالاهای مصرفی کند شد؛ شرکت‌های کوچک از غول‌ها عقب ماندند",
+       "url": "https://duckduckgo.com/?q=%5CFMCG%20Growth%20Slips%2C%20Small%20Cos%20Lose%20Ground%20to%20Biggies%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Entry Checks for GPU Bidders Eased, but Price Pain Remains",
+       "fa": "شرایط ورود مناقصه‌گران پردازندهٔ گرافیکی آسان شد، اما درد قیمت پابرجاست",
+       "url": "https://duckduckgo.com/?q=%5CEntry%20Checks%20for%20GPU%20Bidders%20Eased%2C%20but%20Price%20Pain%20Remains%20site%3Aeconomictimes.indiatimes.com",
        "direct": false
       }
      ]
