@@ -303,5 +303,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/the-philadelphia-inquirer/"
+ },
+ "kicker": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/kicker/"
  }
 }
