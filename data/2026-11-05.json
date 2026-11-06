@@ -1743,6 +1743,42 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "der-spiegel",
+     "name": "Der Spiegel",
+     "fa": "اشپیگل (هفته‌نامه)",
+     "site": "https://www.spiegel.de",
+     "img": "covers/2026-11-05/der-spiegel.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/der-spiegel/",
+     "headlines": [
+      {
+       "o": "Der Verfall – Donald Trumps Niederlage und ihre Folgen",
+       "fa": "زوال – شکست دونالد ترامپ و پیامدهای آن",
+       "url": "https://duckduckgo.com/?q=%5CDer%20Verfall%20%E2%80%93%20Donald%20Trumps%20Niederlage%20und%20ihre%20Folgen%20site%3Aspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "Lars Klingbeil, der Pannenminister",
+       "fa": "لارس کلینگبایل، وزیرِ خرابکاری‌ها",
+       "url": "https://duckduckgo.com/?q=%5CLars%20Klingbeil%2C%20der%20Pannenminister%20site%3Aspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "Depression: Was Angehörige tun können",
+       "fa": "افسردگی: نزدیکان بیمار چه کاری از دستشان برمی‌آید",
+       "url": "https://duckduckgo.com/?q=%5CDepression%3A%20Was%20Angeh%C3%B6rige%20tun%20k%C3%B6nnen%20site%3Aspiegel.de",
+       "direct": false
+      },
+      {
+       "o": "Mit Daniel Kehlmann durch New York",
+       "fa": "همراه دانیل کلمان در نیویورک",
+       "url": "https://duckduckgo.com/?q=%5CMit%20Daniel%20Kehlmann%20durch%20New%20York%20site%3Aspiegel.de",
+       "direct": false
+      }
+     ]
     }
    ]
   },

@@ -7,6 +7,294 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-06/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "Trump Team Saw Collapse Coming Days Before the Vote",
+       "fa": "تیم ترامپ چند روز پیش از رأی‌گیری فروپاشی را پیش‌بینی می‌کرد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20Team%20Saw%20Collapse%20Coming%20Days%20Before%20the%20Vote%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Unpopularity of War and President Was Too Much to Overcome",
+       "fa": "غلبه بر نامحبوبیت جنگ و رئیس‌جمهور ممکن نبود",
+       "url": "https://duckduckgo.com/?q=%5CUnpopularity%20of%20War%20and%20President%20Was%20Too%20Much%20to%20Overcome%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "The Count Goes On",
+       "fa": "شمارش آرا ادامه دارد",
+       "url": "https://duckduckgo.com/?q=%5CThe%20Count%20Goes%20On%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Capitol Sweep May Give Lift To Moderates",
+       "fa": "پیروزی قاطع در کنگره ممکن است میانه‌روها را تقویت کند",
+       "url": "https://duckduckgo.com/?q=%5CCapitol%20Sweep%20May%20Give%20Lift%20To%20Moderates%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Raman Elected Mayor of L.A. In Win for Left",
+       "fa": "رامان به شهرداری لس‌آنجلس برگزیده شد؛ پیروزی برای چپ‌ها",
+       "url": "https://duckduckgo.com/?q=%5CRaman%20Elected%20Mayor%20of%20L.A.%20In%20Win%20for%20Left%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "D.O.J. Steps Up Criminal Probe Of Court Leak",
+       "fa": "وزارت دادگستری تحقیقات کیفری دربارهٔ افشای اسناد دادگاه را تشدید کرد",
+       "url": "https://duckduckgo.com/?q=%5CD.O.J.%20Steps%20Up%20Criminal%20Probe%20Of%20Court%20Leak%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "80-Cent Pouch Saves Mothers' Life in Childbirth",
+       "fa": "کیسه‌ای ۸۰ سنتی جان مادران را هنگام زایمان نجات می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5C80-Cent%20Pouch%20Saves%20Mothers%27%20Life%20in%20Childbirth%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-11-06/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "Democrats ride high, a bit split on way forward",
+       "fa": "دموکرات‌ها در اوج‌اند، اما دربارهٔ مسیر پیش رو اندکی دودسته",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20ride%20high%2C%20a%20bit%20split%20on%20way%20forward%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Russian, Ukrainian negotiators at White House",
+       "fa": "مذاکره‌کنندگان روس و اوکراینی در کاخ سفید",
+       "url": "https://duckduckgo.com/?q=%5CRussian%2C%20Ukrainian%20negotiators%20at%20White%20House%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Trump's arch approved, clearing way to start work",
+       "fa": "طاق پیروزی ترامپ تصویب شد و راه آغاز ساخت آن هموار شد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20arch%20approved%2C%20clearing%20way%20to%20start%20work%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Defiant Hegseth defends Iran war, assails critics",
+       "fa": "هگست با لحنی سرسختانه از جنگ ایران دفاع کرد و به منتقدان تاخت",
+       "url": "https://duckduckgo.com/?q=%5CDefiant%20Hegseth%20defends%20Iran%20war%2C%20assails%20critics%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Experts urge a bigger fix for frats amid assault allegations",
+       "fa": "کارشناسان در پی اتهام‌های تعرض خواستار اصلاحات گسترده‌تر در انجمن‌های دانشجویی شدند",
+       "url": "https://duckduckgo.com/?q=%5CExperts%20urge%20a%20bigger%20fix%20for%20frats%20amid%20assault%20allegations%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Dhillon quits as head of DOJ's civil rights office",
+       "fa": "دیلن از ریاست دفتر حقوق مدنی وزارت دادگستری کناره گرفت",
+       "url": "https://duckduckgo.com/?q=%5CDhillon%20quits%20as%20head%20of%20DOJ%27s%20civil%20rights%20office%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-06/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Raman defeats Bass to become the next mayor of Los Angeles",
+       "fa": "رامان باس را شکست داد و شهردار بعدی لس‌آنجلس می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CRaman%20defeats%20Bass%20to%20become%20the%20next%20mayor%20of%20Los%20Angeles%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "What's ahead for L.A. under a new leader",
+       "fa": "لس‌آنجلس با رهبر تازه چه پیش رو دارد",
+       "url": "https://duckduckgo.com/?q=%5CWhat%27s%20ahead%20for%20L.A.%20under%20a%20new%20leader%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Newsom commutes all state death sentences",
+       "fa": "نیوسام همهٔ احکام اعدام ایالتی را تخفیف داد",
+       "url": "https://duckduckgo.com/?q=%5CNewsom%20commutes%20all%20state%20death%20sentences%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Now the hard part: Governing",
+       "fa": "حالا بخش دشوار کار: حکمرانی",
+       "url": "https://duckduckgo.com/?q=%5CNow%20the%20hard%20part%3A%20Governing%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Midterm results offer reset for 2028",
+       "fa": "نتایج انتخابات میان‌دوره‌ای فرصت بازآرایی برای ۲۰۲۸ فراهم می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CMidterm%20results%20offer%20reset%20for%202028%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Trump Justice official resigns",
+       "fa": "یکی از مقام‌های وزارت دادگستری ترامپ استعفا داد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20Justice%20official%20resigns%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "new-york-post",
+     "name": "New York Post",
+     "fa": "نیویورک پست",
+     "site": "https://nypost.com",
+     "img": "covers/2026-11-06/new-york-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/new-york-post/",
+     "headlines": [
+      {
+       "o": "After the blue tsunami... WIPEOUT",
+       "fa": "پس از سونامی آبی... نابودی",
+       "url": "https://duckduckgo.com/?q=%5CAfter%20the%20blue%20tsunami...%20WIPEOUT%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "$2.5 trillion erased from Nasdaq after anti-AI votes",
+       "fa": "۲٫۵ تریلیون دلار پس از رأی‌های ضد هوش مصنوعی از ارزش نزدک پاک شد",
+       "url": "https://duckduckgo.com/?q=%5C%242.5%20trillion%20erased%20from%20Nasdaq%20after%20anti-AI%20votes%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-06/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "'Problem properties' plaguing city",
+       "fa": "«املاک مسئله‌دار» بلای جان شهر شده‌اند",
+       "url": "https://duckduckgo.com/?q=%5C%27Problem%20properties%27%20plaguing%20city%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Prep school consultant — and a Suffield trustee",
+       "fa": "مشاور مدارس شبانه‌روزی نخبگان — و عضو هیئت امنای سافیلد",
+       "url": "https://duckduckgo.com/?q=%5CPrep%20school%20consultant%20%E2%80%94%20and%20a%20Suffield%20trustee%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "ICE foes link Collins's loss to Trump's crackdown",
+       "fa": "مخالفان آیس شکست کالینز را به سرکوب ترامپ ربط می‌دهند",
+       "url": "https://duckduckgo.com/?q=%5CICE%20foes%20link%20Collins%27s%20loss%20to%20Trump%27s%20crackdown%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Election turns richest man into the biggest loser",
+       "fa": "انتخابات ثروتمندترین مرد را به بزرگ‌ترین بازنده بدل کرد",
+       "url": "https://duckduckgo.com/?q=%5CElection%20turns%20richest%20man%20into%20the%20biggest%20loser%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-06/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Welch won't run for speaker",
+       "fa": "ولش برای ریاست مجلس نامزد نمی‌شود",
+       "url": "https://duckduckgo.com/?q=%5CWelch%20won%27t%20run%20for%20speaker%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats prepare oversight agenda",
+       "fa": "دموکرات‌ها برنامهٔ نظارتی خود را آماده می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20prepare%20oversight%20agenda%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "'An unimaginable tragedy'",
+       "fa": "«فاجعه‌ای باورنکردنی»",
+       "url": "https://duckduckgo.com/?q=%5C%27An%20unimaginable%20tragedy%27%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-06/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Inside Team Trump's collapse",
+       "fa": "درون فروپاشی تیم ترامپ",
+       "url": "https://duckduckgo.com/?q=%5CInside%20Team%20Trump%27s%20collapse%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "How Harvie pulled off a stunning win over Fitzpatrick in Bucks",
+       "fa": "هاروی چگونه در باکس به پیروزی خیره‌کننده بر فیتزپاتریک دست یافت",
+       "url": "https://duckduckgo.com/?q=%5CHow%20Harvie%20pulled%20off%20a%20stunning%20win%20over%20Fitzpatrick%20in%20Bucks%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "What Pa.'s Democratic trifecta could mean for Philly schools, SEPTA",
+       "fa": "قدرت سه‌گانهٔ دموکرات‌ها در پنسیلوانیا چه معنایی برای مدارس فیلادلفیا و سپتا دارد",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20Pa.%27s%20Democratic%20trifecta%20could%20mean%20for%20Philly%20schools%2C%20SEPTA%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly's sustainability chief leaves City Hall",
+       "fa": "مسئول پایداری فیلادلفیا شهرداری را ترک می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%27s%20sustainability%20chief%20leaves%20City%20Hall%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Sizing up the Phillies pitching rotation for the 2027 season",
+       "fa": "ارزیابی چرخهٔ پرتاب‌کنندگان فیلیز برای فصل ۲۰۲۷",
+       "url": "https://duckduckgo.com/?q=%5CSizing%20up%20the%20Phillies%20pitching%20rotation%20for%20the%202027%20season%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Inside the making of 'I Play Rocky'",
+       "fa": "پشت صحنهٔ ساخت «من نقش راکی را بازی می‌کنم»",
+       "url": "https://duckduckgo.com/?q=%5CInside%20the%20making%20of%20%27I%20Play%20Rocky%27%20site%3Ainquirer.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "houston-chronicle",
      "name": "Houston Chronicle",
      "fa": "هیوستون کرونیکل",
@@ -2305,6 +2593,60 @@
    "flag": "🇮🇳",
    "papers": [
     {
+     "slug": "the-times-of-india",
+     "name": "The Times of India",
+     "fa": "تایمز آو ایندیا",
+     "site": "https://timesofindia.indiatimes.com",
+     "img": "covers/2026-11-06/the-times-of-india.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-times-of-india/",
+     "headlines": [
+      {
+       "o": "2 die, several feared trapped in Chawri Bazar bldg collapse",
+       "fa": "در ریزش ساختمانی در چاوری بازار ۲ نفر کشته شدند و بیم گرفتار ماندن چند نفر می‌رود",
+       "url": "https://duckduckgo.com/?q=%5C2%20die%2C%20several%20feared%20trapped%20in%20Chawri%20Bazar%20bldg%20collapse%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "LAL salaam: 2 largest US cities now run by PIOs",
+       "fa": "درود سرخ: دو شهر بزرگ آمریکا اکنون در دست هندی‌تباران است",
+       "url": "https://duckduckgo.com/?q=%5CLAL%20salaam%3A%202%20largest%20US%20cities%20now%20run%20by%20PIOs%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Bombay HC orders restoration of 6 Goa voters deleted during SIR",
+       "fa": "دادگاه عالی بمبئی دستور بازگرداندن ۶ رأی‌دهندهٔ گوایی حذف‌شده در بازبینی فهرست‌ها را داد",
+       "url": "https://duckduckgo.com/?q=%5CBombay%20HC%20orders%20restoration%20of%206%20Goa%20voters%20deleted%20during%20SIR%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Sensex cheers US polls, jumps 2k to 8-mth high",
+       "fa": "سنسکس از انتخابات آمریکا استقبال کرد و با ۲ هزار واحد جهش به بالاترین سطح ۸ ماه اخیر رسید",
+       "url": "https://duckduckgo.com/?q=%5CSensex%20cheers%20US%20polls%2C%20jumps%202k%20to%208-mth%20high%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "'Severe' Diwali likely as city's AQI plunges",
+       "fa": "با افت شاخص کیفیت هوای شهر، دیوالی «وخیمی» در پیش است",
+       "url": "https://duckduckgo.com/?q=%5C%27Severe%27%20Diwali%20likely%20as%20city%27s%20AQI%20plunges%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "IAF hands over its golf course land to ministry",
+       "fa": "نیروی هوایی هند زمین گلف خود را به وزارتخانه واگذار کرد",
+       "url": "https://duckduckgo.com/?q=%5CIAF%20hands%20over%20its%20golf%20course%20land%20to%20ministry%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Bulandshahr's Saba heads to Illinois House",
+       "fa": "صبا از بولندشهر راهی مجلس ایلینوی می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CBulandshahr%27s%20Saba%20heads%20to%20Illinois%20House%20site%3Atimesofindia.indiatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-hindu",
      "name": "The Hindu",
      "fa": "هندو",
@@ -2420,6 +2762,60 @@
        "o": "Submit report in a mth, SC directs panel on July protests violence",
        "fa": "دیوان عالی به هیئت بررسی خشونت‌های اعتراضات ژوئیه دستور داد ظرف یک ماه گزارش دهد",
        "url": "https://duckduckgo.com/?q=%5CSubmit%20report%20in%20a%20mth%2C%20SC%20directs%20panel%20on%20July%20protests%20violence%20site%3Ahindustantimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-economic-times",
+     "name": "The Economic Times",
+     "fa": "اکونومیک تایمز",
+     "site": "https://economictimes.indiatimes.com",
+     "img": "covers/2026-11-06/the-economic-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-economic-times/",
+     "headlines": [
+      {
+       "o": "After Foreign Investors' Drumroll, Bulls Put Up a Festival of Might",
+       "fa": "پس از طبل‌زدن سرمایه‌گذاران خارجی، گاوها جشنوارهٔ قدرت به راه انداختند",
+       "url": "https://duckduckgo.com/?q=%5CAfter%20Foreign%20Investors%27%20Drumroll%2C%20Bulls%20Put%20Up%20a%20Festival%20of%20Might%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "APSEZ Secures $2.9b Buyout of Evos Terminals",
+       "fa": "APSEZ خرید ۲٫۹ میلیارد دلاری پایانه‌های اووس را نهایی کرد",
+       "url": "https://duckduckgo.com/?q=%5CAPSEZ%20Secures%20%242.9b%20Buyout%20of%20Evos%20Terminals%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Airtel Q2 Profit Zips 33% on Better ARPU",
+       "fa": "سود فصل دوم ایرتل با بهبود درآمد سرانه ۳۳ درصد جهش کرد",
+       "url": "https://duckduckgo.com/?q=%5CAirtel%20Q2%20Profit%20Zips%2033%25%20on%20Better%20ARPU%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Auto Biz Drives M&M Q2 Net Profit Up 25%",
+       "fa": "کسب‌وکار خودرو سود خالص فصل دوم ماهیندرا اند ماهیندرا را ۲۵ درصد بالا برد",
+       "url": "https://duckduckgo.com/?q=%5CAuto%20Biz%20Drives%20M%26M%20Q2%20Net%20Profit%20Up%2025%25%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "US Indices Drop Up to 5% on AI Stock Rout",
+       "fa": "شاخص‌های آمریکا با سقوط سهام هوش مصنوعی تا ۵ درصد افت کردند",
+       "url": "https://duckduckgo.com/?q=%5CUS%20Indices%20Drop%20Up%20to%205%25%20on%20AI%20Stock%20Rout%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "SC: 24-hr Deadline for Cops Starts from Time of Detention",
+       "fa": "دیوان عالی: مهلت ۲۴ ساعتهٔ پلیس از لحظهٔ بازداشت آغاز می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CSC%3A%2024-hr%20Deadline%20for%20Cops%20Starts%20from%20Time%20of%20Detention%20site%3Aeconomictimes.indiatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Ronaldo Hangs Up Portugal Boots",
+       "fa": "رونالدو از تیم ملی پرتغال خداحافظی کرد",
+       "url": "https://duckduckgo.com/?q=%5CRonaldo%20Hangs%20Up%20Portugal%20Boots%20site%3Aeconomictimes.indiatimes.com",
        "direct": false
       }
      ]
