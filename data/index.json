@@ -1,5 +1,20 @@
 [
  {
+  "date": "2026-11-07",
+  "date_fa": "شنبه ۱۶ آبان ۱۴۰۵",
+  "month_fa": "آبان ۱۴۰۵",
+  "jm": "1405-08",
+  "day_fa": "۱۶",
+  "weekday_fa": "شنبه",
+  "papers": 46,
+  "headlines": 248,
+  "thumbs": [
+   "covers/2026-11-07/the-washington-post.jpg",
+   "covers/2026-11-07/usa-today.jpg",
+   "covers/2026-11-07/houston-chronicle.jpg"
+  ]
+ },
+ {
   "date": "2026-11-06",
   "date_fa": "جمعه ۱۵ آبان ۱۴۰۵",
   "month_fa": "آبان ۱۴۰۵",
