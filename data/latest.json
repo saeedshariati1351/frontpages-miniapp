@@ -7,6 +7,72 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-07/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "Miller Promoted to Chief of Staff in Trump Shakeup",
+       "fa": "ارتقای میلر به ریاست دفتر کاخ سفید در جابه‌جایی‌های ترامپ",
+       "url": "https://duckduckgo.com/?q=%5CMiller%20Promoted%20to%20Chief%20of%20Staff%20in%20Trump%20Shakeup%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Naming Policy Hard-Liner Could Signal a Stronger Aversion to Compromise",
+       "fa": "انتخاب یک تندرو سیاستی می‌تواند نشانهٔ بیزاری بیشتر از مصالحه باشد",
+       "url": "https://duckduckgo.com/?q=%5CNaming%20Policy%20Hard-Liner%20Could%20Signal%20a%20Stronger%20Aversion%20to%20Compromise%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Trump's Attempt to Undermine the Election Runs Into Reality",
+       "fa": "تلاش ترامپ برای بی‌اعتبار کردن انتخابات با واقعیت برخورد می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CTrump%27s%20Attempt%20to%20Undermine%20the%20Election%20Runs%20Into%20Reality%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Strong October Hiring Signals Hope for a Livelier Job Market",
+       "fa": "استخدام پرقدرت در اکتبر نوید بازار کار پرتحرک‌تری را می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CStrong%20October%20Hiring%20Signals%20Hope%20for%20a%20Livelier%20Job%20Market%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Unemployment Shrinks to 4.1 Percent as More Enter Labor Force",
+       "fa": "با ورود افراد بیشتر به بازار کار، بیکاری به ۴٫۱ درصد کاهش یافت",
+       "url": "https://duckduckgo.com/?q=%5CUnemployment%20Shrinks%20to%204.1%20Percent%20as%20More%20Enter%20Labor%20Force%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Glass Towers Offer Nice Views, But Residents Bake in the Sun",
+       "fa": "برج‌های شیشه‌ای چشم‌انداز زیبا دارند، اما ساکنانشان زیر آفتاب می‌پزند",
+       "url": "https://duckduckgo.com/?q=%5CGlass%20Towers%20Offer%20Nice%20Views%2C%20But%20Residents%20Bake%20in%20the%20Sun%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Climate Change Makes Engineering Marvels Costly to Cool",
+       "fa": "تغییرات اقلیمی خنک کردن شاهکارهای مهندسی را پرهزینه می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CClimate%20Change%20Makes%20Engineering%20Marvels%20Costly%20to%20Cool%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Genetic Clue to a Big Bark That Holds Little Bite",
+       "fa": "سرنخی ژنتیکی برای پارس بلندی که گازی در پی ندارد",
+       "url": "https://duckduckgo.com/?q=%5CGenetic%20Clue%20to%20a%20Big%20Bark%20That%20Holds%20Little%20Bite%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "New York Split in Fighting Amazon Over Drivers",
+       "fa": "شکاف در نیویورک بر سر مبارزه با آمازون دربارهٔ رانندگان",
+       "url": "https://duckduckgo.com/?q=%5CNew%20York%20Split%20in%20Fighting%20Amazon%20Over%20Drivers%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-washington-post",
      "name": "The Washington Post",
      "fa": "واشنگتن پست",
@@ -98,6 +164,204 @@
        "o": "Pentagon chief Pete Hegseth is accused of conducting the Iran war without congressional authorization",
        "fa": "پیت هگسث، رئیس پنتاگون، به پیشبرد جنگ ایران بدون مجوز کنگره متهم شد",
        "url": "https://duckduckgo.com/?q=%5CPentagon%20chief%20Pete%20Hegseth%20is%20accused%20of%20conducting%20the%20Iran%20war%20without%20congressional%20authorization%20site%3Ausatoday.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-07/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Trump digs in, appoints Miller as chief of staff",
+       "fa": "ترامپ پافشاری می‌کند و میلر را به ریاست دفتر کاخ سفید می‌گمارد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20digs%20in%2C%20appoints%20Miller%20as%20chief%20of%20staff%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "The choice reinforces the mass deportation agenda, a big factor in GOP's midterm rout",
+       "fa": "این انتخاب برنامهٔ اخراج گستردهٔ مهاجران را تقویت می‌کند؛ عاملی مهم در شکست سنگین جمهوری‌خواهان در انتخابات میان‌دوره‌ای",
+       "url": "https://duckduckgo.com/?q=%5CThe%20choice%20reinforces%20the%20mass%20deportation%20agenda%2C%20a%20big%20factor%20in%20GOP%27s%20midterm%20rout%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Arabs appear to be key in Israeli coalition",
+       "fa": "عرب‌ها ظاهراً کلید ائتلاف در اسرائیل‌اند",
+       "url": "https://duckduckgo.com/?q=%5CArabs%20appear%20to%20be%20key%20in%20Israeli%20coalition%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "What path will L.A.'s DSA mayor take?",
+       "fa": "شهردار سوسیالیست دموکرات لس‌آنجلس چه راهی در پیش خواهد گرفت؟",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20path%20will%20L.A.%27s%20DSA%20mayor%20take%3F%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Mass transit a top priority",
+       "fa": "حمل‌ونقل عمومی، اولویت نخست",
+       "url": "https://duckduckgo.com/?q=%5CMass%20transit%20a%20top%20priority%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Feds move to end disputed ballots case",
+       "fa": "دولت فدرال برای پایان دادن به پروندهٔ برگه‌های رأی مورد مناقشه اقدام می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CFeds%20move%20to%20end%20disputed%20ballots%20case%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "new-york-post",
+     "name": "New York Post",
+     "fa": "نیویورک پست",
+     "site": "https://nypost.com",
+     "img": "covers/2026-11-07/new-york-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/new-york-post/",
+     "headlines": [
+      {
+       "o": "WARTIME CONSIGLIERE",
+       "fa": "مشاور زمان جنگ",
+       "url": "https://duckduckgo.com/?q=%5CWARTIME%20CONSIGLIERE%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "Trump makes Stephen Miller chief of staff as he prepares for battle against Democrats",
+       "fa": "ترامپ در آستانهٔ نبرد با دموکرات‌ها استیون میلر را رئیس دفتر کاخ سفید کرد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20makes%20Stephen%20Miller%20chief%20of%20staff%20as%20he%20prepares%20for%20battle%20against%20Democrats%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-07/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "USRowing bans former Cape Cod coach",
+       "fa": "فدراسیون قایقرانی آمریکا مربی سابق کیپ‌کاد را محروم کرد",
+       "url": "https://duckduckgo.com/?q=%5CUSRowing%20bans%20former%20Cape%20Cod%20coach%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Voters say no to bid for smaller lot sizes",
+       "fa": "رأی‌دهندگان به طرح کوچک‌تر کردن قطعه‌زمین‌ها «نه» گفتند",
+       "url": "https://duckduckgo.com/?q=%5CVoters%20say%20no%20to%20bid%20for%20smaller%20lot%20sizes%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Dental program still recovering",
+       "fa": "برنامهٔ دندان‌پزشکی هنوز در حال بهبود است",
+       "url": "https://duckduckgo.com/?q=%5CDental%20program%20still%20recovering%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Crowds, chaos missing from Farwell trial",
+       "fa": "از ازدحام و هیاهو در دادگاه فارول خبری نیست",
+       "url": "https://duckduckgo.com/?q=%5CCrowds%2C%20chaos%20missing%20from%20Farwell%20trial%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-07/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Miller now top aide to Trump",
+       "fa": "میلر اکنون ارشدترین دستیار ترامپ است",
+       "url": "https://duckduckgo.com/?q=%5CMiller%20now%20top%20aide%20to%20Trump%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Key deputy behind deportation agenda takes over for Wiles",
+       "fa": "معاون کلیدی برنامهٔ اخراج مهاجران جانشین وایلز می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CKey%20deputy%20behind%20deportation%20agenda%20takes%20over%20for%20Wiles%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Steeling the show",
+       "fa": "پارکی بر ویرانه‌های کارخانهٔ فولاد، ستارهٔ صحنه",
+       "url": "https://duckduckgo.com/?q=%5CSteeling%20the%20show%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Arch blocked",
+       "fa": "ساخت طاق پیروزی متوقف شد",
+       "url": "https://duckduckgo.com/?q=%5CArch%20blocked%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Unpopular Trump pays price in midterm elections",
+       "fa": "ترامپِ نامحبوب در انتخابات میان‌دوره‌ای تاوان پس داد",
+       "url": "https://duckduckgo.com/?q=%5CUnpopular%20Trump%20pays%20price%20in%20midterm%20elections%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-07/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Stephen Miller is Trump's new chief of staff",
+       "fa": "استیون میلر رئیس جدید دفتر ترامپ است",
+       "url": "https://duckduckgo.com/?q=%5CStephen%20Miller%20is%20Trump%27s%20new%20chief%20of%20staff%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly teacher charged with killing foster daughter had history of abuse",
+       "fa": "معلم فیلادلفیایی متهم به قتل دختر خوانده‌اش سابقهٔ بدرفتاری داشت",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%20teacher%20charged%20with%20killing%20foster%20daughter%20had%20history%20of%20abuse%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Sirianni says switch to Milton could provide a spark",
+       "fa": "سیریانی: جابه‌جایی به میلتون می‌تواند جرقه‌ای بزند",
+       "url": "https://duckduckgo.com/?q=%5CSirianni%20says%20switch%20to%20Milton%20could%20provide%20a%20spark%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Temple names new safety VP",
+       "fa": "دانشگاه تمپل معاون تازه‌ای برای امور ایمنی منصوب کرد",
+       "url": "https://duckduckgo.com/?q=%5CTemple%20names%20new%20safety%20VP%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Tesla phasing out the Cybertruck",
+       "fa": "تسلا تولید سایبرتراک را کنار می‌گذارد",
+       "url": "https://duckduckgo.com/?q=%5CTesla%20phasing%20out%20the%20Cybertruck%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Funding still a question for Office of Arts and Culture",
+       "fa": "تأمین بودجه همچنان پرسشی برای ادارهٔ هنر و فرهنگ است",
+       "url": "https://duckduckgo.com/?q=%5CFunding%20still%20a%20question%20for%20Office%20of%20Arts%20and%20Culture%20site%3Ainquirer.com",
        "direct": false
       }
      ]
