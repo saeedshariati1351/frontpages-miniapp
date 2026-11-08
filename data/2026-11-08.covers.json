@@ -39,11 +39,6 @@
   "h": 800,
   "source": "https://www.frontpages.com/frankfurter-allgemeine-zeitung/"
  },
- "bild": {
-  "w": 600,
-  "h": 800,
-  "source": "https://www.frontpages.com/bild/"
- },
  "der-tagesspiegel": {
   "w": 600,
   "h": 800,
@@ -78,11 +73,6 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/arab-news/"
- },
- "gulf-news": {
-  "w": 600,
-  "h": 800,
-  "source": "https://www.frontpages.com/gulf-news/"
  },
  "gulf-times": {
   "w": 600,

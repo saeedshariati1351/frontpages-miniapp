@@ -1,5 +1,20 @@
 [
  {
+  "date": "2026-11-08",
+  "date_fa": "یکشنبه ۱۷ آبان ۱۴۰۵",
+  "month_fa": "آبان ۱۴۰۵",
+  "jm": "1405-08",
+  "day_fa": "۱۷",
+  "weekday_fa": "یکشنبه",
+  "papers": 26,
+  "headlines": 150,
+  "thumbs": [
+   "covers/2026-11-08/new-york-post.jpg",
+   "covers/2026-11-08/miami-herald.jpg",
+   "covers/2026-11-08/the-herald-scotland.jpg"
+  ]
+ },
+ {
   "date": "2026-11-07",
   "date_fa": "شنبه ۱۶ آبان ۱۴۰۵",
   "month_fa": "آبان ۱۴۰۵",
