@@ -168,25 +168,5 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/manchester-evening-news/"
- },
- "les-echos": {
-  "w": 600,
-  "h": 800,
-  "source": "https://www.frontpages.com/les-echos/"
- },
- "bild": {
-  "w": 600,
-  "h": 800,
-  "source": "https://www.frontpages.com/bild/"
- },
- "kicker": {
-  "w": 600,
-  "h": 800,
-  "source": "https://www.frontpages.com/kicker/"
- },
- "gulf-news": {
-  "w": 600,
-  "h": 800,
-  "source": "https://www.frontpages.com/gulf-news/"
  }
 }

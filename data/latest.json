@@ -7,6 +7,162 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-08/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "Younger Voters Powered A Democratic Landslide",
+       "fa": "رأی‌دهندگان جوان‌تر موتور پیروزی قاطع دموکرات‌ها شدند",
+       "url": "https://duckduckgo.com/?q=%5CYounger%20Voters%20Powered%20A%20Democratic%20Landslide%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Weary of the Old Guard and Flocking to Candidates of Their Generation",
+       "fa": "خسته از گارد قدیم و هجوم به سوی نامزدهای هم‌نسل خود",
+       "url": "https://duckduckgo.com/?q=%5CWeary%20of%20the%20Old%20Guard%20and%20Flocking%20to%20Candidates%20of%20Their%20Generation%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Crossing an Ocean So She Can Continue Studying the Sky",
+       "fa": "عبور از اقیانوس برای ادامهٔ مطالعهٔ آسمان",
+       "url": "https://duckduckgo.com/?q=%5CCrossing%20an%20Ocean%20So%20She%20Can%20Continue%20Studying%20the%20Sky%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "As U.S. Closes Doors, the World Embraces",
+       "fa": "آمریکا درها را می‌بندد و جهان آغوش می‌گشاید",
+       "url": "https://duckduckgo.com/?q=%5CAs%20U.S.%20Closes%20Doors%2C%20the%20World%20Embraces%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "SAT Is Fighting A Digital Battle Over Test Theft",
+       "fa": "نبرد دیجیتال SAT با سرقت آزمون",
+       "url": "https://duckduckgo.com/?q=%5CSAT%20Is%20Fighting%20A%20Digital%20Battle%20Over%20Test%20Theft%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Musk Finds Out $500 Million Can't Buy Success in Midterms",
+       "fa": "ماسک فهمید که با ۵۰۰ میلیون دلار نمی‌توان پیروزی در انتخابات میان‌دوره‌ای را خرید",
+       "url": "https://duckduckgo.com/?q=%5CMusk%20Finds%20Out%20%24500%20Million%20Can%27t%20Buy%20Success%20in%20Midterms%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Amid an Offensive on Ukraine's Front Line",
+       "fa": "در میانهٔ یک تهاجم در خط مقدم اوکراین",
+       "url": "https://duckduckgo.com/?q=%5CAmid%20an%20Offensive%20on%20Ukraine%27s%20Front%20Line%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-11-08/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "Bolsonaro opens up about escape to U.S.",
+       "fa": "بولسونارو از فرارش به آمریکا پرده برداشت",
+       "url": "https://duckduckgo.com/?q=%5CBolsonaro%20opens%20up%20about%20escape%20to%20U.S.%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "He says America took him in because Trump is 'convinced' Brazil is no longer a democracy",
+       "fa": "او می‌گوید آمریکا پناهش داد چون ترامپ «متقاعد شده» برزیل دیگر دموکراسی نیست",
+       "url": "https://duckduckgo.com/?q=%5CHe%20says%20America%20took%20him%20in%20because%20Trump%20is%20%27convinced%27%20Brazil%20is%20no%20longer%20a%20democracy%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Loomer got paid for her postings",
+       "fa": "لومر بابت پست‌هایش پول گرفت",
+       "url": "https://duckduckgo.com/?q=%5CLoomer%20got%20paid%20for%20her%20postings%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Trump ally and online firebrand didn't disclose arrangement, sources say",
+       "fa": "به گفتهٔ منابع، این متحد ترامپ و چهرهٔ تندروی فضای مجازی این توافق را افشا نکرد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20ally%20and%20online%20firebrand%20didn%27t%20disclose%20arrangement%2C%20sources%20say%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "UFC's White offered key job",
+       "fa": "پیشنهاد سمتی کلیدی به وایت، رئیس UFC",
+       "url": "https://duckduckgo.com/?q=%5CUFC%27s%20White%20offered%20key%20job%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Trump eyes him for press secretary",
+       "fa": "ترامپ او را برای سمت سخنگوی کاخ سفید در نظر دارد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20eyes%20him%20for%20press%20secretary%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Historic voter turnout powered surprise victories for Democrats",
+       "fa": "مشارکت تاریخی رأی‌دهندگان به پیروزی‌های غافلگیرکنندهٔ دموکرات‌ها انجامید",
+       "url": "https://duckduckgo.com/?q=%5CHistoric%20voter%20turnout%20powered%20surprise%20victories%20for%20Democrats%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-08/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Election sets up new hurdles for resuming war",
+       "fa": "انتخابات موانع تازه‌ای بر سر ازسرگیری جنگ ایجاد کرد",
+       "url": "https://duckduckgo.com/?q=%5CElection%20sets%20up%20new%20hurdles%20for%20resuming%20war%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Trump may be limited on Iran by divisions in his party and a sudden push to oust Hegseth",
+       "fa": "اختلاف در حزب ترامپ و تلاش ناگهانی برای برکناری هگست ممکن است دست او را در قبال ایران ببندد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20may%20be%20limited%20on%20Iran%20by%20divisions%20in%20his%20party%20and%20a%20sudden%20push%20to%20oust%20Hegseth%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "A losing quest for clean cannabis",
+       "fa": "تلاشی ناکام برای ماری‌جوانای سالم",
+       "url": "https://duckduckgo.com/?q=%5CA%20losing%20quest%20for%20clean%20cannabis%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "California regulators fail to keep up with hazardous chemicals or crack down on the growers using them",
+       "fa": "ناظران کالیفرنیا از مهار مواد شیمیایی خطرناک و برخورد با کشاورزانی که از آن‌ها استفاده می‌کنند بازمانده‌اند",
+       "url": "https://duckduckgo.com/?q=%5CCalifornia%20regulators%20fail%20to%20keep%20up%20with%20hazardous%20chemicals%20or%20crack%20down%20on%20the%20growers%20using%20them%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "U.S. carries out strikes on Iran",
+       "fa": "آمریکا به ایران حمله کرد",
+       "url": "https://duckduckgo.com/?q=%5CU.S.%20carries%20out%20strikes%20on%20Iran%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Raman's scrappy path to victory",
+       "fa": "مسیر پرتلاش رامان به سوی پیروزی",
+       "url": "https://duckduckgo.com/?q=%5CRaman%27s%20scrappy%20path%20to%20victory%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",
@@ -26,6 +182,210 @@
        "o": "NYC educator and ex-cop confesses he woke 'covered in blood' — but no memory of killing B'klyn jogger: source",
        "fa": "یک منبع: مربی آموزشی و پلیس سابق نیویورک اعتراف کرده که «غرق در خون» از خواب بیدار شده، اما قتل دوندهٔ بروکلینی را به یاد نمی‌آورد",
        "url": "https://duckduckgo.com/?q=%5CNYC%20educator%20and%20ex-cop%20confesses%20he%20woke%20%27covered%20in%20blood%27%20%E2%80%94%20but%20no%20memory%20of%20killing%20B%27klyn%20jogger%3A%20source%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-08/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Since the pandemic, missed days have ballooned by nearly a third. That means Massachusetts students have missed an extra 15 million school days.",
+       "fa": "از زمان همه‌گیری، غیبت‌ها نزدیک به یک‌سوم افزایش یافته است؛ یعنی دانش‌آموزان ماساچوست ۱۵ میلیون روز مدرسهٔ بیشتر را از دست داده‌اند",
+       "url": "https://duckduckgo.com/?q=%5CSince%20the%20pandemic%2C%20missed%20days%20have%20ballooned%20by%20nearly%20a%20third.%20That%20means%20Massachusetts%20students%20have%20missed%20an%20extra%2015%20million%20school%20days.%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "'Mr. Veto' threat looms over Congress",
+       "fa": "سایهٔ تهدید «آقای وتو» بر سر کنگره",
+       "url": "https://duckduckgo.com/?q=%5C%27Mr.%20Veto%27%20threat%20looms%20over%20Congress%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats prepare their legislative agenda as Trump sends mixed messages",
+       "fa": "دموکرات‌ها دستور کار قانون‌گذاری خود را آماده می‌کنند و ترامپ پیام‌های متناقض می‌فرستد",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20prepare%20their%20legislative%20agenda%20as%20Trump%20sends%20mixed%20messages%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Dartmouth head aims to usher in era of AI",
+       "fa": "رئیس دانشگاه دارتموث در پی آغاز عصر هوش مصنوعی",
+       "url": "https://duckduckgo.com/?q=%5CDartmouth%20head%20aims%20to%20usher%20in%20era%20of%20AI%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "For certain clientele, the $400 haircut fits the bill",
+       "fa": "برای برخی مشتریان، اصلاح موی ۴۰۰ دلاری هم می‌ارزد",
+       "url": "https://duckduckgo.com/?q=%5CFor%20certain%20clientele%2C%20the%20%24400%20haircut%20fits%20the%20bill%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Gronk in his glory",
+       "fa": "گرانک در اوج افتخار",
+       "url": "https://duckduckgo.com/?q=%5CGronk%20in%20his%20glory%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-08/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Blue blood, new blood",
+       "fa": "خون آبی، خون تازه",
+       "url": "https://duckduckgo.com/?q=%5CBlue%20blood%2C%20new%20blood%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Illinois' congressional Democrats, with 6 new faces, vow to balance oversight of Trump with delivering results in wake of Tuesday's transformative election",
+       "fa": "دموکرات‌های ایلینوی در کنگره، با شش چهرهٔ تازه، پس از انتخابات دگرگون‌کنندهٔ سه‌شنبه وعده می‌دهند میان نظارت بر ترامپ و دستیابی به نتیجه توازن برقرار کنند",
+       "url": "https://duckduckgo.com/?q=%5CIllinois%27%20congressional%20Democrats%2C%20with%206%20new%20faces%2C%20vow%20to%20balance%20oversight%20of%20Trump%20with%20delivering%20results%20in%20wake%20of%20Tuesday%27s%20transformative%20election%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "'There's still so much danger'",
+       "fa": "«هنوز خطر بسیار زیاد است»",
+       "url": "https://duckduckgo.com/?q=%5C%27There%27s%20still%20so%20much%20danger%27%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Domestic violence homicides drop but attacks with guns rise",
+       "fa": "قتل‌های ناشی از خشونت خانگی کاهش یافت اما حمله‌های مسلحانه بیشتر شد",
+       "url": "https://duckduckgo.com/?q=%5CDomestic%20violence%20homicides%20drop%20but%20attacks%20with%20guns%20rise%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Making a big impact for Bears",
+       "fa": "تأثیری بزرگ برای بیرز",
+       "url": "https://duckduckgo.com/?q=%5CMaking%20a%20big%20impact%20for%20Bears%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-08/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "What Shapiro's big win says about his prospects for 2028",
+       "fa": "پیروزی بزرگ شاپیرو دربارهٔ بخت او در ۲۰۲۸ چه می‌گوید",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20Shapiro%27s%20big%20win%20says%20about%20his%20prospects%20for%202028%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "The Democratic governor sailed to reelection — and fueled more talk about a presidential bid.",
+       "fa": "فرماندار دموکرات به‌آسانی دوباره انتخاب شد و گمانه‌زنی‌ها دربارهٔ نامزدی‌اش برای ریاست‌جمهوری را داغ‌تر کرد",
+       "url": "https://duckduckgo.com/?q=%5CThe%20Democratic%20governor%20sailed%20to%20reelection%20%E2%80%94%20and%20fueled%20more%20talk%20about%20a%20presidential%20bid.%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Police across Pa. signing up to work with ICE",
+       "fa": "پلیس در سراسر پنسیلوانیا برای همکاری با ادارهٔ مهاجرت (ICE) ثبت‌نام می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CPolice%20across%20Pa.%20signing%20up%20to%20work%20with%20ICE%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Nearly 150 local agencies have agreed to assist in immigration enforcement as part of a controversial initiative.",
+       "fa": "نزدیک به ۱۵۰ نهاد محلی در قالب طرحی بحث‌برانگیز پذیرفته‌اند در اجرای قوانین مهاجرت کمک کنند",
+       "url": "https://duckduckgo.com/?q=%5CNearly%20150%20local%20agencies%20have%20agreed%20to%20assist%20in%20immigration%20enforcement%20as%20part%20of%20a%20controversial%20initiative.%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Sizing up Phillies trade targets",
+       "fa": "ارزیابی گزینه‌های فیلیز برای جذب بازیکن",
+       "url": "https://duckduckgo.com/?q=%5CSizing%20up%20Phillies%20trade%20targets%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "At one Main Line college, it's OK to fail. There's even an institute for it",
+       "fa": "در یکی از کالج‌های مِین‌لاین شکست خوردن اشکالی ندارد؛ حتی مؤسسه‌ای برایش هست",
+       "url": "https://duckduckgo.com/?q=%5CAt%20one%20Main%20Line%20college%2C%20it%27s%20OK%20to%20fail.%20There%27s%20even%20an%20institute%20for%20it%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "At a Hatfield chocolate factory, a favorite candy is making a comeback",
+       "fa": "در کارخانهٔ شکلات‌سازی هتفیلد، آب‌نباتی محبوب بازمی‌گردد",
+       "url": "https://duckduckgo.com/?q=%5CAt%20a%20Hatfield%20chocolate%20factory%2C%20a%20favorite%20candy%20is%20making%20a%20comeback%20site%3Ainquirer.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "houston-chronicle",
+     "name": "Houston Chronicle",
+     "fa": "هیوستون کرونیکل",
+     "site": "https://www.houstonchronicle.com",
+     "img": "covers/2026-11-08/houston-chronicle.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/houston-chronicle/",
+     "headlines": [
+      {
+       "o": "Costs, ICE crackdown drove South Texas vote",
+       "fa": "هزینه‌های زندگی و سخت‌گیری ICE رأی جنوب تگزاس را رقم زد",
+       "url": "https://duckduckgo.com/?q=%5CCosts%2C%20ICE%20crackdown%20drove%20South%20Texas%20vote%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats won on pocketbook, not culture war, issues",
+       "fa": "دموکرات‌ها با مسائل معیشتی پیروز شدند، نه با جنگ فرهنگی",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20won%20on%20pocketbook%2C%20not%20culture%20war%2C%20issues%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Black, Latino areas in Harris County back Talarico and Hinojosa",
+       "fa": "مناطق سیاه‌پوست و لاتین‌تبار هریس‌کانتی از تالاریکو و هینوخوسا حمایت کردند",
+       "url": "https://duckduckgo.com/?q=%5CBlack%2C%20Latino%20areas%20in%20Harris%20County%20back%20Talarico%20and%20Hinojosa%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "GOP not united on way forward",
+       "fa": "جمهوری‌خواهان دربارهٔ مسیر آینده یکدل نیستند",
+       "url": "https://duckduckgo.com/?q=%5CGOP%20not%20united%20on%20way%20forward%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "With Reagan-era policies or Trump's style, there are risks",
+       "fa": "چه سیاست‌های دوران ریگان، چه سبک ترامپ، هر دو خطرهایی دارد",
+       "url": "https://duckduckgo.com/?q=%5CWith%20Reagan-era%20policies%20or%20Trump%27s%20style%2C%20there%20are%20risks%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Political jolt",
+       "fa": "تکان سیاسی",
+       "url": "https://duckduckgo.com/?q=%5CPolitical%20jolt%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Wins for UT, UH",
+       "fa": "پیروزی برای دانشگاه تگزاس و دانشگاه هیوستون",
+       "url": "https://duckduckgo.com/?q=%5CWins%20for%20UT%2C%20UH%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Homer at MFAH",
+       "fa": "هومر در موزهٔ هنرهای زیبای هیوستون",
+       "url": "https://duckduckgo.com/?q=%5CHomer%20at%20MFAH%20site%3Ahoustonchronicle.com",
        "direct": false
       }
      ]
@@ -170,6 +530,48 @@
        "o": "Lynne Campbell: AI-generated tourist tat is tarnishing Scotland's image",
        "fa": "لین کمبل: سوغاتی‌های بُنجُل ساختهٔ هوش مصنوعی وجههٔ اسکاتلند را خدشه‌دار می‌کند",
        "url": "https://duckduckgo.com/?q=%5CLynne%20Campbell%3A%20AI-generated%20tourist%20tat%20is%20tarnishing%20Scotland%27s%20image%20site%3Athenational.scot",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "manchester-evening-news",
+     "name": "Manchester Evening News",
+     "fa": "منچستر ایونینگ نیوز",
+     "site": "https://www.manchestereveningnews.co.uk",
+     "img": "covers/2026-11-08/manchester-evening-news.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/manchester-evening-news/",
+     "headlines": [
+      {
+       "o": "The £1M 'secret' payouts",
+       "fa": "پرداخت‌های «مخفی» یک میلیون پوندی",
+       "url": "https://duckduckgo.com/?q=%5CThe%20%C2%A31M%20%27secret%27%20payouts%20site%3Amanchestereveningnews.co.uk",
+       "direct": false
+      },
+      {
+       "o": "How GMCA has paid nearly one million to anonymous beneficiaries since 2024",
+       "fa": "چگونه ادارهٔ ترکیبی منچستر بزرگ (GMCA) از ۲۰۲۴ نزدیک به یک میلیون پوند به ذی‌نفعان ناشناس پرداخته است",
+       "url": "https://duckduckgo.com/?q=%5CHow%20GMCA%20has%20paid%20nearly%20one%20million%20to%20anonymous%20beneficiaries%20since%202024%20site%3Amanchestereveningnews.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Carrick keeps calm and carries on",
+       "fa": "کریک آرامش خود را حفظ می‌کند و ادامه می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CCarrick%20keeps%20calm%20and%20carries%20on%20site%3Amanchestereveningnews.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Blues fall six points behind Gunners",
+       "fa": "آبی‌ها شش امتیاز از توپچی‌ها عقب افتادند",
+       "url": "https://duckduckgo.com/?q=%5CBlues%20fall%20six%20points%20behind%20Gunners%20site%3Amanchestereveningnews.co.uk",
+       "direct": false
+      },
+      {
+       "o": "What to eat at the Xmas markets",
+       "fa": "در بازارهای کریسمس چه بخوریم",
+       "url": "https://duckduckgo.com/?q=%5CWhat%20to%20eat%20at%20the%20Xmas%20markets%20site%3Amanchestereveningnews.co.uk",
        "direct": false
       }
      ]
