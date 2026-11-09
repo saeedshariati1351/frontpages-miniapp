@@ -803,6 +803,60 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "kicker",
+     "name": "Kicker",
+     "fa": "کیکر (ورزشی)",
+     "site": "https://www.kicker.de",
+     "img": "covers/2026-11-08/kicker.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/kicker/",
+     "headlines": [
+      {
+       "o": "Zurück auf Kurs",
+       "fa": "بازگشت به مسیر",
+       "url": "https://duckduckgo.com/?q=%5CZur%C3%BCck%20auf%20Kurs%20site%3Akicker.de",
+       "direct": false
+      },
+      {
+       "o": "Karetsas lässt Dortmund gegen Betis jubeln. Doch der BVB bangt um Guirassy",
+       "fa": "کارتساس دورتموند را در برابر بتیس به وجد آورد، اما باشگاه نگران گیراسی است",
+       "url": "https://duckduckgo.com/?q=%5CKaretsas%20l%C3%A4sst%20Dortmund%20gegen%20Betis%20jubeln.%20Doch%20der%20BVB%20bangt%20um%20Guirassy%20site%3Akicker.de",
+       "direct": false
+      },
+      {
+       "o": "Füllkrug vor dem Comeback",
+       "fa": "فولکروگ در آستانهٔ بازگشت",
+       "url": "https://duckduckgo.com/?q=%5CF%C3%BCllkrug%20vor%20dem%20Comeback%20site%3Akicker.de",
+       "direct": false
+      },
+      {
+       "o": "Reeses Rückkehr: Das Treffen mit den Geistern",
+       "fa": "بازگشت ریس: دیدار با اشباح",
+       "url": "https://duckduckgo.com/?q=%5CReeses%20R%C3%BCckkehr%3A%20Das%20Treffen%20mit%20den%20Geistern%20site%3Akicker.de",
+       "direct": false
+      },
+      {
+       "o": "Upamecano: Weltklasse auf leisen Sohlen",
+       "fa": "اوپامکانو: کلاس جهانی، بی‌سروصدا",
+       "url": "https://duckduckgo.com/?q=%5CUpamecano%3A%20Weltklasse%20auf%20leisen%20Sohlen%20site%3Akicker.de",
+       "direct": false
+      },
+      {
+       "o": "Talent Spalt wie ein alter Hase",
+       "fa": "اشپالت، استعدادی که مثل کهنه‌کارها بازی می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CTalent%20Spalt%20wie%20ein%20alter%20Hase%20site%3Akicker.de",
+       "direct": false
+      },
+      {
+       "o": "Das Manko gegen die Großen",
+       "fa": "نقطه‌ضعف در برابر بزرگان",
+       "url": "https://duckduckgo.com/?q=%5CDas%20Manko%20gegen%20die%20Gro%C3%9Fen%20site%3Akicker.de",
+       "direct": false
+      }
+     ]
     }
    ]
   },
