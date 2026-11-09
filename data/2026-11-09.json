@@ -7,6 +7,108 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-09/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "Clear Message to Trump, But Hazy Future for U.S.",
+       "fa": "پیامی روشن به ترامپ، اما آینده‌ای مبهم برای آمریکا",
+       "url": "https://duckduckgo.com/?q=%5CClear%20Message%20to%20Trump%2C%20But%20Hazy%20Future%20for%20U.S.%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Rare Coalition Has Mississippi On the Cusp of a Black Senator",
+       "fa": "ائتلافی کم‌سابقه می‌سی‌سی‌پی را در آستانهٔ داشتن سناتوری سیاه‌پوست قرار داده است",
+       "url": "https://duckduckgo.com/?q=%5CRare%20Coalition%20Has%20Mississippi%20On%20the%20Cusp%20of%20a%20Black%20Senator%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Jeffries, With Strong Majority, Cautiously Considers Big Ideas",
+       "fa": "جفریز با اکثریتی قاطع، محتاطانه ایده‌های بزرگ را می‌سنجد",
+       "url": "https://duckduckgo.com/?q=%5CJeffries%2C%20With%20Strong%20Majority%2C%20Cautiously%20Considers%20Big%20Ideas%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Texas Democrats Plot Rollback Of Harsh Immigration Policies",
+       "fa": "دموکرات‌های تگزاس برای لغو سیاست‌های سخت‌گیرانهٔ مهاجرتی برنامه می‌ریزند",
+       "url": "https://duckduckgo.com/?q=%5CTexas%20Democrats%20Plot%20Rollback%20Of%20Harsh%20Immigration%20Policies%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "When to Share Sleeping Bag With a Walrus: An Alaskan Rescue",
+       "fa": "کیسه‌خواب مشترک با یک شیرماهی: نجاتی در آلاسکا",
+       "url": "https://duckduckgo.com/?q=%5CWhen%20to%20Share%20Sleeping%20Bag%20With%20a%20Walrus%3A%20An%20Alaskan%20Rescue%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "War Both Slows and Advances Quest for an Energy Transition",
+       "fa": "جنگ تلاش برای گذار انرژی را هم کُند می‌کند و هم پیش می‌برد",
+       "url": "https://duckduckgo.com/?q=%5CWar%20Both%20Slows%20and%20Advances%20Quest%20for%20an%20Energy%20Transition%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "In Wales, Never Too Many Elvises",
+       "fa": "در ولز، الویس هیچ‌وقت زیادی نیست",
+       "url": "https://duckduckgo.com/?q=%5CIn%20Wales%2C%20Never%20Too%20Many%20Elvises%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-washington-post",
+     "name": "The Washington Post",
+     "fa": "واشنگتن پست",
+     "site": "https://www.washingtonpost.com",
+     "img": "covers/2026-11-09/the-washington-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-washington-post/",
+     "headlines": [
+      {
+       "o": "DOJ braces for congressional investigations",
+       "fa": "وزارت دادگستری خود را برای تحقیقات کنگره آماده می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CDOJ%20braces%20for%20congressional%20investigations%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "In Venezuela, a U.S.-backed oil empire rises",
+       "fa": "در ونزوئلا، امپراتوری نفتیِ مورد حمایت آمریکا سر برمی‌آورد",
+       "url": "https://duckduckgo.com/?q=%5CIn%20Venezuela%2C%20a%20U.S.-backed%20oil%20empire%20rises%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Promotion for Miller sets up new era of strife",
+       "fa": "ارتقای میلر دورهٔ تازه‌ای از کشمکش را رقم می‌زند",
+       "url": "https://duckduckgo.com/?q=%5CPromotion%20for%20Miller%20sets%20up%20new%20era%20of%20strife%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Potential Vance challengers for 2028 smell blood",
+       "fa": "رقبای احتمالی ونس برای ۲۰۲۸ بوی خون به مشامشان رسیده است",
+       "url": "https://duckduckgo.com/?q=%5CPotential%20Vance%20challengers%20for%202028%20smell%20blood%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Would a new Israeli leader change settler violence?",
+       "fa": "آیا رهبری تازه در اسرائیل خشونت شهرک‌نشینان را تغییر می‌دهد؟",
+       "url": "https://duckduckgo.com/?q=%5CWould%20a%20new%20Israeli%20leader%20change%20settler%20violence%3F%20site%3Awashingtonpost.com",
+       "direct": false
+      },
+      {
+       "o": "Nvidia probes CEO over ties to suspected Chinese spy",
+       "fa": "انویدیا دربارهٔ ارتباط مدیرعاملی با مظنون به جاسوسی برای چین تحقیق می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CNvidia%20probes%20CEO%20over%20ties%20to%20suspected%20Chinese%20spy%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "usa-today",
      "name": "USA Today",
      "fa": "یو‌اس‌ای تودی",
@@ -55,6 +157,60 @@
      ]
     },
     {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-09/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Democrats gear up for battles on immigration",
+       "fa": "دموکرات‌ها برای نبرد بر سر مهاجرت آماده می‌شوند",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20gear%20up%20for%20battles%20on%20immigration%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Political tide takes a turn in California's heartland",
+       "fa": "موج سیاسی در قلب کالیفرنیا تغییر جهت می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CPolitical%20tide%20takes%20a%20turn%20in%20California%27s%20heartland%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "As kids strain to see, risks become clearer",
+       "fa": "با ضعیف‌شدن بینایی کودکان، خطرها آشکارتر می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CAs%20kids%20strain%20to%20see%2C%20risks%20become%20clearer%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Jersey rolls out red carpet",
+       "fa": "نیوجرسی فرش قرمز پهن می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CJersey%20rolls%20out%20red%20carpet%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Surf, sand and a rail rescue plan in O.C.",
+       "fa": "موج، ماسه و طرحی برای نجات راه‌آهن در اورنج کانتی",
+       "url": "https://duckduckgo.com/?q=%5CSurf%2C%20sand%20and%20a%20rail%20rescue%20plan%20in%20O.C.%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Congress to focus on healthcare",
+       "fa": "کنگره بر بهداشت و درمان تمرکز می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CCongress%20to%20focus%20on%20healthcare%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "New leaders on climate agenda",
+       "fa": "رهبران تازه در دستور کار اقلیمی",
+       "url": "https://duckduckgo.com/?q=%5CNew%20leaders%20on%20climate%20agenda%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",
@@ -74,6 +230,114 @@
        "o": "Nvidia boss admits to affair with Chinese 'spy' as chip company launches probe",
        "fa": "رئیس انویدیا به رابطه با «جاسوس» چینی اعتراف کرد؛ شرکت تراشه‌ساز تحقیقات را آغاز کرد",
        "url": "https://duckduckgo.com/?q=%5CNvidia%20boss%20admits%20to%20affair%20with%20Chinese%20%27spy%27%20as%20chip%20company%20launches%20probe%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-09/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "In this competition, classes left on sidelines",
+       "fa": "در این رقابت، کلاس‌های درس کنار گذاشته می‌شوند",
+       "url": "https://duckduckgo.com/?q=%5CIn%20this%20competition%2C%20classes%20left%20on%20sidelines%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Wu renews stalled street, bike projects",
+       "fa": "وو طرح‌های متوقف‌شدهٔ خیابان و دوچرخه را از سر می‌گیرد",
+       "url": "https://duckduckgo.com/?q=%5CWu%20renews%20stalled%20street%2C%20bike%20projects%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "After Flock, Quincy has a new vendor",
+       "fa": "پس از فلاک، کوئینسی فروشندهٔ تازه‌ای دارد",
+       "url": "https://duckduckgo.com/?q=%5CAfter%20Flock%2C%20Quincy%20has%20a%20new%20vendor%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Suffield headmaster resigns amid probe",
+       "fa": "مدیر مدرسهٔ سافیلد در بحبوحهٔ تحقیقات استعفا داد",
+       "url": "https://duckduckgo.com/?q=%5CSuffield%20headmaster%20resigns%20amid%20probe%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-09/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Faulty DNA report unravels Indiana rape case",
+       "fa": "گزارش معیوب دی‌ان‌ای پروندهٔ تجاوزی در ایندیانا را از هم پاشاند",
+       "url": "https://duckduckgo.com/?q=%5CFaulty%20DNA%20report%20unravels%20Indiana%20rape%20case%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Pope set for fraught stop on his tour",
+       "fa": "پاپ آمادهٔ توقفی پرتنش در سفرش",
+       "url": "https://duckduckgo.com/?q=%5CPope%20set%20for%20fraught%20stop%20on%20his%20tour%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Catch and release",
+       "fa": "صید و رهاسازی",
+       "url": "https://duckduckgo.com/?q=%5CCatch%20and%20release%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-09/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "'Boycott Ride' draws large rally in support of Jewish-owned eateries",
+       "fa": "«دوچرخه‌سواری تحریم» تجمع بزرگی در حمایت از غذاخوری‌های متعلق به یهودیان را برانگیخت",
+       "url": "https://duckduckgo.com/?q=%5C%27Boycott%20Ride%27%20draws%20large%20rally%20in%20support%20of%20Jewish-owned%20eateries%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Cape May mayor's unlikely win over Van Drew explained",
+       "fa": "توضیحی بر پیروزی دور از انتظار شهردار کیپ می بر ون‌درو",
+       "url": "https://duckduckgo.com/?q=%5CCape%20May%20mayor%27s%20unlikely%20win%20over%20Van%20Drew%20explained%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Will minimum wage bump happen with Democrats in power?",
+       "fa": "آیا با قدرت‌گرفتن دموکرات‌ها حداقل دستمزد افزایش می‌یابد؟",
+       "url": "https://duckduckgo.com/?q=%5CWill%20minimum%20wage%20bump%20happen%20with%20Democrats%20in%20power%3F%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Giants hand Eagles their 7th straight loss",
+       "fa": "جاینتس هفتمین شکست پیاپی را به ایگلز تحمیل کرد",
+       "url": "https://duckduckgo.com/?q=%5CGiants%20hand%20Eagles%20their%207th%20straight%20loss%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "West Philly apartment proposal hits roadblock",
+       "fa": "طرح آپارتمان‌سازی در غرب فیلادلفیا به مانع خورد",
+       "url": "https://duckduckgo.com/?q=%5CWest%20Philly%20apartment%20proposal%20hits%20roadblock%20site%3Ainquirer.com",
        "direct": false
       }
      ]
@@ -1796,6 +2060,54 @@
        "o": "Aldar Championship: Jon Rahm delighted with debut victory in Abu Dhabi",
        "fa": "مسابقات آلدار: جان رام از نخستین پیروزی‌اش در ابوظبی خوشحال است",
        "url": "https://duckduckgo.com/?q=%5CAldar%20Championship%3A%20Jon%20Rahm%20delighted%20with%20debut%20victory%20in%20Abu%20Dhabi%20site%3Athenationalnews.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "قطر",
+   "flag": "🇶🇦",
+   "papers": [
+    {
+     "slug": "gulf-times",
+     "name": "Gulf Times",
+     "fa": "گلف تایمز",
+     "site": "https://www.gulf-times.com",
+     "img": "covers/2026-11-09/gulf-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/gulf-times/",
+     "headlines": [
+      {
+       "o": "Qatar inks pact as Gulf railway dream gathers steam",
+       "fa": "قطر توافق‌نامه امضا کرد و رؤیای راه‌آهن خلیج فارس شتاب می‌گیرد",
+       "url": "https://duckduckgo.com/?q=%5CQatar%20inks%20pact%20as%20Gulf%20railway%20dream%20gathers%20steam%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "MWC26 opens new chapter in Qatar's digital ambitions",
+       "fa": "کنگرهٔ MWC26 فصل تازه‌ای در بلندپروازی‌های دیجیتال قطر می‌گشاید",
+       "url": "https://duckduckgo.com/?q=%5CMWC26%20opens%20new%20chapter%20in%20Qatar%27s%20digital%20ambitions%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "Sheikha Al Mayassa opens doors to AISP, honours Doha Design Prize winners",
+       "fa": "شیخه المیاسه درهای AISP را گشود و از برندگان جایزهٔ طراحی دوحه تقدیر کرد",
+       "url": "https://duckduckgo.com/?q=%5CSheikha%20Al%20Mayassa%20opens%20doors%20to%20AISP%2C%20honours%20Doha%20Design%20Prize%20winners%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "Commercial Bank recognised with four Global Finance awards",
+       "fa": "کامرشال بانک با چهار جایزهٔ گلوبال فایننس شناخته شد",
+       "url": "https://duckduckgo.com/?q=%5CCommercial%20Bank%20recognised%20with%20four%20Global%20Finance%20awards%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "HIA launches 'Made in Qatar' screening room",
+       "fa": "فرودگاه بین‌المللی حمد سالن نمایش «ساخت قطر» را راه‌اندازی کرد",
+       "url": "https://duckduckgo.com/?q=%5CHIA%20launches%20%27Made%20in%20Qatar%27%20screening%20room%20site%3Agulf-times.com",
        "direct": false
       }
      ]
