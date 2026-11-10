@@ -30,7 +30,7 @@ python3 scripts/archive_shrink.py DATE   # روزهای قدیمی‌تر از �
 
 ## پست شبانهٔ تلگرام (حدود ۱۹:۳۶ به وقت تهران)
 
-پستی قابل‌بازارسال با تیتر اول روزنامه‌ها، یک لید کوتاه، کلاژ چند جلد و دکمه/لینک مینی‌اپ (`t.me/worldnewspaperminiappbot/frontpages`) در چت بات:
+پستی قابل‌بازارسال با تیتر اول روزنامه‌ها، یک لید کوتاه (با پیشوند «امتداد-گروه بین‌الملل:»)، کلاژ چند جلد و دکمه/لینک مینی‌اپ (`t.me/worldnewspaperminiappbot/frontpages`) در چت بات و کانال «صفحه نخست جهان»:
 
 ```bash
 # data/posts/DATE.json را بنویس: {"date", "lead", "items": [{"slug", "fa"}], "covers": [slug...]}

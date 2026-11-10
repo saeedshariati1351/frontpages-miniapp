@@ -15,6 +15,10 @@ on:
         description: "Date YYYY-MM-DD (default: latest day)"
         required: false
         default: ""
+      new:
+        description: "Send as new messages (yes) instead of editing"
+        required: false
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -26,12 +30,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Send
-        run: python3 scripts/post.py ${{ github.event.inputs.date }} ${{ github.event_name == 'schedule' && '--today-only' || '' }}
+        run: python3 scripts/post.py ${{ github.event.inputs.date }} ${{ github.event_name == 'schedule' && '--today-only' || '' }} ${{ github.event.inputs.new == 'yes' && '--new' || '' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
       - name: Save state
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

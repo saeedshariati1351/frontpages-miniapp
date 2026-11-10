@@ -12,18 +12,19 @@ links survive forwarding, so the message can be forwarded to channels and
 groups as is. A second run for the same date edits the message (skipped when
 nothing changed).
 
-Target: the public channel «صفحه نخست جهان» where the bot is an admin
+Targets: the owner's chat with the bot (TELEGRAM_CHAT_ID / notify-state) and
+the public channel «صفحه نخست جهان» where the bot is an admin
 (TELEGRAM_CHANNEL_ID, else data/channel.json, else found from the bot's
-updates: the channel where the bot was made admin). Until the channel is
-found the post goes to the owner's chat (TELEGRAM_CHAT_ID / notify-state).
+updates: the channel where the bot was made admin).
 When the channel is first found, data/channel.json is written (id, title,
 link; the Mini App shows the link) and the channel link is added to the
 bot's description.
 
-Usage: python3 scripts/post.py [DATE] [--preview] [--today-only]
+Usage: python3 scripts/post.py [DATE] [--preview] [--today-only] [--new]
   --today-only: do nothing unless DATE is the latest day (scheduled runs)
+  --new: send new messages even if this date was already sent
 Env: TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL_ID, TELEGRAM_CHAT_ID
-State: data/post-state.json {"date", "message_id", "chat_id", "hash"}
+State: data/post-state.json {"date", "msgs": {chat_id: [message_id, hash]}}
 """
 import hashlib, html, json, os, sys, urllib.parse, urllib.request, urllib.error
 from pathlib import Path
@@ -34,6 +35,7 @@ CHANNEL = ROOT / "data" / "channel.json"
 APP_LINK = "https://t.me/worldnewspaperminiappbot/frontpages"
 BOT = "@worldnewspaperminiappbot"
 RAW = "https://raw.githubusercontent.com/saeedshariati1351/frontpages-miniapp/main/"
+BYLINE = "امتداد-گروه بین‌الملل:"  # printed at the start of every lead
 FA = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
 
 
@@ -56,7 +58,7 @@ def build(date):
     n_h = sum(len(p.get("headlines") or []) for c in day["countries"] for p in c["papers"])
     e = html.escape
     lines = [f"🗞 <b>صفحهٔ اول روزنامه‌های جهان</b>",
-             f"📅 {e(day['date_fa'])}", "", f"<i>{e(post['lead'])}</i>", ""]
+             f"📅 {e(day['date_fa'])}", "", f"<i><b>{e(BYLINE)}</b> {e(post['lead'])}</i>", ""]
     for it in post["items"]:
         flag, name = papers[it["slug"]]
         lines.append(f"{flag} <b>{e(name)}:</b> {e(it['fa'])}")
@@ -126,44 +128,47 @@ def main():
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     if not token:
         print("TELEGRAM_BOT_TOKEN not set; skipping"); return
-    chat = find_channel(token)
-    if not chat:
-        print("no channel yet: sending to the owner's chat")
-        chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
-        ns = ROOT / "data" / "notify-state.json"
-        if not chat and ns.exists():
-            chat = str(json.loads(ns.read_text()).get("chat_id") or "")
-    if not chat:
+    owner = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    ns = ROOT / "data" / "notify-state.json"
+    if not owner and ns.exists():
+        owner = str(json.loads(ns.read_text()).get("chat_id") or "")
+    channel = find_channel(token)
+    if not channel:
+        print("channel not found (is the bot an admin with posting rights?)")
+    targets = [c for c in (owner, channel) if c]
+    if not targets:
         sys.exit("no chat id")
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
+    msgs = state.get("msgs", {}) if state.get("date") == date and "--new" not in sys.argv else {}
     share = "https://t.me/share/url?" + urllib.parse.urlencode(
         {"url": APP_LINK, "text": "صفحهٔ اول روزنامه‌های امروز جهان با تیترهای ترجمه‌شده به فارسی"})
-    payload = {
-        "chat_id": chat, "text": text, "parse_mode": "HTML",
-        "reply_markup": {"inline_keyboard": [
-            [{"text": "📰 صفحهٔ اول روزنامه‌های جهان", "url": APP_LINK}],
-            [{"text": "📤 ارسال برای دوستان", "url": share}]]},
-        "link_preview_options": ({"url": img, "prefer_large_media": True, "show_above_text": True}
-                                 if img else {"is_disabled": True}),
-    }
-    digest = hashlib.sha1(json.dumps(payload, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:12]
-    same = state.get("date") == date and str(state.get("chat_id")) == str(chat) and state.get("message_id")
-    if same and state.get("hash") == digest:
-        print("already sent, unchanged"); return
-    if same:
-        r = api(token, "editMessageText", dict(payload, message_id=state["message_id"]))
-        if r.get("ok") or "not modified" in r.get("description", ""):
-            state["hash"] = digest
-            STATE.write_text(json.dumps(state) + "\n")
-            print("edited", state["message_id"]); return
-        print("edit failed, sending new:", r.get("description"))
-    r = api(token, "sendMessage", payload)
-    if not r.get("ok"):
-        print("send failed:", r); sys.exit(1)
-    STATE.write_text(json.dumps({"date": date, "message_id": r["result"]["message_id"],
-                                 "chat_id": chat, "hash": digest}) + "\n")
-    print("sent", r["result"]["message_id"], "to", chat)
-
+    failed = False
+    for chat in targets:
+        payload = {
+            "chat_id": chat, "text": text, "parse_mode": "HTML",
+            "reply_markup": {"inline_keyboard": [
+                [{"text": "📰 صفحهٔ اول روزنامه‌های جهان", "url": APP_LINK}],
+                [{"text": "📤 ارسال برای دوستان", "url": share}]]},
+            "link_preview_options": ({"url": img, "prefer_large_media": True, "show_above_text": True}
+                                     if img else {"is_disabled": True}),
+        }
+        digest = hashlib.sha1(json.dumps(payload, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:12]
+        old = msgs.get(str(chat))
+        if old and old[1] == digest:
+            print(chat, "already sent, unchanged"); continue
+        if old:
+            r = api(token, "editMessageText", dict(payload, message_id=old[0]))
+            if r.get("ok") or "not modified" in r.get("description", ""):
+                msgs[str(chat)] = [old[0], digest]; print(chat, "edited", old[0]); continue
+            print(chat, "edit failed, sending new:", r.get("description"))
+        r = api(token, "sendMessage", payload)
+        if not r.get("ok"):
+            print(chat, "send failed:", r); failed = True; continue
+        msgs[str(chat)] = [r["result"]["message_id"], digest]
+        print(chat, "sent", r["result"]["message_id"])
+    STATE.write_text(json.dumps({"date": date, "msgs": msgs}) + "\n")
+    if failed:
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
