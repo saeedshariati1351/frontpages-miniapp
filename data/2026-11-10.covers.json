@@ -228,5 +228,85 @@
   "w": 900,
   "h": 1200,
   "source": "https://aawsat.com/files/pdf/issue17514/index.html"
+ },
+ "the-new-york-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-new-york-times/"
+ },
+ "the-washington-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-washington-post/"
+ },
+ "los-angeles-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/los-angeles-times/"
+ },
+ "new-york-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/new-york-post/"
+ },
+ "the-boston-globe": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-boston-globe/"
+ },
+ "chicago-tribune": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/chicago-tribune/"
+ },
+ "the-philadelphia-inquirer": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-philadelphia-inquirer/"
+ },
+ "financial-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/financial-times/"
+ },
+ "city-am": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/city-am/"
+ },
+ "morning-star": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/morning-star/"
+ },
+ "le-parisien": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/le-parisien/"
+ },
+ "frankfurter-allgemeine-zeitung": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/frankfurter-allgemeine-zeitung/"
+ },
+ "people-s-daily": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/people-s-daily/"
+ },
+ "the-times-of-india": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-times-of-india/"
+ },
+ "hindustan-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/hindustan-times/"
+ },
+ "the-economic-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-economic-times/"
  }
 }
