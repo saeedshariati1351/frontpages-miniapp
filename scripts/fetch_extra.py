@@ -259,6 +259,27 @@ def gazetetek(name):
     return fetch
 
 
+def gazetemanset(slug):
+    """Today's covers on https://www.gazetemanset.com/ (images on img.piri.net, dated paths).
+    The image of a paper is the img.piri.net URL closest to its slug in the page."""
+    def fetch(d):
+        html = page("https://www.gazetemanset.com/").replace("\\/", "/")
+        ymd = d.strftime("%Y/%m/%d")
+        urls = [(m.start(), m.group(0)) for m in
+                re.finditer(rf"https://img\.piri\.net/piri/upload/\d+/{ymd}/[\w-]+\.(?:jpe?g|png|webp)", html)]
+        names = [m.start() for m in re.finditer(re.escape(slug), html, re.I)]
+        if not urls or not names:
+            print("  gazetemanset: nothing for", slug, d, len(urls), len(names)); return None
+        dist, u = min((min(abs(p - n) for n in names), u) for p, u in urls)
+        p = html.index(u)
+        print("  gazetemanset pick", u, "distance", dist, "context:",
+              re.sub(r"\s+", " ", html[max(0, p - 150):p + 150])[:300])
+        if dist > 800:
+            print("  too far, skipped"); return None
+        return _img(u)
+    return fetch
+
+
 def chain(*fetchers):
     def fetch(d):
         for f in fetchers:
@@ -285,6 +306,8 @@ def fetcher_for(p):
         fs.append(gazetetek(p["gazetetek"]))
     if p.get("haber7"):
         fs.append(haber7(p["haber7"]))
+    if p.get("gazetemanset"):
+        fs.append(gazetemanset(p["gazetemanset"]))
     if p.get("kiosko"):
         fs.append(kiosko(p["kiosko"]))
     return chain(*fs) if fs else None
@@ -328,7 +351,7 @@ def main():
         GIVEN[(slug, date)] = u
         del args[i:i + 2]
     papers = [p for g in json.load(open(os.path.join(ROOT, "scripts", "papers.json"), encoding="utf-8"))
-              for p in g["papers"] if p.get("via") or any(p.get(k) for k in ("paperboy", "kiosko", "gazetetek", "haber7"))]
+              for p in g["papers"] if p.get("via") or any(p.get(k) for k in ("paperboy", "kiosko", "gazetetek", "haber7", "gazetemanset"))]
     dates = args or sorted({d for _, d in GIVEN})
     for date in dates:
         d = datetime.date.fromisoformat(date)
