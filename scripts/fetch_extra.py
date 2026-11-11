@@ -23,9 +23,12 @@ def get(url, timeout=40):
 
 
 def top_crop(im):
+    """Top of the page in 3:4, at most W pixels wide (never upscaled)."""
     im = im.convert("RGB")
-    im = im.resize((W, round(im.height * W / im.width)), Image.LANCZOS)
-    return im.crop((0, 0, W, min(H, im.height)))
+    if im.width > W:
+        im = im.resize((W, round(im.height * W / im.width)), Image.LANCZOS)
+    w = im.width
+    return im.crop((0, 0, w, min(round(w * H / W), im.height)))
 
 
 def pdf_first_page(data):
@@ -195,6 +198,47 @@ def kiosko(code):
     return fetch
 
 
+# ---------- thepaperboy.com (dated front pages of UK and US papers) ----------
+def paperboy(code):
+    region, name = code.split("/", 1)
+    def fetch(d):
+        u = f"https://cdn.thepaperboy.com/frontpages/{region}/{d.strftime('%Y%m%d')}/{name}.jpg"
+        try:
+            im = Image.open(io.BytesIO(get(u)))
+            im.load()
+        except Exception as e:
+            print("  miss", u, str(e)[:80]); return None
+        print("  ok", u, im.size)
+        return im, u
+    return fetch
+
+
+def chain(*fetchers):
+    def fetch(d):
+        for f in fetchers:
+            r = f(d)
+            if r:
+                return r
+        return None
+    return fetch
+
+
+def fetcher_for(p):
+    """Sources for a paper: its "via" source, or (for frontpages.com papers) the
+    fallbacks named by the "paperboy" / "kiosko" keys in papers.json."""
+    via = p.get("via")
+    if via == "url":
+        return given_url(p["slug"])
+    if via in SOURCES:
+        return SOURCES[via]
+    fs = []
+    if p.get("paperboy"):
+        fs.append(paperboy(p["paperboy"]))
+    if p.get("kiosko"):
+        fs.append(kiosko(p["kiosko"]))
+    return chain(*fs) if fs else None
+
+
 SOURCES = {"aawsat": aawsat}
 
 
@@ -226,25 +270,28 @@ def main():
         GIVEN[(slug, date)] = u
         del args[i:i + 2]
     papers = [p for g in json.load(open(os.path.join(ROOT, "scripts", "papers.json"), encoding="utf-8"))
-              for p in g["papers"] if p.get("via")]
+              for p in g["papers"] if p.get("via") or p.get("paperboy") or p.get("kiosko")]
     dates = args or sorted({d for _, d in GIVEN})
     for date in dates:
         d = datetime.date.fromisoformat(date)
         cpath = os.path.join(ROOT, "data", f"{date}.covers.json")
         found = json.load(open(cpath)) if os.path.exists(cpath) else {}
+        prev = (d - datetime.timedelta(days=1)).isoformat()
+        ppath = os.path.join(ROOT, "data", f"{prev}.covers.json")
+        prev_found = json.load(open(ppath)) if os.path.exists(ppath) else {}
         outdir = os.path.join(ROOT, "covers", date)
         os.makedirs(outdir, exist_ok=True)
         for p in papers:
             slug = p["slug"]
             if slug in found:
                 print(date, "have:", slug); continue
-            if p["via"] == "url":
-                fetcher = given_url(slug)
-            elif p["via"] == "kiosko":
-                fetcher = kiosko(p["kiosko"])
-            else:
-                fetcher = SOURCES[p["via"]]
-            if p["via"] == "url" and (slug, date) not in GIVEN:
+            if p.get("via") == "url" and (slug, date) not in GIVEN:
+                continue
+            # one combined weekend edition, filed under Saturday (as in fetch_covers.py)
+            if p.get("weekend") and d.weekday() == 6 and slug in prev_found:
+                print(date, "weekend edition already filed under Saturday:", slug); continue
+            fetcher = fetcher_for(p)
+            if fetcher is None:
                 continue
             print(date, "trying:", slug)
             try:
