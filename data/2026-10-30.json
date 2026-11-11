@@ -373,6 +373,54 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-10-30/the-guardian.jpg",
+     "w": 400,
+     "h": 506,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261030/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Netanyahu accused of smearing Arab voters to hold on to power",
+       "fa": "نتانیاهو به بدنام کردن رأی‌دهندگان عرب برای حفظ قدرت متهم شد",
+       "url": "https://duckduckgo.com/?q=%5CNetanyahu%20accused%20of%20smearing%20Arab%20voters%20to%20hold%20on%20to%20power%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Healey balks at welfare cuts despite £28bn hole",
+       "fa": "هیلی با وجود کسری ۲۸ میلیارد پوندی از کاهش مزایای رفاهی سر باز می‌زند",
+       "url": "https://duckduckgo.com/?q=%5CHealey%20balks%20at%20welfare%20cuts%20despite%20%C2%A328bn%20hole%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Female MP says Farage shoved her in Commons",
+       "fa": "نمایندهٔ زن مجلس می‌گوید فاراژ در مجلس عوام او را هل داده است",
+       "url": "https://duckduckgo.com/?q=%5CFemale%20MP%20says%20Farage%20shoved%20her%20in%20Commons%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Patrick Stewart: From Shakespeare to sci-fi: tributes paid to acclaimed actor who has died aged 86",
+       "fa": "پاتریک استوارت: از شکسپیر تا علمی‌تخیلی؛ ادای احترام به بازیگر نامدار که در ۸۶ سالگی درگذشت",
+       "url": "https://duckduckgo.com/?q=%5CPatrick%20Stewart%3A%20From%20Shakespeare%20to%20sci-fi%3A%20tributes%20paid%20to%20acclaimed%20actor%20who%20has%20died%20aged%2086%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "King of grime Skepta returns",
+       "fa": "اسکپتا، پادشاه گرایم، بازگشت",
+       "url": "https://duckduckgo.com/?q=%5CKing%20of%20grime%20Skepta%20returns%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Olivia Colman and Alexander Skarsgård on their steamy folk-horror movie",
+       "fa": "اولیویا کولمن و الکساندر اسکارسگارد دربارهٔ فیلم وحشت فولکلور پرشورشان",
+       "url": "https://duckduckgo.com/?q=%5COlivia%20Colman%20and%20Alexander%20Skarsg%C3%A5rd%20on%20their%20steamy%20folk-horror%20movie%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

@@ -397,6 +397,54 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-10-24/the-guardian.jpg",
+     "w": 400,
+     "h": 508,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261024/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Online safety laws have failed to protect children",
+       "fa": "قوانین ایمنی آنلاین در حفاظت از کودکان شکست خورده‌اند",
+       "url": "https://duckduckgo.com/?q=%5COnline%20safety%20laws%20have%20failed%20to%20protect%20children%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Meghan's 'deep distress' over claims against father",
+       "fa": "«اندوه عمیق» مگان از اتهام‌ها علیه پدرش",
+       "url": "https://duckduckgo.com/?q=%5CMeghan%27s%20%27deep%20distress%27%20over%20claims%20against%20father%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Storm Austen winds leave thousands without power",
+       "fa": "بادهای طوفان آستن هزاران نفر را بی‌برق گذاشت",
+       "url": "https://duckduckgo.com/?q=%5CStorm%20Austen%20winds%20leave%20thousands%20without%20power%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Jump! Flirt! Run! Who will triumph at this weekend's final 007 screen test?",
+       "fa": "بپر! دلبری کن! بدو! چه کسی در آخرین تست بازیگری ۰۰۷ این آخر هفته پیروز می‌شود؟",
+       "url": "https://duckduckgo.com/?q=%5CJump%21%20Flirt%21%20Run%21%20Who%20will%20triumph%20at%20this%20weekend%27s%20final%20007%20screen%20test%3F%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "The making of Celebrity Traitors",
+       "fa": "پشت صحنهٔ «خائنان سلبریتی»",
+       "url": "https://duckduckgo.com/?q=%5CThe%20making%20of%20Celebrity%20Traitors%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Crowded nest? How to live with adult kids",
+       "fa": "آشیانهٔ شلوغ؟ چگونه با فرزندان بزرگسال زندگی کنیم",
+       "url": "https://duckduckgo.com/?q=%5CCrowded%20nest%3F%20How%20to%20live%20with%20adult%20kids%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

@@ -439,6 +439,54 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-10-26/the-guardian.jpg",
+     "w": 400,
+     "h": 506,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261026/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "'Red wall' MPs wary as Burnham calls for EU free movement debate",
+       "fa": "نمایندگان «دیوار سرخ» از درخواست برنهام برای بحث دربارهٔ آزادی تردد در اتحادیهٔ اروپا نگران‌اند",
+       "url": "https://duckduckgo.com/?q=%5C%27Red%20wall%27%20MPs%20wary%20as%20Burnham%20calls%20for%20EU%20free%20movement%20debate%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Growing number of UK crimes linked to cocaine",
+       "fa": "شمار فزاینده‌ای از جرائم در بریتانیا با کوکائین مرتبط است",
+       "url": "https://duckduckgo.com/?q=%5CGrowing%20number%20of%20UK%20crimes%20linked%20to%20cocaine%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "The people of Hebron pay price for show of strength by Netanyahu",
+       "fa": "مردم الخلیل بهای قدرت‌نمایی نتانیاهو را می‌پردازند",
+       "url": "https://duckduckgo.com/?q=%5CThe%20people%20of%20Hebron%20pay%20price%20for%20show%20of%20strength%20by%20Netanyahu%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Serbia celebrates: Vučić concedes defeat in election",
+       "fa": "جشن در صربستان: ووچیچ شکست در انتخابات را پذیرفت",
+       "url": "https://duckduckgo.com/?q=%5CSerbia%20celebrates%3A%20Vu%C4%8Di%C4%87%20concedes%20defeat%20in%20election%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Plant power! Effort-free ways to eat more fruit and veg",
+       "fa": "قدرت گیاهان! راه‌های بی‌زحمت برای خوردن میوه و سبزی بیشتر",
+       "url": "https://duckduckgo.com/?q=%5CPlant%20power%21%20Effort-free%20ways%20to%20eat%20more%20fruit%20and%20veg%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Ashley Walters on acting, directing and redemption",
+       "fa": "اشلی والترز دربارهٔ بازیگری، کارگردانی و رستگاری",
+       "url": "https://duckduckgo.com/?q=%5CAshley%20Walters%20on%20acting%2C%20directing%20and%20redemption%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

@@ -97,6 +97,48 @@
      ]
     },
     {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-01/los-angeles-times.jpg",
+     "w": 400,
+     "h": 533,
+     "source": "https://cdn.thepaperboy.com/frontpages/us/20261101/los_angeles_times.jpg",
+     "headlines": [
+      {
+       "o": "Republicans could soon face a reckoning",
+       "fa": "جمهوری‌خواهان ممکن است به‌زودی با روز حساب روبه‌رو شوند",
+       "url": "https://duckduckgo.com/?q=%5CRepublicans%20could%20soon%20face%20a%20reckoning%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "For Hollywood, grass is greener in Ireland",
+       "fa": "برای هالیوود، مرغ همسایه در ایرلند غاز است",
+       "url": "https://duckduckgo.com/?q=%5CFor%20Hollywood%2C%20grass%20is%20greener%20in%20Ireland%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Rulings stack up against election meddling",
+       "fa": "احکام قضایی علیه دخالت در انتخابات روی هم انباشته می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CRulings%20stack%20up%20against%20election%20meddling%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "In bitter mayoral contest, future of L.A. is on the line",
+       "fa": "در رقابت تلخ شهرداری، آیندهٔ لس‌آنجلس در خطر است",
+       "url": "https://duckduckgo.com/?q=%5CIn%20bitter%20mayoral%20contest%2C%20future%20of%20L.A.%20is%20on%20the%20line%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Could it end up a 'dummymander'?",
+       "fa": "آیا ممکن است به «تقسیم‌بندی معکوس» بینجامد؟",
+       "url": "https://duckduckgo.com/?q=%5CCould%20it%20end%20up%20a%20%27dummymander%27%3F%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "new-york-post",
      "name": "New York Post",
      "fa": "نیویورک پست",

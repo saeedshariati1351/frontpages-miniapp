@@ -439,6 +439,54 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-11-09/the-guardian.jpg",
+     "w": 400,
+     "h": 506,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261109/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Ministers set to agree steep cuts to electric vehicle targets",
+       "fa": "وزیران در آستانهٔ توافق بر کاهش شدید اهداف خودروهای برقی",
+       "url": "https://duckduckgo.com/?q=%5CMinisters%20set%20to%20agree%20steep%20cuts%20to%20electric%20vehicle%20targets%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Cop31 needs 'tangible outcome', warns host",
+       "fa": "میزبان کاپ۳۱ هشدار داد: این اجلاس به «نتیجهٔ ملموس» نیاز دارد",
+       "url": "https://duckduckgo.com/?q=%5CCop31%20needs%20%27tangible%20outcome%27%2C%20warns%20host%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Robinson at Irish boxing event that ended in riot",
+       "fa": "رابینسون در رویداد بوکس ایرلندی که به شورش انجامید",
+       "url": "https://duckduckgo.com/?q=%5CRobinson%20at%20Irish%20boxing%20event%20that%20ended%20in%20riot%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "The Cenotaph: Burnham, Badenoch and Farage line up",
+       "fa": "بنای یادبود سنوتاف: برنهام، بادناک و فاراژ در یک صف",
+       "url": "https://duckduckgo.com/?q=%5CThe%20Cenotaph%3A%20Burnham%2C%20Badenoch%20and%20Farage%20line%20up%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "'Look at all the unbelievable things that happened to me' Billie Jean King",
+       "fa": "بیلی جین کینگ: «ببینید چه اتفاق‌های باورنکردنی‌ای برایم افتاد»",
+       "url": "https://duckduckgo.com/?q=%5C%27Look%20at%20all%20the%20unbelievable%20things%20that%20happened%20to%20me%27%20Billie%20Jean%20King%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Villa thriller: United rescue a point but stay in drop zone",
+       "fa": "بازی پرهیجان با ویلا: یونایتد یک امتیاز نجات داد اما در منطقهٔ سقوط ماند",
+       "url": "https://duckduckgo.com/?q=%5CVilla%20thriller%3A%20United%20rescue%20a%20point%20but%20stay%20in%20drop%20zone%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

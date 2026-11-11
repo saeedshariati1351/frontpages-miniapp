@@ -409,6 +409,48 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-10-28/the-guardian.jpg",
+     "w": 400,
+     "h": 503,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261028/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Healey targets cost of living crisis in budget for a 'difficult moment'",
+       "fa": "هیلی در بودجه‌ای برای «لحظه‌ای دشوار» بحران هزینهٔ زندگی را هدف گرفت",
+       "url": "https://duckduckgo.com/?q=%5CHealey%20targets%20cost%20of%20living%20crisis%20in%20budget%20for%20a%20%27difficult%20moment%27%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Israel poll on knife-edge amid historic high turnout",
+       "fa": "انتخابات اسرائیل با مشارکت بی‌سابقه در وضعیتی لب تیغ",
+       "url": "https://duckduckgo.com/?q=%5CIsrael%20poll%20on%20knife-edge%20amid%20historic%20high%20turnout%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Bolsonaro said to have fled Brazil for the US",
+       "fa": "گفته می‌شود بولسونارو از برزیل به آمریکا گریخته است",
+       "url": "https://duckduckgo.com/?q=%5CBolsonaro%20said%20to%20have%20fled%20Brazil%20for%20the%20US%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Jeanette Winterson on humanity at a turning point",
+       "fa": "جنت وینترسون دربارهٔ بشریت در نقطهٔ عطف",
+       "url": "https://duckduckgo.com/?q=%5CJeanette%20Winterson%20on%20humanity%20at%20a%20turning%20point%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "'A pointless riposte' Peter Bradshaw on Elon Musk's AI Odyssey",
+       "fa": "پیتر بردشا دربارهٔ «ادیسهٔ هوش مصنوعی» ایلان ماسک: «پاسخی بی‌معنا»",
+       "url": "https://duckduckgo.com/?q=%5C%27A%20pointless%20riposte%27%20Peter%20Bradshaw%20on%20Elon%20Musk%27s%20AI%20Odyssey%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

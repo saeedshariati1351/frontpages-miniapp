@@ -409,6 +409,54 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-10-31/the-guardian.jpg",
+     "w": 400,
+     "h": 506,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261031/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "PM's 'sorrow' over slave trade but no reparations",
+       "fa": "«تأسف» نخست‌وزیر از تجارت برده، اما بدون غرامت",
+       "url": "https://duckduckgo.com/?q=%5CPM%27s%20%27sorrow%27%20over%20slave%20trade%20but%20no%20reparations%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Police look at Epstein trip to Balmoral",
+       "fa": "پلیس سفر اپستین به بالمورال را بررسی می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CPolice%20look%20at%20Epstein%20trip%20to%20Balmoral%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Christmas to bring 10 days of rail chaos",
+       "fa": "کریسمس ده روز آشفتگی ریلی به همراه خواهد داشت",
+       "url": "https://duckduckgo.com/?q=%5CChristmas%20to%20bring%2010%20days%20of%20rail%20chaos%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Celebrity Traitors: We are and always will be ... the winners!",
+       "fa": "خائنان سلبریتی: ما برنده‌ایم و همیشه خواهیم بود!",
+       "url": "https://duckduckgo.com/?q=%5CCelebrity%20Traitors%3A%20We%20are%20and%20always%20will%20be%20...%20the%20winners%21%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Rivals' reluctant sex symbol Aidan Turner",
+       "fa": "ایدن ترنر، نماد جنسی ناخواستهٔ «رقیبان»",
+       "url": "https://duckduckgo.com/?q=%5CRivals%27%20reluctant%20sex%20symbol%20Aidan%20Turner%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "The autism diagnosis wars",
+       "fa": "جنگ‌های تشخیص اوتیسم",
+       "url": "https://duckduckgo.com/?q=%5CThe%20autism%20diagnosis%20wars%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

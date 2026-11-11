@@ -415,6 +415,48 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-10-27/the-guardian.jpg",
+     "w": 400,
+     "h": 506,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261027/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "'Cliff edge' rule to be scrapped in wake of carer's allowance scandal",
+       "fa": "قاعدهٔ «لبهٔ پرتگاه» در پی رسوایی کمک‌هزینهٔ مراقبان لغو می‌شود",
+       "url": "https://duckduckgo.com/?q=%5C%27Cliff%20edge%27%20rule%20to%20be%20scrapped%20in%20wake%20of%20carer%27s%20allowance%20scandal%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Lula defies history to defeat Bolsonaro",
+       "fa": "لولا تاریخ را به چالش کشید و بولسونارو را شکست داد",
+       "url": "https://duckduckgo.com/?q=%5CLula%20defies%20history%20to%20defeat%20Bolsonaro%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Netanyahu 'pushed for pre-election Iran attack'",
+       "fa": "نتانیاهو «برای حمله به ایران پیش از انتخابات فشار آورد»",
+       "url": "https://duckduckgo.com/?q=%5CNetanyahu%20%27pushed%20for%20pre-election%20Iran%20attack%27%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Cynthia Erivo on her searing new film about sexual assault",
+       "fa": "سینتیا اریوو دربارهٔ فیلم تازه و تکان‌دهنده‌اش دربارهٔ تجاوز جنسی",
+       "url": "https://duckduckgo.com/?q=%5CCynthia%20Erivo%20on%20her%20searing%20new%20film%20about%20sexual%20assault%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Liz Truss's Bank Job digested by John Crace",
+       "fa": "«کار بانکی» لیز تراس به روایت جان کریس",
+       "url": "https://duckduckgo.com/?q=%5CLiz%20Truss%27s%20Bank%20Job%20digested%20by%20John%20Crace%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

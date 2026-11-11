@@ -433,6 +433,42 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-11-05/the-guardian.jpg",
+     "w": 400,
+     "h": 498,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261105/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Trumped",
+       "fa": "ترامپ‌زده",
+       "url": "https://duckduckgo.com/?q=%5CTrumped%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "'Blue wave' sees president's party stripped of control of Congress by Democrats",
+       "fa": "با «موج آبی»، دموکرات‌ها کنترل کنگره را از حزب رئیس‌جمهور گرفتند",
+       "url": "https://duckduckgo.com/?q=%5C%27Blue%20wave%27%20sees%20president%27s%20party%20stripped%20of%20control%20of%20Congress%20by%20Democrats%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Shock results deal devastating blow to Republicans",
+       "fa": "نتایج غافلگیرکننده ضربه‌ای ویرانگر به جمهوری‌خواهان زد",
+       "url": "https://duckduckgo.com/?q=%5CShock%20results%20deal%20devastating%20blow%20to%20Republicans%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Vance declares Iran war as the key reason for big losses",
+       "fa": "ونس جنگ ایران را دلیل اصلی شکست سنگین اعلام کرد",
+       "url": "https://duckduckgo.com/?q=%5CVance%20declares%20Iran%20war%20as%20the%20key%20reason%20for%20big%20losses%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

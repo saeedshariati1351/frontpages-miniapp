@@ -409,6 +409,54 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-11-07/the-guardian.jpg",
+     "w": 400,
+     "h": 509,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261107/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Brand suspected of attacks on at least 10 more women",
+       "fa": "برند به حمله به دست‌کم ۱۰ زن دیگر مظنون است",
+       "url": "https://duckduckgo.com/?q=%5CBrand%20suspected%20of%20attacks%20on%20at%20least%2010%20more%20women%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Bomb threats continue to disrupt flights across Europe",
+       "fa": "تهدیدهای بمب همچنان پروازها را در سراسر اروپا مختل می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CBomb%20threats%20continue%20to%20disrupt%20flights%20across%20Europe%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Meghan's father charged over child abuse images",
+       "fa": "پدر مگان به اتهام نگهداری تصاویر آزار کودکان متهم شد",
+       "url": "https://duckduckgo.com/?q=%5CMeghan%27s%20father%20charged%20over%20child%20abuse%20images%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Brothers in arms: Jobe Bellingham joins Jude in England squad for first time",
+       "fa": "برادران هم‌رزم: جوب بلینگام برای نخستین بار به جود در تیم ملی انگلستان پیوست",
+       "url": "https://duckduckgo.com/?q=%5CBrothers%20in%20arms%3A%20Jobe%20Bellingham%20joins%20Jude%20in%20England%20squad%20for%20first%20time%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Comfort food: Feast magazine",
+       "fa": "غذای دلچسب: مجلهٔ «فیست»",
+       "url": "https://duckduckgo.com/?q=%5CComfort%20food%3A%20Feast%20magazine%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "From ballet to Bond: Michelle Yeoh's wild career",
+       "fa": "از باله تا باند: کارنامهٔ پرماجرای میشل یئو",
+       "url": "https://duckduckgo.com/?q=%5CFrom%20ballet%20to%20Bond%3A%20Michelle%20Yeoh%27s%20wild%20career%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

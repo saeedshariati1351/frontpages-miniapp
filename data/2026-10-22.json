@@ -205,6 +205,30 @@
      ]
     },
     {
+     "slug": "new-york-post",
+     "name": "New York Post",
+     "fa": "نیویورک پست",
+     "site": "https://nypost.com",
+     "img": "covers/2026-10-22/new-york-post.jpg",
+     "w": 400,
+     "h": 448,
+     "source": "https://cdn.thepaperboy.com/frontpages/us/20261022/new_york_post.jpg",
+     "headlines": [
+      {
+       "o": "Ca$h and burn!",
+       "fa": "پول و آتش!",
+       "url": "https://duckduckgo.com/?q=%5CCa%24h%20and%20burn%21%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "Feds bust $42 million in food-stamp fraud, including rapper who set money on fire",
+       "fa": "مأموران فدرال کلاهبرداری ۴۲ میلیون دلاری از کوپن غذا را کشف کردند؛ از جمله رپری که پول آتش می‌زد",
+       "url": "https://duckduckgo.com/?q=%5CFeds%20bust%20%2442%20million%20in%20food-stamp%20fraud%2C%20including%20rapper%20who%20set%20money%20on%20fire%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-boston-globe",
      "name": "The Boston Globe",
      "fa": "بوستون گلوب",
@@ -305,6 +329,84 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-10-22/the-philadelphia-inquirer.jpg",
+     "w": 400,
+     "h": 533,
+     "source": "https://cdn.thepaperboy.com/frontpages/us/20261022/philadelphia_inquirer.jpg",
+     "headlines": [
+      {
+       "o": "Measles affects more adults in Pa. outbreak",
+       "fa": "سرخک در شیوع پنسیلوانیا بزرگسالان بیشتری را گرفتار کرده است",
+       "url": "https://duckduckgo.com/?q=%5CMeasles%20affects%20more%20adults%20in%20Pa.%20outbreak%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Former cops kept access to Flock cameras",
+       "fa": "پلیس‌های سابق همچنان به دوربین‌های فلاک دسترسی داشتند",
+       "url": "https://duckduckgo.com/?q=%5CFormer%20cops%20kept%20access%20to%20Flock%20cameras%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Pope Leo in the clear",
+       "fa": "پاپ لئو در امان",
+       "url": "https://duckduckgo.com/?q=%5CPope%20Leo%20in%20the%20clear%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Black sesame: The hot new flavor on cafe, dessert, and cocktail menus",
+       "fa": "کنجد سیاه: طعم داغ و تازهٔ منوهای کافه، دسر و کوکتل",
+       "url": "https://duckduckgo.com/?q=%5CBlack%20sesame%3A%20The%20hot%20new%20flavor%20on%20cafe%2C%20dessert%2C%20and%20cocktail%20menus%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Sielski: To win big, Sixers will need to leave past behind",
+       "fa": "سیلسکی: سیکسرز برای پیروزی بزرگ باید گذشته را پشت سر بگذارد",
+       "url": "https://duckduckgo.com/?q=%5CSielski%3A%20To%20win%20big%2C%20Sixers%20will%20need%20to%20leave%20past%20behind%20site%3Ainquirer.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "houston-chronicle",
+     "name": "Houston Chronicle",
+     "fa": "هیوستون کرونیکل",
+     "site": "https://www.houstonchronicle.com",
+     "img": "covers/2026-10-22/houston-chronicle.jpg",
+     "w": 400,
+     "h": 533,
+     "source": "https://cdn.thepaperboy.com/frontpages/us/20261022/houston_chronicle.jpg",
+     "headlines": [
+      {
+       "o": "The final sprint",
+       "fa": "دوی نهایی",
+       "url": "https://duckduckgo.com/?q=%5CThe%20final%20sprint%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Paxton, Talarico frame closing arguments in Texas Senate race",
+       "fa": "پکستون و تالاریکو استدلال‌های پایانی خود را در رقابت سنای تگزاس مطرح می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5CPaxton%2C%20Talarico%20frame%20closing%20arguments%20in%20Texas%20Senate%20race%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "County may lose Harvey funding",
+       "fa": "شهرستان ممکن است بودجهٔ بازسازی طوفان هاروی را از دست بدهد",
+       "url": "https://duckduckgo.com/?q=%5CCounty%20may%20lose%20Harvey%20funding%20site%3Ahoustonchronicle.com",
+       "direct": false
+      },
+      {
+       "o": "Poll: Dems' faith in election results falls",
+       "fa": "نظرسنجی: اعتماد دموکرات‌ها به نتایج انتخابات کاهش یافته است",
+       "url": "https://duckduckgo.com/?q=%5CPoll%3A%20Dems%27%20faith%20in%20election%20results%20falls%20site%3Ahoustonchronicle.com",
+       "direct": false
+      }
+     ]
     }
    ]
   },
@@ -312,6 +414,48 @@
    "name": "بریتانیا",
    "flag": "🇬🇧",
    "papers": [
+    {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-10-22/the-guardian.jpg",
+     "w": 400,
+     "h": 506,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261022/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Fahnbulleh minded to reject Rosebank oilfield, sources say",
+       "fa": "منابع: فانبوله تمایل دارد میدان نفتی رزبنک را رد کند",
+       "url": "https://duckduckgo.com/?q=%5CFahnbulleh%20minded%20to%20reject%20Rosebank%20oilfield%2C%20sources%20say%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Deportation revoked for man in UK since 1976",
+       "fa": "حکم اخراج مردی که از ۱۹۷۶ در بریتانیا زندگی می‌کند لغو شد",
+       "url": "https://duckduckgo.com/?q=%5CDeportation%20revoked%20for%20man%20in%20UK%20since%201976%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Double blow for Healey over inflation and deficit",
+       "fa": "ضربهٔ دوگانه به هیلی بر سر تورم و کسری بودجه",
+       "url": "https://duckduckgo.com/?q=%5CDouble%20blow%20for%20Healey%20over%20inflation%20and%20deficit%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Android dreams: Taika Waititi and Kazuo Ishiguro on Klara and the Sun",
+       "fa": "رؤیاهای اندرویدی: تایکا وایتیتی و کازوئو ایشی‌گورو دربارهٔ «کلارا و خورشید»",
+       "url": "https://duckduckgo.com/?q=%5CAndroid%20dreams%3A%20Taika%20Waititi%20and%20Kazuo%20Ishiguro%20on%20Klara%20and%20the%20Sun%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Can GB News pop really stop the boats? John Harris",
+       "fa": "جان هریس: آیا جی‌بی نیوز واقعاً می‌تواند جلوی قایق‌ها را بگیرد؟",
+       "url": "https://duckduckgo.com/?q=%5CCan%20GB%20News%20pop%20really%20stop%20the%20boats%3F%20John%20Harris%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
     {
      "slug": "financial-times",
      "name": "Financial Times",

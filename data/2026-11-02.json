@@ -415,6 +415,54 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-11-02/the-guardian.jpg",
+     "w": 400,
+     "h": 506,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261102/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Britain is ready to spend £450m on EU students if it can join trade pact",
+       "fa": "بریتانیا آماده است در صورت پیوستن به پیمان تجاری ۴۵۰ میلیون پوند برای دانشجویان اتحادیهٔ اروپا هزینه کند",
+       "url": "https://duckduckgo.com/?q=%5CBritain%20is%20ready%20to%20spend%20%C2%A3450m%20on%20EU%20students%20if%20it%20can%20join%20trade%20pact%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Therapists call for statutory regulation",
+       "fa": "درمانگران خواستار مقررات قانونی شدند",
+       "url": "https://duckduckgo.com/?q=%5CTherapists%20call%20for%20statutory%20regulation%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "UK migrant rules may exempt care work",
+       "fa": "قوانین مهاجرتی بریتانیا ممکن است کار مراقبتی را مستثنا کند",
+       "url": "https://duckduckgo.com/?q=%5CUK%20migrant%20rules%20may%20exempt%20care%20work%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Going for gold: Traitors star transforms into Mo Farah for Halloween",
+       "fa": "به سوی طلا: ستارهٔ «خائنان» برای هالووین به شکل مو فرح درآمد",
+       "url": "https://duckduckgo.com/?q=%5CGoing%20for%20gold%3A%20Traitors%20star%20transforms%20into%20Mo%20Farah%20for%20Halloween%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Jo Brand on ageing, raging, fitness and grief",
+       "fa": "جو برند دربارهٔ پیری، خشم، تناسب اندام و سوگ",
+       "url": "https://duckduckgo.com/?q=%5CJo%20Brand%20on%20ageing%2C%20raging%2C%20fitness%20and%20grief%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Liverpool 0-1 Arsenal: Away win puts Gunners on top",
+       "fa": "لیورپول ۰ – آرسنال ۱: پیروزی خارج از خانه توپچی‌ها را به صدر برد",
+       "url": "https://duckduckgo.com/?q=%5CLiverpool%200-1%20Arsenal%3A%20Away%20win%20puts%20Gunners%20on%20top%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

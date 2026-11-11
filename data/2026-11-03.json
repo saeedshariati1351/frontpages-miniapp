@@ -415,6 +415,54 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-11-03/the-guardian.jpg",
+     "w": 400,
+     "h": 501,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261103/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Mahmood softens immigration plans in face of cabinet backlash",
+       "fa": "محمود در برابر واکنش منفی کابینه طرح‌های مهاجرتی را نرم‌تر کرد",
+       "url": "https://duckduckgo.com/?q=%5CMahmood%20softens%20immigration%20plans%20in%20face%20of%20cabinet%20backlash%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats eye Senate control as US votes in midterms",
+       "fa": "دموکرات‌ها با رأی‌گیری میان‌دوره‌ای آمریکا کنترل سنا را هدف گرفته‌اند",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20eye%20Senate%20control%20as%20US%20votes%20in%20midterms%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Freezers in shops across Europe hit by hacking",
+       "fa": "فریزرهای فروشگاه‌ها در سراسر اروپا هدف هک قرار گرفتند",
+       "url": "https://duckduckgo.com/?q=%5CFreezers%20in%20shops%20across%20Europe%20hit%20by%20hacking%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Telegraph to stop using columns by Nigel Farage",
+       "fa": "تلگراف دیگر یادداشت‌های نایجل فاراژ را منتشر نمی‌کند",
+       "url": "https://duckduckgo.com/?q=%5CTelegraph%20to%20stop%20using%20columns%20by%20Nigel%20Farage%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "'It's been a while': Hero's welcome for man after 28-year walk across the world",
+       "fa": "«مدتی گذشته است»: استقبال قهرمانانه از مردی پس از ۲۸ سال پیاده‌روی دور دنیا",
+       "url": "https://duckduckgo.com/?q=%5C%27It%27s%20been%20a%20while%27%3A%20Hero%27s%20welcome%20for%20man%20after%2028-year%20walk%20across%20the%20world%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Bernie Taupin on songwriting, Elton John and anonymity",
+       "fa": "برنی توپین دربارهٔ ترانه‌سرایی، التون جان و گمنامی",
+       "url": "https://duckduckgo.com/?q=%5CBernie%20Taupin%20on%20songwriting%2C%20Elton%20John%20and%20anonymity%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

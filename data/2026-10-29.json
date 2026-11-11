@@ -457,6 +457,42 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-10-29/the-guardian.jpg",
+     "w": 400,
+     "h": 506,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261029/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "£100 handout – but Healey warns of 'global storms'",
+       "fa": "کمک ۱۰۰ پوندی؛ اما هیلی دربارهٔ «طوفان‌های جهانی» هشدار می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5C%C2%A3100%20handout%20%E2%80%93%20but%20Healey%20warns%20of%20%27global%20storms%27%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Spanish rail disaster kills at least 68 people",
+       "fa": "فاجعهٔ ریلی اسپانیا دست‌کم ۶۸ کشته بر جا گذاشت",
+       "url": "https://duckduckgo.com/?q=%5CSpanish%20rail%20disaster%20kills%20at%20least%2068%20people%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Robinson may face prison after guilty verdict",
+       "fa": "رابینسون پس از حکم مجرمیت ممکن است به زندان برود",
+       "url": "https://duckduckgo.com/?q=%5CRobinson%20may%20face%20prison%20after%20guilty%20verdict%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Budget 2026: All you need to know and what it means for you",
+       "fa": "بودجهٔ ۲۰۲۶: هر آنچه باید بدانید و معنای آن برای شما",
+       "url": "https://duckduckgo.com/?q=%5CBudget%202026%3A%20All%20you%20need%20to%20know%20and%20what%20it%20means%20for%20you%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

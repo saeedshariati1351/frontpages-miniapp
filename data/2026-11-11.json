@@ -169,6 +169,36 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-11-11/the-guardian.jpg",
+     "w": 400,
+     "h": 502,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261111/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Revealed: David Walliams accused of using his celebrity status to prey on young women for sex",
+       "fa": "افشاگری: دیوید والیامز متهم است از شهرتش برای شکار جنسی زنان جوان سوءاستفاده کرده است",
+       "url": "https://duckduckgo.com/?q=%5CRevealed%3A%20David%20Walliams%20accused%20of%20using%20his%20celebrity%20status%20to%20prey%20on%20young%20women%20for%20sex%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "The Guardian publishes accusations after court rejects legal attempt to prevent it doing so. Walliams denies any wrongdoing",
+       "fa": "گاردین پس از رد تلاش حقوقی برای جلوگیری از انتشار، این اتهام‌ها را منتشر می‌کند؛ والیامز هرگونه تخلف را رد می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CThe%20Guardian%20publishes%20accusations%20after%20court%20rejects%20legal%20attempt%20to%20prevent%20it%20doing%20so.%20Walliams%20denies%20any%20wrongdoing%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "'It wasn't long until he asked me if I'd ever had sex before' Walliams accused of preying on teenagers",
+       "fa": "«طولی نکشید که از من پرسید آیا تا حالا رابطهٔ جنسی داشته‌ام»؛ والیامز به شکار نوجوانان متهم شد",
+       "url": "https://duckduckgo.com/?q=%5C%27It%20wasn%27t%20long%20until%20he%20asked%20me%20if%20I%27d%20ever%20had%20sex%20before%27%20Walliams%20accused%20of%20preying%20on%20teenagers%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

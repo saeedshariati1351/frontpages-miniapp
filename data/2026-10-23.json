@@ -475,6 +475,54 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-10-23/the-guardian.jpg",
+     "w": 400,
+     "h": 507,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261023/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "Stock up on supplies to survive 72 hours in a crisis, Britons told",
+       "fa": "به بریتانیایی‌ها گفته شد برای دوام ۷۲ ساعت در بحران آذوقه ذخیره کنند",
+       "url": "https://duckduckgo.com/?q=%5CStock%20up%20on%20supplies%20to%20survive%2072%20hours%20in%20a%20crisis%2C%20Britons%20told%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Reform donor's past link to Iran regime",
+       "fa": "پیوند گذشتهٔ حامی مالی حزب ریفرم با حکومت ایران",
+       "url": "https://duckduckgo.com/?q=%5CReform%20donor%27s%20past%20link%20to%20Iran%20regime%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "PM's net zero pledge despite Jackdaw",
+       "fa": "تعهد نخست‌وزیر به صفر خالص کربن با وجود میدان جک‌داو",
+       "url": "https://duckduckgo.com/?q=%5CPM%27s%20net%20zero%20pledge%20despite%20Jackdaw%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Online sales taxes 'could save our high streets'",
+       "fa": "مالیات بر فروش اینترنتی «می‌تواند خیابان‌های تجاری ما را نجات دهد»",
+       "url": "https://duckduckgo.com/?q=%5COnline%20sales%20taxes%20%27could%20save%20our%20high%20streets%27%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Sandra Hüller: From the GDR to Hollywood's hottest star",
+       "fa": "ساندرا هولر: از آلمان شرقی تا داغ‌ترین ستارهٔ هالیوود",
+       "url": "https://duckduckgo.com/?q=%5CSandra%20H%C3%BCller%3A%20From%20the%20GDR%20to%20Hollywood%27s%20hottest%20star%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Tower of songs: Leonard Cohen's greatest hits, ranked!",
+       "fa": "برج ترانه‌ها: بهترین آثار لئونارد کوهن، رتبه‌بندی‌شده!",
+       "url": "https://duckduckgo.com/?q=%5CTower%20of%20songs%3A%20Leonard%20Cohen%27s%20greatest%20hits%2C%20ranked%21%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

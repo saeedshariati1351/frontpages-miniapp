@@ -433,6 +433,48 @@
    "flag": "🇬🇧",
    "papers": [
     {
+     "slug": "the-guardian",
+     "name": "The Guardian",
+     "fa": "گاردین",
+     "site": "https://www.theguardian.com",
+     "img": "covers/2026-11-04/the-guardian.jpg",
+     "w": 400,
+     "h": 506,
+     "source": "https://cdn.thepaperboy.com/frontpages/uk/20261104/the_guardian.jpg",
+     "headlines": [
+      {
+       "o": "PM to reveal EU youth visa pact and trade deals worth billions",
+       "fa": "نخست‌وزیر از پیمان ویزای جوانان با اتحادیهٔ اروپا و قراردادهای تجاری میلیاردی رونمایی می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CPM%20to%20reveal%20EU%20youth%20visa%20pact%20and%20trade%20deals%20worth%20billions%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Trump faces reckoning as US heads to the polls",
+       "fa": "ترامپ با رفتن آمریکایی‌ها پای صندوق‌ها با روز حساب روبه‌روست",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20faces%20reckoning%20as%20US%20heads%20to%20the%20polls%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Flights hit by 'malicious hoax' bomb threats",
+       "fa": "پروازها با تهدیدهای بمب «دروغین و بدخواهانه» مختل شدند",
+       "url": "https://duckduckgo.com/?q=%5CFlights%20hit%20by%20%27malicious%20hoax%27%20bomb%20threats%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "Why tradwives are fleeing the movement",
+       "fa": "چرا «زنان سنتی» از این جنبش می‌گریزند",
+       "url": "https://duckduckgo.com/?q=%5CWhy%20tradwives%20are%20fleeing%20the%20movement%20site%3Atheguardian.com",
+       "direct": false
+      },
+      {
+       "o": "A double bubble of beauty: Constantinople to Istanbul at the V&A",
+       "fa": "حبابی دوگانه از زیبایی: از قسطنطنیه تا استانبول در موزهٔ ویکتوریا و آلبرت",
+       "url": "https://duckduckgo.com/?q=%5CA%20double%20bubble%20of%20beauty%3A%20Constantinople%20to%20Istanbul%20at%20the%20V%26A%20site%3Atheguardian.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "financial-times",
      "name": "Financial Times",
      "fa": "فایننشال تایمز",

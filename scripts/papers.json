@@ -2,7 +2,7 @@
   {"country": "آمریکا", "flag": "🇺🇸", "papers": [
     {"slug": "the-new-york-times", "name": "The New York Times", "fa": "نیویورک تایمز", "site": "https://www.nytimes.com", "paperboy": "us/new_york_times"},
     {"slug": "the-washington-post", "name": "The Washington Post", "fa": "واشنگتن پست", "site": "https://www.washingtonpost.com", "paperboy": "us/washington_post"},
-    {"slug": "usa-today", "weekend": true, "name": "USA Today", "fa": "یو‌اس‌ای تودی", "site": "https://www.usatoday.com", "paperboy": "us/usa_today"},
+    {"slug": "usa-today", "weekend": true, "name": "USA Today", "fa": "یو‌اس‌ای تودی", "site": "https://www.usatoday.com", "paperboy": "us/usa_today", "no_friday": true},
     {"slug": "los-angeles-times", "name": "Los Angeles Times", "fa": "لس‌آنجلس تایمز", "site": "https://www.latimes.com", "paperboy": "us/los_angeles_times"},
     {"slug": "new-york-post", "name": "New York Post", "fa": "نیویورک پست", "site": "https://nypost.com", "paperboy": "us/new_york_post"},
     {"slug": "the-boston-globe", "name": "The Boston Globe", "fa": "بوستون گلوب", "site": "https://www.bostonglobe.com", "paperboy": "us/boston_globe"},

@@ -290,6 +290,9 @@ def main():
             # one combined weekend edition, filed under Saturday (as in fetch_covers.py)
             if p.get("weekend") and d.weekday() == 6 and slug in prev_found:
                 print(date, "weekend edition already filed under Saturday:", slug); continue
+            # papers whose weekend edition (Fri-Sun) starts on Friday and is filed under Saturday
+            if p.get("no_friday") and d.weekday() == 4:
+                continue
             fetcher = fetcher_for(p)
             if fetcher is None:
                 continue
