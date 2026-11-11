@@ -943,6 +943,66 @@
      ]
     },
     {
+     "slug": "les-echos",
+     "name": "Les Échos",
+     "fa": "لزاکو",
+     "site": "https://www.lesechos.fr",
+     "img": "covers/2026-11-11/les-echos.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/les-echos/",
+     "headlines": [
+      {
+       "o": "Salaires : Lecornu met la pression",
+       "fa": "دستمزدها: لکورنو فشار می‌آورد",
+       "url": "https://duckduckgo.com/?q=%5CSalaires%20%3A%20Lecornu%20met%20la%20pression%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Nvidia au cœur d'une affaire d'espionnage",
+       "fa": "انویدیا در کانون یک پروندهٔ جاسوسی",
+       "url": "https://duckduckgo.com/?q=%5CNvidia%20au%20c%C5%93ur%20d%27une%20affaire%20d%27espionnage%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Emmanuel Macron : « S'il y a un risque pour les enfants avec l'IA, il faut l'interdire »",
+       "fa": "امانوئل مکرون: «اگر هوش مصنوعی برای کودکان خطری دارد، باید ممنوعش کرد»",
+       "url": "https://duckduckgo.com/?q=%5CEmmanuel%20Macron%20%3A%20%C2%AB%20S%27il%20y%20a%20un%20risque%20pour%20les%20enfants%20avec%20l%27IA%2C%20il%20faut%20l%27interdire%20%C2%BB%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Crédit Agricole se lance à l'assaut de la banque italienne Banco BPM",
+       "fa": "کردیت آگریکول برای تصاحب بانک ایتالیایی بانکو بی‌پی‌اِم خیز برداشت",
+       "url": "https://duckduckgo.com/?q=%5CCr%C3%A9dit%20Agricole%20se%20lance%20%C3%A0%20l%27assaut%20de%20la%20banque%20italienne%20Banco%20BPM%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Eramet Le groupe minier français va ouvrir le capital de certains actifs stratégiques",
+       "fa": "اِرامه: گروه معدنی فرانسوی سرمایهٔ برخی دارایی‌های راهبردی خود را به روی سرمایه‌گذاران می‌گشاید",
+       "url": "https://duckduckgo.com/?q=%5CEramet%20Le%20groupe%20minier%20fran%C3%A7ais%20va%20ouvrir%20le%20capital%20de%20certains%20actifs%20strat%C3%A9giques%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Analyse Le mur de la dette américaine, cet angle mort des midterms",
+       "fa": "تحلیل: دیوار بدهی آمریکا، نقطهٔ کور انتخابات میان‌دوره‌ای",
+       "url": "https://duckduckgo.com/?q=%5CAnalyse%20Le%20mur%20de%20la%20dette%20am%C3%A9ricaine%2C%20cet%20angle%20mort%20des%20midterms%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Europe Une première présidente pour l'Allemagne",
+       "fa": "اروپا: نخستین رئیس‌جمهور زن برای آلمان",
+       "url": "https://duckduckgo.com/?q=%5CEurope%20Une%20premi%C3%A8re%20pr%C3%A9sidente%20pour%20l%27Allemagne%20site%3Alesechos.fr",
+       "direct": false
+      },
+      {
+       "o": "Agriculture : l'urgence d'un plan pour favoriser les successions",
+       "fa": "کشاورزی: ضرورت فوری طرحی برای تسهیل انتقال مزارع به نسل بعد",
+       "url": "https://duckduckgo.com/?q=%5CAgriculture%20%3A%20l%27urgence%20d%27un%20plan%20pour%20favoriser%20les%20successions%20site%3Alesechos.fr",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "ouest-france",
      "name": "Ouest-France",
      "fa": "وست‌فرانس",
@@ -2114,6 +2174,66 @@
        "o": "Positive outlook: Adnoc Gas raises income forecast on strong quarter",
        "fa": "چشم‌انداز مثبت: ادنوک گاز پس از فصلی پررونق پیش‌بینی درآمدش را بالا برد",
        "url": "https://duckduckgo.com/?q=%5CPositive%20outlook%3A%20Adnoc%20Gas%20raises%20income%20forecast%20on%20strong%20quarter%20site%3Athenationalnews.com",
+       "direct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "قطر",
+   "flag": "🇶🇦",
+   "papers": [
+    {
+     "slug": "gulf-times",
+     "name": "Gulf Times",
+     "fa": "گلف تایمز",
+     "site": "https://www.gulf-times.com",
+     "img": "covers/2026-11-11/gulf-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/gulf-times/",
+     "headlines": [
+      {
+       "o": "GCC to set up forward military command in Kuwait",
+       "fa": "شورای همکاری خلیج فارس فرماندهی نظامی پیشرو در کویت برپا می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CGCC%20to%20set%20up%20forward%20military%20command%20in%20Kuwait%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "PM, Macron review situation",
+       "fa": "نخست‌وزیر و مکرون اوضاع را بررسی کردند",
+       "url": "https://duckduckgo.com/?q=%5CPM%2C%20Macron%20review%20situation%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "Qatar pushes diplomatic solution at Paris talks",
+       "fa": "قطر در گفت‌وگوهای پاریس بر راه‌حل دیپلماتیک پای می‌فشارد",
+       "url": "https://duckduckgo.com/?q=%5CQatar%20pushes%20diplomatic%20solution%20at%20Paris%20talks%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "Qatar pursuing US-Iran deal",
+       "fa": "قطر در پی توافق آمریکا و ایران",
+       "url": "https://duckduckgo.com/?q=%5CQatar%20pursuing%20US-Iran%20deal%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "Qatar rushes aid to 45 Gaza camps",
+       "fa": "قطر کمک‌ها را با شتاب به ۴۵ اردوگاه غزه می‌رساند",
+       "url": "https://duckduckgo.com/?q=%5CQatar%20rushes%20aid%20to%2045%20Gaza%20camps%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "QatarEnergy earns coveted methane reporting status",
+       "fa": "قطرانرژی جایگاه ممتاز گزارش‌دهی متان را به دست آورد",
+       "url": "https://duckduckgo.com/?q=%5CQatarEnergy%20earns%20coveted%20methane%20reporting%20status%20site%3Agulf-times.com",
+       "direct": false
+      },
+      {
+       "o": "Qatar, Abu Dhabi Formula 1 GPs to go ahead, says FIA chief",
+       "fa": "رئیس فیا: گرندپری‌های فرمول یک قطر و ابوظبی برگزار می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CQatar%2C%20Abu%20Dhabi%20Formula%201%20GPs%20to%20go%20ahead%2C%20says%20FIA%20chief%20site%3Agulf-times.com",
        "direct": false
       }
      ]
