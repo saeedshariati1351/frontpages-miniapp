@@ -304,10 +304,10 @@ def fetcher_for(p):
         fs.append(paperboy(p["paperboy"]))
     if p.get("gazetetek"):
         fs.append(gazetetek(p["gazetetek"]))
-    if p.get("haber7"):
-        fs.append(haber7(p["haber7"]))
     if p.get("gazetemanset"):
         fs.append(gazetemanset(p["gazetemanset"]))
+    if p.get("haber7"):
+        fs.append(haber7(p["haber7"]))
     if p.get("kiosko"):
         fs.append(kiosko(p["kiosko"]))
     return chain(*fs) if fs else None

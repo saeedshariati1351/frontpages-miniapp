@@ -97,7 +97,8 @@
     {"slug": "milli-gazete", "name": "Milli Gazete", "fa": "میلی گزته", "site": "https://www.milligazete.com.tr", "via": "tr-sites", "haber7": "milli-gazete"},
     {"slug": "dunya", "name": "Dünya", "fa": "دنیا (اقتصادی)", "site": "https://www.dunya.com", "via": "tr-sites", "haber7": "dunya"},
     {"slug": "aksam", "name": "Akşam", "fa": "آکشام", "site": "https://www.aksam.com.tr", "via": "tr-sites", "haber7": "aksam"},
-    {"slug": "cumhuriyet", "name": "Cumhuriyet", "fa": "جمهوریت", "site": "https://www.cumhuriyet.com.tr", "via": "tr-sites", "gazetemanset": "cumhuriyet"}
+    {"slug": "cumhuriyet", "name": "Cumhuriyet", "fa": "جمهوریت", "site": "https://www.cumhuriyet.com.tr", "via": "tr-sites", "gazetemanset": "cumhuriyet"},
+    {"slug": "takvim", "name": "Takvim", "fa": "تقویم", "site": "https://www.takvim.com.tr", "via": "tr-sites", "gazetemanset": "takvim", "haber7": "takvim-gazetesi"}
   ]},
   {"country": "هند", "flag": "🇮🇳", "papers": [
     {"slug": "the-times-of-india", "name": "The Times of India", "fa": "تایمز آو ایندیا", "site": "https://timesofindia.indiatimes.com"},
