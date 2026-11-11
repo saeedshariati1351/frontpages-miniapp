@@ -22,7 +22,7 @@ When the channel is first found, data/channel.json is written (id, title,
 link; the Mini App shows the link) and the channel link is added to the
 bot's description.
 
-Usage: python3 scripts/post.py [DATE] [--preview] [--today-only] [--new]
+Usage: python3 scripts/post.py [DATE] [--preview] [--today-only] [--new] [--only=CHAT]
   --today-only: do nothing unless DATE is the latest day (scheduled runs)
   --new: send new messages even if this date was already sent
 Env: TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL_ID, TELEGRAM_CHAT_ID
@@ -150,6 +150,9 @@ def main():
             else:
                 print(cid, "skipped: bot is not an admin with posting rights yet",
                       st.get("status") or m.get("description"))
+    only = [a.split("=", 1)[1] for a in sys.argv if a.startswith("--only=")]
+    if only:  # send to one target only, e.g. --only=@emtedadnet (others untouched)
+        targets = [c for c in targets if c in only[0].split(",")]
     if not targets:
         sys.exit("no chat id")
     state = json.loads(STATE.read_text()) if STATE.exists() else {}

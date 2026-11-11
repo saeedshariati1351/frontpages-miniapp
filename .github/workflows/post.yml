@@ -19,6 +19,10 @@ on:
         description: "Send as new messages (yes) instead of editing"
         required: false
         default: ""
+      only:
+        description: "Send only to this chat (e.g. @emtedadnet); others untouched"
+        required: false
+        default: ""
 permissions:
   contents: write
 concurrency:
@@ -30,7 +34,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Send
-        run: python3 scripts/post.py ${{ github.event.inputs.date }} ${{ github.event_name == 'schedule' && '--today-only' || '' }} ${{ github.event.inputs.new == 'yes' && '--new' || '' }}
+        run: python3 scripts/post.py ${{ github.event.inputs.date }} ${{ github.event_name == 'schedule' && '--today-only' || '' }} ${{ github.event.inputs.new == 'yes' && '--new' || '' }} ${{ github.event.inputs.only && format('--only={0}', github.event.inputs.only) || '' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
