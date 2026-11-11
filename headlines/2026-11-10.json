@@ -1640,5 +1640,231 @@
    "Out, damned spot! Can science save your laundry? We find out",
    "گم شو ای لکهٔ لعنتی! آیا علم می‌تواند لباس‌های شما را نجات دهد؟ بررسی کردیم"
   ]
+ ],
+ "sabah": [
+  [
+   "Vatandaşa hizmetin gecesi gündüzü olmaz",
+   "خدمت به شهروند شب و روز نمی‌شناسد"
+  ],
+  [
+   "Demir çelik fabrikasında facia",
+   "فاجعه در کارخانهٔ آهن و فولاد"
+  ],
+  [
+   "Dünya için acilen harekete geçelim",
+   "برای جهان فوراً دست به کار شویم"
+  ],
+  [
+   "KOBİ'lere 100 milyar TL'lik dönüşüm paketi",
+   "بستهٔ تحول ۱۰۰ میلیارد لیری برای بنگاه‌های کوچک و متوسط"
+  ],
+  [
+   "Gabar'da 135 milyon varillik yeni keşif",
+   "کشف تازهٔ ۱۳۵ میلیون بشکه‌ای در گابار"
+  ],
+  [
+   "Sonsuza dek kalbimizde",
+   "تا ابد در قلب ما"
+  ],
+  [
+   "Turkuvaz'da doya doya futbol",
+   "فوتبال سیر و پر در شبکه‌های تورکواز"
+  ]
+ ],
+ "milliyet": [
+  [
+   "Sonsuza dek kalbimizde",
+   "تا ابد در قلب ما"
+  ],
+  [
+   "Diplomasinin zirvesi: Liderler dünya için buluşuyor",
+   "اوج دیپلماسی: رهبران برای جهان گرد هم می‌آیند"
+  ],
+  [
+   "Omuz omuza yürümeye devam",
+   "به همراهی شانه‌به‌شانه ادامه می‌دهیم"
+  ],
+  [
+   "Fabrikada facia 17 ölü: Bomba gibi patladı",
+   "فاجعه در کارخانه با ۱۷ کشته: مثل بمب منفجر شد"
+  ],
+  [
+   "Fenerbahçe geri döndü",
+   "فنرباغچه بازگشت"
+  ],
+  [
+   "Çim saha değil tarla!",
+   "زمین چمن نیست، مزرعه است!"
+  ]
+ ],
+ "yeni-safak": [
+  [
+   "Fabrika bomba gibi patladı: 17 can kaybı, 12 yaralı",
+   "کارخانه مثل بمب منفجر شد: ۱۷ کشته و ۱۲ زخمی"
+  ],
+  [
+   "İran'a yeni saldırıyı engellemeye çalışıyoruz",
+   "می‌کوشیم از حملهٔ تازه به ایران جلوگیری کنیم"
+  ],
+  [
+   "Trump: İsrail yüzünden kaybettik",
+   "ترامپ: به خاطر اسرائیل شکست خوردیم"
+  ],
+  [
+   "Gabar'da iki yeni keşif",
+   "دو کشف تازه در گابار"
+  ],
+  [
+   "Zirvenin talibi çok",
+   "خواهان صدر زیاد است"
+  ],
+  [
+   "Ümmü Gülsüm sadece şarkı söylemedi",
+   "ام‌کلثوم فقط آواز نخواند"
+  ]
+ ],
+ "turkiye": [
+  [
+   "Kritik fabrikada büyük facia",
+   "فاجعهٔ بزرگ در کارخانه‌ای حیاتی"
+  ],
+  [
+   "Gabar'dan ekonomiye dev katkı",
+   "سهم عظیم گابار در اقتصاد"
+  ],
+  [
+   "Azerbaycan ile harcımız kardeşlik",
+   "ملاط ما با آذربایجان برادری است"
+  ],
+  [
+   "Denetçi ekipler de inceleniyor",
+   "تیم‌های بازرسی هم بررسی می‌شوند"
+  ],
+  [
+   "Dünya sıfır noktasında",
+   "جهان در نقطهٔ صفر"
+  ],
+  [
+   "Lösemide tedavi başarısı yüzde 90",
+   "موفقیت ۹۰ درصدی در درمان سرطان خون"
+  ],
+  [
+   "Fenerbahçe'ye bahar geldi",
+   "بهار به فنرباغچه آمد"
+  ]
+ ],
+ "dunya": [
+  [
+   "Antalya'da iklim köprüsü kurulacak",
+   "در آنتالیا «پل اقلیمی» ساخته می‌شود"
+  ],
+  [
+   "Çelik fabrikasında bakım kazası",
+   "حادثه هنگام تعمیرات در کارخانهٔ فولاد"
+  ],
+  [
+   "Bakan Gürlek: Fon soruşturmasında şüpheli sayısı 464",
+   "وزیر گورلک: شمار مظنونان در پروندهٔ صندوق به ۴۶۴ رسید"
+  ],
+  [
+   "Temel harcamanın sepetteki ağırlığı yükseliyor",
+   "سهم هزینه‌های اساسی در سبد مصرف بالا می‌رود"
+  ],
+  [
+   "KOBİ'ler için fırsat çağı kapıda",
+   "دوران فرصت برای بنگاه‌های کوچک و متوسط در راه است"
+  ]
+ ],
+ "aksam": [
+  [
+   "Süreçte sessiz ve seri hareket ediyoruz",
+   "در این روند بی‌صدا و سریع پیش می‌رویم"
+  ],
+  [
+   "Fabrikada facia: 17 ölü, 1'i ağır 12 yaralı",
+   "فاجعه در کارخانه: ۱۷ کشته و ۱۲ زخمی که حال یکی وخیم است"
+  ],
+  [
+   "Dünyaya 'imece' çağrısı",
+   "فراخوان «همیاری» به جهان"
+  ],
+  [
+   "CEO'nun yasak aşkı Çin casusu",
+   "عشق ممنوع مدیرعامل جاسوس چین است"
+  ],
+  [
+   "Emekliye bütçede büyük pay ayırdık",
+   "سهم بزرگی از بودجه را به بازنشستگان اختصاص دادیم"
+  ],
+  [
+   "88 yıldır saygı, minnet ve rahmetle anıyoruz",
+   "۸۸ سال است با احترام، سپاس و طلب رحمت یادش می‌کنیم"
+  ],
+  [
+   "Fitneciler beyhude çaba içinde",
+   "فتنه‌گران بیهوده تلاش می‌کنند"
+  ]
+ ],
+ "yenicag": [
+  [
+   "Seni unutmak mümkün mü!",
+   "مگر می‌شود تو را فراموش کرد!"
+  ],
+  [
+   "Türk'ün ebedi parolası",
+   "شعار جاودان ترک"
+  ]
+ ],
+ "aydinlik": [
+  [
+   "Zaman Atatürk'ün ölümsüzlük zamanıdır",
+   "زمان، زمان جاودانگی آتاتورک است"
+  ],
+  [
+   "Beni siyasetçiler yönlendirdi",
+   "سیاستمداران مرا هدایت کردند"
+  ],
+  [
+   "Bildirim yetmez izin de gerekli",
+   "اطلاع‌رسانی کافی نیست، مجوز هم لازم است"
+  ],
+  [
+   "Vukuatlı fabrikada 10 işçi hayatını kaybetti",
+   "در کارخانهٔ حادثه‌خیز ۱۰ کارگر جان باختند"
+  ],
+  [
+   "Çerçeve yasa sahada tökezledi",
+   "قانون چارچوب در عمل لنگید"
+  ],
+  [
+   "Kararsızların çoğu AK Parti seçmeni",
+   "بیشتر مرددها رأی‌دهندگان حزب عدالت و توسعه‌اند"
+  ]
+ ],
+ "milli-gazete": [
+  [
+   "Yazın bir damla su veremediğimiz Gazze, şimdi sular altında",
+   "غزه‌ای که تابستان نتوانستیم قطره‌ای آب به آن برسانیم، اکنون زیر آب است"
+  ],
+  [
+   "Antalya'dan umut verecek bir dürüstlük beklentisi",
+   "انتظار صداقتی امیدبخش از آنتالیا"
+  ],
+  [
+   "İzmir'de demir çelik fabrikasında patlama: 16 kişi öldü, 13 kişi yaralandı",
+   "انفجار در کارخانهٔ آهن و فولاد ازمیر: ۱۶ کشته و ۱۳ زخمی"
+  ],
+  [
+   "BDDK Başkan Yardımcısı tutuklandı",
+   "معاون رئیس سازمان نظارت بر بانک‌ها بازداشت شد"
+  ],
+  [
+   "Devlet erkânı Anıtkabir'de buluşacak",
+   "مقامات دولت در آرامگاه آتاتورک گرد هم می‌آیند"
+  ],
+  [
+   "Dünyayı kirletenler Antalya'da 'iklim' buluşmasında",
+   "آلوده‌کنندگان جهان در نشست «اقلیمی» آنتالیا"
+  ]
  ]
 }

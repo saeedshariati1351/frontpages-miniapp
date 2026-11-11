@@ -2843,6 +2843,426 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "sabah",
+     "name": "Sabah",
+     "fa": "صباح",
+     "site": "https://www.sabah.com.tr",
+     "img": "covers/2026-11-10/sabah.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/sabah/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Vatandaşa hizmetin gecesi gündüzü olmaz",
+       "fa": "خدمت به شهروند شب و روز نمی‌شناسد",
+       "url": "https://duckduckgo.com/?q=%5CVatanda%C5%9Fa%20hizmetin%20gecesi%20g%C3%BCnd%C3%BCz%C3%BC%20olmaz%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Demir çelik fabrikasında facia",
+       "fa": "فاجعه در کارخانهٔ آهن و فولاد",
+       "url": "https://duckduckgo.com/?q=%5CDemir%20%C3%A7elik%20fabrikas%C4%B1nda%20facia%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Dünya için acilen harekete geçelim",
+       "fa": "برای جهان فوراً دست به کار شویم",
+       "url": "https://duckduckgo.com/?q=%5CD%C3%BCnya%20i%C3%A7in%20acilen%20harekete%20ge%C3%A7elim%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "KOBİ'lere 100 milyar TL'lik dönüşüm paketi",
+       "fa": "بستهٔ تحول ۱۰۰ میلیارد لیری برای بنگاه‌های کوچک و متوسط",
+       "url": "https://duckduckgo.com/?q=%5CKOB%C4%B0%27lere%20100%20milyar%20TL%27lik%20d%C3%B6n%C3%BC%C5%9F%C3%BCm%20paketi%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Gabar'da 135 milyon varillik yeni keşif",
+       "fa": "کشف تازهٔ ۱۳۵ میلیون بشکه‌ای در گابار",
+       "url": "https://duckduckgo.com/?q=%5CGabar%27da%20135%20milyon%20varillik%20yeni%20ke%C5%9Fif%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Sonsuza dek kalbimizde",
+       "fa": "تا ابد در قلب ما",
+       "url": "https://duckduckgo.com/?q=%5CSonsuza%20dek%20kalbimizde%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Turkuvaz'da doya doya futbol",
+       "fa": "فوتبال سیر و پر در شبکه‌های تورکواز",
+       "url": "https://duckduckgo.com/?q=%5CTurkuvaz%27da%20doya%20doya%20futbol%20site%3Asabah.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "milliyet",
+     "name": "Milliyet",
+     "fa": "میلیت",
+     "site": "https://www.milliyet.com.tr",
+     "img": "covers/2026-11-10/milliyet.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/milliyet/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Sonsuza dek kalbimizde",
+       "fa": "تا ابد در قلب ما",
+       "url": "https://duckduckgo.com/?q=%5CSonsuza%20dek%20kalbimizde%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Diplomasinin zirvesi: Liderler dünya için buluşuyor",
+       "fa": "اوج دیپلماسی: رهبران برای جهان گرد هم می‌آیند",
+       "url": "https://duckduckgo.com/?q=%5CDiplomasinin%20zirvesi%3A%20Liderler%20d%C3%BCnya%20i%C3%A7in%20bulu%C5%9Fuyor%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Omuz omuza yürümeye devam",
+       "fa": "به همراهی شانه‌به‌شانه ادامه می‌دهیم",
+       "url": "https://duckduckgo.com/?q=%5COmuz%20omuza%20y%C3%BCr%C3%BCmeye%20devam%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Fabrikada facia 17 ölü: Bomba gibi patladı",
+       "fa": "فاجعه در کارخانه با ۱۷ کشته: مثل بمب منفجر شد",
+       "url": "https://duckduckgo.com/?q=%5CFabrikada%20facia%2017%20%C3%B6l%C3%BC%3A%20Bomba%20gibi%20patlad%C4%B1%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Fenerbahçe geri döndü",
+       "fa": "فنرباغچه بازگشت",
+       "url": "https://duckduckgo.com/?q=%5CFenerbah%C3%A7e%20geri%20d%C3%B6nd%C3%BC%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Çim saha değil tarla!",
+       "fa": "زمین چمن نیست، مزرعه است!",
+       "url": "https://duckduckgo.com/?q=%5C%C3%87im%20saha%20de%C4%9Fil%20tarla%21%20site%3Amilliyet.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "yenicag",
+     "name": "Yeniçağ",
+     "fa": "ینی‌چاغ",
+     "site": "https://www.yenicaggazetesi.com.tr",
+     "img": "covers/2026-11-10/yenicag.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/yenicag/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Seni unutmak mümkün mü!",
+       "fa": "مگر می‌شود تو را فراموش کرد!",
+       "url": "https://duckduckgo.com/?q=%5CSeni%20unutmak%20m%C3%BCmk%C3%BCn%20m%C3%BC%21%20site%3Ayenicaggazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Türk'ün ebedi parolası",
+       "fa": "شعار جاودان ترک",
+       "url": "https://duckduckgo.com/?q=%5CT%C3%BCrk%27%C3%BCn%20ebedi%20parolas%C4%B1%20site%3Ayenicaggazetesi.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "aydinlik",
+     "name": "Aydınlık",
+     "fa": "آیدینلیک",
+     "site": "https://www.aydinlik.com.tr",
+     "img": "covers/2026-11-10/aydinlik.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/aydinlik/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Zaman Atatürk'ün ölümsüzlük zamanıdır",
+       "fa": "زمان، زمان جاودانگی آتاتورک است",
+       "url": "https://duckduckgo.com/?q=%5CZaman%20Atat%C3%BCrk%27%C3%BCn%20%C3%B6l%C3%BCms%C3%BCzl%C3%BCk%20zaman%C4%B1d%C4%B1r%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Beni siyasetçiler yönlendirdi",
+       "fa": "سیاستمداران مرا هدایت کردند",
+       "url": "https://duckduckgo.com/?q=%5CBeni%20siyaset%C3%A7iler%20y%C3%B6nlendirdi%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Bildirim yetmez izin de gerekli",
+       "fa": "اطلاع‌رسانی کافی نیست، مجوز هم لازم است",
+       "url": "https://duckduckgo.com/?q=%5CBildirim%20yetmez%20izin%20de%20gerekli%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Vukuatlı fabrikada 10 işçi hayatını kaybetti",
+       "fa": "در کارخانهٔ حادثه‌خیز ۱۰ کارگر جان باختند",
+       "url": "https://duckduckgo.com/?q=%5CVukuatl%C4%B1%20fabrikada%2010%20i%C5%9F%C3%A7i%20hayat%C4%B1n%C4%B1%20kaybetti%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Çerçeve yasa sahada tökezledi",
+       "fa": "قانون چارچوب در عمل لنگید",
+       "url": "https://duckduckgo.com/?q=%5C%C3%87er%C3%A7eve%20yasa%20sahada%20t%C3%B6kezledi%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Kararsızların çoğu AK Parti seçmeni",
+       "fa": "بیشتر مرددها رأی‌دهندگان حزب عدالت و توسعه‌اند",
+       "url": "https://duckduckgo.com/?q=%5CKarars%C4%B1zlar%C4%B1n%20%C3%A7o%C4%9Fu%20AK%20Parti%20se%C3%A7meni%20site%3Aaydinlik.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "yeni-safak",
+     "name": "Yeni Şafak",
+     "fa": "ینی شفق",
+     "site": "https://www.yenisafak.com",
+     "img": "covers/2026-11-10/yeni-safak.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/yeni-safak/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Fabrika bomba gibi patladı: 17 can kaybı, 12 yaralı",
+       "fa": "کارخانه مثل بمب منفجر شد: ۱۷ کشته و ۱۲ زخمی",
+       "url": "https://duckduckgo.com/?q=%5CFabrika%20bomba%20gibi%20patlad%C4%B1%3A%2017%20can%20kayb%C4%B1%2C%2012%20yaral%C4%B1%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "İran'a yeni saldırıyı engellemeye çalışıyoruz",
+       "fa": "می‌کوشیم از حملهٔ تازه به ایران جلوگیری کنیم",
+       "url": "https://duckduckgo.com/?q=%5C%C4%B0ran%27a%20yeni%20sald%C4%B1r%C4%B1y%C4%B1%20engellemeye%20%C3%A7al%C4%B1%C5%9F%C4%B1yoruz%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "Trump: İsrail yüzünden kaybettik",
+       "fa": "ترامپ: به خاطر اسرائیل شکست خوردیم",
+       "url": "https://duckduckgo.com/?q=%5CTrump%3A%20%C4%B0srail%20y%C3%BCz%C3%BCnden%20kaybettik%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "Gabar'da iki yeni keşif",
+       "fa": "دو کشف تازه در گابار",
+       "url": "https://duckduckgo.com/?q=%5CGabar%27da%20iki%20yeni%20ke%C5%9Fif%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "Zirvenin talibi çok",
+       "fa": "خواهان صدر زیاد است",
+       "url": "https://duckduckgo.com/?q=%5CZirvenin%20talibi%20%C3%A7ok%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "Ümmü Gülsüm sadece şarkı söylemedi",
+       "fa": "ام‌کلثوم فقط آواز نخواند",
+       "url": "https://duckduckgo.com/?q=%5C%C3%9Cmm%C3%BC%20G%C3%BCls%C3%BCm%20sadece%20%C5%9Fark%C4%B1%20s%C3%B6ylemedi%20site%3Ayenisafak.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "turkiye",
+     "name": "Türkiye",
+     "fa": "ترکیه (روزنامه)",
+     "site": "https://www.turkiyegazetesi.com.tr",
+     "img": "covers/2026-11-10/turkiye.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/turkiye/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Kritik fabrikada büyük facia",
+       "fa": "فاجعهٔ بزرگ در کارخانه‌ای حیاتی",
+       "url": "https://duckduckgo.com/?q=%5CKritik%20fabrikada%20b%C3%BCy%C3%BCk%20facia%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Gabar'dan ekonomiye dev katkı",
+       "fa": "سهم عظیم گابار در اقتصاد",
+       "url": "https://duckduckgo.com/?q=%5CGabar%27dan%20ekonomiye%20dev%20katk%C4%B1%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Azerbaycan ile harcımız kardeşlik",
+       "fa": "ملاط ما با آذربایجان برادری است",
+       "url": "https://duckduckgo.com/?q=%5CAzerbaycan%20ile%20harc%C4%B1m%C4%B1z%20karde%C5%9Flik%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Denetçi ekipler de inceleniyor",
+       "fa": "تیم‌های بازرسی هم بررسی می‌شوند",
+       "url": "https://duckduckgo.com/?q=%5CDenet%C3%A7i%20ekipler%20de%20inceleniyor%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Dünya sıfır noktasında",
+       "fa": "جهان در نقطهٔ صفر",
+       "url": "https://duckduckgo.com/?q=%5CD%C3%BCnya%20s%C4%B1f%C4%B1r%20noktas%C4%B1nda%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Lösemide tedavi başarısı yüzde 90",
+       "fa": "موفقیت ۹۰ درصدی در درمان سرطان خون",
+       "url": "https://duckduckgo.com/?q=%5CL%C3%B6semide%20tedavi%20ba%C5%9Far%C4%B1s%C4%B1%20y%C3%BCzde%2090%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Fenerbahçe'ye bahar geldi",
+       "fa": "بهار به فنرباغچه آمد",
+       "url": "https://duckduckgo.com/?q=%5CFenerbah%C3%A7e%27ye%20bahar%20geldi%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "milli-gazete",
+     "name": "Milli Gazete",
+     "fa": "میلی گزته",
+     "site": "https://www.milligazete.com.tr",
+     "img": "covers/2026-11-10/milli-gazete.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/milli-gazete/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Yazın bir damla su veremediğimiz Gazze, şimdi sular altında",
+       "fa": "غزه‌ای که تابستان نتوانستیم قطره‌ای آب به آن برسانیم، اکنون زیر آب است",
+       "url": "https://duckduckgo.com/?q=%5CYaz%C4%B1n%20bir%20damla%20su%20veremedi%C4%9Fimiz%20Gazze%2C%20%C5%9Fimdi%20sular%20alt%C4%B1nda%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Antalya'dan umut verecek bir dürüstlük beklentisi",
+       "fa": "انتظار صداقتی امیدبخش از آنتالیا",
+       "url": "https://duckduckgo.com/?q=%5CAntalya%27dan%20umut%20verecek%20bir%20d%C3%BCr%C3%BCstl%C3%BCk%20beklentisi%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "İzmir'de demir çelik fabrikasında patlama: 16 kişi öldü, 13 kişi yaralandı",
+       "fa": "انفجار در کارخانهٔ آهن و فولاد ازمیر: ۱۶ کشته و ۱۳ زخمی",
+       "url": "https://duckduckgo.com/?q=%5C%C4%B0zmir%27de%20demir%20%C3%A7elik%20fabrikas%C4%B1nda%20patlama%3A%2016%20ki%C5%9Fi%20%C3%B6ld%C3%BC%2C%2013%20ki%C5%9Fi%20yaraland%C4%B1%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "BDDK Başkan Yardımcısı tutuklandı",
+       "fa": "معاون رئیس سازمان نظارت بر بانک‌ها بازداشت شد",
+       "url": "https://duckduckgo.com/?q=%5CBDDK%20Ba%C5%9Fkan%20Yard%C4%B1mc%C4%B1s%C4%B1%20tutukland%C4%B1%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Devlet erkânı Anıtkabir'de buluşacak",
+       "fa": "مقامات دولت در آرامگاه آتاتورک گرد هم می‌آیند",
+       "url": "https://duckduckgo.com/?q=%5CDevlet%20erk%C3%A2n%C4%B1%20An%C4%B1tkabir%27de%20bulu%C5%9Facak%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Dünyayı kirletenler Antalya'da 'iklim' buluşmasında",
+       "fa": "آلوده‌کنندگان جهان در نشست «اقلیمی» آنتالیا",
+       "url": "https://duckduckgo.com/?q=%5CD%C3%BCnyay%C4%B1%20kirletenler%20Antalya%27da%20%27iklim%27%20bulu%C5%9Fmas%C4%B1nda%20site%3Amilligazete.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "dunya",
+     "name": "Dünya",
+     "fa": "دنیا (اقتصادی)",
+     "site": "https://www.dunya.com",
+     "img": "covers/2026-11-10/dunya.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/dunya/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Antalya'da iklim köprüsü kurulacak",
+       "fa": "در آنتالیا «پل اقلیمی» ساخته می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CAntalya%27da%20iklim%20k%C3%B6pr%C3%BCs%C3%BC%20kurulacak%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "Çelik fabrikasında bakım kazası",
+       "fa": "حادثه هنگام تعمیرات در کارخانهٔ فولاد",
+       "url": "https://duckduckgo.com/?q=%5C%C3%87elik%20fabrikas%C4%B1nda%20bak%C4%B1m%20kazas%C4%B1%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "Bakan Gürlek: Fon soruşturmasında şüpheli sayısı 464",
+       "fa": "وزیر گورلک: شمار مظنونان در پروندهٔ صندوق به ۴۶۴ رسید",
+       "url": "https://duckduckgo.com/?q=%5CBakan%20G%C3%BCrlek%3A%20Fon%20soru%C5%9Fturmas%C4%B1nda%20%C5%9F%C3%BCpheli%20say%C4%B1s%C4%B1%20464%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "Temel harcamanın sepetteki ağırlığı yükseliyor",
+       "fa": "سهم هزینه‌های اساسی در سبد مصرف بالا می‌رود",
+       "url": "https://duckduckgo.com/?q=%5CTemel%20harcaman%C4%B1n%20sepetteki%20a%C4%9F%C4%B1rl%C4%B1%C4%9F%C4%B1%20y%C3%BCkseliyor%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "KOBİ'ler için fırsat çağı kapıda",
+       "fa": "دوران فرصت برای بنگاه‌های کوچک و متوسط در راه است",
+       "url": "https://duckduckgo.com/?q=%5CKOB%C4%B0%27ler%20i%C3%A7in%20f%C4%B1rsat%20%C3%A7a%C4%9F%C4%B1%20kap%C4%B1da%20site%3Adunya.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "aksam",
+     "name": "Akşam",
+     "fa": "آکشام",
+     "site": "https://www.aksam.com.tr",
+     "img": "covers/2026-11-10/aksam.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/aksam/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Süreçte sessiz ve seri hareket ediyoruz",
+       "fa": "در این روند بی‌صدا و سریع پیش می‌رویم",
+       "url": "https://duckduckgo.com/?q=%5CS%C3%BCre%C3%A7te%20sessiz%20ve%20seri%20hareket%20ediyoruz%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Fabrikada facia: 17 ölü, 1'i ağır 12 yaralı",
+       "fa": "فاجعه در کارخانه: ۱۷ کشته و ۱۲ زخمی که حال یکی وخیم است",
+       "url": "https://duckduckgo.com/?q=%5CFabrikada%20facia%3A%2017%20%C3%B6l%C3%BC%2C%201%27i%20a%C4%9F%C4%B1r%2012%20yaral%C4%B1%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Dünyaya 'imece' çağrısı",
+       "fa": "فراخوان «همیاری» به جهان",
+       "url": "https://duckduckgo.com/?q=%5CD%C3%BCnyaya%20%27imece%27%20%C3%A7a%C4%9Fr%C4%B1s%C4%B1%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "CEO'nun yasak aşkı Çin casusu",
+       "fa": "عشق ممنوع مدیرعامل جاسوس چین است",
+       "url": "https://duckduckgo.com/?q=%5CCEO%27nun%20yasak%20a%C5%9Fk%C4%B1%20%C3%87in%20casusu%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Emekliye bütçede büyük pay ayırdık",
+       "fa": "سهم بزرگی از بودجه را به بازنشستگان اختصاص دادیم",
+       "url": "https://duckduckgo.com/?q=%5CEmekliye%20b%C3%BCt%C3%A7ede%20b%C3%BCy%C3%BCk%20pay%20ay%C4%B1rd%C4%B1k%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "88 yıldır saygı, minnet ve rahmetle anıyoruz",
+       "fa": "۸۸ سال است با احترام، سپاس و طلب رحمت یادش می‌کنیم",
+       "url": "https://duckduckgo.com/?q=%5C88%20y%C4%B1ld%C4%B1r%20sayg%C4%B1%2C%20minnet%20ve%20rahmetle%20an%C4%B1yoruz%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Fitneciler beyhude çaba içinde",
+       "fa": "فتنه‌گران بیهوده تلاش می‌کنند",
+       "url": "https://duckduckgo.com/?q=%5CFitneciler%20beyhude%20%C3%A7aba%20i%C3%A7inde%20site%3Aaksam.com.tr",
+       "direct": false
+      }
+     ]
     }
    ]
   },

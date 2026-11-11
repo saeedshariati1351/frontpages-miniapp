@@ -2153,6 +2153,474 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "sabah",
+     "name": "Sabah",
+     "fa": "صباح",
+     "site": "https://www.sabah.com.tr",
+     "img": "covers/2026-11-11/sabah.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/sabah/big_111126_0800.jpg",
+     "headlines": [
+      {
+       "o": "İstikbalimizi aynı azimle inşa ediyoruz",
+       "fa": "آینده‌مان را با همان عزم می‌سازیم",
+       "url": "https://duckduckgo.com/?q=%5C%C4%B0stikbalimizi%20ayn%C4%B1%20azimle%20in%C5%9Fa%20ediyoruz%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Liderler dünyanın geleceği için Antalya'da buluşuyor",
+       "fa": "رهبران برای آیندهٔ جهان در آنتالیا گرد هم می‌آیند",
+       "url": "https://duckduckgo.com/?q=%5CLiderler%20d%C3%BCnyan%C4%B1n%20gelece%C4%9Fi%20i%C3%A7in%20Antalya%27da%20bulu%C5%9Fuyor%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Facia ihmaller zinciriyle geldi",
+       "fa": "فاجعه با زنجیره‌ای از سهل‌انگاری‌ها رخ داد",
+       "url": "https://duckduckgo.com/?q=%5CFacia%20ihmaller%20zinciriyle%20geldi%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "09.05'te hayat durdu, millet Ata'sına koştu",
+       "fa": "ساعت ۹:۰۵ زندگی متوقف شد و ملت به سوی آتای خود شتافت",
+       "url": "https://duckduckgo.com/?q=%5C09.05%27te%20hayat%20durdu%2C%20millet%20Ata%27s%C4%B1na%20ko%C5%9Ftu%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Guterres: Organizasyon çok etkileyici",
+       "fa": "گوترش: سازمان‌دهی بسیار چشمگیر است",
+       "url": "https://duckduckgo.com/?q=%5CGuterres%3A%20Organizasyon%20%C3%A7ok%20etkileyici%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Deniz üstü rüzgar santralleri için düğmeye basıldı",
+       "fa": "دکمهٔ ساخت نیروگاه‌های بادی دریایی فشرده شد",
+       "url": "https://duckduckgo.com/?q=%5CDeniz%20%C3%BCst%C3%BC%20r%C3%BCzgar%20santralleri%20i%C3%A7in%20d%C3%BC%C4%9Fmeye%20bas%C4%B1ld%C4%B1%20site%3Asabah.com.tr",
+       "direct": false
+      },
+      {
+       "o": "TikTok'ta çocuk istismarı skandalı",
+       "fa": "رسوایی سوءاستفاده از کودکان در تیک‌تاک",
+       "url": "https://duckduckgo.com/?q=%5CTikTok%27ta%20%C3%A7ocuk%20istismar%C4%B1%20skandal%C4%B1%20site%3Asabah.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "milliyet",
+     "name": "Milliyet",
+     "fa": "میلیت",
+     "site": "https://www.milliyet.com.tr",
+     "img": "covers/2026-11-11/milliyet.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/milliyet/big_111126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Türkiye Ata'sına koştu",
+       "fa": "ترکیه به سوی آتای خود شتافت",
+       "url": "https://duckduckgo.com/?q=%5CT%C3%BCrkiye%20Ata%27s%C4%B1na%20ko%C5%9Ftu%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Binalara 5 yılda bir muayene",
+       "fa": "بازرسی ساختمان‌ها هر پنج سال یک بار",
+       "url": "https://duckduckgo.com/?q=%5CBinalara%205%20y%C4%B1lda%20bir%20muayene%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Kürk Mantolu Madonna olacak",
+       "fa": "او «مدونای پالتوپوست» خواهد شد",
+       "url": "https://duckduckgo.com/?q=%5CK%C3%BCrk%20Mantolu%20Madonna%20olacak%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Milli Piyango: Büyük ikramiye 1 milyar lira!",
+       "fa": "بخت‌آزمایی ملی: جایزهٔ بزرگ یک میلیارد لیر!",
+       "url": "https://duckduckgo.com/?q=%5CMilli%20Piyango%3A%20B%C3%BCy%C3%BCk%20ikramiye%201%20milyar%20lira%21%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Takım uyumu şaşırttı",
+       "fa": "هماهنگی تیم غافلگیر کرد",
+       "url": "https://duckduckgo.com/?q=%5CTak%C4%B1m%20uyumu%20%C5%9Fa%C5%9F%C4%B1rtt%C4%B1%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Peynirde 'hile'ye önlem",
+       "fa": "اقدام علیه «تقلب» در پنیر",
+       "url": "https://duckduckgo.com/?q=%5CPeynirde%20%27hile%27ye%20%C3%B6nlem%20site%3Amilliyet.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Fenomenler üzerinden para aklama",
+       "fa": "پول‌شویی از طریق اینفلوئنسرها",
+       "url": "https://duckduckgo.com/?q=%5CFenomenler%20%C3%BCzerinden%20para%20aklama%20site%3Amilliyet.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "yenicag",
+     "name": "Yeniçağ",
+     "fa": "ینی‌چاغ",
+     "site": "https://www.yenicaggazetesi.com.tr",
+     "img": "covers/2026-11-11/yenicag.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/yenicag/big_111126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Saat 09:05'te zaman durdu",
+       "fa": "ساعت ۹:۰۵ زمان ایستاد",
+       "url": "https://duckduckgo.com/?q=%5CSaat%2009%3A05%27te%20zaman%20durdu%20site%3Ayenicaggazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Ne yağmur ne kar ne de soğuk hava Ata'ya özlemin önüne geçemedi",
+       "fa": "نه باران، نه برف و نه سرما جلوی دلتنگی برای آتا را نگرفت",
+       "url": "https://duckduckgo.com/?q=%5CNe%20ya%C4%9Fmur%20ne%20kar%20ne%20de%20so%C4%9Fuk%20hava%20Ata%27ya%20%C3%B6zlemin%20%C3%B6n%C3%BCne%20ge%C3%A7emedi%20site%3Ayenicaggazetesi.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "aydinlik",
+     "name": "Aydınlık",
+     "fa": "آیدینلیک",
+     "site": "https://www.aydinlik.com.tr",
+     "img": "covers/2026-11-11/aydinlik.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/aydinlik/big_111126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Torku'nun borcu kamuya yıkılamaz",
+       "fa": "بدهی تورکو را نمی‌توان به گردن بخش عمومی انداخت",
+       "url": "https://duckduckgo.com/?q=%5CTorku%27nun%20borcu%20kamuya%20y%C4%B1k%C4%B1lamaz%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Maliye Bakanlığından Kayseri Şeker'e inceleme",
+       "fa": "بازرسی وزارت دارایی از قند قیصری",
+       "url": "https://duckduckgo.com/?q=%5CMaliye%20Bakanl%C4%B1%C4%9F%C4%B1ndan%20Kayseri%20%C5%9Eeker%27e%20inceleme%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Avrasya Güvenlik Konferansı'nda TRÇİ konuşuldu",
+       "fa": "در کنفرانس امنیت اوراسیا اتحاد ترکیه–روسیه–چین–ایران مطرح شد",
+       "url": "https://duckduckgo.com/?q=%5CAvrasya%20G%C3%BCvenlik%20Konferans%C4%B1%27nda%20TR%C3%87%C4%B0%20konu%C5%9Fuldu%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "İklim zirvesinde herkes var, ABD yok",
+       "fa": "در اجلاس اقلیمی همه هستند جز آمریکا",
+       "url": "https://duckduckgo.com/?q=%5C%C4%B0klim%20zirvesinde%20herkes%20var%2C%20ABD%20yok%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Dolmabahçe'ye Atatürk akını",
+       "fa": "هجوم مردم به کاخ دولمه‌باغچه برای آتاتورک",
+       "url": "https://duckduckgo.com/?q=%5CDolmabah%C3%A7e%27ye%20Atat%C3%BCrk%20ak%C4%B1n%C4%B1%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Avrupa masada yok",
+       "fa": "اروپا پشت میز نیست",
+       "url": "https://duckduckgo.com/?q=%5CAvrupa%20masada%20yok%20site%3Aaydinlik.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Altının merkezi Doğu'ya kayıyor",
+       "fa": "مرکز طلا به شرق منتقل می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CAlt%C4%B1n%C4%B1n%20merkezi%20Do%C4%9Fu%27ya%20kay%C4%B1yor%20site%3Aaydinlik.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "yeni-safak",
+     "name": "Yeni Şafak",
+     "fa": "ینی شفق",
+     "site": "https://www.yenisafak.com",
+     "img": "covers/2026-11-11/yeni-safak.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/yeni-safak/big_111126_0800.jpg",
+     "headlines": [
+      {
+       "o": "ABD'de büyük hesaplaşma",
+       "fa": "تسویه‌حساب بزرگ در آمریکا",
+       "url": "https://duckduckgo.com/?q=%5CABD%27de%20b%C3%BCy%C3%BCk%20hesapla%C5%9Fma%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "İlk fatura Savaş Bakanı'na mı kesilecek",
+       "fa": "آیا نخستین صورت‌حساب به نام وزیر جنگ صادر می‌شود؟",
+       "url": "https://duckduckgo.com/?q=%5C%C4%B0lk%20fatura%20Sava%C5%9F%20Bakan%C4%B1%27na%20m%C4%B1%20kesilecek%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "Hem Cumhuriyet'e hem tarihimize sahip çıktık",
+       "fa": "هم از جمهوری و هم از تاریخ‌مان پاسداری کردیم",
+       "url": "https://duckduckgo.com/?q=%5CHem%20Cumhuriyet%27e%20hem%20tarihimize%20sahip%20%C3%A7%C4%B1kt%C4%B1k%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "COP31 mesaisi",
+       "fa": "کار و تلاش کاپ۳۱",
+       "url": "https://duckduckgo.com/?q=%5CCOP31%20mesaisi%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "89 şirketten temiz enerjiye 156 milyar $",
+       "fa": "۱۵۶ میلیارد دلار سرمایه‌گذاری ۸۹ شرکت در انرژی پاک",
+       "url": "https://duckduckgo.com/?q=%5C89%20%C5%9Firketten%20temiz%20enerjiye%20156%20milyar%20%24%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "Şirket bile 'ihmal'i görmüş",
+       "fa": "حتی خود شرکت هم «سهل‌انگاری» را دیده بود",
+       "url": "https://duckduckgo.com/?q=%5C%C5%9Eirket%20bile%20%27ihmal%27i%20g%C3%B6rm%C3%BC%C5%9F%20site%3Ayenisafak.com",
+       "direct": false
+      },
+      {
+       "o": "Ankara'da kar sürprizi",
+       "fa": "غافلگیری برفی در آنکارا",
+       "url": "https://duckduckgo.com/?q=%5CAnkara%27da%20kar%20s%C3%BCrprizi%20site%3Ayenisafak.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "turkiye",
+     "name": "Türkiye",
+     "fa": "ترکیه (روزنامه)",
+     "site": "https://www.turkiyegazetesi.com.tr",
+     "img": "covers/2026-11-11/turkiye.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/turkiye/big_111126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Yolsuzluk yapan vekile dokunulsun",
+       "fa": "مصونیت نمایندهٔ فاسد برداشته شود",
+       "url": "https://duckduckgo.com/?q=%5CYolsuzluk%20yapan%20vekile%20dokunulsun%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "MHP'den siyasi ahlak yasası çağrısı",
+       "fa": "درخواست حزب حرکت ملی برای قانون اخلاق سیاسی",
+       "url": "https://duckduckgo.com/?q=%5CMHP%27den%20siyasi%20ahlak%20yasas%C4%B1%20%C3%A7a%C4%9Fr%C4%B1s%C4%B1%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "İç cephemizi güçlendiriyoruz",
+       "fa": "جبههٔ داخلی‌مان را تقویت می‌کنیم",
+       "url": "https://duckduckgo.com/?q=%5C%C4%B0%C3%A7%20cephemizi%20g%C3%BC%C3%A7lendiriyoruz%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Organizasyon çok kaliteli",
+       "fa": "سازمان‌دهی بسیار باکیفیت است",
+       "url": "https://duckduckgo.com/?q=%5COrganizasyon%20%C3%A7ok%20kaliteli%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Meclis'te bekliyor: Fezleke yağmuru",
+       "fa": "در انتظار مجلس: بارش پرونده‌های رفع مصونیت",
+       "url": "https://duckduckgo.com/?q=%5CMeclis%27te%20bekliyor%3A%20Fezleke%20ya%C4%9Fmuru%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "18 işçi öldü, faciaya 11 gözaltı",
+       "fa": "۱۸ کارگر جان باختند؛ ۱۱ بازداشت در پی فاجعه",
+       "url": "https://duckduckgo.com/?q=%5C18%20i%C5%9F%C3%A7i%20%C3%B6ld%C3%BC%2C%20faciaya%2011%20g%C3%B6zalt%C4%B1%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Trump İsrail'den tazminat istiyor",
+       "fa": "ترامپ از اسرائیل غرامت می‌خواهد",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20%C4%B0srail%27den%20tazminat%20istiyor%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Sinemada telif kavgası",
+       "fa": "دعوای حق پخش در سینما",
+       "url": "https://duckduckgo.com/?q=%5CSinemada%20telif%20kavgas%C4%B1%20site%3Aturkiyegazetesi.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "milli-gazete",
+     "name": "Milli Gazete",
+     "fa": "میلی گزته",
+     "site": "https://www.milligazete.com.tr",
+     "img": "covers/2026-11-11/milli-gazete.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/milli-gazete/big_111126_0800.jpg",
+     "headlines": [
+      {
+       "o": "\"Öyle bir pisliğe bulaşıldı ki; 40 hamamda yıkanılsa bile kokusu 100 yılda geçmez\"",
+       "fa": "«چنان به کثافتی آلوده شدیم که اگر در ۴۰ حمام هم شسته شود، بویش تا صد سال نمی‌رود»",
+       "url": "https://duckduckgo.com/?q=%5C%22%C3%96yle%20bir%20pisli%C4%9Fe%20bula%C5%9F%C4%B1ld%C4%B1%20ki%3B%2040%20hamamda%20y%C4%B1kan%C4%B1lsa%20bile%20kokusu%20100%20y%C4%B1lda%20ge%C3%A7mez%22%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "İktidarın tepe isminden tarihi sözler: \"Bu canavarı elimizle biz büyüttük!\"",
+       "fa": "سخنان تاریخی یکی از چهره‌های ارشد حزب حاکم: «این هیولا را خودمان با دست خودمان بزرگ کردیم!»",
+       "url": "https://duckduckgo.com/?q=%5C%C4%B0ktidar%C4%B1n%20tepe%20isminden%20tarihi%20s%C3%B6zler%3A%20%22Bu%20canavar%C4%B1%20elimizle%20biz%20b%C3%BCy%C3%BCtt%C3%BCk%21%22%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Netanyahu, İran'da belasını arıyor!",
+       "fa": "نتانیاهو در ایران دنبال دردسر است!",
+       "url": "https://duckduckgo.com/?q=%5CNetanyahu%2C%20%C4%B0ran%27da%20belas%C4%B1n%C4%B1%20ar%C4%B1yor%21%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Batı Şeria'da cami basıp sabah namazını engellediler",
+       "fa": "در کرانهٔ باختری به مسجد یورش بردند و مانع نماز صبح شدند",
+       "url": "https://duckduckgo.com/?q=%5CBat%C4%B1%20%C5%9Eeria%27da%20cami%20bas%C4%B1p%20sabah%20namaz%C4%B1n%C4%B1%20engellediler%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "\"İran'ın 7 şartına teslim olun\"",
+       "fa": "«به شروط هفت‌گانهٔ ایران تن دهید»",
+       "url": "https://duckduckgo.com/?q=%5C%22%C4%B0ran%27%C4%B1n%207%20%C5%9Fart%C4%B1na%20teslim%20olun%22%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Riyad ile Şam arasında askeri yakınlaşma... Mekke ittifakı genişliyor mu?",
+       "fa": "نزدیکی نظامی ریاض و دمشق... آیا «اتحاد مکه» گسترش می‌یابد؟",
+       "url": "https://duckduckgo.com/?q=%5CRiyad%20ile%20%C5%9Eam%20aras%C4%B1nda%20askeri%20yak%C4%B1nla%C5%9Fma...%20Mekke%20ittifak%C4%B1%20geni%C5%9Fliyor%20mu%3F%20site%3Amilligazete.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Vergi borçluları aralık'ta açıklanacak",
+       "fa": "فهرست بدهکاران مالیاتی در دسامبر اعلام می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CVergi%20bor%C3%A7lular%C4%B1%20aral%C4%B1k%27ta%20a%C3%A7%C4%B1klanacak%20site%3Amilligazete.com.tr",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "dunya",
+     "name": "Dünya",
+     "fa": "دنیا (اقتصادی)",
+     "site": "https://www.dunya.com",
+     "img": "covers/2026-11-11/dunya.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/dunya/big_111126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Sektör liderleri 'net 0'a odaklandı",
+       "fa": "رهبران صنایع بر «صفر خالص» متمرکز شدند",
+       "url": "https://duckduckgo.com/?q=%5CSekt%C3%B6r%20liderleri%20%27net%200%27a%20odakland%C4%B1%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "Petrol 2,5 ay sonra 90 doların altına geriledi",
+       "fa": "نفت پس از دو ماه و نیم به زیر ۹۰ دلار رسید",
+       "url": "https://duckduckgo.com/?q=%5CPetrol%202%2C5%20ay%20sonra%2090%20dolar%C4%B1n%20alt%C4%B1na%20geriledi%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "Büyük ATA'ya 88 yıllık özlem",
+       "fa": "۸۸ سال دلتنگی برای آتای بزرگ",
+       "url": "https://duckduckgo.com/?q=%5CB%C3%BCy%C3%BCk%20ATA%27ya%2088%20y%C4%B1ll%C4%B1k%20%C3%B6zlem%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "Enerji dönüşümü için 300 milyar dolar yatırım",
+       "fa": "۳۰۰ میلیارد دلار سرمایه‌گذاری برای گذار انرژی",
+       "url": "https://duckduckgo.com/?q=%5CEnerji%20d%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC%20i%C3%A7in%20300%20milyar%20dolar%20yat%C4%B1r%C4%B1m%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "Sanayide kayda değer toparlanma",
+       "fa": "بهبود چشمگیر در صنعت",
+       "url": "https://duckduckgo.com/?q=%5CSanayide%20kayda%20de%C4%9Fer%20toparlanma%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "Türk sanayii 10,9 milyar dolarlık tedarik riski taşıyor",
+       "fa": "صنعت ترکیه با ریسک تأمین ۱۰٫۹ میلیارد دلاری روبه‌روست",
+       "url": "https://duckduckgo.com/?q=%5CT%C3%BCrk%20sanayii%2010%2C9%20milyar%20dolarl%C4%B1k%20tedarik%20riski%20ta%C5%9F%C4%B1yor%20site%3Adunya.com",
+       "direct": false
+      },
+      {
+       "o": "Vergi ve ceza borçluları aralık ayında açıklanacak",
+       "fa": "فهرست بدهکاران مالیات و جریمه در دسامبر اعلام می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CVergi%20ve%20ceza%20bor%C3%A7lular%C4%B1%20aral%C4%B1k%20ay%C4%B1nda%20a%C3%A7%C4%B1klanacak%20site%3Adunya.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "aksam",
+     "name": "Akşam",
+     "fa": "آکشام",
+     "site": "https://www.aksam.com.tr",
+     "img": "covers/2026-11-11/aksam.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/aksam/big_111126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Vicdansız mesai",
+       "fa": "شیفت کاری بی‌رحمانه",
+       "url": "https://duckduckgo.com/?q=%5CVicdans%C4%B1z%20mesai%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Patron ve 11 yetkili gözaltında",
+       "fa": "کارفرما و ۱۱ مسئول بازداشت شدند",
+       "url": "https://duckduckgo.com/?q=%5CPatron%20ve%2011%20yetkili%20g%C3%B6zalt%C4%B1nda%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Cumhuriyeti cumhurla buluşturduk",
+       "fa": "جمهوری را با «ائتلاف جمهور» پیوند دادیم",
+       "url": "https://duckduckgo.com/?q=%5CCumhuriyeti%20cumhurla%20bulu%C5%9Fturduk%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Ata'ya saygı",
+       "fa": "ادای احترام به آتا",
+       "url": "https://duckduckgo.com/?q=%5CAta%27ya%20sayg%C4%B1%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "'COP31 çok etkileyici'",
+       "fa": "«کاپ۳۱ بسیار چشمگیر است»",
+       "url": "https://duckduckgo.com/?q=%5C%27COP31%20%C3%A7ok%20etkileyici%27%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Halk TV'yi paravan yapmışlar",
+       "fa": "هالک تی‌وی را پوشش قرار داده بودند",
+       "url": "https://duckduckgo.com/?q=%5CHalk%20TV%27yi%20paravan%20yapm%C4%B1%C5%9Flar%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "'Her gün Trump'ı arıyor'",
+       "fa": "«هر روز با ترامپ تماس می‌گیرد»",
+       "url": "https://duckduckgo.com/?q=%5C%27Her%20g%C3%BCn%20Trump%27%C4%B1%20ar%C4%B1yor%27%20site%3Aaksam.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Kürk Mantolu Meryem",
+       "fa": "مریمِ پالتوپوست",
+       "url": "https://duckduckgo.com/?q=%5CK%C3%BCrk%20Mantolu%20Meryem%20site%3Aaksam.com.tr",
+       "direct": false
+      }
+     ]
     }
    ]
   },
