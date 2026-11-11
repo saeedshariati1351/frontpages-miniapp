@@ -303,5 +303,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/the-philadelphia-inquirer/"
+ },
+ "the-guardian": {
+  "w": 400,
+  "h": 506,
+  "source": "https://cdn.thepaperboy.com/frontpages/uk/20261104/the_guardian.jpg"
  }
 }

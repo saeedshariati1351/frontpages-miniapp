@@ -258,5 +258,10 @@
   "w": 900,
   "h": 1200,
   "source": "https://aawsat.com/files/pdf/issue17515/index.html"
+ },
+ "the-guardian": {
+  "w": 400,
+  "h": 502,
+  "source": "https://cdn.thepaperboy.com/frontpages/uk/20261111/the_guardian.jpg"
  }
 }

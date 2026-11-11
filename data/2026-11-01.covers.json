@@ -173,5 +173,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/bild/"
+ },
+ "los-angeles-times": {
+  "w": 400,
+  "h": 533,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261101/los_angeles_times.jpg"
  }
 }

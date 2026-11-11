@@ -258,5 +258,10 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/houston-chronicle/"
+ },
+ "the-guardian": {
+  "w": 400,
+  "h": 508,
+  "source": "https://cdn.thepaperboy.com/frontpages/uk/20261024/the_guardian.jpg"
  }
 }

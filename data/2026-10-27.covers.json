@@ -308,5 +308,10 @@
   "w": 900,
   "h": 1459,
   "source": "https://www.frontpages.com/the-jerusalem-post/"
+ },
+ "the-guardian": {
+  "w": 400,
+  "h": 506,
+  "source": "https://cdn.thepaperboy.com/frontpages/uk/20261027/the_guardian.jpg"
  }
 }

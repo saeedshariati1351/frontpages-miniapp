@@ -163,5 +163,25 @@
   "w": 900,
   "h": 1200,
   "source": "https://media.al-akhbar.com/store/archive/file/2026/10/21/037a0043-fc78-4365-80cd-4af7ef3b230d.pdf"
+ },
+ "new-york-post": {
+  "w": 400,
+  "h": 448,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261022/new_york_post.jpg"
+ },
+ "the-philadelphia-inquirer": {
+  "w": 400,
+  "h": 533,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261022/philadelphia_inquirer.jpg"
+ },
+ "houston-chronicle": {
+  "w": 400,
+  "h": 533,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261022/houston_chronicle.jpg"
+ },
+ "the-guardian": {
+  "w": 400,
+  "h": 506,
+  "source": "https://cdn.thepaperboy.com/frontpages/uk/20261022/the_guardian.jpg"
  }
 }

@@ -298,5 +298,10 @@
   "w": 900,
   "h": 1366,
   "source": "https://www.frontpages.com/haaretz/"
+ },
+ "the-guardian": {
+  "w": 400,
+  "h": 506,
+  "source": "https://cdn.thepaperboy.com/frontpages/uk/20261026/the_guardian.jpg"
  }
 }
