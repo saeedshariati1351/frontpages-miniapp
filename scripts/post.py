@@ -12,7 +12,9 @@ links survive forwarding, so the message can be forwarded to channels and
 groups as is. A second run for the same date edits the message (skipped when
 nothing changed).
 
-Targets: the owner's chat with the bot (TELEGRAM_CHAT_ID / notify-state) and
+Targets: the owner's chat with the bot (TELEGRAM_CHAT_ID / notify-state),
+the channels in data/extra-channels.json (e.g. "@emtedadnet"; skipped until
+the bot is an admin there) and
 the public channel «صفحه نخست جهان» where the bot is an admin
 (TELEGRAM_CHANNEL_ID, else data/channel.json, else found from the bot's
 updates: the channel where the bot was made admin).
@@ -32,6 +34,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "data" / "post-state.json"
 CHANNEL = ROOT / "data" / "channel.json"
+EXTRA = ROOT / "data" / "extra-channels.json"  # more channels, e.g. ["@emtedadnet"]
 APP_LINK = "https://t.me/worldnewspaperminiappbot/frontpages"
 BOT = "@worldnewspaperminiappbot"
 RAW = "https://raw.githubusercontent.com/saeedshariati1351/frontpages-miniapp/main/"
@@ -136,6 +139,17 @@ def main():
     if not channel:
         print("channel not found (is the bot an admin with posting rights?)")
     targets = [c for c in (owner, channel) if c]
+    # extra channels: posted to only once the bot has been made an admin there
+    if EXTRA.exists():
+        me = api(token, "getMe", {}).get("result", {}).get("id")
+        for cid in json.loads(EXTRA.read_text()):
+            m = api(token, "getChatMember", {"chat_id": cid, "user_id": me})
+            st = m.get("result", {})
+            if st.get("status") == "administrator" and st.get("can_post_messages", True):
+                targets.append(str(cid))
+            else:
+                print(cid, "skipped: bot is not an admin with posting rights yet",
+                      st.get("status") or m.get("description"))
     if not targets:
         sys.exit("no chat id")
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
