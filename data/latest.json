@@ -15,7 +15,44 @@
      "w": 400,
      "h": 533,
      "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/new_york_times.jpg",
-     "headlines": []
+     "headlines": [
+      {
+       "o": "G.O.P. Heads Off Push to Impeach Defiant Hegseth",
+       "fa": "جمهوری‌خواهان جلوی تلاش برای استیضاح هگستِ سرکش را گرفتند",
+       "url": "https://duckduckgo.com/?q=%5CG.O.P.%20Heads%20Off%20Push%20to%20Impeach%20Defiant%20Hegseth%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Quiet Partner Helped C.I.A. Inside Mexico",
+       "fa": "شریکی بی‌سروصدا به سیا در مکزیک کمک کرد",
+       "url": "https://duckduckgo.com/?q=%5CQuiet%20Partner%20Helped%20C.I.A.%20Inside%20Mexico%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "A Spy Scandal And a Woman Near to Power",
+       "fa": "رسوایی جاسوسی و زنی نزدیک به قدرت",
+       "url": "https://duckduckgo.com/?q=%5CA%20Spy%20Scandal%20And%20a%20Woman%20Near%20to%20Power%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "A.I. Taps Old, Polluting Jet Engines for Energy",
+       "fa": "هوش مصنوعی برای تأمین انرژی سراغ موتورهای جت قدیمی و آلاینده می‌رود",
+       "url": "https://duckduckgo.com/?q=%5CA.I.%20Taps%20Old%2C%20Polluting%20Jet%20Engines%20for%20Energy%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "She Rules All of the Sunken Titanic. For Now.",
+       "fa": "او بر تمام تایتانیک غرق‌شده فرمان می‌راند؛ فعلاً",
+       "url": "https://duckduckgo.com/?q=%5CShe%20Rules%20All%20of%20the%20Sunken%20Titanic.%20For%20Now.%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Not a Drop of the Blue Wave Splashed Into South Dakota",
+       "fa": "حتی قطره‌ای از موج آبی به داکوتای جنوبی نرسید",
+       "url": "https://duckduckgo.com/?q=%5CNot%20a%20Drop%20of%20the%20Blue%20Wave%20Splashed%20Into%20South%20Dakota%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
     },
     {
      "slug": "the-washington-post",
@@ -110,7 +147,38 @@
      "w": 400,
      "h": 533,
      "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/los_angeles_times.jpg",
-     "headlines": []
+     "headlines": [
+      {
+       "o": "Republicans in House foil bid to impeach Hegseth",
+       "fa": "جمهوری‌خواهان مجلس نمایندگان تلاش برای استیضاح هگست را ناکام گذاشتند",
+       "url": "https://duckduckgo.com/?q=%5CRepublicans%20in%20House%20foil%20bid%20to%20impeach%20Hegseth%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "They fled to Texas. It turned blue too",
+       "fa": "به تگزاس گریختند؛ آنجا هم آبی شد",
+       "url": "https://duckduckgo.com/?q=%5CThey%20fled%20to%20Texas.%20It%20turned%20blue%20too%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Raman's colleagues now promise 'full support'",
+       "fa": "همکاران رامان اکنون وعدهٔ «حمایت کامل» می‌دهند",
+       "url": "https://duckduckgo.com/?q=%5CRaman%27s%20colleagues%20now%20promise%20%27full%20support%27%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Billionaire tax falls to economic fears",
+       "fa": "مالیات میلیاردرها قربانی نگرانی‌های اقتصادی شد",
+       "url": "https://duckduckgo.com/?q=%5CBillionaire%20tax%20falls%20to%20economic%20fears%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Nvidia scandal rattles AI world",
+       "fa": "رسوایی انویدیا دنیای هوش مصنوعی را تکان داد",
+       "url": "https://duckduckgo.com/?q=%5CNvidia%20scandal%20rattles%20AI%20world%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
     },
     {
      "slug": "new-york-post",
@@ -121,7 +189,20 @@
      "w": 400,
      "h": 448,
      "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/new_york_post.jpg",
-     "headlines": []
+     "headlines": [
+      {
+       "o": "Monster's ink",
+       "fa": "خالکوبی هیولا",
+       "url": "https://duckduckgo.com/?q=%5CMonster%27s%20ink%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "Warnings about 'killer' teacher with Allah, devil tattoos were ignored as 'racist'",
+       "fa": "هشدارها دربارهٔ معلم «قاتل» با خالکوبی‌های الله و شیطان به اتهام «نژادپرستی» نادیده گرفته شد",
+       "url": "https://duckduckgo.com/?q=%5CWarnings%20about%20%27killer%27%20teacher%20with%20Allah%2C%20devil%20tattoos%20were%20ignored%20as%20%27racist%27%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
     },
     {
      "slug": "the-boston-globe",
@@ -132,7 +213,38 @@
      "w": 400,
      "h": 533,
      "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/boston_globe.jpg",
-     "headlines": []
+     "headlines": [
+      {
+       "o": "Farwell guilty of murder",
+       "fa": "فارول به قتل مجرم شناخته شد",
+       "url": "https://duckduckgo.com/?q=%5CFarwell%20guilty%20of%20murder%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Kraft Group seeks large data center in Sutton",
+       "fa": "گروه کرافت به دنبال ساخت مرکز داده‌ای بزرگ در ساتن است",
+       "url": "https://duckduckgo.com/?q=%5CKraft%20Group%20seeks%20large%20data%20center%20in%20Sutton%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Health premiums climb 38% since '19",
+       "fa": "حق بیمهٔ درمانی از ۲۰۱۹ تاکنون ۳۸ درصد بالا رفته است",
+       "url": "https://duckduckgo.com/?q=%5CHealth%20premiums%20climb%2038%25%20since%20%2719%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Closure of child care site opens divisions at Smith College",
+       "fa": "تعطیلی مهدکودک در کالج اسمیت اختلاف به راه انداخت",
+       "url": "https://duckduckgo.com/?q=%5CClosure%20of%20child%20care%20site%20opens%20divisions%20at%20Smith%20College%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "A third rail on the drive to state titles for high schools",
+       "fa": "موضوعی حساس در مسیر قهرمانی ایالتی دبیرستان‌ها",
+       "url": "https://duckduckgo.com/?q=%5CA%20third%20rail%20on%20the%20drive%20to%20state%20titles%20for%20high%20schools%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
     },
     {
      "slug": "chicago-tribune",
@@ -143,7 +255,32 @@
      "w": 400,
      "h": 533,
      "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/chicago_tribune.jpg",
-     "headlines": []
+     "headlines": [
+      {
+       "o": "Jordan elected House GOP leader",
+       "fa": "جردن به رهبری جمهوری‌خواهان مجلس نمایندگان برگزیده شد",
+       "url": "https://duckduckgo.com/?q=%5CJordan%20elected%20House%20GOP%20leader%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "'She's safe now'",
+       "fa": "«او حالا در امان است»",
+       "url": "https://duckduckgo.com/?q=%5C%27She%27s%20safe%20now%27%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Aldermen left in dark on gunshot detection",
+       "fa": "اعضای شورای شهر دربارهٔ سامانهٔ شناسایی شلیک بی‌خبر ماندند",
+       "url": "https://duckduckgo.com/?q=%5CAldermen%20left%20in%20dark%20on%20gunshot%20detection%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "House nixes bid to oust Hegseth",
+       "fa": "مجلس نمایندگان تلاش برای برکناری هگست را رد کرد",
+       "url": "https://duckduckgo.com/?q=%5CHouse%20nixes%20bid%20to%20oust%20Hegseth%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
     },
     {
      "slug": "the-philadelphia-inquirer",
@@ -154,7 +291,44 @@
      "w": 400,
      "h": 533,
      "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/philadelphia_inquirer.jpg",
-     "headlines": []
+     "headlines": [
+      {
+       "o": "House defeats effort to impeach Hegseth",
+       "fa": "مجلس نمایندگان تلاش برای استیضاح هگست را شکست داد",
+       "url": "https://duckduckgo.com/?q=%5CHouse%20defeats%20effort%20to%20impeach%20Hegseth%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "A salute to service",
+       "fa": "ادای احترام به خدمت",
+       "url": "https://duckduckgo.com/?q=%5CA%20salute%20to%20service%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Alina Habba Mildon loses $50M job contract that enraged Trump",
+       "fa": "آلینا هابا میلدون قرارداد ۵۰ میلیون دلاری را که خشم ترامپ را برانگیخته بود از دست داد",
+       "url": "https://duckduckgo.com/?q=%5CAlina%20Habba%20Mildon%20loses%20%2450M%20job%20contract%20that%20enraged%20Trump%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly pothole patrol hits the streets",
+       "fa": "گشت چاله‌های فیلادلفیا به خیابان‌ها آمد",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%20pothole%20patrol%20hits%20the%20streets%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Bob Boone, catcher for 1980 Phillies champions, has died at 78",
+       "fa": "باب بون، کچر تیم قهرمان فیلیز در ۱۹۸۰، در ۷۸ سالگی درگذشت",
+       "url": "https://duckduckgo.com/?q=%5CBob%20Boone%2C%20catcher%20for%201980%20Phillies%20champions%2C%20has%20died%20at%2078%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Ship to be sunk today",
+       "fa": "کشتی امروز غرق می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CShip%20to%20be%20sunk%20today%20site%3Ainquirer.com",
+       "direct": false
+      }
+     ]
     },
     {
      "slug": "houston-chronicle",
