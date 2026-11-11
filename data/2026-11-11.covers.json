@@ -308,5 +308,40 @@
   "w": 900,
   "h": 1200,
   "source": "https://i2.haber7.net/haber7/gazete/milli-gazete/big_111126_0800.jpg"
+ },
+ "the-new-york-times": {
+  "w": 400,
+  "h": 533,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/new_york_times.jpg"
+ },
+ "los-angeles-times": {
+  "w": 400,
+  "h": 533,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/los_angeles_times.jpg"
+ },
+ "new-york-post": {
+  "w": 400,
+  "h": 448,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/new_york_post.jpg"
+ },
+ "the-boston-globe": {
+  "w": 400,
+  "h": 533,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/boston_globe.jpg"
+ },
+ "chicago-tribune": {
+  "w": 400,
+  "h": 533,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/chicago_tribune.jpg"
+ },
+ "the-philadelphia-inquirer": {
+  "w": 400,
+  "h": 533,
+  "source": "https://cdn.thepaperboy.com/frontpages/us/20261111/philadelphia_inquirer.jpg"
+ },
+ "cumhuriyet": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://img.piri.net/piri/upload/3/2026/11/11/4dcbea2f-8635b2bb3f184e898d103c6afee5d88a.jpg"
  }
 }
