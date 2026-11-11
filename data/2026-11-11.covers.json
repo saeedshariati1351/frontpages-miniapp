@@ -348,5 +348,15 @@
   "w": 900,
   "h": 1200,
   "source": "https://img.piri.net/piri/upload/3/2026/11/11/074cfc25-4809a4c72d094a7abd7ffc12cbd53394.jpg"
+ },
+ "les-echos": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/les-echos/"
+ },
+ "gulf-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/gulf-times/"
  }
 }
