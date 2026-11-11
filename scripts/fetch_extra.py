@@ -182,6 +182,19 @@ def given_url(slug):
     return fetch
 
 
+# ---------- kiosko.net (dated front-page images, e.g. The Guardian) ----------
+def kiosko(code):
+    def fetch(d):
+        u = f"https://img.kiosko.net/{d.strftime('%Y/%m/%d')}/{code}.750.jpg"
+        try:
+            im = Image.open(io.BytesIO(get(u)))
+        except Exception as e:
+            print("  miss", u, str(e)[:80]); return None
+        print("  ok", u, im.size)
+        return im, u
+    return fetch
+
+
 SOURCES = {"aawsat": aawsat}
 
 
@@ -225,7 +238,12 @@ def main():
             slug = p["slug"]
             if slug in found:
                 print(date, "have:", slug); continue
-            fetcher = given_url(slug) if p["via"] == "url" else SOURCES[p["via"]]
+            if p["via"] == "url":
+                fetcher = given_url(slug)
+            elif p["via"] == "kiosko":
+                fetcher = kiosko(p["kiosko"])
+            else:
+                fetcher = SOURCES[p["via"]]
             if p["via"] == "url" and (slug, date) not in GIVEN:
                 continue
             print(date, "trying:", slug)

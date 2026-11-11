@@ -12,6 +12,7 @@
     {"slug": "miami-herald", "name": "Miami Herald", "fa": "میامی هرالد", "site": "https://www.miamiherald.com"}
   ]},
   {"country": "بریتانیا", "flag": "🇬🇧", "papers": [
+    {"slug": "the-guardian", "name": "The Guardian", "fa": "گاردین", "site": "https://www.theguardian.com", "via": "kiosko", "kiosko": "uk/guardian"},
     {"slug": "financial-times", "weekend": true, "name": "Financial Times", "fa": "فایننشال تایمز", "site": "https://www.ft.com"},
     {"slug": "city-am", "name": "City A.M.", "fa": "سیتی اِی‌اِم", "site": "https://www.cityam.com"},
     {"slug": "morning-star", "weekend": true, "name": "Morning Star", "fa": "مورنینگ استار", "site": "https://morningstaronline.co.uk"},
