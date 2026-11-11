@@ -2921,6 +2921,72 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "takvim",
+     "name": "Takvim",
+     "fa": "تقویم",
+     "site": "https://www.takvim.com.tr",
+     "img": "covers/2026-11-11/takvim.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://img.piri.net/piri/upload/3/2026/11/11/074cfc25-4809a4c72d094a7abd7ffc12cbd53394.jpg",
+     "headlines": [
+      {
+       "o": "Cumhuriyet'i cumhurla buluşturduk",
+       "fa": "جمهوری را با «ائتلاف جمهور» پیوند دادیم",
+       "url": "https://duckduckgo.com/?q=%5CCumhuriyet%27i%20cumhurla%20bulu%C5%9Fturduk%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Zehir şeması",
+       "fa": "نقشهٔ زهر",
+       "url": "https://duckduckgo.com/?q=%5CZehir%20%C5%9Femas%C4%B1%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Facia içine doğdu",
+       "fa": "فاجعه را پیش‌بینی کرده بود",
+       "url": "https://duckduckgo.com/?q=%5CFacia%20i%C3%A7ine%20do%C4%9Fdu%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Emekliye 35 bin TL",
+       "fa": "۳۵ هزار لیر برای بازنشستگان",
+       "url": "https://duckduckgo.com/?q=%5CEmekliye%2035%20bin%20TL%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "KYK yurtlarında yeni bir dönem",
+       "fa": "دورانی تازه در خوابگاه‌های دانشجویی دولتی",
+       "url": "https://duckduckgo.com/?q=%5CKYK%20yurtlar%C4%B1nda%20yeni%20bir%20d%C3%B6nem%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Peynirde oyun bitti",
+       "fa": "بازی در بازار پنیر تمام شد",
+       "url": "https://duckduckgo.com/?q=%5CPeynirde%20oyun%20bitti%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Adios TikTok",
+       "fa": "خداحافظ تیک‌تاک",
+       "url": "https://duckduckgo.com/?q=%5CAdios%20TikTok%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Heyecan dorukta",
+       "fa": "هیجان در اوج",
+       "url": "https://duckduckgo.com/?q=%5CHeyecan%20dorukta%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Zirvenin altı üstü İstanbul",
+       "fa": "«آلتی اوستو استانبول» در صدر",
+       "url": "https://duckduckgo.com/?q=%5CZirvenin%20alt%C4%B1%20%C3%BCst%C3%BC%20%C4%B0stanbul%20site%3Atakvim.com.tr",
+       "direct": false
+      }
+     ]
     }
    ]
   },

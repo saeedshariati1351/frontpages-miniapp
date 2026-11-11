@@ -3263,6 +3263,66 @@
        "direct": false
       }
      ]
+    },
+    {
+     "slug": "takvim",
+     "name": "Takvim",
+     "fa": "تقویم",
+     "site": "https://www.takvim.com.tr",
+     "img": "covers/2026-11-10/takvim.jpg",
+     "w": 900,
+     "h": 1200,
+     "source": "https://i2.haber7.net/haber7/gazete/takvim-gazetesi/big_101126_0800.jpg",
+     "headlines": [
+      {
+       "o": "Emanete gölge düşürmeyin",
+       "fa": "بر امانت سایه نیندازید",
+       "url": "https://duckduckgo.com/?q=%5CEmanete%20g%C3%B6lge%20d%C3%BC%C5%9F%C3%BCrmeyin%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Büyük buluşmaya muhteşem açılış",
+       "fa": "افتتاحیهٔ باشکوه برای دیدار بزرگ",
+       "url": "https://duckduckgo.com/?q=%5CB%C3%BCy%C3%BCk%20bulu%C5%9Fmaya%20muhte%C5%9Fem%20a%C3%A7%C4%B1l%C4%B1%C5%9F%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Patlamanın sorumluları ortaya çıkartılacak",
+       "fa": "مسئولان انفجار شناسایی خواهند شد",
+       "url": "https://duckduckgo.com/?q=%5CPatlaman%C4%B1n%20sorumlular%C4%B1%20ortaya%20%C3%A7%C4%B1kart%C4%B1lacak%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Sıkı sıkıya bağlıyız",
+       "fa": "سخت به هم پیوسته‌ایم",
+       "url": "https://duckduckgo.com/?q=%5CS%C4%B1k%C4%B1%20s%C4%B1k%C4%B1ya%20ba%C4%9Fl%C4%B1y%C4%B1z%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Atatürk'ü 88 yıldır özlemle anıyoruz",
+       "fa": "۸۸ سال است با دلتنگی از آتاتورک یاد می‌کنیم",
+       "url": "https://duckduckgo.com/?q=%5CAtat%C3%BCrk%27%C3%BC%2088%20y%C4%B1ld%C4%B1r%20%C3%B6zlemle%20an%C4%B1yoruz%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "61 bin işçi aranıyor",
+       "fa": "در جست‌وجوی ۶۱ هزار کارگر",
+       "url": "https://duckduckgo.com/?q=%5C61%20bin%20i%C5%9F%C3%A7i%20aran%C4%B1yor%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "İzinsiz limit artıran yandı",
+       "fa": "بانکی که بدون اجازه سقف اعتبار را بالا ببرد ضرر می‌کند",
+       "url": "https://duckduckgo.com/?q=%5C%C4%B0zinsiz%20limit%20art%C4%B1ran%20yand%C4%B1%20site%3Atakvim.com.tr",
+       "direct": false
+      },
+      {
+       "o": "Milli heyecana son 48 saat",
+       "fa": "۴۸ ساعت تا هیجان ملی",
+       "url": "https://duckduckgo.com/?q=%5CMilli%20heyecana%20son%2048%20saat%20site%3Atakvim.com.tr",
+       "direct": false
+      }
+     ]
     }
    ]
   },
