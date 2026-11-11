@@ -37,6 +37,7 @@ CHANNEL = ROOT / "data" / "channel.json"
 EXTRA = ROOT / "data" / "extra-channels.json"  # more channels, e.g. ["@emtedadnet"]
 APP_LINK = "https://t.me/worldnewspaperminiappbot/frontpages"
 BOT = "@worldnewspaperminiappbot"
+EMTEDAD = "https://t.me/emtedadnet"  # join button under the post
 RAW = "https://raw.githubusercontent.com/saeedshariati1351/frontpages-miniapp/main/"
 BYLINE = "امتداد-گروه بین‌الملل:"  # printed at the start of every lead
 FA = str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹")
@@ -156,7 +157,10 @@ def main():
     if not targets:
         sys.exit("no chat id")
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
-    msgs = state.get("msgs", {}) if state.get("date") == date and "--new" not in sys.argv else {}
+    msgs = state.get("msgs", {}) if state.get("date") == date else {}
+    if "--new" in sys.argv:  # forget earlier messages of the targets (only those with --only)
+        for c in targets:
+            msgs.pop(str(c), None)
     share = "https://t.me/share/url?" + urllib.parse.urlencode(
         {"url": APP_LINK, "text": "صفحهٔ اول روزنامه‌های امروز جهان با تیترهای ترجمه‌شده به فارسی"})
     failed = False
@@ -165,7 +169,8 @@ def main():
             "chat_id": chat, "text": text, "parse_mode": "HTML",
             "reply_markup": {"inline_keyboard": [
                 [{"text": "📰 صفحهٔ اول روزنامه‌های جهان", "url": APP_LINK}],
-                [{"text": "📤 ارسال برای دوستان", "url": share}]]},
+                [{"text": "📤 ارسال برای دوستان", "url": share}],
+                [{"text": "📢 عضویت در کانال امتداد", "url": EMTEDAD}]]},
             "link_preview_options": ({"url": img, "prefer_large_media": True, "show_above_text": True}
                                      if img else {"is_disabled": True}),
         }
