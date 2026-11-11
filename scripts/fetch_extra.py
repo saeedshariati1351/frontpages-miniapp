@@ -306,6 +306,8 @@ def probe(urls):
             print("PROBE", u, "->", e); continue
         print("PROBE", u, len(html), "bytes; title:", re.findall(r"<title>(.*?)</title>", html, re.S)[:1])
         refs = re.findall(r'(?:href|src|data-src|content)="([^"]+)"', html)
+        if flt:  # also URLs anywhere in the page text (e.g. inside JSON / scripts)
+            refs += [r.replace("\\/", "/") for r in re.findall(r'https?:(?:\\?/){2}[^"\'\s<>]+', html)]
         hits = [r for r in refs if (flt.search(r) if flt else
                 re.search(r"pdf|issue|edition|newspaper|archive|cover|front|\.jpe?g|page", r, re.I))]
         seen = []
