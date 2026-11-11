@@ -263,5 +263,35 @@
   "w": 400,
   "h": 502,
   "source": "https://cdn.thepaperboy.com/frontpages/uk/20261111/the_guardian.jpg"
+ },
+ "sabah": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/sabah/big_111126_0800.jpg"
+ },
+ "milliyet": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/milliyet/big_111126_0800.jpg"
+ },
+ "yeni-safak": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/yeni-safak/big_111126_0800.jpg"
+ },
+ "turkiye": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/turkiye/big_111126_0800.jpg"
+ },
+ "dunya": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/dunya/big_111126_0800.jpg"
+ },
+ "aksam": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/aksam/big_111126_0800.jpg"
  }
 }
