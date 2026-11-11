@@ -294,7 +294,11 @@ SOURCES = {"aawsat": aawsat}
 
 
 def probe(urls):
-    """Debug helper: print links/images that look like print editions on the given pages."""
+    """Debug helper: print links/images that look like print editions on the given pages.
+    An argument "grep=REGEX" limits the output to references matching REGEX."""
+    flt = None
+    for u in [u for u in urls if u.startswith("grep=")]:
+        flt = re.compile(u[5:], re.I); urls.remove(u)
     for u in urls:
         try:
             html = get(u).decode("utf-8", "ignore")
@@ -302,7 +306,8 @@ def probe(urls):
             print("PROBE", u, "->", e); continue
         print("PROBE", u, len(html), "bytes; title:", re.findall(r"<title>(.*?)</title>", html, re.S)[:1])
         refs = re.findall(r'(?:href|src|data-src|content)="([^"]+)"', html)
-        hits = [r for r in refs if re.search(r"pdf|issue|edition|newspaper|archive|cover|front|\.jpe?g|page", r, re.I)]
+        hits = [r for r in refs if (flt.search(r) if flt else
+                re.search(r"pdf|issue|edition|newspaper|archive|cover|front|\.jpe?g|page", r, re.I))]
         seen = []
         for r in hits:
             if r not in seen:
