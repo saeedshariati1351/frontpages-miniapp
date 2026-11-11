@@ -213,6 +213,52 @@ def paperboy(code):
     return fetch
 
 
+# ---------- Turkish papers: haber7.com and gazetetek.com (images of i.gazeteoku.com) ----------
+_PAGES = {}
+
+
+def page(url):
+    if url not in _PAGES:
+        try:
+            _PAGES[url] = get(url).decode("utf-8", "ignore")
+        except Exception as e:
+            print("  page miss", url, str(e)[:60]); _PAGES[url] = ""
+    return _PAGES[url]
+
+
+def _img(u):
+    try:
+        im = Image.open(io.BytesIO(get(u)))
+        im.load()
+        print("  ok", u, im.size)
+        return im, u
+    except Exception as e:
+        print("  miss", u, str(e)[:60]); return None
+
+
+def haber7(name):
+    """https://i2.haber7.net/haber7/gazete/<name>/big_DDMMYY_HHMM.jpg (dated file names)."""
+    def fetch(d):
+        ddmmyy = d.strftime("%d%m%y")
+        html = page("https://www.haber7.com/gazete-mansetleri")
+        m = re.search(rf"/haber7/gazete/{re.escape(name)}/(?:small|big)_({ddmmyy}_\d{{4}})\.jpg", html)
+        stamp = m.group(1) if m else f"{ddmmyy}_0800"
+        return _img(f"https://i2.haber7.net/haber7/gazete/{name}/big_{stamp}.jpg")
+    return fetch
+
+
+def gazetetek(name):
+    """Today's covers listed on https://www.gazetetek.com/gazeteler/ (file names carry the date)."""
+    def fetch(d):
+        html = page("https://www.gazetetek.com/gazeteler/")
+        ymd = d.strftime("%Y/%m/%d")
+        m = re.search(rf"https://i\.gazeteoku\.com/storage/files/images/{ymd}/{re.escape(name)}-{d.isoformat()}-\w+\.jpg", html)
+        if not m:
+            print("  not listed on gazetetek for", d, name); return None
+        return _img(m.group(0))
+    return fetch
+
+
 def chain(*fetchers):
     def fetch(d):
         for f in fetchers:
@@ -231,9 +277,14 @@ def fetcher_for(p):
         return given_url(p["slug"])
     if via in SOURCES:
         return SOURCES[via]
+    # other "via" values (e.g. "tr-sites": not on frontpages.com) use the keys below
     fs = []
     if p.get("paperboy"):
         fs.append(paperboy(p["paperboy"]))
+    if p.get("gazetetek"):
+        fs.append(gazetetek(p["gazetetek"]))
+    if p.get("haber7"):
+        fs.append(haber7(p["haber7"]))
     if p.get("kiosko"):
         fs.append(kiosko(p["kiosko"]))
     return chain(*fs) if fs else None
@@ -270,7 +321,7 @@ def main():
         GIVEN[(slug, date)] = u
         del args[i:i + 2]
     papers = [p for g in json.load(open(os.path.join(ROOT, "scripts", "papers.json"), encoding="utf-8"))
-              for p in g["papers"] if p.get("via") or p.get("paperboy") or p.get("kiosko")]
+              for p in g["papers"] if p.get("via") or any(p.get(k) for k in ("paperboy", "kiosko", "gazetetek", "haber7"))]
     dates = args or sorted({d for _, d in GIVEN})
     for date in dates:
         d = datetime.date.fromisoformat(date)

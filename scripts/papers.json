@@ -87,7 +87,16 @@
     {"slug": "the-jerusalem-post", "name": "The Jerusalem Post", "fa": "جروزالم پست", "site": "https://www.jpost.com", "yesterday": true}
   ]},
   {"country": "ترکیه", "flag": "🇹🇷", "papers": [
-    {"slug": "hurriyet", "name": "Hürriyet", "fa": "حریت", "site": "https://www.hurriyet.com.tr"}
+    {"slug": "hurriyet", "name": "Hürriyet", "fa": "حریت", "site": "https://www.hurriyet.com.tr", "haber7": "hurriyet"},
+    {"slug": "sabah", "name": "Sabah", "fa": "صباح", "site": "https://www.sabah.com.tr", "via": "tr-sites", "haber7": "sabah"},
+    {"slug": "milliyet", "name": "Milliyet", "fa": "میلیت", "site": "https://www.milliyet.com.tr", "via": "tr-sites", "haber7": "milliyet"},
+    {"slug": "sozcu", "name": "Sözcü", "fa": "سوزجو", "site": "https://www.sozcu.com.tr", "via": "tr-sites", "gazetetek": "sozcu"},
+    {"slug": "cumhuriyet", "name": "Cumhuriyet", "fa": "جمهوریت", "site": "https://www.cumhuriyet.com.tr", "via": "tr-sites", "gazetetek": "cumhuriyet"},
+    {"slug": "yeni-safak", "name": "Yeni Şafak", "fa": "ینی شفق", "site": "https://www.yenisafak.com", "via": "tr-sites", "haber7": "yeni-safak"},
+    {"slug": "turkiye", "name": "Türkiye", "fa": "ترکیه (روزنامه)", "site": "https://www.turkiyegazetesi.com.tr", "via": "tr-sites", "haber7": "turkiye"},
+    {"slug": "birgun", "name": "BirGün", "fa": "بیرگون", "site": "https://www.birgun.net", "via": "tr-sites", "gazetetek": "birgun"},
+    {"slug": "dunya", "name": "Dünya", "fa": "دنیا (اقتصادی)", "site": "https://www.dunya.com", "via": "tr-sites", "haber7": "dunya"},
+    {"slug": "aksam", "name": "Akşam", "fa": "آکشام", "site": "https://www.aksam.com.tr", "via": "tr-sites", "haber7": "aksam"}
   ]},
   {"country": "هند", "flag": "🇮🇳", "papers": [
     {"slug": "the-times-of-india", "name": "The Times of India", "fa": "تایمز آو ایندیا", "site": "https://timesofindia.indiatimes.com"},
