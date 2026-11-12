@@ -338,5 +338,35 @@
   "w": 900,
   "h": 1200,
   "source": "https://img.piri.net/piri/upload/3/2026/11/12/c462a672-fb86adea4e874913bb00429215e3df66.jpg"
+ },
+ "the-new-york-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-new-york-times/"
+ },
+ "los-angeles-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/los-angeles-times/"
+ },
+ "new-york-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/new-york-post/"
+ },
+ "the-boston-globe": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-boston-globe/"
+ },
+ "chicago-tribune": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/chicago-tribune/"
+ },
+ "the-philadelphia-inquirer": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-philadelphia-inquirer/"
  }
 }
