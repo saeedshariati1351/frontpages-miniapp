@@ -7,6 +7,72 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-12/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "Colom Attains A Major Upset In Mississippi",
+       "fa": "کولوم در میسیسیپی پیروزی غافلگیرکننده‌ای به دست آورد",
+       "url": "https://duckduckgo.com/?q=%5CColom%20Attains%20A%20Major%20Upset%20In%20Mississippi%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Elected as Its First Black Senator Since 1800s",
+       "fa": "نخستین سناتور سیاه‌پوست این ایالت از قرن نوزدهم تاکنون برگزیده شد",
+       "url": "https://duckduckgo.com/?q=%5CElected%20as%20Its%20First%20Black%20Senator%20Since%201800s%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Administration Issues a Threat About Inquiries",
+       "fa": "دولت دربارهٔ تحقیقات کنگره تهدید کرد",
+       "url": "https://duckduckgo.com/?q=%5CAdministration%20Issues%20a%20Threat%20About%20Inquiries%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Claiming Investigations Planned by Congress May Be a Crime",
+       "fa": "مدعی شد تحقیقاتی که کنگره در نظر دارد ممکن است جرم باشد",
+       "url": "https://duckduckgo.com/?q=%5CClaiming%20Investigations%20Planned%20by%20Congress%20May%20Be%20a%20Crime%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Trump and Xi May Smile, but Knives Are Out",
+       "fa": "ترامپ و شی شاید لبخند بزنند، اما چاقوها از غلاف بیرون آمده است",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20and%20Xi%20May%20Smile%2C%20but%20Knives%20Are%20Out%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Nvidia Chief's Scandal Unveils a Spy War",
+       "fa": "رسوایی رئیس انویدیا از یک جنگ جاسوسی پرده برداشت",
+       "url": "https://duckduckgo.com/?q=%5CNvidia%20Chief%27s%20Scandal%20Unveils%20a%20Spy%20War%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "In California, El Niño Lands Big 1-2 Punch",
+       "fa": "ال‌نینیو در کالیفرنیا ضربهٔ دوگانهٔ سنگینی وارد کرد",
+       "url": "https://duckduckgo.com/?q=%5CIn%20California%2C%20El%20Ni%C3%B1o%20Lands%20Big%201-2%20Punch%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Agent in Killing Vented Hatred Of Immigrants",
+       "fa": "مأموری که در قتل دست داشت نفرتش را از مهاجران ابراز کرده بود",
+       "url": "https://duckduckgo.com/?q=%5CAgent%20in%20Killing%20Vented%20Hatred%20Of%20Immigrants%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "A Shackled Nurse Disappeared Into the ICE System, by Design",
+       "fa": "پرستاری در غل و زنجیر، به‌عمد، در سامانهٔ آیس ناپدید شد",
+       "url": "https://duckduckgo.com/?q=%5CA%20Shackled%20Nurse%20Disappeared%20Into%20the%20ICE%20System%2C%20by%20Design%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-washington-post",
      "name": "The Washington Post",
      "fa": "واشنگتن پست",
@@ -98,6 +164,240 @@
        "o": "Johnny Depp's comeback tells a story",
        "fa": "بازگشت جانی دپ داستانی را روایت می‌کند",
        "url": "https://duckduckgo.com/?q=%5CJohnny%20Depp%27s%20comeback%20tells%20a%20story%20site%3Ausatoday.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-12/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "White House issues threat over investigations",
+       "fa": "کاخ سفید دربارهٔ تحقیقات تهدید کرد",
+       "url": "https://duckduckgo.com/?q=%5CWhite%20House%20issues%20threat%20over%20investigations%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats' planned inquiries into Trump could bring criminal action, lawyer warns",
+       "fa": "وکیل کاخ سفید هشدار داد تحقیقات برنامه‌ریزی‌شدهٔ دموکرات‌ها دربارهٔ ترامپ ممکن است پیگرد کیفری در پی داشته باشد",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%27%20planned%20inquiries%20into%20Trump%20could%20bring%20criminal%20action%2C%20lawyer%20warns%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Is this the end of living coastal dream?",
+       "fa": "آیا این پایان رؤیای زندگی در ساحل است؟",
+       "url": "https://duckduckgo.com/?q=%5CIs%20this%20the%20end%20of%20living%20coastal%20dream%3F%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "China's spy network in the Golden State",
+       "fa": "شبکهٔ جاسوسی چین در ایالت طلایی",
+       "url": "https://duckduckgo.com/?q=%5CChina%27s%20spy%20network%20in%20the%20Golden%20State%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Beijing targets California's tech, research and innovators in its quest for superiority",
+       "fa": "پکن در پی برتری، فناوری، پژوهش و نوآوران کالیفرنیا را هدف گرفته است",
+       "url": "https://duckduckgo.com/?q=%5CBeijing%20targets%20California%27s%20tech%2C%20research%20and%20innovators%20in%20its%20quest%20for%20superiority%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Raman facing an LAPD showdown",
+       "fa": "رامان با رویارویی با پلیس لس‌آنجلس روبه‌روست",
+       "url": "https://duckduckgo.com/?q=%5CRaman%20facing%20an%20LAPD%20showdown%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Fighting racial slurs in school",
+       "fa": "مبارزه با توهین‌های نژادی در مدرسه",
+       "url": "https://duckduckgo.com/?q=%5CFighting%20racial%20slurs%20in%20school%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "new-york-post",
+     "name": "New York Post",
+     "fa": "نیویورک پست",
+     "site": "https://nypost.com",
+     "img": "covers/2026-11-12/new-york-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/new-york-post/",
+     "headlines": [
+      {
+       "o": "CHIPS AND DIPS",
+       "fa": "تراشه‌ها و لغزش‌ها",
+       "url": "https://duckduckgo.com/?q=%5CCHIPS%20AND%20DIPS%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "Nvidia boss had ANOTHER affair",
+       "fa": "رئیس انویدیا رابطهٔ پنهانی دیگری هم داشته است",
+       "url": "https://duckduckgo.com/?q=%5CNvidia%20boss%20had%20ANOTHER%20affair%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "Board prepares to oust him over 'Chinese spy'",
+       "fa": "هیئت‌مدیره به‌خاطر «جاسوس چینی» آمادهٔ برکناری او می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CBoard%20prepares%20to%20oust%20him%20over%20%27Chinese%20spy%27%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "DEADLY B'KLYN BLDG. COLLAPSE",
+       "fa": "ریزش مرگبار ساختمانی در بروکلین",
+       "url": "https://duckduckgo.com/?q=%5CDEADLY%20B%27KLYN%20BLDG.%20COLLAPSE%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-12/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Sutton data center not a surprise for all",
+       "fa": "مرکز داده در ساتن برای همه غافلگیرکننده نبود",
+       "url": "https://duckduckgo.com/?q=%5CSutton%20data%20center%20not%20a%20surprise%20for%20all%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Witness in Farwell case urges changes",
+       "fa": "شاهد پروندهٔ فارول خواستار تغییرات شد",
+       "url": "https://duckduckgo.com/?q=%5CWitness%20in%20Farwell%20case%20urges%20changes%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Doctor sees 'opportunity' to set protocol for cases with ties to police officers",
+       "fa": "پزشک «فرصتی» برای تدوین دستورالعمل پرونده‌های مرتبط با مأموران پلیس می‌بیند",
+       "url": "https://duckduckgo.com/?q=%5CDoctor%20sees%20%27opportunity%27%20to%20set%20protocol%20for%20cases%20with%20ties%20to%20police%20officers%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "THE DREAM OF FLIGHT — OR A NIGHTMARE?",
+       "fa": "رؤیای پرواز یا کابوس؟",
+       "url": "https://duckduckgo.com/?q=%5CTHE%20DREAM%20OF%20FLIGHT%20%E2%80%94%20OR%20A%20NIGHTMARE%3F%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Long battle over CEO's private airstrip divides Vermont town",
+       "fa": "نبرد طولانی بر سر باند فرود خصوصی یک مدیرعامل، شهری در ورمانت را دوپاره کرده است",
+       "url": "https://duckduckgo.com/?q=%5CLong%20battle%20over%20CEO%27s%20private%20airstrip%20divides%20Vermont%20town%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Democrats vow to do two things at once",
+       "fa": "دموکرات‌ها وعده می‌دهند دو کار را هم‌زمان انجام دهند",
+       "url": "https://duckduckgo.com/?q=%5CDemocrats%20vow%20to%20do%20two%20things%20at%20once%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Say their investigations will lead to lower prices",
+       "fa": "می‌گویند تحقیقاتشان به کاهش قیمت‌ها می‌انجامد",
+       "url": "https://duckduckgo.com/?q=%5CSay%20their%20investigations%20will%20lead%20to%20lower%20prices%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-12/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Judge slaps DOJ in rebuke",
+       "fa": "قاضی وزارت دادگستری را به‌سختی نکوهش کرد",
+       "url": "https://duckduckgo.com/?q=%5CJudge%20slaps%20DOJ%20in%20rebuke%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Effort to derail hearing draws 'extraordinary' response after Boutros, others told to testify",
+       "fa": "تلاش برای برهم زدن جلسهٔ دادرسی با واکنشی «فوق‌العاده» روبه‌رو شد و بوتروس و دیگران به ادای شهادت فراخوانده شدند",
+       "url": "https://duckduckgo.com/?q=%5CEffort%20to%20derail%20hearing%20draws%20%27extraordinary%27%20response%20after%20Boutros%2C%20others%20told%20to%20testify%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Trump lawyer targets probes",
+       "fa": "وکیل ترامپ تحقیقات را هدف گرفت",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20lawyer%20targets%20probes%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "White House makes threats in attempt to curb Dems' oversight",
+       "fa": "کاخ سفید برای مهار نظارت دموکرات‌ها تهدید می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CWhite%20House%20makes%20threats%20in%20attempt%20to%20curb%20Dems%27%20oversight%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "A patriotic presentation",
+       "fa": "نمایشی میهن‌دوستانه",
+       "url": "https://duckduckgo.com/?q=%5CA%20patriotic%20presentation%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-12/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Democrat declared winner in Miss. race for Senate",
+       "fa": "نامزد دموکرات برندهٔ رقابت سنا در میسیسیپی اعلام شد",
+       "url": "https://duckduckgo.com/?q=%5CDemocrat%20declared%20winner%20in%20Miss.%20race%20for%20Senate%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Scott Colom is the state's first Black senator since Reconstruction",
+       "fa": "اسکات کولوم نخستین سناتور سیاه‌پوست این ایالت از دوران بازسازی است",
+       "url": "https://duckduckgo.com/?q=%5CScott%20Colom%20is%20the%20state%27s%20first%20Black%20senator%20since%20Reconstruction%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly's teachers union releases $25M plan to avoid school closures",
+       "fa": "اتحادیهٔ معلمان فیلادلفیا طرحی ۲۵ میلیون دلاری برای جلوگیری از تعطیلی مدارس منتشر کرد",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%27s%20teachers%20union%20releases%20%2425M%20plan%20to%20avoid%20school%20closures%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Can Flyers salvage Michkov crisis?",
+       "fa": "آیا فلایرز می‌تواند بحران میچکوف را مهار کند؟",
+       "url": "https://duckduckgo.com/?q=%5CCan%20Flyers%20salvage%20Michkov%20crisis%3F%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Coming our way: cold, rain, and snow?",
+       "fa": "در راه است: سرما، باران و برف؟",
+       "url": "https://duckduckgo.com/?q=%5CComing%20our%20way%3A%20cold%2C%20rain%2C%20and%20snow%3F%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Swing bridge is ready to open on Schuylkill River Trail",
+       "fa": "پل گردان در مسیر رودخانهٔ اسکوکیل آمادهٔ گشایش است",
+       "url": "https://duckduckgo.com/?q=%5CSwing%20bridge%20is%20ready%20to%20open%20on%20Schuylkill%20River%20Trail%20site%3Ainquirer.com",
        "direct": false
       }
      ]
