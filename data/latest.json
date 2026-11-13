@@ -7,6 +7,66 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-13/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "Nvidia Chief Quits as Second Affair Adds to Scrutiny",
+       "fa": "رئیس انویدیا در پی افشای دومین رابطهٔ پنهانی و تشدید بررسی‌ها کناره‌گیری کرد",
+       "url": "https://duckduckgo.com/?q=%5CNvidia%20Chief%20Quits%20as%20Second%20Affair%20Adds%20to%20Scrutiny%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "China Plays the Long Game When It Sets the ‘Gentle Trap’",
+       "fa": "چین در پهن‌کردن «دام نرم» بازی بلندمدت می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CChina%20Plays%20the%20Long%20Game%20When%20It%20Sets%20the%20%E2%80%98Gentle%20Trap%E2%80%99%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Huang Was Face of an A.I. Boom and a Spy Scandal",
+       "fa": "هوانگ چهرهٔ رونق هوش مصنوعی و یک رسوایی جاسوسی بود",
+       "url": "https://duckduckgo.com/?q=%5CHuang%20Was%20Face%20of%20an%20A.I.%20Boom%20and%20a%20Spy%20Scandal%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Bricks Rained Down, Then Apartment Walls Fell",
+       "fa": "آجرها فرو ریختند، سپس دیوارهای ساختمان مسکونی فروپاشید",
+       "url": "https://duckduckgo.com/?q=%5CBricks%20Rained%20Down%2C%20Then%20Apartment%20Walls%20Fell%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "At Least 8 Dead and 18 Injured in a Brooklyn Building Collapse",
+       "fa": "دست‌کم ۸ کشته و ۱۸ زخمی در فروریختن ساختمانی در بروکلین",
+       "url": "https://duckduckgo.com/?q=%5CAt%20Least%208%20Dead%20and%2018%20Injured%20in%20a%20Brooklyn%20Building%20Collapse%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Legal Scholar Whose Works Had No Equal",
+       "fa": "حقوق‌دانی که آثارش همتا نداشت (ریچارد پوزنر، ۱۹۳۹–۲۰۲۶)",
+       "url": "https://duckduckgo.com/?q=%5CLegal%20Scholar%20Whose%20Works%20Had%20No%20Equal%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Final Voyage for the S.S. United States",
+       "fa": "آخرین سفر کشتی «اس‌اس یونایتد استیتس»",
+       "url": "https://duckduckgo.com/?q=%5CFinal%20Voyage%20for%20the%20S.S.%20United%20States%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Prostate Cancer Screening Now Broadly Urged",
+       "fa": "اکنون غربالگری سرطان پروستات به‌طور گسترده توصیه می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CProstate%20Cancer%20Screening%20Now%20Broadly%20Urged%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-washington-post",
      "name": "The Washington Post",
      "fa": "واشنگتن پست",
@@ -50,6 +110,198 @@
        "o": "Pushing for peace in Ukraine",
        "fa": "تلاش برای صلح در اوکراین",
        "url": "https://duckduckgo.com/?q=%5CPushing%20for%20peace%20in%20Ukraine%20site%3Awashingtonpost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-13/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Huang’s exit tests stability of Nvidia, AI",
+       "fa": "کناره‌گیری هوانگ ثبات انویدیا و هوش مصنوعی را محک می‌زند",
+       "url": "https://duckduckgo.com/?q=%5CHuang%E2%80%99s%20exit%20tests%20stability%20of%20Nvidia%2C%20AI%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Building collapse in Brooklyn",
+       "fa": "فروریختن ساختمان در بروکلین",
+       "url": "https://duckduckgo.com/?q=%5CBuilding%20collapse%20in%20Brooklyn%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Trump shifts Vance’s focus off Iran",
+       "fa": "ترامپ تمرکز ونس را از ایران برداشت",
+       "url": "https://duckduckgo.com/?q=%5CTrump%20shifts%20Vance%E2%80%99s%20focus%20off%20Iran%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Even in Vernon, a turn away from data centers",
+       "fa": "حتی در ورنون هم روی‌گردانی از مراکز داده",
+       "url": "https://duckduckgo.com/?q=%5CEven%20in%20Vernon%2C%20a%20turn%20away%20from%20data%20centers%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "After Trump taunt, vote count sped up",
+       "fa": "پس از طعنهٔ ترامپ، شمارش آرا شتاب گرفت",
+       "url": "https://duckduckgo.com/?q=%5CAfter%20Trump%20taunt%2C%20vote%20count%20sped%20up%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "new-york-post",
+     "name": "New York Post",
+     "fa": "نیویورک پست",
+     "site": "https://nypost.com",
+     "img": "covers/2026-11-13/new-york-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/new-york-post/",
+     "headlines": [
+      {
+       "o": "Depths of hell",
+       "fa": "اعماق جهنم",
+       "url": "https://duckduckgo.com/?q=%5CDepths%20of%20hell%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "Warnings ignored before Brooklyn collapse that killed 8",
+       "fa": "هشدارها پیش از فروریختن ساختمان بروکلین که ۸ کشته برجا گذاشت نادیده گرفته شد",
+       "url": "https://duckduckgo.com/?q=%5CWarnings%20ignored%20before%20Brooklyn%20collapse%20that%20killed%208%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-13/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Catching that old-time spirit",
+       "fa": "در جست‌وجوی حال‌وهوای روزگار قدیم",
+       "url": "https://duckduckgo.com/?q=%5CCatching%20that%20old-time%20spirit%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "More urged to be tested for prostate cancer",
+       "fa": "توصیه به آزمایش سرطان پروستات برای شمار بیشتری از مردان",
+       "url": "https://duckduckgo.com/?q=%5CMore%20urged%20to%20be%20tested%20for%20prostate%20cancer%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Ex-rowing coach was investigated by police in 2009",
+       "fa": "مربی پیشین قایقرانی در سال ۲۰۰۹ از سوی پلیس تحت تحقیق بوده است",
+       "url": "https://duckduckgo.com/?q=%5CEx-rowing%20coach%20was%20investigated%20by%20police%20in%202009%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "With more time, Legislature isn’t getting more done",
+       "fa": "مجلس ایالتی با وجود وقت بیشتر، کار بیشتری انجام نمی‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CWith%20more%20time%2C%20Legislature%20isn%E2%80%99t%20getting%20more%20done%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Some rancor remains as BSO looks ahead",
+       "fa": "ارکستر سمفونیک بوستن به آینده می‌نگرد، اما هنوز کدورت‌هایی باقی است",
+       "url": "https://duckduckgo.com/?q=%5CSome%20rancor%20remains%20as%20BSO%20looks%20ahead%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-13/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "Pete Crow-Armstrong wins NL MVP",
+       "fa": "پیت کرو-آرمسترانگ ارزشمندترین بازیکن لیگ ملی شد",
+       "url": "https://duckduckgo.com/?q=%5CPete%20Crow-Armstrong%20wins%20NL%20MVP%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "New vision unveiled for ex-Michael Reese site",
+       "fa": "رونمایی از طرحی تازه برای زمین بیمارستان سابق مایکل ریس",
+       "url": "https://duckduckgo.com/?q=%5CNew%20vision%20unveiled%20for%20ex-Michael%20Reese%20site%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Mayor’s new HR chief faced earlier complaints",
+       "fa": "رئیس تازهٔ منابع انسانی شهردار پیش‌تر با شکایت‌هایی روبه‌رو بوده است",
+       "url": "https://duckduckgo.com/?q=%5CMayor%E2%80%99s%20new%20HR%20chief%20faced%20earlier%20complaints%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-13/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Council sets hearings on Philly sheriff’s office",
+       "fa": "شورای شهر جلسه‌های استماع دربارهٔ ادارهٔ کلانتری فیلادلفیا تعیین کرد",
+       "url": "https://duckduckgo.com/?q=%5CCouncil%20sets%20hearings%20on%20Philly%20sheriff%E2%80%99s%20office%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Shapiro’s win makes case for 2028, say analysts",
+       "fa": "تحلیلگران: پیروزی شاپیرو زمینه‌ساز نامزدی او در ۲۰۲۸ است",
+       "url": "https://duckduckgo.com/?q=%5CShapiro%E2%80%99s%20win%20makes%20case%20for%202028%2C%20say%20analysts%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Ten thousand flags rise in Gettysburg",
+       "fa": "ده هزار پرچم در گتیسبرگ برافراشته شد",
+       "url": "https://duckduckgo.com/?q=%5CTen%20thousand%20flags%20rise%20in%20Gettysburg%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Krasner to investigate death of Malaysia Allford",
+       "fa": "کرزنر مرگ مالزیا آلفورد را بررسی می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CKrasner%20to%20investigate%20death%20of%20Malaysia%20Allford%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Activists seek to ground ICE from making arrests at airport",
+       "fa": "فعالان خواستار منع ادارهٔ مهاجرت (آیس) از بازداشت در فرودگاه شدند",
+       "url": "https://duckduckgo.com/?q=%5CActivists%20seek%20to%20ground%20ICE%20from%20making%20arrests%20at%20airport%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Lockout looming, baseball gears up for frenzy of player movement",
+       "fa": "در آستانهٔ تعطیلی اجباری، بیسبال برای موج جابه‌جایی بازیکنان آماده می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CLockout%20looming%2C%20baseball%20gears%20up%20for%20frenzy%20of%20player%20movement%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Untangling a restaurant-name dispute",
+       "fa": "گره‌گشایی از اختلاف بر سر نام یک رستوران",
+       "url": "https://duckduckgo.com/?q=%5CUntangling%20a%20restaurant-name%20dispute%20site%3Ainquirer.com",
        "direct": false
       }
      ]
