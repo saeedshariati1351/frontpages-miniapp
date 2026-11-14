@@ -273,5 +273,50 @@
   "w": 900,
   "h": 1200,
   "source": "https://img.piri.net/piri/upload/3/2026/11/14/46354399-af1914e791ed4fed89c480535f32aef3.jpg"
+ },
+ "the-new-york-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-new-york-times/"
+ },
+ "los-angeles-times": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/los-angeles-times/"
+ },
+ "new-york-post": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/new-york-post/"
+ },
+ "the-boston-globe": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-boston-globe/"
+ },
+ "chicago-tribune": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/chicago-tribune/"
+ },
+ "the-philadelphia-inquirer": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/the-philadelphia-inquirer/"
+ },
+ "manchester-evening-news": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/manchester-evening-news/"
+ },
+ "liverpool-echo": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/liverpool-echo/"
+ },
+ "birmingham-mail": {
+  "w": 600,
+  "h": 800,
+  "source": "https://www.frontpages.com/birmingham-mail/"
  }
 }
