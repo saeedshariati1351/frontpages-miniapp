@@ -7,6 +7,54 @@
    "flag": "🇺🇸",
    "papers": [
     {
+     "slug": "the-new-york-times",
+     "name": "The New York Times",
+     "fa": "نیویورک تایمز",
+     "site": "https://www.nytimes.com",
+     "img": "covers/2026-11-14/the-new-york-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-new-york-times/",
+     "headlines": [
+      {
+       "o": "F.A.A. Halts Bulk of Flights Around Nation",
+       "fa": "ادارهٔ هوانوردی فدرال بخش عمدهٔ پروازهای سراسر کشور را متوقف کرد",
+       "url": "https://duckduckgo.com/?q=%5CF.A.A.%20Halts%20Bulk%20of%20Flights%20Around%20Nation%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "President Urged Nvidia's Founder to Fight for Job",
+       "fa": "رئیس‌جمهور از بنیان‌گذار انویدیا خواست برای حفظ سمتش بجنگد",
+       "url": "https://duckduckgo.com/?q=%5CPresident%20Urged%20Nvidia%27s%20Founder%20to%20Fight%20for%20Job%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "By Wielding Belief, Colom Shocked His Skeptics in Mississippi",
+       "fa": "کولوم با تکیه بر باور، منتقدانش را در می‌سی‌سی‌پی غافلگیر کرد",
+       "url": "https://duckduckgo.com/?q=%5CBy%20Wielding%20Belief%2C%20Colom%20Shocked%20His%20Skeptics%20in%20Mississippi%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "The All-Encompassing Grip of K-Pop Contracts",
+       "fa": "چنگال فراگیر قراردادهای کی‌پاپ",
+       "url": "https://duckduckgo.com/?q=%5CThe%20All-Encompassing%20Grip%20of%20K-Pop%20Contracts%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Amid Left's Grumbles, Jeffries Moves to Lock In Speakership",
+       "fa": "جفریز در میان گلایه‌های چپ‌ها برای قطعی کردن ریاست مجلس نمایندگان خیز برداشت",
+       "url": "https://duckduckgo.com/?q=%5CAmid%20Left%27s%20Grumbles%2C%20Jeffries%20Moves%20to%20Lock%20In%20Speakership%20site%3Anytimes.com",
+       "direct": false
+      },
+      {
+       "o": "Bernice Gottlieb, 1931-2026: Led Adoptions of Stigmatized Korean Children",
+       "fa": "برنیس گاتلیب (۱۹۳۱-۲۰۲۶): پیشگام فرزندخواندگی کودکان انگ‌خوردهٔ کره‌ای",
+       "url": "https://duckduckgo.com/?q=%5CBernice%20Gottlieb%2C%201931-2026%3A%20Led%20Adoptions%20of%20Stigmatized%20Korean%20Children%20site%3Anytimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
      "slug": "the-washington-post",
      "name": "The Washington Post",
      "fa": "واشنگتن پست",
@@ -104,6 +152,198 @@
        "o": "Jaguars get aggressive",
        "fa": "جگوارز تهاجمی می‌شود",
        "url": "https://duckduckgo.com/?q=%5CJaguars%20get%20aggressive%20site%3Ausatoday.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "los-angeles-times",
+     "name": "Los Angeles Times",
+     "fa": "لس‌آنجلس تایمز",
+     "site": "https://www.latimes.com",
+     "img": "covers/2026-11-14/los-angeles-times.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/los-angeles-times/",
+     "headlines": [
+      {
+       "o": "Nationwide ground stop roils air travel",
+       "fa": "توقف سراسری پروازها سفرهای هوایی را آشفته کرد",
+       "url": "https://duckduckgo.com/?q=%5CNationwide%20ground%20stop%20roils%20air%20travel%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Digital footprints lead Iran to U.S. targets",
+       "fa": "ردپای دیجیتال ایران را به اهداف آمریکایی رساند",
+       "url": "https://duckduckgo.com/?q=%5CDigital%20footprints%20lead%20Iran%20to%20U.S.%20targets%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Lutnick facing criticism in Nvidia scandal",
+       "fa": "لاتنیک در رسوایی انویدیا زیر بار انتقاد",
+       "url": "https://duckduckgo.com/?q=%5CLutnick%20facing%20criticism%20in%20Nvidia%20scandal%20site%3Alatimes.com",
+       "direct": false
+      },
+      {
+       "o": "Impeachment off the table for now",
+       "fa": "استیضاح فعلاً از دستور کار خارج است",
+       "url": "https://duckduckgo.com/?q=%5CImpeachment%20off%20the%20table%20for%20now%20site%3Alatimes.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "new-york-post",
+     "name": "New York Post",
+     "fa": "نیویورک پست",
+     "site": "https://nypost.com",
+     "img": "covers/2026-11-14/new-york-post.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/new-york-post/",
+     "headlines": [
+      {
+       "o": "We're grounded!",
+       "fa": "زمین‌گیر شدیم!",
+       "url": "https://duckduckgo.com/?q=%5CWe%27re%20grounded%21%20site%3Anypost.com",
+       "direct": false
+      },
+      {
+       "o": "All air traffic shut down over US after 'old hardware' is overloaded",
+       "fa": "پس از اضافه‌بار «سخت‌افزار قدیمی»، همهٔ ترافیک هوایی بر فراز آمریکا متوقف شد",
+       "url": "https://duckduckgo.com/?q=%5CAll%20air%20traffic%20shut%20down%20over%20US%20after%20%27old%20hardware%27%20is%20overloaded%20site%3Anypost.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-boston-globe",
+     "name": "The Boston Globe",
+     "fa": "بوستون گلوب",
+     "site": "https://www.bostonglobe.com",
+     "img": "covers/2026-11-14/the-boston-globe.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-boston-globe/",
+     "headlines": [
+      {
+       "o": "Flight stoppage causes chaos",
+       "fa": "توقف پروازها هرج‌ومرج به پا کرد",
+       "url": "https://duckduckgo.com/?q=%5CFlight%20stoppage%20causes%20chaos%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Officials in Sutton not dropping data center",
+       "fa": "مقامات ساتن از مرکز داده دست نمی‌کشند",
+       "url": "https://duckduckgo.com/?q=%5COfficials%20in%20Sutton%20not%20dropping%20data%20center%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "2028 race underway for Democrats",
+       "fa": "رقابت ۲۰۲۸ برای دموکرات‌ها آغاز شده است",
+       "url": "https://duckduckgo.com/?q=%5C2028%20race%20underway%20for%20Democrats%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "A final note: Pre-planned funeral music is having a moment",
+       "fa": "نت پایانی: موسیقی ازپیش‌برنامه‌ریزی‌شدهٔ مراسم خاکسپاری رواج یافته است",
+       "url": "https://duckduckgo.com/?q=%5CA%20final%20note%3A%20Pre-planned%20funeral%20music%20is%20having%20a%20moment%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "Ukraine fired almost 1,200 drones at Russian targets",
+       "fa": "اوکراین نزدیک به ۱۲۰۰ پهپاد به سوی اهداف روسی شلیک کرد",
+       "url": "https://duckduckgo.com/?q=%5CUkraine%20fired%20almost%201%2C200%20drones%20at%20Russian%20targets%20site%3Abostonglobe.com",
+       "direct": false
+      },
+      {
+       "o": "The Trump administration told states that they can wait until July before removing people from Medicaid",
+       "fa": "دولت ترامپ به ایالت‌ها گفت می‌توانند حذف افراد از مدیکید را تا ژوئیه به تعویق بیندازند",
+       "url": "https://duckduckgo.com/?q=%5CThe%20Trump%20administration%20told%20states%20that%20they%20can%20wait%20until%20July%20before%20removing%20people%20from%20Medicaid%20site%3Abostonglobe.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "chicago-tribune",
+     "name": "Chicago Tribune",
+     "fa": "شیکاگو تریبیون",
+     "site": "https://www.chicagotribune.com",
+     "img": "covers/2026-11-14/chicago-tribune.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/chicago-tribune/",
+     "headlines": [
+      {
+       "o": "FAA ground stop spurs chaos",
+       "fa": "توقف پروازها به دستور ادارهٔ هوانوردی فدرال آشوب به پا کرد",
+       "url": "https://duckduckgo.com/?q=%5CFAA%20ground%20stop%20spurs%20chaos%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Finalists named for city's top cop",
+       "fa": "نامزدهای نهایی ریاست پلیس شهر معرفی شدند",
+       "url": "https://duckduckgo.com/?q=%5CFinalists%20named%20for%20city%27s%20top%20cop%20site%3Achicagotribune.com",
+       "direct": false
+      },
+      {
+       "o": "Visions of sugar plums",
+       "fa": "رؤیای آلوهای شکری",
+       "url": "https://duckduckgo.com/?q=%5CVisions%20of%20sugar%20plums%20site%3Achicagotribune.com",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "the-philadelphia-inquirer",
+     "name": "The Philadelphia Inquirer",
+     "fa": "فیلادلفیا اینکوایرر",
+     "site": "https://www.inquirer.com",
+     "img": "covers/2026-11-14/the-philadelphia-inquirer.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/the-philadelphia-inquirer/",
+     "headlines": [
+      {
+       "o": "Rockys step up",
+       "fa": "راکی‌ها از پله‌ها بالا رفتند",
+       "url": "https://duckduckgo.com/?q=%5CRockys%20step%20up%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Clemens to close, following sluggish real estate",
+       "fa": "کلمنز در پی رکود بازار املاک تعطیل می‌شود",
+       "url": "https://duckduckgo.com/?q=%5CClemens%20to%20close%2C%20following%20sluggish%20real%20estate%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Shapiro: presidential run a 'personal decision'",
+       "fa": "شاپیرو: نامزدی ریاست‌جمهوری «تصمیمی شخصی» است",
+       "url": "https://duckduckgo.com/?q=%5CShapiro%3A%20presidential%20run%20a%20%27personal%20decision%27%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Sixer VJ Edgecombe 'does it all,' teammate Tyrese Maxey says",
+       "fa": "تایریس مکسی، هم‌تیمی وی‌جی اجکام: او «همه‌کار می‌کند»",
+       "url": "https://duckduckgo.com/?q=%5CSixer%20VJ%20Edgecombe%20%27does%20it%20all%2C%27%20teammate%20Tyrese%20Maxey%20says%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Former museum officer: funds misused",
+       "fa": "مقام پیشین موزه: از بودجه سوءاستفاده شد",
+       "url": "https://duckduckgo.com/?q=%5CFormer%20museum%20officer%3A%20funds%20misused%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Fall Out Boy sets A.C. gig",
+       "fa": "فال اوت بوی برای کنسرت در آتلانتیک‌سیتی برنامه‌ریزی کرد",
+       "url": "https://duckduckgo.com/?q=%5CFall%20Out%20Boy%20sets%20A.C.%20gig%20site%3Ainquirer.com",
+       "direct": false
+      },
+      {
+       "o": "Philly's GoPuff is using AI chatbot to speed orders",
+       "fa": "گوپاف فیلادلفیا برای تسریع سفارش‌ها از چت‌بات هوش مصنوعی استفاده می‌کند",
+       "url": "https://duckduckgo.com/?q=%5CPhilly%27s%20GoPuff%20is%20using%20AI%20chatbot%20to%20speed%20orders%20site%3Ainquirer.com",
        "direct": false
       }
      ]
@@ -464,6 +704,126 @@
        "o": "Lake: We must prove we are part of elite",
        "fa": "لیک: باید ثابت کنیم جزو نخبگانیم",
        "url": "https://duckduckgo.com/?q=%5CLake%3A%20We%20must%20prove%20we%20are%20part%20of%20elite%20site%3Awalesonline.co.uk",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "manchester-evening-news",
+     "name": "Manchester Evening News",
+     "fa": "منچستر ایونینگ نیوز",
+     "site": "https://www.manchestereveningnews.co.uk",
+     "img": "covers/2026-11-14/manchester-evening-news.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/manchester-evening-news/",
+     "headlines": [
+      {
+       "o": "200,000 children set for free bus travel",
+       "fa": "۲۰۰ هزار کودک اتوبوس رایگان سوار می‌شوند",
+       "url": "https://duckduckgo.com/?q=%5C200%2C000%20children%20set%20for%20free%20bus%20travel%20site%3Amanchestereveningnews.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Mayor hails 'first of its kind' scheme to give 11 to 16-year-olds unlimited ticket to ride",
+       "fa": "شهردار از طرح «نخستین در نوع خود» برای بلیت نامحدود نوجوانان ۱۱ تا ۱۶ ساله تمجید کرد",
+       "url": "https://duckduckgo.com/?q=%5CMayor%20hails%20%27first%20of%20its%20kind%27%20scheme%20to%20give%2011%20to%2016-year-olds%20unlimited%20ticket%20to%20ride%20site%3Amanchestereveningnews.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Tearful Poch says yes to Reds",
+       "fa": "پوچتینو اشک‌ریزان به سرخ‌ها جواب مثبت داد",
+       "url": "https://duckduckgo.com/?q=%5CTearful%20Poch%20says%20yes%20to%20Reds%20site%3Amanchestereveningnews.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Jungle fever!",
+       "fa": "تب جنگل!",
+       "url": "https://duckduckgo.com/?q=%5CJungle%20fever%21%20site%3Amanchestereveningnews.co.uk",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "liverpool-echo",
+     "name": "Liverpool Echo",
+     "fa": "لیورپول اکو",
+     "site": "https://www.liverpoolecho.co.uk",
+     "img": "covers/2026-11-14/liverpool-echo.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/liverpool-echo/",
+     "headlines": [
+      {
+       "o": "Is this the face of the woman found in bin bag in city park?",
+       "fa": "آیا این چهرهٔ زنی است که در کیسهٔ زباله در پارک شهر پیدا شد؟",
+       "url": "https://duckduckgo.com/?q=%5CIs%20this%20the%20face%20of%20the%20woman%20found%20in%20bin%20bag%20in%20city%20park%3F%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Suspicious cash transactions much more widespread across Liverpool",
+       "fa": "تراکنش‌های نقدی مشکوک در سراسر لیورپول بسیار گسترده‌تر است",
+       "url": "https://duckduckgo.com/?q=%5CSuspicious%20cash%20transactions%20much%20more%20widespread%20across%20Liverpool%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Welcome to new £2.5m Scandi-style spa... right in the middle of Anfield",
+       "fa": "به اسپای ۲٫۵ میلیون پوندی به سبک اسکاندیناویایی در قلب انفیلد خوش آمدید",
+       "url": "https://duckduckgo.com/?q=%5CWelcome%20to%20new%20%C2%A32.5m%20Scandi-style%20spa...%20right%20in%20the%20middle%20of%20Anfield%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Labour of love: New chapter for rundown building",
+       "fa": "کاری از سر عشق: فصلی تازه برای ساختمانی فرسوده",
+       "url": "https://duckduckgo.com/?q=%5CLabour%20of%20love%3A%20New%20chapter%20for%20rundown%20building%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Wirtz: Klopp gives me confidence",
+       "fa": "ویرتس: کلوپ به من اعتمادبه‌نفس می‌دهد",
+       "url": "https://duckduckgo.com/?q=%5CWirtz%3A%20Klopp%20gives%20me%20confidence%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Dunc: Barry needs some competition",
+       "fa": "دانکن: بری به کمی رقابت نیاز دارد",
+       "url": "https://duckduckgo.com/?q=%5CDunc%3A%20Barry%20needs%20some%20competition%20site%3Aliverpoolecho.co.uk",
+       "direct": false
+      }
+     ]
+    },
+    {
+     "slug": "birmingham-mail",
+     "name": "Birmingham Mail",
+     "fa": "بیرمنگام میل",
+     "site": "https://www.birminghammail.co.uk",
+     "img": "covers/2026-11-14/birmingham-mail.jpg",
+     "w": 600,
+     "h": 800,
+     "source": "https://www.frontpages.com/birmingham-mail/",
+     "headlines": [
+      {
+       "o": "Drunk driver jailed after killing boy",
+       "fa": "رانندهٔ مست پس از کشتن یک پسربچه زندانی شد",
+       "url": "https://duckduckgo.com/?q=%5CDrunk%20driver%20jailed%20after%20killing%20boy%20site%3Abirminghammail.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Man crashed into car with woman and grandson inside",
+       "fa": "مرد با خودرویی که زنی و نوه‌اش در آن بودند تصادف کرد",
+       "url": "https://duckduckgo.com/?q=%5CMan%20crashed%20into%20car%20with%20woman%20and%20grandson%20inside%20site%3Abirminghammail.co.uk",
+       "direct": false
+      },
+      {
+       "o": "A new belief has taken Blues to the top...",
+       "fa": "باوری تازه بلوز را به صدر رسانده است...",
+       "url": "https://duckduckgo.com/?q=%5CA%20new%20belief%20has%20taken%20Blues%20to%20the%20top...%20site%3Abirminghammail.co.uk",
+       "direct": false
+      },
+      {
+       "o": "Jungle fever!",
+       "fa": "تب جنگل!",
+       "url": "https://duckduckgo.com/?q=%5CJungle%20fever%21%20site%3Abirminghammail.co.uk",
        "direct": false
       }
      ]
