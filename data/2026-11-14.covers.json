@@ -208,5 +208,70 @@
   "w": 600,
   "h": 800,
   "source": "https://www.frontpages.com/dainik-jagran/"
+ },
+ "the-guardian": {
+  "w": 400,
+  "h": 503,
+  "source": "https://cdn.thepaperboy.com/frontpages/uk/20261114/the_guardian.jpg"
+ },
+ "asharq-al-awsat": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://aawsat.com/files/pdf/issue17518/index.html"
+ },
+ "sabah": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/sabah/big_141126_0800.jpg"
+ },
+ "milliyet": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/milliyet/big_141126_0800.jpg"
+ },
+ "yenicag": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/yenicag/big_141126_0800.jpg"
+ },
+ "aydinlik": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/aydinlik/big_141126_0800.jpg"
+ },
+ "yeni-safak": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/yeni-safak/big_141126_0800.jpg"
+ },
+ "turkiye": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/turkiye/big_141126_0800.jpg"
+ },
+ "milli-gazete": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/milli-gazete/big_141126_0800.jpg"
+ },
+ "dunya": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/dunya/big_141126_0800.jpg"
+ },
+ "aksam": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://i2.haber7.net/haber7/gazete/aksam/big_141126_0800.jpg"
+ },
+ "cumhuriyet": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://img.piri.net/piri/upload/3/2026/11/14/22b51bc7-0735ce3b497943d5aebd8ad31356badd.jpg"
+ },
+ "takvim": {
+  "w": 900,
+  "h": 1200,
+  "source": "https://img.piri.net/piri/upload/3/2026/11/14/46354399-af1914e791ed4fed89c480535f32aef3.jpg"
  }
 }
